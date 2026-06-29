@@ -1,0 +1,4470 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "用户指南"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                668,
+                286,
+                907,
+                332
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "业"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                858,
+                902,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "HUAWEI "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                916,
+                902,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目 录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                43,
+                159,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                129,
+                91,
+                270,
+                115
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "外观介绍 1"
+                    }
+                ]
+            },
+            "bbox": [
+                285,
+                118,
+                939,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "键盘 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                141,
+                939,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "触摸板 4 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                162,
+                939,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "给计算机充电 6"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                184,
+                939,
+                200
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启用计算机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                212,
+                268,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开启和关闭计算机 8"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                239,
+                939,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "获取精彩功能 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                261,
+                939,
+                278
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "F10 一键恢复出厂"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                288,
+                352,
+                312
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                323,
+                322,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "扩展坞（可选配件） 10 "
+                    }
+                ]
+            },
+            "bbox": [
+                285,
+                350,
+                939,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "连接到电视、显示器或投影仪 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                373,
+                937,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "连接 USB 鼠标、打印机或其他设备 13"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                394,
+                939,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "蓝牙鼠标（可选配件） 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                414,
+                939,
+                432
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                443,
+                240,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "个人信息和数据安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                476,
+                374,
+                501
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                127,
+                512,
+                240,
+                535
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "i "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                964,
+                956,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                275,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "外观介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                111,
+                211,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "键盘布局可能会因国家、地区存在差异，请以实物为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                146,
+                606,
+                166
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5b0914650b3df3a4696fb7cb273dd6acb315cbe152124dcc0704c543de0ac3f5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                208,
+                197,
+                811,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/25c78391b4184f1120ba83030750daa841c92e9bdddd2cef98de946535b17348.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>1</td><td>隐藏式环境光传感器感知周围光线情况,自动调节屏幕显示亮度。i请不要在环境光感应器位置上覆盖物体,以免影响正常使用。如果要使用屏幕保护膜,建议您购买为感应器留了小开口的专用屏幕保护膜。</td></tr><tr><td>2</td><td>摄像头可以进行拍照或视频交流。</td></tr><tr><td>3</td><td>摄像头指示灯了解摄像头使用状态。摄像头开启时,指示灯白色常亮。</td></tr><tr><td>4</td><td>显示屏画面显示。</td></tr><tr><td>5</td><td>指纹电源键录入指纹后,您只需使用已录入指纹的手指按一下电源键,即可同时实现开机、解锁,无需输入密码,快捷安全。</td></tr><tr><td>6</td><td>触摸板类似鼠标的功能,更方便的操控计算机。部分华为手机的NFC感应区域与计算机的华为分享感应区域轻触,实现华为分享功能。华为分享感应区域大致位于触摸板中间,外部不可见。<img src=\"images/123ecf2015b50dfbc2b57acbbbb1498318b93d05909007bd95c91fc9468c25c9.jpg\"/></td></tr><tr><td>7</td><td>USB-C接口连接电源适配器给计算机充电。通过扩展坞,连接显示器、投影仪等视频显示设备。连接手机、U盘等外接设备传输数据。</td></tr><tr><td>8</td><td>耳机接口连接耳机。</td></tr><tr><td>9</td><td>充电指示灯充电时,显示电池充电状态:白色闪烁表示正在充电。白色常亮表示电池充满电,停止充电。</td></tr><tr><td>10</td><td>USB-A (USB 3.2 Gen 1) 接口连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>11</td><td>扬声器声音从扬声器中发出。</td></tr><tr><td>12</td><td>麦克风使用麦克风进行视频会议、语音通话或录音。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                39,
+                939,
+                957
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                860,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                965,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                39,
+                939,
+                200
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "键盘 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                219,
+                144,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 不同机型，键盘按键不同，请以实际为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                254,
+                484,
+                274
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "快捷键功能介绍"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                286,
+                218,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机键盘的 F1、F2 等键默认为快捷键（热键）模式，可用于轻松执行常见任务。"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                312,
+                813,
+                330
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/459e0cea1e28e2bc6a86a6f7e4a3279460bf026b956da85594a0f66451d0c7c8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td><img src=\"images/9ade6df12fd6b6b2e11a98520e88f25aca70feb6112ae633a37d14db56fa9ed4.jpg\"/></td><td>降低屏幕亮度</td></tr><tr><td><img src=\"images/82a8493b9bb223158b9f670b3d1c2b50674472836510c9de898d4c9e4c12ac20.jpg\"/></td><td>增强屏幕亮度</td></tr><tr><td><img src=\"images/703ada98c8a9f5846a31f3ba1a07e50ea2cdfce5b17e5cb8aaa1850ba40622a0.jpg\"/></td><td>开启或关闭键盘背光,调节键盘背光亮度i 如果此按键上无图标,则不支持背光。</td></tr><tr><td><img src=\"images/38e4e2b9821b42e3b207132611d7a0555a53436f30b601744bf68b45e514037f.jpg\"/></td><td>开启或关闭静音</td></tr><tr><td><img src=\"images/12fd381ff3f9d98ec289710137756d6678210aad9d5c85275f8ff7a5d574bd2d.jpg\"/></td><td>减小音量</td></tr><tr><td><img src=\"images/01c97df38ad371523d84990fffac409d2d66f11262fad6d89fa6f2976045febb.jpg\"/></td><td>增大音量</td></tr><tr><td><img src=\"images/470491c2c7d96dbb67ec4909fd051e24f92b84327c9aca4f5706300412bb4a54.jpg\"/></td><td>开启或关闭麦克风</td></tr><tr><td><img src=\"images/af628330d6104cfb1132a873cbe4a3dc43349c1d3c454bdefea895509f5cd96f.jpg\"/></td><td>切换屏幕投影模式</td></tr><tr><td><img src=\"images/c9799aa565d464fb625fa2269f21ff5858d7825bbecc884676e5c411c67678c9.jpg\"/></td><td>开启或关闭无线网络</td></tr><tr><td><img src=\"images/2a268b8438f7b5623e98339032edf39a45757749ba4ce2c11d5d11289d910166.jpg\"/></td><td>开启华为电脑管家</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                332,
+                939,
+                907
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "快捷键与功能键切换"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                923,
+                258,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在功能键模式下，运行不同的软件时，F1、F2 等键被定义不同的功能。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                948,
+                705,
+                967
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                860,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若要将 F1、F2 等键作为功能键使用，您可以："
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                43,
+                489,
+                60
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 按下 Fn 键，当 Fn 键指示灯亮起，表示已将 F1、F2 等键锁定为功能键模式。只需再次按 Fn键，当 Fn 键指示灯熄灭，即可返回快捷键（热键）模式。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 前往华为电脑管家的设置中心，在系统设置中，将键盘设置为功能键优先，设置后，F1、F2 等键将默认作为功能键使用。若要切换回快捷键模式，将键盘设置为热键优先即可。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                66,
+                929,
+                154
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "触摸板"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                181,
+                178,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "键盘上的触摸板拥有类似鼠标的功能，让您更方便的操控计算机。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                219,
+                650,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "并非所有手势都可用于所有应用，请以实际为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                243,
+                546,
+                263
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/540ece7286cb96dd2361536efd969206efd9bbe971d37d4f86f79497fa1e0b53.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "常见触摸板手势"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td><img src=\"images/d71774fc15a5435cc06a26281fdcb6d314a656f2bce9e9bcca78c15a79c2eb4e.jpg\"/></td><td>单指点击:相当于单击鼠标左键</td></tr><tr><td><img src=\"images/784dac6b60d9ffd6f8f84baf02707cabfff069104d25b75bc0134c8e8f4065f3.jpg\"/></td><td>单指双击:相当于双击鼠标左键</td></tr><tr><td><img src=\"images/633301fe9da15a31d11a6ba4c21e12189db2a1cd91de75b7585bc7549356e302.jpg\"/></td><td>单指移动:移动桌面上的光标</td></tr><tr><td><img src=\"images/6be55612cff402511e9b6224f3ea457628614579c0b2b3101c764d34ea12c9e2.jpg\"/></td><td>左键单击:相当于单击鼠标左键</td></tr><tr><td><img src=\"images/30ef4a8b1cb87d08722d7b8bdf4e8cb0b6d3209807601ea4845d5213643c3e07.jpg\"/></td><td>右键单击:相当于单击鼠标右键</td></tr><tr><td><img src=\"images/2fc280253c7124fae4ae3cc680f71eedcce49d6627b7728c60e47df146c6f55d.jpg\"/></td><td>双指点击:相当于单击鼠标右键</td></tr><tr><td><img src=\"images/b32485d6cfae50b40c08da2e3c6ad8a3ecab51d13a90e829433de53db2b197e9.jpg\"/></td><td>双指上下滑动:滚动浏览屏幕或文档</td></tr><tr><td><img src=\"images/eb537ac8baf76fb1438c57e888452af7bdf23732f0e8c8a3775b278f4cfb0694.jpg\"/></td><td>双指张开或闭合:浏览图片、网页等时,可以放大或缩小图片、网页等</td></tr><tr><td><img src=\"images/b632334ee2e8a2b6d0d2e088a98b66b95ea98a32a969659a5ff9624b02fbc338.jpg\"/></td><td>三指点击:使用搜索</td></tr><tr><td><img src=\"images/209cbcadcaa54929fcc3b4e1a3d10f7074c9ee6ac40d53765cec9e654b37e2d3.jpg\"/></td><td>三指向上滑动:多任务视图</td></tr><tr><td><img src=\"images/d50be8deca5b4fed08575eaff98aea8101fc184c7a173435f685467513399b33.jpg\"/></td><td>三指向下滑动:显示桌面</td></tr><tr><td><img src=\"images/b6682fefed818b8752b34533bb499ca6bcce903b3f811b0a12da68baf1996c2d.jpg\"/></td><td>三指左右滑动:切换应用</td></tr><tr><td><img src=\"images/0991b2ffaa4eb73bee5906efdd37e42712de5616e41bbc4634a6e84626557d0e.jpg\"/></td><td>四指点击:快速打开通知中心和日历</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                294,
+                939,
+                878
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                941,
+                965,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                39,
+                939,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                860,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                965,
+                956,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "更改触摸板设置 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                43,
+                218,
+                60
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "您也可以根据自己的使用习惯更改触摸板设置，让指尖操作更得心应手。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                68,
+                712,
+                87
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 点击 > 打开设置界面。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 在设置界面中，点击 ? ,再点击 ，您可以："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                99,
+                509,
+                152
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 开启或关闭触摸板。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 连接鼠标时开启或关闭触摸板。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 更改触摸滚动方向。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设置手指动作在触摸板上的功能等。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                160,
+                403,
+                254
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "给计算机充电"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                284,
+                278,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当电池电量过低时，计算机会弹出低电提示，请及时为计算机充电，以免影响到您的使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                322,
+                873,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "使用电源适配器为计算机充电"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                349,
+                339,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机内置（不可拆卸）可充电电池。连接电源适配器和充电线缆可对计算机充电。计算机处于关机或睡眠状态时，充电速度更快。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                375,
+                939,
+                414
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/364b735e6ebb70fbfc239782a32f697fa7b5d1d94cf1aa392641c6e596caccfa.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                257,
+                448,
+                759,
+                670
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "充电注意事项"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                684,
+                200,
+                702
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请在适宜的温度范围内和通风良好的阴凉区域为计算机充电，在高温环境下充电可能会损坏计算机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 计算机充电时间会随温度条件和电池使用状况而变化。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 计算机长时间工作和充电时，可能会表面发热，这属于正常现象。感觉发烫时，请关闭部分功能并停止充电。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 电池属于易损耗品，如发现待机时间大幅度减少，请勿自行更换，请前往附近的华为客户服务中心更换原装电池。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                708,
+                939,
+                866
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "了解电池状态 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                875,
+                198,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "您可以通过桌面右下角的电池图标判断当前的电池状态："
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                901,
+                569,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "：表示计算机已连接电源，单击 ，可查看电量充满时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                931,
+                643,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "：表示计算机未连接电源，单击 ，可查看电池的剩余电量和剩余使用时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                48,
+                805,
+                68
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 电池图标显示的电量充满时间和电池剩余使用时间是操作系统估算的时间，非实际时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                72,
+                889,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解计算机"
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启用计算机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                275,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开启和关闭计算机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                112,
+                344,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "首次开机时，必须连接电源适配器，计算机自动开机。等待屏幕亮起后，进入开机设置界面。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                149,
+                892,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机关机或睡眠时，短按电源键至屏幕或键盘指示灯亮起，即可开启或唤醒计算机。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                175,
+                831,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机正常使用时，点击 > ，使计算机进入睡眠、关机或重启的状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                204,
+                769,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "强制关机：长按电源键 10 秒以上，可强制关机。强制关机会导致未保存的数据丢失，请谨慎使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                229,
+                932,
+                271
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "获取精彩功能"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                298,
+                278,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请点击桌面底部任务栏上的 华为电脑管家 > 玩机技巧，获取华为分享等更多精彩功能。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                342,
+                877,
+                361
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "F10 一键恢复出厂"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                411,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算机内置的 F10 系统恢复出厂功能，能短时间内帮您将计算机系统恢复到初始状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                840,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i 系统恢复出厂会删除 C 盘中数据（也包含桌面文件、下载、文档等个人数据），请您备份 C盘内的个人数据。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                131,
+                932,
+                174
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 将计算机连接电源，开机过程中长按或点按 F10 键。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 进入界面后，根据界面提示进行恢复出厂。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                183,
+                566,
+                230
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                366,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "扩展坞（可选配件）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                111,
+                366,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通过扩展坞接口或插槽，计算机可以连接兼容多种设备和配件，如投影仪、电视、U 盘等，满足您的扩展需求。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                149,
+                939,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "扩展坞为可选配件，您可单独购买。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                195,
+                425,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "了解 HUAWEI MateDock 2 扩展坞"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                227,
+                410,
+                244
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ef2cd2165e5e763f6c11e9682a8c716a549184292fffb0a04732e4abe8ad5816.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                321,
+                278,
+                690,
+                743
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/55c6a485596e30131875509839fa67184d8515d6fd409533615d893ad4def3b4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>USB-C 插头</td><td>连接计算机 USB-C 接口。</td></tr><tr><td>USB-A 接口</td><td>连接 USB 设备,如 USB 鼠标/键盘、USB 存储设备、USB 网卡等。</td></tr><tr><td>HDMI 接口</td><td>连接 HDMI 输入设备,如电视机。</td></tr><tr><td>VGA 接口</td><td>连接 VGA 输入设备,如显示器。</td></tr><tr><td>USB-C 接口</td><td>连接 USB-C 接口设备。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                769,
+                939,
+                923
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6a31174f879fbfa2f33f2b557a557e15ec6e7cc759cf04372dffd343378f55cb.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                374,
+                93,
+                613,
+                575
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/48cf06b32025494ed40b6fd07610adc81eebf4454bea910a1119f6ca73d9b05d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>USB-C 插头</td><td>连接计算机 USB-C 接口。</td></tr><tr><td>microSD 卡槽</td><td>支持 4K Class10 高速 TF 卡数据传输。</td></tr><tr><td>USB-A 接口 x 2</td><td>连接 USB 设备,如 USB 鼠标/键盘、USB 存储设备、USB 网卡等。</td></tr><tr><td>USB-C 充电接口</td><td>连接 USB-C 接口设备充电,不支持数据传输。</td></tr><tr><td>VGA 接口</td><td>连接 VGA 输入设备,如显示器。</td></tr><tr><td>HDMI 接口</td><td>连接 HDMI 输入设备,如电视机。</td></tr><tr><td>LAN 接口</td><td>连接网线。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                590,
+                939,
+                806
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "连接到电视、显示器或投影仪 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                832,
+                515,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "观看电影或会议演示时，将计算机连接到电视、显示器或投影仪等大屏显示设备，观看效果更佳。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                870,
+                934,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "了解 HUAWEI MateDock 3"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                43,
+                342,
+                60
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                932,
+                964,
+                952,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 除了计算机、扩展坞和连接设备之外，您还需要准备 HDMI 或 VGA 连接线缆。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                42,
+                838,
+                60
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在连接之前您需要检查所连接设备的端口。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 通过扩展坞将计算机连接到电视等设备的操作步骤类似，下文以 HUAWEI MateDock 2扩展坞为例。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• HDMI 接口和 VGA 接口不能同时使用。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                71,
+                924,
+                166
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8db601ef4903a1fe6503b5b15e45acf32624f3ab3d36678f12d024194ea09e71.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                334,
+                202,
+                670,
+                734
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 参照图示，通过扩展坞连接计算机和电视、显示器或投影仪。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 接通电视、显示器或投影仪的电源并打开。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                747,
+                640,
+                794
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "□3 热键模式下，按 F8 键，或者点击 + P 打开投影界面，选择投影方式。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                803,
+                800,
+                843
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• ，只在计算机显示桌面，外接设备屏幕不显示内容。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• ，在计算机和外接设备上都显示桌面。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• ，将计算机的桌面扩展到外接设备屏幕，可以在屏幕之间移动项目。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                854,
+                737,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• ，只在外接设备上显示桌面，计算机屏幕不显示内容。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                45,
+                616,
+                66
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "连接 USB 鼠标、打印机或其他设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                96,
+                610,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通过扩展坞 USB-A 接口，可连接 USB 鼠标、打印机、扫描仪、智能手机或硬盘等 USB 设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                134,
+                934,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "连接 USB 设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                160,
+                215,
+                177
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 将设备的 USB 线缆插入扩展坞 USB-A 接口。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 如果设备需要连接电源线，请接通设备电源并启动 USB 设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 首次安装 USB 设备时，计算机会自动安装设备所需的软件。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                189,
+                657,
+                262
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "查找计算机安装的 USB 设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                269,
+                336,
+                288
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 点击桌面底部任务栏的 ，打开文件管理器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 点击 此电脑，可查看安装的 USB 设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                302,
+                514,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "蓝牙鼠标（可选配件）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                380,
+                400,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "华为蓝牙鼠标可通过蓝牙连接计算机。首次使用蓝牙鼠标，需要完成蓝牙鼠标与计算机的配对。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                418,
+                910,
+                435
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "了解蓝牙鼠标"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                451,
+                198,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 蓝牙鼠标为可选配件，您可单独购买。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                474,
+                443,
+                493
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a84b5dd828a66b5f947ba12131ebbb005ccc31893fa08934f3f27592c516a4c2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                248,
+                524,
+                470,
+                669
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/10304fa27c5905b434b7b7dec36612f5dc122d3e103c8293d5fa19c20bea4ef2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                546,
+                525,
+                761,
+                669
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/47e20fdbcf8c0b4b78b16fcc24ed41d9ecb4437be78605edda586489e7b9fadf.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>1</td><td>左键</td><td>2</td><td>滚轮+中键</td></tr><tr><td>3</td><td>右键</td><td>4</td><td>LED指示灯i指示灯为红色闪烁时,表示电池电量低,请注意更换电池。</td></tr><tr><td>5</td><td>传感器</td><td>6</td><td>电源/蓝牙配对开关</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                676,
+                937,
+                797
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安装电池"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                803,
+                157,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如下图所示，沿鼠标尾部标志打开上壳，按电池仓正负极(＋－)的标志安装一节 AA 电池，合上上壳，即可安装完成。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                828,
+                937,
+                869
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e9e6775bed530380f09c2b42de9d8ab48d743c1fc800944faf3771a2f0c1267a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                250,
+                896,
+                761,
+                966
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "蓝牙鼠标与计算机配对"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                49,
+                278,
+                67
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e107c6fe97fa3a40de3aea63fadf533e9160526fc2084b2cab46031f1e8a2b16.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                250,
+                95,
+                763,
+                212
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 按照图示将蓝牙鼠标底部开关拨至 处并保持 3 秒，指示灯闪烁后松开，鼠标进入配对状态。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 在计算机中，点击 > > ，进入蓝牙和其他设备界面，点击 添加蓝牙设备，在发现的蓝牙设备列表中选择 Huawei Mouse，稍等即可完成配对。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                224,
+                934,
+                297
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "配件及扩展连线"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在使用和操作设备前，请阅读并遵守下面的注意事项，以确保设备性能最佳，并避免出现危险或非法情况。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                939,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                165,
+                157,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有明文规定禁止使用无线设备的场所，请勿使用本设备，否则会干扰其它电子设备或导致其它危险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                191,
+                924,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "对医疗设备的影响"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                247,
+                238,
+                265
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备产生的无线电波可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少 15 厘米的距离。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                271,
+                939,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "听力保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                378,
+                157,
+                395
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "为了防止可能的听力损伤，请勿长时间使用高音量。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                403,
+                600,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 当您使用耳机收听音乐或通话时，建议使用音乐或通话所需的最小音量，以免损伤听力。长时间接触高音量可能会导致永久性听力损伤。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                442,
+                937,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 驾车时接触高音量可能会分散注意力，从而导致事故。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                488,
+                566,
+                507
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "易燃易爆区域"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                524,
+                198,
+                541
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在加油站（维修站）或靠近易燃物品、化学制剂等任何易燃易爆区域，请勿使用本设备，并遵守所有图形或文字的指示。在燃油或化学制剂存放和运输区或易爆场所内或周围，设备可能引起爆炸或起火。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将设备及其配件与易燃液体、气体或易爆物品放在同一箱子中存放或运输。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                546,
+                939,
+                634
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "交通安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                652,
+                157,
+                669
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 遵守所在地区或国家的相关规定，驾车时请勿使用本设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 谨记安全驾驶是您的首要职责，请勿从事会分散注意力的活动。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 汽车的电子设备可能因设备的无线电干扰而出现故障。请联系制造商咨询详细信息。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将设备放在汽车安全气囊上方或安全气囊展开后能够触及的区域内。否则当安全气囊膨胀时，设备就会受到很强的外力推动而对车内人员造成严重伤害。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 无线设备可能干扰飞机的飞行系统，请遵守航空公司的相关规定，在禁止使用无线设备的地方，请勿使用该设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                675,
+                926,
+                839
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "操作环境"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                854,
+                157,
+                871
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                877,
+                828,
+                922
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请在温度 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "0 ^ { \\circ } C \\sim 3 5 ^ { \\circ } C"
+                            },
+                            {
+                                "type": "text",
+                                "content": "范围内使用本设备，并在温度 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "- 1 0 ^ { \\circ } C \\sim + 4 5 ^ { \\circ } C"
+                            },
+                            {
+                                "type": "text",
+                                "content": "范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将设备放置在阳光直射的地方，如汽车仪表盘或窗台处。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                40,
+                939,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "儿童健康"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                312,
+                157,
+                329
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 本设备并非玩具，儿童应在成人监护下使用设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                335,
+                939,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "配件要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                417,
+                157,
+                434
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如需获取认可的配件，请与华为客户服务中心联系。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                439,
+                939,
+                529
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "充电器安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                544,
+                176,
+                562
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备充电时，电源插座应安装在设备附近并应易于触及。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 当充电完毕或者不充电时，请断开充电器与设备的连接并从电源插座上拔掉充电器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿摔落或碰撞充电器。充电器外壳受损时请联系华为客户服务中心进行更换。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若充电器插头、外壳或电源线已损坏，请勿继续使用，以免发生触电或火灾。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿用湿手触碰电源线，或用拉电源线缆的方式拔出充电器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿用湿手触摸设备或充电器，以免发生设备短路、故障或触电。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请务必使用 CCC 认证并满足标准《GB 4943.1-2011 信息技术设备 安全 第 1 部分：通用要求》中“2.5 受限制电源”要求的充电器或电源给产品充电或供电。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若设备需要连接 USB 端口，请确认 USB 端口具备 USB-IF 标识且其性能符合 USB-IF 的相关规范。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                568,
+                934,
+                808
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电池安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                824,
+                157,
+                841
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将金属物导体与电池两极对接，或接触电池的端点，以免导致电池短路，以及因电池过热而引起的烧伤等身体伤害。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将电池暴露在高温处或发热设备的周围，如日照、取暖器、微波炉、烤箱或热水器等。电池过热可能引起爆炸。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                847,
+                939,
+                934
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿拆解或改装电池、插入异物、或浸入水或其它液体中，以免引起电池漏液、过热、起火或爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果电池漏液，请勿使皮肤或眼睛接触到漏出的液体。若接触到皮肤或眼睛上，请立即用清水冲洗，并到医院进行医疗处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果电池在使用、充电或保存过程中有变色、变形、异常发热等异常现象，请停止使用并更换新电池。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿把电池扔到火里，否则会导致电池起火和爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请按当地规定处理电池，不可将电池作为生活垃圾处理。若电池处置不当可能会导致电池爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿让儿童或宠物吞咬电池 ，以免对其造成伤害或导致电池爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿跌落、挤压或穿刺电池。避免让电池遭受外部大的压力，从而导致电池内部短路和过热。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿使用已经损坏的电池。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 当设备的待机时间明显比正常时间短时，请更换电池。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 本设备采用不可拆卸的内置电池，切勿自行更换电池，以免导致设备无法正常运行或电池损坏。为了您的人身安全和保障产品正常运作，强烈建议您到华为客户服务中心更换本设备电池。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                40,
+                939,
+                373
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "维护和保养"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                388,
+                178,
+                406
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿擅自拆卸或改装设备及配件，否则该设备及配件将不在本公司保修范围之内，设备发生故障时请联系华为客户服务中心。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                412,
+                939,
+                673
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "环境保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                688,
+                157,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请勿将本设备及其附件作为普通的生活垃圾处理。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                712,
+                526,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请遵守本设备及其附件处理的本地法令，并支持回收行动。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                737,
+                605,
+                755
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0019ef66bd86f6a9920df1fac025f4f6232d2d138a53b0e4c1263c5473815490.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "认证信息"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>设备型号</td><td>CMIIT ID(产品铭牌上也可查看核准代码)</td></tr><tr><td>WRTDZ-WFE9/WRTDZ-WFH9</td><td>2020AP11185</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                794,
+                939,
+                848
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "支持微功率短距离无线电发射能力说明（NFC）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                872,
+                499,
+                890
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品具备《中华人民共和国无线电管理条例》规定的微功率短距离无线电发射能力，根据“工业和信息化部公告2019年第52号”的要求，现注明如下："
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                898,
+                939,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（一）产品符合“微功率短距离无线电发射设备目录和技术要求”第一条通用微功率设备第 3 款 C类设备的规定，内置环形 NFC 天线，通过负载调制方式实现一碰连通信，不具备主动发射场景，用户可根据产品说明书来使用此功能；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（二）不得擅自改变使用场景或使用条件、扩大发射频率范围、加大发射功率（包括额外加装射频功率放大器），不得擅自更改发射天线；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（三）不得对其他合法的无线电台（站）产生有害干扰，也不得提出免受有害干扰保护；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（四）应当承受辐射射频能量的工业、科学及医疗（ISM）应用设备的干扰或其他合法的无线电台（站）干扰；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（五）如对其他合法的无线电台（站）产生有害干扰时，应立即停止使用，并采取措施消除干扰后方可继续使用；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（六）在航空器内和依据法律法规、国家有关规定、标准划设的射电天文台、气象雷达站、卫星地球站（含测控、测距、接收、导航站）等军民用无线电台（站）、机场等的电磁环境保护区域内使用微功率设备，应当遵守电磁环境保护及相关行业主管部门的规定；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（七）禁止在以机场跑道中心点为圆心、半径5000米的区域内使用各类模型遥控器；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（八）本产品 NFC 工作电压为 3.3V，工作环境温度为 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "0 ^ { \\circ } C \\sim 3 5 ^ { \\circ } C"
+                            },
+                            {
+                                "type": "text",
+                                "content": "。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                42,
+                939,
+                401
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "个人信息和数据安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                450,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在使用设备的一些功能和第三方应用时，可能会因为操作不正确或其他原因导致您的个人信息或数据泄露或丢失，建议按以下方式加强保护您的个人信息。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                939,
+                149
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请将设备放置于安全区域，防止未经授权人员使用您的设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设置设备屏幕锁定，并牢记您设定的密码或解锁图案。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 建议不要阅读来自陌生人的信息或邮件，以免设备遭受病毒感染。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在使用设备上网时，请勿浏览存在安全隐患的网站，以免个人信息被盗。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在使用无线共享、蓝牙等业务时，请设定密码，防止未授权访问。不需要使用这些业务时，建议及时关闭。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 安装设备安全软件，并定期进行安全检查。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 获取第三方应用时，应保证获取方式的安全性。获取的第三方应用程序应进行病毒扫描。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请及时安装或升级华为或授权的第三方应用程序供应商发布的安全性软件或补丁。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 使用非授权第三方软件升级设备的固件和系统，可能存在设备无法使用或者泄漏您个人信息等安全风险。建议您使用在线升级或者将设备送至您附近的华为客户服务中心升级。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "如果您使用了需要定位信息的应用程序，这些应用程序可以传输定位信息，第三方可能会共享这些定位信息。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备可能会将检测、诊断等信息反馈给第三方应用程序供应商，这些信息将用于帮助第三方应用供应商改善产品和服务。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                155,
+                939,
+                514
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "版权所有 © 华为 2022。保留一切权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                436,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法禁止此类限制的除外。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                135,
+                939,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "商标声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                237,
+                161,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bluetooth?字标及其徽标均为Bluetooth SIG,Inc.的注册商标，华为技术有限公司对此标记的任何使用都受到许可证限制，华为终端有限公司为华为技术有限公司的关联公司。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                263,
+                939,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Microsoft 和 Windows 是 Microsoft 集团公司的商标。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                313,
+                584,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                338,
+                939,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "注意"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                395,
+                117,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                420,
+                939,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                514,
+                773,
+                533
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第三方软件声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                548,
+                218,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "随本产品提供的第三方软件和应用程序归第三方所有，华为不拥有这些第三方软件和应用程序的知识产权，因此华为不对这些第三方软件和应用程序提供任何保证，华为既不会就这些软件和应用程序向您提供支持，也不对这些软件和应用程序的功能是否正常承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                574,
+                941,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第三方软件和应用程序的服务可能中断或终止，华为不保证任何内容或服务可在任何期间维持其可用性。第三方系通过华为可控制范围外的网络及传输工具传送内容或服务。在相关法律允许的范围内，华为明确表示不对任何通过本产品提供的任何内容或服务的中断或终止承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                645,
+                939,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对于您个人安装在本产品上的任何软件或上传、下载的任何文字、图片、视频或软件等第三方作品，华为不对其合法性、质量以及其他任何方面承担任何责任，对于您因个人安装软件或上传、下载前述第三方作品产生的任何后果，包括安装的软件与本产品不兼容等情况，由您自行承担一切相关风险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                717,
+                941,
+                804
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "责任限制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                818,
+                157,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                844,
+                939,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                892,
+                941,
+                957
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                42,
+                941,
+                105
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "进出口管制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                121,
+                178,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                147,
+                939,
+                187
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "隐私保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                203,
+                157,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                229,
+                939,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                284,
+                941,
+                325
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                929,
+                964,
+                952,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "购买华为终端产品，请访问华为商城 https://www.vmall.com/"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                816,
+                660,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "更多信息请访问 https://consumer.huawei.com/cn/"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                838,
+                561,
+                858
+            ]
+        }
+    ]
+]

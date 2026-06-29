@@ -1,0 +1,602 @@
+[
+  {
+    "title": "# 故障排除",
+    "content": "# 用户手册\n\n# M200DW/M260DW/M280DW/M280W/Z1\n\n# 目录\n\n# 产品介绍\n\n外观 ....\n\n常用操作指引.\n\n灯效指示..\n\n规格参数.. 5\n\n# 首次安装与配网\n\n首次安装打印机... 6\n\n给打印机配置网络（适用于带有无线网络配置的机型） 9\n\n# 打印\n\n打印手机中的文件. . 25\n\n打印电脑中的文件. 27\n\n取消打印.. . 40\n\n# 复印\n\n机身按键复印.. .41\n\n联想打印App复印.. . 42\n\n电脑端软件复印. . 44\n\n取消复印.. .. 47\n\n# 扫描\n\n将原稿扫描至手机/平板中. .47\n\n将原稿扫描至电脑（Windows/Mac）中.. 49\n\n取消扫描. . 54\n\n# 更多操作\n\n更换鼓粉盒组件.. . 54\n\n恢复出厂设置. .56\n\n重置网络. . 56\n\n打印机固件升级.. . 56\n\n查看打印机基本信息. .57\n\n# 机器维护\n\n维护感光鼓和墨粉盒. .57\n\n清洁打印机.. 58\n\n# 故障排除\n\n常见问题. 59\n\n送纸问题.. 60\n\n打印问题. 60\n\n复印问题. 62\n\n扫描问题.. 63\n\n清除卡纸.. 63\n\n注意事项.. 69",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 0,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_0"
+  },
+  {
+    "title": "# 外观",
+    "content": "# 安全信息\n\n# 法律声明\n\n# 产品介绍\n\n# 外观\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c70d8bc62db1ba2d4fedbabda163097c9b7ae6e3a526ffe249f36fa1cf1ed163.jpg)\n\n常用操作指引\n\n<table><tr><td>操作</td><td>关键操作步骤</td></tr><tr><td>开机</td><td>将打印机接通电源,按住 ⏻ 键 0.5 秒以上。</td></tr><tr><td>关机</td><td>按住 ⏻ 键 6 秒以上,所有指示灯熄灭后,释放按钮后打印机关机。⚠注意:关机是强制性动作,不要在打印状态下进行,以免造成卡纸。</td></tr><tr><td>休眠唤醒</td><td>短按 ⏻ 键,或点击操作面板上任意按键。</td></tr><tr><td>进入 Wi-Fi 配置模式</td><td>长按 ⏻ 键 3 秒,释放按钮后进行配网, ⏻ 键白灯闪烁,配网进行中,用户可进行配网设置,配网成功 ⏻ 键白灯长亮,配网不成功 30 分钟后超时, ⏻ 键白灯灭。</td></tr><tr><td>重新配网</td><td>长按 ⏻ 键 3 秒,释放按钮后进行重新配网, ⏻ 键白灯闪烁,配网进行中,用户进行配网设置,配网成功 ⏻ 键白灯长亮,配网不成功 30 分钟后超时, ⏻ 键白灯灭。</td></tr><tr><td>取消当前任务</td><td>点击 ⏻ 键。</td></tr><tr><td>常规复印</td><td>按任意键唤醒打印机,点击 ⏻ 键或者 ⏻ 键,设置复印份数,点击 开始 键。</td></tr><tr><td>身份证复印</td><td>按任意键唤醒打印机,点击 身份证|双面 / 身份证|票证 键,选择身份证复印模式;点击 ⏻ 键或者 ⏻ 键,设置复印份数;点击 开始 键。</td></tr><tr><td>双面复印</td><td>按任意键唤醒打印机,进入设置菜单/复印菜单,设置长边翻页,或者点击 身份证|双面 键,选择双面证复印模式;点击 ⏻ 键或者 ⏻ 键,设置复印份数;点击 开始 键。</td></tr><tr><td>开始复印第二面</td><td>点击 开始 键。</td></tr><tr><td>在 N 合 1 复印模式下扫描下一页</td><td>点击 开始 键。</td></tr><tr><td>手动双面打印时打印第二面</td><td>点击 ⏻ 键。</td></tr><tr><td>缺纸后继续打印</td><td>装入纸张,点击 ⏻ 键一下或者点击 开始 键或者开关上盖。</td></tr><tr><td>清除卡纸</td><td>请参考 &gt;&gt; 清除卡纸步骤操作。</td></tr><tr><td>复位感光鼓</td><td>在电脑端软件上进行设置:【设置】&gt;&gt;【高级设置】&gt;&gt;【复位感光鼓】,或者在待机状态下开启上盖,连续按 ⏻ 键 5 次(2 秒内),关闭上盖,待打印机进入待机模式时,则复位完成。⚠注意:此操作只能在更换新感光鼓后操作,否则会影响到感光鼓寿命的识别。</td></tr><tr><td>复位墨粉盒</td><td>在电脑端软件上进行设置:【设置】&gt;&gt;【高级设置】&gt;&gt;【复位墨粉盒】,或者在待机状态下开启上盖,连续按 ⏻ 键 2 次(1 秒内),关闭上盖,待打印机进入待机模式时,则复位完成。⚠注意:此操作只能在更换新墨粉盒后操作,否则会影响到墨粉盒寿命的识别。</td></tr><tr><td>帮助信息页</td><td>按任意键唤醒打印机,在2秒内连续按3次 ⏻ 键。</td></tr><tr><td>恢复出厂设置</td><td>打开上盖按住 ⏻ 键直到 ⏻ 键指示灯橙灯亮(红灯绿灯同时亮)。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 1,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_1"
+  },
+  {
+    "title": "# 按键及指示灯简介-1",
+    "content": "# 灯效指示\n\n# 按键及指示灯简介\n\n多功能双面机型操作面板\n\n<table><tr><td rowspan=\"3\"></td><td>缺纸</td><td rowspan=\"3\">取消</td><td rowspan=\"2\">浅墨 | 浓墨</td><td rowspan=\"3\">88</td><td rowspan=\"2\">+</td><td rowspan=\"3\">开始</td></tr><tr><td>卡纸</td></tr><tr><td>耗材</td><td>身份证 | 双面</td><td>-</td></tr></table>\n\n<table><tr><td>指示灯</td><td>按键介绍</td></tr><tr><td>◎</td><td>电源键,可以显示打印机当前工作状态。</td></tr><tr><td>开始</td><td>开始键,可以显示打印机当前工作状态。</td></tr><tr><td>+/-</td><td>加/减键,可调整要复印的份数。</td></tr><tr><td>浅墨/浓墨</td><td>浅墨/浓墨键,可调整浓度。</td></tr><tr><td>身份证/双面</td><td>身份证复印/双面复印键,可选择身份证/双面复印模式。</td></tr><tr><td>取消</td><td>取消键,可取消当前任务。</td></tr><tr><td>缺纸</td><td>缺纸指示灯,缺纸时会显示红灯,请在纸盒中装入纸张。</td></tr><tr><td>卡纸</td><td>卡纸指示灯,卡纸时会显示红灯,请按需清除卡纸。</td></tr><tr><td>耗材</td><td>耗材状态指示灯,当耗材寿命≤10%时红灯闪烁,=0%时红灯长亮,请根据软件端提示更换墨粉盒/感光鼓(硒鼓)。</td></tr><tr><td></td><td>Wi-Fi 键,配网或使用网络打印时,会显示当前状态灯。</td></tr></table>\n\n多功能单面机型操作面板\n\n<table><tr><td rowspan=\"3\"></td><td>缺纸</td><td rowspan=\"3\">取消</td><td rowspan=\"2\">浅墨 | 浓墨</td><td rowspan=\"3\">88</td><td rowspan=\"2\">+</td><td rowspan=\"3\">开始</td></tr><tr><td>卡纸</td></tr><tr><td>耗材</td><td>身份证 | 票证</td><td>-</td></tr></table>\n\n<table><tr><td>指示灯</td><td>按键介绍</td></tr><tr><td>◎</td><td>电源键,可以显示打印机当前工作状态。</td></tr><tr><td>开始</td><td>开始键,可以显示打印机当前工作状态。</td></tr><tr><td>+/-</td><td>加/减键,可调整要复印的份数。</td></tr><tr><td>浅墨/浓墨</td><td>浅墨/浓墨键,可调整浓度。</td></tr><tr><td>身份证|票证</td><td>身份证复印/票证复印键,可选择身份证/票证复印模式。</td></tr><tr><td>取消</td><td>取消键,可取消当前任务。</td></tr></table>\n\n产品介绍 \n\n<table><tr><td>缺纸</td><td>缺纸指示灯,缺纸时会显示红灯,请在纸盒中装入纸张。</td></tr><tr><td>卡纸</td><td>卡纸指示灯,卡纸时会显示红灯,请按需清除卡纸。</td></tr><tr><td>耗材</td><td>耗材状态指示灯,当耗材寿命≤10%时红灯闪烁,=0%时红灯长亮,请根据软件端提示更换墨粉盒/感光鼓(硒鼓)。</td></tr><tr><td></td><td>Wi-Fi键,配网或使用网络打印时,会显示当前状态灯。</td></tr></table>\n\n电源键指示灯颜色简介\n\n<table><tr><td>指示灯</td><td>颜色介绍</td></tr><tr><td></td><td>红灯长亮/闪烁</td></tr><tr><td></td><td>蓝灯长亮/闪烁</td></tr><tr><td></td><td>绿灯长亮/闪烁</td></tr><tr><td></td><td>橙灯长亮/闪烁(红灯、绿灯同时长亮/闪烁)</td></tr><tr><td></td><td>紫灯长亮/闪烁(红灯、绿灯和蓝灯同时长亮/闪烁)</td></tr></table>\n\n电源键及指示灯状态与状态描述",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 2,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_2"
+  },
+  {
+    "title": "# 按键及指示灯简介-2",
+    "content": "<table><tr><td>指示灯</td><td>状态描述</td><td>打印机状态</td></tr><tr><td></td><td>电源键灯不亮</td><td>关机</td></tr><tr><td></td><td>电源键绿灯长亮</td><td>开机</td></tr><tr><td></td><td>电源键绿灯闪烁</td><td>预热</td></tr><tr><td></td><td>电源键绿灯长亮</td><td>Wi-Fi 机型,Wi-Fi 不能连接或不能使用</td></tr><tr><td></td><td>电源键蓝灯长亮</td><td>Wi-Fi 处于连接状态</td></tr><tr><td></td><td>电源键紫灯长亮</td><td>远程打印</td></tr><tr><td></td><td>电源键蓝灯长亮</td><td>配网模式</td></tr><tr><td></td><td>电源键绿灯长亮</td><td>非 Wi-Fi 机型,待机</td></tr><tr><td></td><td>电源键红灯和蓝灯每 0.5 秒交替闪烁</td><td>固件升级</td></tr><tr><td></td><td>电源键绿灯慢闪</td><td>休眠模式</td></tr><tr><td></td><td>电源键红灯绿灯长亮</td><td>恢复出厂设置</td></tr><tr><td></td><td>电源键绿灯闪烁</td><td>任务进行中</td></tr><tr><td></td><td>电源键红灯和绿灯每 0.5 秒交替闪烁</td><td>任务取消</td></tr><tr><td></td><td>电源键绿灯闪烁</td><td>复印中/继续复印/扫描</td></tr><tr><td></td><td>电源键绿灯闪烁</td><td>等待复印身份证的背面</td></tr><tr><td></td><td>电源键绿灯闪烁</td><td>N 合 1 模式下等待复印下一页</td></tr><tr><td></td><td>电源键红灯长亮</td><td>运行故障(上盖打开/卡纸/没有墨粉/感光鼓寿命已到等)</td></tr><tr><td></td><td>电源键红灯闪烁</td><td>缺纸/机器降温中/等待手动双面打印第二页</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">电源键红灯慢闪</td><td>墨粉不足</td></tr><tr><td>感光鼓寿命不足</td></tr><tr><td>触摸屏故障</td></tr></table>\n\n规格参数",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 按键及指示灯简介",
+    "chunk_index": 3,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_3"
+  },
+  {
+    "title": "# 按键及指示灯简介-3",
+    "content": "<table><tr><td>机型</td><td colspan=\"5\">多功能</td></tr><tr><td>产品型号</td><td>M200DW</td><td>M260DW</td><td>M280DW</td><td>M280W</td><td>Z1</td></tr><tr><td colspan=\"6\">常规功能规格</td></tr><tr><td>配置</td><td colspan=\"5\">台式</td></tr><tr><td>使用扫描仪玻璃板扫描的最大尺寸</td><td colspan=\"5\">216×297(mm)</td></tr><tr><td>打印的最大纸张尺寸</td><td colspan=\"5\">210×297(mm)</td></tr><tr><td>预热时间</td><td colspan=\"5\">小于25秒(23°C、50%RH)</td></tr><tr><td>纸张尺寸</td><td colspan=\"5\">A4/Letter/B5/A5/A5 SEF/B6/B6 SEF/A6/Executive/16K/自定义纸张尺寸</td></tr><tr><td rowspan=\"2\">自定义纸张尺寸</td><td colspan=\"5\">宽度 100-216(mm)</td></tr><tr><td colspan=\"5\">长度 127-297(mm)</td></tr><tr><td rowspan=\"3\">纸张类型</td><td colspan=\"5\">普通纸(70-90g/m2)</td></tr><tr><td colspan=\"5\">再生纸(70-90g/m2)</td></tr><tr><td colspan=\"5\">厚纸(90-105g/m2)</td></tr><tr><td>纸张输入容量</td><td colspan=\"5\">150张(80g/m2)</td></tr><tr><td>内存</td><td colspan=\"5\">256MB</td></tr><tr><td>电源要求</td><td colspan=\"5\">AC 220~240V,5A,50/60Hz</td></tr><tr><td>功耗</td><td colspan=\"5\">900W(最大功耗)</td></tr><tr><td>机器尺寸</td><td colspan=\"5\">360×305×285(mm)</td></tr><tr><td>重量</td><td colspan=\"5\">约8.2kg或更少(机器+鼓粉组件)</td></tr><tr><td colspan=\"6\">打印功能规格</td></tr><tr><td>打印速度</td><td colspan=\"5\">每分钟26页(A4短边进纸)</td></tr><tr><td rowspan=\"2\">分辨率</td><td colspan=\"5\">600×600dpi</td></tr><tr><td colspan=\"5\">1200×600dpi(最大)</td></tr><tr><td>首页打印</td><td colspan=\"5\">9秒或更少(从开始打印到出纸完成)</td></tr></table>\n\n产品介绍 ",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 按键及指示灯简介",
+    "chunk_index": 4,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_4"
+  },
+  {
+    "title": "# 按键及指示灯简介-4",
+    "content": "<table><tr><td>速度</td><td></td></tr><tr><td>USB接口</td><td>Hi-speed USB2.0</td></tr><tr><td>无线网络连接</td><td>IEEE 802.11 b/g/n(2.4GHz)</td></tr><tr><td>打印机语言</td><td>GDI</td></tr><tr><td colspan=\"2\">复印功能规格</td></tr><tr><td>分辨率</td><td>600×600 dpi (最大)</td></tr><tr><td>复印比例</td><td>25%~400%</td></tr><tr><td>复印数量</td><td>1-99页 (单次最大复印数量)</td></tr><tr><td colspan=\"2\">扫描功能规格</td></tr><tr><td>扫描类型</td><td>平板扫描</td></tr><tr><td>色彩模式</td><td>彩色、灰度、黑白</td></tr><tr><td>物理分辨率(最大支持)</td><td>1200×600 (dpi)</td></tr><tr><td>最大分辨率(插值)</td><td>4800×4800 (dpi)</td></tr><tr><td>色彩位数</td><td>24bits (彩色)、8bits (灰度)、1bit (黑白)</td></tr><tr><td rowspan=\"2\">最大原稿扫描尺寸</td><td>A4 (210×297mm)</td></tr><tr><td>Letter (215.9×279.4mm)</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 按键及指示灯简介",
+    "chunk_index": 5,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_5"
+  },
+  {
+    "title": "# 首次安装打印机",
+    "content": "# 首次安装与配网\n\n# 首次安装打印机\n\n1）从包装箱中取出打印机和所有配件，并清点齐全。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/98cf52a7edea5e5d8284ec397f2de3d520610385c3e2dd2335268d5f52f55754.jpg)  \n打印机×1\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/175f38511c5c39c4fe453a18b53b6be2ba9e455b349897dba74fe75ceb9d0447.jpg)  \n鼓粉盒组件×1  \n※已安装于打印机内\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c9ed7eea5811970e71c5f38fb69195b6ae257965044fe6181e86c032631b76a4.jpg)  \n南&保修卡\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/001f27eca4f7b29ede3fad6b7aaaa5e9feaadceaa42a62af07a7a28e13610037.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/e7a7e60b5f526194eadf3aca4bdb0d65dc3a2c2d9694f6fb668b80cc3c9fc6d6.jpg)  \n电源线×1\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/3e0e0c07a8eb53d5ae5e99df5f79f106043424fa2d6561a9f5d1b1d4df8f3aa3.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 6,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_6"
+  },
+  {
+    "title": "# 4）装入纸张",
+    "content": "# 注意\n\n如果发现其中缺少或有损坏的，请立即通知经销商。\n\n鼓粉组件已经装在打印机中。\n\n在不同的国家，少数部件可能不可用。\n\n2）移除胶带\n\n小心地撕下打印机上的包装及机器内部全部胶带。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/7a03389ff0cee9342ab29dfbd7ef413f3d1aaf5dd3693add307b3fbf7796ad77.jpg)\n\n# 3）移除耗材黑色隔离纸\n\n先打开上盖，双手向上揭开黑色隔离纸，请确保黑色隔离纸完整无残留的取出。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/ca57342f2f4ebd7919f7f927a41aafd3e532073b999606b5ff976037090ce097.jpg)\n\n# 4）装入纸张\n\n①将纸盒完全拉出。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/cac55652a63fc6219c2df83277f57205f9cf1339c90425799fe22804ecfdf030.jpg)\n\n②解锁○A 卡销，捏住纸盒○B 左边挡板和○C 后端挡板向外拉到最大。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c0d0860294c716d90c910c3213514639dc64554df640209acd32220535b941be.jpg)\n\n③在装纸前，将纸来回弯曲，使纸松动，再扇动纸，在桌子上墩齐纸的边缘。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4a9b71b1ce786a562e08c8e17c543569ec639535490ea6630571d8a5d297e56f.jpg)\n\n④将○A 钣金向下按压到位再平整放入纸张，捏住○B 左边挡板和○C 后端挡板调整，以固定纸\n\n张。不要装入太多的纸，给纸盒最多可装150 张 $( 7 0 \\mathrm { g } / \\mathsf { m } ^ { 2 } )$ ）纸。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/ae1aa6843f78d42b353191e45c3a290395e727450e4f6e8cc1fce757279fe34c.jpg)\n\n<table><tr><td rowspan=\"2\">提示</td><td>装纸前墩齐纸的边缘有助于防止卡纸。</td></tr><tr><td>请勿直接从机器后侧装纸,以免造成卡纸。</td></tr></table>\n\n⑤将纸盒装回打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/41d200f4535fd8055359734de0a959ffe6c9377356f08dab17c9412b9feefa03.jpg)\n\n<table><tr><td>注意</td><td>装入纸张时,请务必配置纸张尺寸和纸张类型。打印文件时,请在打印机驱动程序中指定纸张尺寸和纸张类型,以便装入纸张时配置的设置可用来进行打印。</td></tr><tr><td rowspan=\"5\">提示</td><td>关于在打印机驱动程序中指定纸张尺寸和纸张类型的详细信息,请参见 &gt;&gt; 纸张尺寸(P4)。</td></tr><tr><td>纸张卷曲可能会卡纸。装纸前,请将卷曲的纸张整理平整。</td></tr><tr><td>不要将导纸板推得太紧,以致引起纸张拱起。</td></tr><tr><td>如果您未调整导纸板,可能会卡纸。</td></tr><tr><td>如果您需要在打印时向打印机的进纸托盘中加纸,首先将打印机进纸托盘中剩余的纸张拿出来,然后将它们放进新的纸张中。直接在打印机进纸托盘中剩余的纸张上加纸,可能会导致打印机卡纸或多页纸同时输送。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 7,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_7"
+  },
+  {
+    "title": "# 给打印机配置网络（适用于带有无线网络配置的机型）",
+    "content": "# 5）放置并开机\n\n将打印机水平稳固放置并预留足够的空间，四周需预留15cm以上空间；将电源线的另一端插入正确接地的220V交流电源插座内。\n\n# 6）启动打印机\n\n将排纸延长板拉出至最大位置并短按 键启动打印机， G 键绿灯长亮时，打印机准备就绪。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/07edc08d0f5245dfa35f59ba1966d1dd7f82f38c030f556d5918ef6e65b7afe9.jpg)\n\n<table><tr><td rowspan=\"2\">注意</td><td>打印机启动后,扫描仪会进行校准,请耐心等待。</td></tr><tr><td>Wi-Fi机型如果远程打印功能可用,则 ⏻ 键会紫灯长亮(红灯、绿灯和蓝灯同时长亮)。</td></tr></table>\n\n# 给打印机配置网络（适用于带有无线网络配置的机型）\n\n打印机的程序及软件配置\n\n<table><tr><td>程序&amp;软件</td><td>内容</td></tr><tr><td>移动端(Android/iOS)</td><td>联想打印App/联想云打印小程序</td></tr><tr><td>电脑端(Windows/macOS/Linux)</td><td>至像打印App</td></tr><tr><td>驱动程序</td><td>Windows/macOS/Linux</td></tr><tr><td rowspan=\"3\">在安装打印机驱动程序前确认</td><td>您的计算机上至少应有2GB内存。</td></tr><tr><td>您的计算机硬盘至少有200MB的空余空间。</td></tr><tr><td>您的计算机上已安装了Windows/macOS/Linux系统。</td></tr><tr><td>提示</td><td>打印机仅支持2.4G Wi-Fi。</td></tr><tr><td rowspan=\"2\">安装建议</td><td>● 先安装手机App【联想打印】,完成打印机的配网与绑定。</td></tr><tr><td>● 电脑端安装时,选择与手机配网使用的同名网络。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 8,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_8"
+  },
+  {
+    "title": "# 移动端App【联想打印】",
+    "content": "# 移动端App【联想打印】\n\n1）请保持手机/平板连接Wi-Fi，并开启蓝牙。  \n2）请安装最新版本【联想打印】App。  \n3）打开【联想打印】App，登录联想打印账号，点击【+ 添加打印机】，选择【添加设备】。  \n4）待App扫描到打印机后，点击【设备卡片】进行连接；根据界面指引完成打印机配网。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4b768056af2e3eb7f6da61dc3ed3aba3aa2afcd18ecd9b5512d95945255a5d93.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/2502388787141fadf816f842c543fb35a72081d24759ec7ec6bf3fa6f31cd0f3.jpg)\n\n\\*长按打印机面板 键 3 秒至其白灯闪烁，设备进入配网状态，配网成功后 键白灯长亮。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 9,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_9"
+  },
+  {
+    "title": "# 移动端小程序【联想云打印】",
+    "content": "# 移动端小程序【联想云打印】\n\n1）长按打印机面板上 键至闪烁状态。  \n2）点击【微信】>>【扫一扫】，扫描打印机上方二维码。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/14bcedd84cb9db7a097a99e89fbb1e65b83c78ee935336e81ffe17c2f5ba62f1.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/dd017fe01ad6842cd5cb6d27a0c7ebd9a868024b755178a93fe33318e7570ab6.jpg)\n\n3）进入【联想云打印】小程序登录页面，并同意隐私，进行登录。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/7179f3619e090bca75929bd108fc8ae3e06bdc28eb40027c0118db5bb6ae101d.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/46ee351c6a5e16e61b031732601eee3615ea9ea6f402247408ce8ac7c63ad720.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/86d2f7f9f36ddfe561785de6576779a6016954b46f1459992842a30c31a8bd89.jpg)\n\n4）选择待配网的打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/eb2509b684a1aadfcf18bca9ea5d8ad12fb977b7d24b521fd6256c3c85bed02e.jpg)\n\n\\*如弹出重置网络提示，请按界面提示点击重置网络再试。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/89705e5f06a2c5e2e97875d9c43b67e6476d3a75dcad076efcbc5aefdb20969e.jpg)\n\n5）选择要配置的 Wi-Fi，仅支持 2.4G Wi-Fi 并输入Wi-Fi 密码，点击【下一步】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/6a7b9464582d5678379e029e1df4050f1d38ff416bea0651db32827ecdba4b3b.jpg)\n\n6）等待打印机联网成功，自动回到首页。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/98b68e576cb66ff1e468ed0b9519fe5fdf58080975ba0d07a16dec04564a8acc.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/66d5a02a41ea66ad6a36712ef55d5e48b81d8de0ccb4553f34f80aa8bf30f626.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 10,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_10"
+  },
+  {
+    "title": "# 快速安装",
+    "content": "# 电脑端App【至像打印】\n\n# 1）Window系统安装无线驱动程序\n\n# 快速安装\n\n对于非Wi-Fi 机型，快速安装功能等同于自定义安装中的安装 USB打印机。\n\n仅适用于操作系统为 XP SP3 以上（包含 SP3）并且已经安装了.Net Framework4.0 及以上版本的系统插件。\n\n以Windows10 系统为例，实际步骤取决于您所使用的操作系统。\n\n2 ..请开启打印机，等待安装程序提示再使用USB线连接计算机与打印机。  \n②从 https://www.lenovoimage.com/ 下载您购买机型的驱动程序并安装。  \n③安装方式选择【快速安装】。  \n④出现安装程序主界面，选择语言类型；请仔细阅读许可协议，如果接受许可协议，勾选【我同意使用至像打印机驱动 软件许可协议】前的方框；为了帮助我们为您提供更好的服务，我们希望您能参加“用户体验改善计划”，并同意我们收集打印机的使用数据。点击【下一步】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/bd34916a7423962acec14579cd0af716b3eea4c2a4e0d28dee298b5d25c39db1.jpg)\n\n⑤自动安装驱动程序。对于Wi-Fi 机型，系统会自动识别电脑连接的网络并配置打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/cb31e720a835a22e22663e34b49198302cdce8b36faf085030d655aea0a55857.jpg)\n\n⑥当安装完成，可以点击【打印测试页】检测打印机驱动是否安装成功，也可以直接选择重启方式后点击【确定】直接退出驱动安装程序。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1400b3b6a4216778e165e41c0ff2a07fa54c6a35bd3f43dcb5937d23201f2a93.jpg)\n\n⑦打印机驱动程序安装完成，您可以开始使用您的打印机了。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 11,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_11"
+  },
+  {
+    "title": "# 自定义安装USB打印机",
+    "content": "# 自定义安装USB打印机\n\n仅适用于操作系统为XP SP3以上（包含 SP3）并且已经安装了.Net Framework4.0及以上版本的系统插件。\n\n以 Windows 10 系统为例，实际步骤取决于您所使用的操作系统。\n\n2 ..请开启打印机，等待安装程序提示再使用USB线连接计算机与打印机。  \n②从 https://www.lenovoimage.com/ 下载您购买机型的驱动程序并安装。  \n③出现安装程序主界面，选择语言类型，选择安装方式为【自定义安装】；请仔细阅读许可协议，如果接受许可协议，勾选【我同意使用至像打印机驱动 软件许可证】前的方框；为了帮助我们为您提供更好的服务，我们希望您能参加“用户体验改善计划”，并同意我们收集打印机的使用数据。点击【下一步】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/83655642db2f070781463ed9918ce539b2f6a361729d070de159137e21bb9416.jpg)\n\n④如需安装 USB 打印机，在安装程序界面，单击【安装USB打印机】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d77c39d4fdf88c3dd39c1b162840c4ec1f802783e365a902eeb353729d64ff59.jpg)\n\n⑤程序开始自动安装。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/94ceec468bd4f16fa31712900109f85f53933cd9b16c4b8690e8bae0c2304cc7.jpg)\n\n⑥当安装完成，可以点击【打印测试页】检测打印机驱动是否安装成功，也可以直接选择重启方式后点击【确定】直接退出驱动安装程序。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d1fdc202ae152a476edd7344eb2ae238af9cf8c62a2a5ce4d72dfad909005c5d.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 12,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_12"
+  },
+  {
+    "title": "# A 注意",
+    "content": "# 自定义安装Wi-Fi打印机\n\n# A 注意\n\n安装前请确保您的打印机支持无线联网。\n\n仅适用于操作系统为XPSP3以上（包含SP3）并且已经安装了.NetFramework4.0及以上版本的系统插件。\n\n以Windows 10系统为例，实际步骤取决于您所使用的操作系统。\n\n2 请开启打印机，将计算机接入到打印机将要连接的无线网络中。  \n②从https://www.lenovoimage.com/ 下载您购买机型的驱动程序并安装。  \n③出现安装程序主界面，选择语言类型，选择安装方式【自定义安装】；请仔细阅读许可协议，如果接受许可协议，勾选【我同意使用至像打印机驱动 软件许可证】前的方框；为了帮助我们为您提供更好的服务，我们希望您能参加“用户体验改善计划”，并同意我们收集打印机的使用数据。点击【下一步】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1196e060b79f0dce7429b7d15555e19270fd107d210eae898b8b882de0ff15ab.jpg)\n\n④将打印机通过USB线连接到计算机，点击【安装Wi-Fi打印机】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/5d82ffc2653c0faead2af751b4f559079d32d850716abbf19206aab3b89e8701.jpg)\n\n⑤自动检测电脑的网络连接状态。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/9fb1b1054eca07cca29668db423039e0bb905702ff4b049eff66e0c1aa8e66cf.jpg)\n\n⑥如果检测到电脑的有线连接正常，则需要通过用户手动选择网络，确定打印机无线网络参数；检测到电脑仅有Wi-Fi连接正常，则使用电脑Wi-Fi参数作为打印机无线网络参数。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/63b6be433d7ca1297f2fac987d20f9fe1fed3d046c68a340934e91e6591ea5a5.jpg)\n\n⑦当获取到打印机无线网络参数时，自动进行打印机无线参数配置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0e9edf249176a8158fbadf8e9c117def296cf35fd07ce0e9e5806b448b031a24.jpg)\n\n⑧自动进行驱动安装。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/201826022d036da35928f5b5cbd217e3e2386a045074af1899714a92853d5561.jpg)\n\n⑨启方式后点击【确定】直接退出驱动安装程序。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/aa2864f1e30b27f75a1df59585f53102166db773a3910a826f40c906deabcc31.jpg)\n\n⑩无线驱动安装完成，您可以通过无线网络使用您的打印机了。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 13,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_13"
+  },
+  {
+    "title": "# 自定义安装已连入当前网络打印机",
+    "content": "# 自定义安装已连入当前网络打印机\n\n<table><tr><td rowspan=\"2\">注意</td><td>安装前请确保您的打印机支持无线联网。</td></tr><tr><td>在您的打印机已经无线配置过的情况下,选择网络安装。</td></tr></table>\n\n仅适用于操作系统为XPSP3以上（包含SP3）并且已经安装了.NetFramework4.0及以上版本的系统插件。\n\n以Windows10系统为例，实际步骤取决于您所使用的操作系统。\n\nG 请确认打印机已经开启，Wi-Fi功能已经打开。  \n②从https://www.lenovoimage.com/ 下载您购买机型的驱动程序并安装。  \n③出现安装程序主界面，选择语言类型，选择安装方式为【自定义安装】；请仔细阅读许可协议，如果接受许可协议，勾选【我同意使用至像打印机驱动 软件许可证】前的方框；为了帮助我们为您提供更好的服务，我们希望您能参加“用户体验改善计划”，并同意我们收集打印机的使用数据。点击【下一步】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/3dee1d2c3b99850f1888137335038fd1a3ebdf9d837c8cea87283e5648dc1fc5.jpg)\n\n④点击【安装已连入当前网络打印机】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0e13e31ab40187244f4dfd1f33932fc3ecee6cf1f6fec369e30a11486f0ffc1c.jpg)\n\n⑤自动检测电脑的网络连接状态。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/e841890108e2c48845965b00593c77f765c347e9a1e1d571e2cbb45545a2f2d0.jpg)\n\n⑥选择在无线网络中搜索到的打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c05d354a7a38c08d4f4019bee2d5fea6d6446679c95d0a6117fbbe27a3a90776.jpg)\n\n⑦自动进行驱动安装。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/5353f073a0e7c1d965ec2df4e6efd632667bebe480ad6964dd56b196f3b0c289.jpg)\n\n⑧当安装完成，可以点击【打印测试页】检测打印机驱动是否安装成功，也可以直接选择重启方式后点击【确定】直接退出驱动安装程序。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/2950c4f776cb5b29f5752487e56a7a6dd5804ba2f5668b4b0c82cff335122dfd.jpg)\n\n⑨无线驱动安装完成，您可以通过无线网络使用您的打印机了。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 14,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_14"
+  },
+  {
+    "title": "# 2）macOS系统安装无线驱动程序",
+    "content": "# 2）macOS系统安装无线驱动程序\n\n①请开启打印机，等待安装程序提示再使用USB线连接计算机与打印机。  \n②在【打印机与扫描仪】中添加USB打印机。  \n③打开【至像打印】软件，在【设定】中设置【Wi-Fi 安装】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0706c0af5cbff9c666e9aa9915a167a4c4bd98e3e9a4e26696953e08e1033173.jpg)\n\n④搜索Wi-Fi，选择要连接的网络，输入网络密码，点击【应用】后会弹出管理员登录窗□，输入管理员密码即可设置完成。管理员初始密码为：888888。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/a1a8f5b4c633f3bf043634155c29390e4395c2ffc4ba299923331b14ce43b7f2.jpg)\n\n⑤添加网络打印机（仅适用带有线网口/Wi-Fi机型）",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 15,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_15"
+  },
+  {
+    "title": "# 方法二：通过IP地址添加网络打印机",
+    "content": "# 方法一：通过Bonjour添加网络打印机\n\na.单击【添加打印机或扫描仪…】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1dab08902663fb1b051bb533885e892d44d64061ec52c6d229c6e2f7f161ac8c.jpg)\n\nb.选择要安装的打印机点击【添加】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/58a3aea1d9473953484178b26d6c9204149a90aa5a53c816f829fe979660a74c.jpg)\n\n# 方法二：通过IP地址添加网络打印机\n\na.在【打印机与扫描仪】中选择【添加打印机或扫描仪...】在【IP】地址栏中输入地址。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/b0c3d55b799be4b3bbadc4dd22ebdb34559282e4fc29f630010d9279c4d455bf.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 16,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_16"
+  },
+  {
+    "title": "# 提示",
+    "content": "# 提示\n\n在打印机就绪状态下 1 秒内连续按 3 次 键可打印出配置页，配置页包含 IP地址等信息。\n\nb.在【使用】栏选择【选择软件】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/e2265a0752d1c687ead59cbc7d72e58a2b54eb004c4e33ad9e67cf85546097b8.jpg)\n\nc.在弹出的【打印机软件】窗口中搜索打印机型号，列表出现已安装的打印机驱动，选择要安装的打印机，单击【好】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/de63f4c15621858b52a684e0255e1e992aaa31f555a8c4abdbb2d10d4e04bc5d.jpg)\n\nd.单击【添加】，网络打印机添加完成。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/8c43d2254d6c3c86dbbd22e59c07eaf2f89c3c75eeae857a3f06573c4204f558.jpg)\n\ne.安装完成后列表显示已安装的打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/6fcc1e69496ac45569ffa24c4fb59799cfa76186e23f6538326c1dbb4256d25a.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 17,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_17"
+  },
+  {
+    "title": "# 打印手机中的文件",
+    "content": "# 3）Linux系统中安装驱动程序\n\n①打开【设置】，选择【打印机】，点击【添加打印机…】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/16ac099daf28f79864e175b62e12b32d7cceff1c75167e69e8fbb49131a41d03.jpg)\n\n②选择列表中打印机，点击【添加】，打印机驱动程序安装完成。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/829a59055506e103b5a10ea2229b10c266af031c02695e29f4273ee92a76f7ed.jpg)\n\n# 打印\n\n# 打印手机中的文件\n\n打印机支持多种方式打印手机/平板中的文件，您可以根据您的使用场景，任选一种方式完成打印。\n\n<table><tr><td>设备</td><td>方式</td><td>适用场景</td></tr><tr><td rowspan=\"4\">手机/平板</td><td rowspan=\"2\">通过联想打印 App 打印</td><td>支持 Android/iOS 手机、平板。</td></tr><tr><td>此方式支持远程打印手机/平板中的文件。</td></tr><tr><td rowspan=\"2\">局域网打印</td><td>支持 Android/iOS 手机、平板。</td></tr><tr><td>打印机通过电脑配网,手机/平板与打印机连接同一个路由器Wi-Fi 时,可使用此方式打印手机/平板文件。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 18,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_18"
+  },
+  {
+    "title": "# 通过联想打印App打印",
+    "content": "# 通过联想打印App打印\n\n1）手机/平板通过联想打印 App 连接了打印机后，打开 App，在首页点击【打印】。  \n2）点击【打印】，通过不同路径选择【需要打印的文档】，在【打印预览】界面，按界面提示设置好相关参数后，点击【立即打印】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/cfa560d04f2c58955b00aecc39a31ffa973ca4f059b42120029b1569861646b5.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/370a087b856fd43ad38d06ebf3db48797e9bf6fc688f75e04064ff928b6061b6.jpg)\n\n※打印文档相关参数如下（打印机不同插件版本，打印参数可能略有不同，请以实际界面为准）：\n\n 打印份数：默认打印1 份，按后面的“+/-”符号可以增减份数。  \n使用打印机：选择已连接的打印机。  \n远程打印：如打印机及手机在同一网络状态下，远程打印功能默认关闭，请按需点击选择打开。  \n自动双面打印：默认关闭，按需点击选择。  \n 每张打印页数：默认为1 页，每张打印页数可选择1、2、4、9、16 页数。  \n 纸张尺寸：默认为 A4 纸，有 Letter、A4、A5（纵向）、A6、B5、B6（纵向）、Executive、16K、A5（横向）、B6（横向）自定义尺寸等选项，请根据纸盒中的纸张尺寸进行选择。  \n 纸张类型：默认为普通纸，有普通纸、再生纸、厚纸等选项，请根据纸盒中的纸张类型进行选择。  \n 省墨模式：默认关闭，按需点击选择。  \n 打印页数：默认选择所有页面，或可选自定义页数进行打印。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 19,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_19"
+  },
+  {
+    "title": "# 注意",
+    "content": "# 局域网打印\n\n手机连接了和打印机相同的路由器 W-Fi，可通过局域网打印，快速打印手机中的文件。在手机中打开待打印文件，选择【分享】或【发送】，选择【打印】，在可用打印机列表中选择局域网中的联想打印机（名称为打印机宣传名，例如Lenovoxxxx，按界面设置好打印参数，开始打印。）\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/599f8b96572716d0d5a8db0f46e1f6b3359d632f5dffc856b0dfda84a5a6fc02.jpg)\n\n# 注意\n\n不同品牌手机/平板打开打印的方式可能不同，若无法找到打印入口，请咨询手机供应商。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/91bda6e489a39e269f4bfbc49c09180e9516d80adafacdd358a506961bf2faba.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c2330c40a37bb9bc099b0b1ba8b0ddd2a0748793dad15204ea2b886aeae35cb8.jpg)\n\n※以 ios手机为例:\n\n打印图片：打开图库，点击【 】>>【打印】进入打印预览界面，点击【选择打印机】，在可用打印机列表中局域网中的联想打印机（例如 Lenovoxxxx），设置好打印参数后，点击【打印】。  \n打印文档：打开待打印文件，点击【…】>>【用其他应用打开】>>【打印】进入打印预览界面，点击【选择打印机】，在可用打印机列表中局域网中的联想打印机（例如Lenovoxxxx），设置好打印参数后，点击【打印】。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 20,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_20"
+  },
+  {
+    "title": "# 打印机驱动程序打印",
+    "content": "# 打印电脑中的文件\n\n# 打印机驱动程序打印\n\n本章节介绍打印机驱动程序中的设置内容和步骤。\n\n<table><tr><td>打印机驱动程序打印</td><td colspan=\"2\">设置选项</td></tr><tr><td></td><td>基本设置</td><td>● 纸张尺寸● 方向● 份数</td></tr></table>\n\n打印\n\n<table><tr><td rowspan=\"3\">Windows系统中使用驱动程序(含通过网络使用打印机)</td><td></td><td>● 逐份打印● 纸张类型● 打印质量● 打印设置● 多页● 双面打印● 省模模式</td></tr><tr><td>高级设置</td><td>● 缩放比例● 小册子打印● 使用水印● 页眉页脚打印● 浓度调整● 跳过空白页● 以黑白二色打印文本● 逆序打印</td></tr><tr><td>快捷设置</td><td>● 添加快捷设置● 删除快捷设置● 技术支持</td></tr><tr><td>macOS系统中使用驱动程序</td><td>基本设置</td><td>● 纸张尺寸● 方向● 份数● 逐份打印● 纸张类型● 打印设置● 布局● 双面打印● 色彩平衡● 省墨模式● 画像旋转● 亮度● 跳过空白页</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 21,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_21"
+  },
+  {
+    "title": "# Windows系统中使用驱动程序",
+    "content": "# Windows系统中使用驱动程序\n\n下面的过程说明基于Windows10 操作系统环境中打印的步骤。\n\nA 注意\n\n打印文件的准确步骤可能随应用程序的不用而有所不同，关于准确的打印步骤，请参照\n\n<table><tr><td rowspan=\"2\"></td><td>您的应用软件。</td></tr><tr><td>通过网络使用打印机时,请先确认您已经安装网络驱动程序。</td></tr></table>\n\n使用打印机驱动程序从计算机中打印文件。\n\n1）打开您需要打印的文件。  \n2）在【文件】菜单中选择打印。  \n3）点击【属性】完成打印机的更多设置。属性对话框允许您访问和改变打印机设置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1dc2614fd40270f107aa716c3b14ee10e20f146f7a6fb8fb3a45e984f7badb58.jpg)\n\n4）在图例左侧窗口确认您的当前设置。  \n5）点击【确定】完成设置。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 22,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_22"
+  },
+  {
+    "title": "# 提示",
+    "content": "# 基本设置\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/5b0aaf2bb968b7326efbf984394151b9cf95b5319debeedf03af70205475c51b.jpg)\n\n1）纸张尺寸\n\n①默认为 A4，下拉可选择 A4/Letter/B5/A5/A5（长边）/B6/B6（长边）/A6/Executive/16K/\n\n自定义尺寸。\n\n②自定义纸张尺寸：宽度约 100-216mm，长度约 127-297mm。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/61b73c4997287284788e1f746c7aab764da8a6fdec59c4bee7b1bc64938f293c.jpg)\n\n# 提示\n\n您选择的纸张尺寸最好与您正在使用的纸张尺寸一致。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 23,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_23"
+  },
+  {
+    "title": "# 4）逐份打印",
+    "content": "# 2）方向\n\n可以选择文档打印的方向：纵向或横向。\n\n<table><tr><td>纵向(垂直)</td><td>横向(水平)</td></tr><tr><td><img src=\"images/5847d394c68b6c6a2a47a8d9e91c313f2515fcbee0dc0257c23cf70e3fb3949b.jpg\"/></td><td><img src=\"images/f334762425fbe725e4dfe7c1c694c4e3b9db192efc955cc0662168357ba927c4.jpg\"/></td></tr></table>\n\n# 3）份数\n\n可设置将要打印的份数。\n\n# 4）逐份打印\n\n①选中逐份打印复选框时，将打印出一份完整的副本，然后重复整份打印，直至打印完您 所选择的份数。   \n②如果未选中逐份打印复选框，打印机将根据设定份数对每一页重复打印。\n\n<table><tr><td>选中逐份打印复选框时</td><td>未选中逐份打印复选框时</td></tr><tr><td><img src=\"images/19c73a354ade2de796b4d47c9eb057927d6b12b631a1f258ea8db5fb7f21e4db.jpg\"/></td><td><img src=\"images/99e13c81cb97d0412e3d185bca96e76cc351d20395b77c355718448cfced7e97.jpg\"/></td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 24,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_24"
+  },
+  {
+    "title": "# 8）多页",
+    "content": "# 5）纸张类型\n\n本设备支持下列纸张类型：普通纸、再生纸、厚纸。选择您想使用的纸张类型，以便获取最佳的打印质量。\n\n# 6）打印质量\n\n您可以选择以下打印质量：标准（600×600 dpi），精细（1200×600dpi）。\n\n# 7）打印设置\n\n您可以将打印设置更改为：\n\n①图形，图形文档的最佳打印模式。  \n②文本，文本文档的最佳打印模式。  \n③手动，您可以通过选择手动并点击按钮，设置亮度和对比度。\n\n# 8）多页\n\n多页选项可以缩小图像尺寸，将多个页面打印在同一张纸上，可以放大图像尺寸，将一个页面打印在多张纸上。\n\n①页面顺序，选择每页N 版选项时，可以在下拉列表中选择页面的顺序。\n\n<table><tr><td rowspan=\"2\">注意</td><td>选择每页N版选项时,高级功能中的缩放功能不可用。</td></tr><tr><td>选择N×N页1版选项时,双面打印功能不可用;此时会有警告信息对话框弹出。</td></tr></table>\n\n②边框线，使用多页功能将多个页面打印在同一张纸上时，您可以选择为纸张添加实线边框和无边框。  \n③打印裁切线，选择N×N 页1 版选项时，可以选择打印裁切线选项。使用此选项可以为打印区域添加细裁切线。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 25,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_25"
+  },
+  {
+    "title": "# 10）打印顺序",
+    "content": "# 9）双面打印\n\n如果您想进行双面打印，请使用此选项。\n\n①带自动双面打印功能的机型使用流程：\n\na.请在打印机特性中选择双面打印选项框中选择长边翻页或短边翻页；  \nb.打印机将会按设置的参数自动进行双面打印。\n\n②不带自动双面打印功能的机型使用流程：\n\na.双面打印选项框中选择长边翻页或短边翻页；  \nb.开启双面打印功能后，在进行手动双面打印时弹出一个对话框告诉您如何操作；  \nc.第一面打印完成后，需要您手动将纸张按照上述对话框提示装回进纸盘以打印第二面；  \nd.装回纸张后，按一下正在闪烁红灯的 G 键；  \ne.打印机继续打印第二面。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/10db89c0f001eea73638d9e03e86ec0d9a7c0627668e0cd247eed56b0f57b9ea.jpg)\n\n# 10）打印顺序\n\n①当在高级选项卡中逆序打印选项框勾选中时，先是打印偶数页（…8,6,4,2），之后打印奇数页（…7,5,3,1）。  \n②当在高级选项卡中逆序打印选项框没有勾选时，先是打印偶数页（…2,4,6,8），之后打印奇数页（1,3,5,7）。\n\n<table><tr><td>提示</td><td>如果打印页数总数为奇数,最后会出现一张空白页。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 26,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_26"
+  },
+  {
+    "title": "# 高级设置",
+    "content": "# 11）装订方式\n\n有如下装订方式：无、长边翻页、短边翻页。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/10801e13a32bccf526bb446b2c45786d0f911f1bdbedccb8efa285e3f22feae6.jpg)\n\n# 12）省墨模式\n\n此选项默认为关，使用省墨打印模式可以减少墨粉消耗，您可以得到正常密度的打印质量，但是打印输出效果较浅。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/ebc9945a777acbbb289681341b9e6f550e2789097c92564f0a405149cdb7252a.jpg)\n\n注意\n\n选择省墨打印模式不影响打印速度和内存使用。\n\n# 高级设置\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/933e00a8cffa83474412342e6a324fa1a706c390788dcd74d62000c921ffdaba.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 27,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_27"
+  },
+  {
+    "title": "# 2）小册子打印",
+    "content": "# 1）缩放比例\n\n您可以更改打印图像的比例：关、调整至纸张尺寸、自定义调整【25%-400%】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/603ad48abafdc1e621a8ce4e7dbf806c3f4b6954ee520bd9d54d44363e6e7994.jpg)\n\n注意\n\n当开启调整至纸张尺寸或任意缩放选项时，多页功能或小册子打印功能不可用。\n\n此时会有警告信息对话框弹出。\n\n# 2）小册子打印\n\n使用双面打印功能制作小册子时，请使用此选项。它会按照正确的页码排列文档，您无需排列页码顺序，只要对折打印的页面即可。\n\n您可以在小册子打印设置对话框中进行以下设置：\n\n①装订制作设定：左侧装订、右侧装订。\n\n②小册子打印方式：整册装订、分册装订。\n\n选择分册装订时：\n\na.使用此选项可以将整本小册子打印成较小的单个小册子集，也无需排列页码顺序，只要对折已打印的小册子集即可。  \nb.您可以从1到15指定各个小册子集的页数。对打印页数较多的小册子，此选项非常有用。  \n③装订偏移量：如果您选中装订偏移量，您可以指定以毫米或英寸为单位的装订偏移量。\n\n<table><tr><td rowspan=\"2\">注意</td><td>当您选择小册子打印时,弹出警告对话框显示双面打印中长边翻页打开。</td></tr><tr><td>当您选择小册子打印时,多页功能或页眉页脚打印中的页数功能不可用。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 28,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_28"
+  },
+  {
+    "title": "# 5）新建水印文本",
+    "content": "# 3）使用水印\n\n您可以将标识或文本作为水印打印到文档中。您可以选择预设的水印或使用自己创建的文本/图片文件。请选中使用水印复选框，然后点击【设置】按钮。\n\n# 4）水印设置\n\n①选择所需的水印。  \n②要新创建水印，点击【新建水印文本】或【新建水印图片】等设置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0ec591dd189ce519cf75f434bac074c05804ba1225f6a29c06340eba44861230.jpg)\n\n# 5）新建水印文本\n\n新建水印的数量最多为29 个。\n\n①名称，在此栏中输入合适的标题。  \n②文本，在文本栏中输入水印文本，然后选择字体、字形、大小和透明。  \n③透明\n\na.选中此复选框，打印一个透明的水印，基本的文本或图像是可见的。  \nb.取消选中这个复选框，打印水印使潜在的文本或图像被覆盖。  \n④角度，若要控制水印在页面的角度方向，可使用此项设置。  \n⑤位置，指定水印的位置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/c7b3a44e1fa49235e8ec9b3c7077d7219fd2262788ebe4a022555325d57f640d.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 29,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_29"
+  },
+  {
+    "title": "# 6）新建水印图片",
+    "content": "# 6）新建水印图片\n\n新建文本或图片后点击【确认】，新建水印完成。\n\n①名称，在此栏中输入合适的标题。  \n②图片，在文件名栏选择您要新建的水印图片。  \n③缩放，您可以更改图片的比例。  \n④位置，若要控制水印在页面上的位置，可使用位置设置。\n\n⑤透明\n\na.选中此复选框，打印一个透明的水印，基本的文本或图像是可见的。  \nb.取消选中这个复选框，打印水印使潜在的文本或图像被覆盖。\n\n⑥编辑，您可以在选择水印列表中选择您要编辑的水印，点击【编辑】，出现“编辑水印”或“编辑水印（图片）”对话框。\n\n⑦删除，您可以在选择水印列表中选择您要删除的水印，点击【删除】，请按照出现的对话框操作删除水印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/dbf7b2f78f2f799e2745973c5cc7012cdb638444b92c72b45ce3b34a98c062e3.jpg)\n\n<table><tr><td>注意</td><td>水印功能开启时,多页功能中的“N×N 页1版”功能不可用。</td></tr><tr><td>提示</td><td>内置水印无法编辑与删除。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 30,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_30"
+  },
+  {
+    "title": "# 8）浓度调整",
+    "content": "# 7）页眉页脚打印\n\n启动此功能后，您可以在文档上打印页眉和页脚信息。\n\n请选中打印复选框：登录用户名、打印任务所有者名、文件名、页数、日期、时间。\n\n①位置，若要设置页眉页脚在页面上的位置，可使用位置设置。\n\na.水平方向有三种选择：居左/居中/居右  \nb.垂直方向有两种选择：居上/居下。\n\n②字体，您可以设置字体。\n\n③大小，您可以设置字体大小。\n\na.“ B ”按钮：加粗字。   \nb.“ I ”按钮：斜体字。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d739ad8f56ee69b6dba139e9848c786a240c333a18f93f976e38ca9ba1172096.jpg)\n\n# 8）浓度调整\n\n增加或降低打印浓度，调整打印浓度值选中浓度调整复选框，然后点击【设置】按钮进行设置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4de0465ea9d3b74088cb250cb3a46b4ec5f5656143c9b63a92946f511851a7f6.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 31,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_31"
+  },
+  {
+    "title": "# 2）删除快捷设置",
+    "content": "# 9）其他打印选项\n\n# ①跳过空白页\n\n如果选中跳过空白页，打印机驱动程序会自动检测空白页并且不打印空白页。\n\n# A 注意\n\n当您选择以下选项时，此选项不可用：\n\n使用水印  \n页眉页脚打印   \n多页打印   \n 双面打印   \n小册子打印\n\n# ②以黑白二色打印文本\n\n此功能指定始终以黑白二色打印所有文本，可能不兼容某些字符。\n\n# ③逆序打印\n\n选中逆序打印复选框，所有打印页逆序。\n\n# 快捷设置\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/273c1e07ad37e54b4007f09db7bde7558452b1ff759a8d2eae09ae84785b154f.jpg)\n\n# 1）添加快捷设置\n\n点击【添加快捷设置】可打开添加快捷设置对话框。\n\n①在名称中输入所需标题。  \n②从图标列表中选择您想使用的图标，然后点击【确定】。  \n③显示在打印机驱动程序窗口左侧的当前设置将会被保存。\n\n# 2）删除快捷设置\n\n可删除任何已添加的快捷设置，但内置快捷设置不能被删除。\n\n①在【选择所需的快捷设置】中选择想要删除的快捷设置。  \n②点击【删除配置文件】。  \n③点击【确定】。  \n④所选快捷设置将被删除。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 32,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_32"
+  },
+  {
+    "title": "# 1）纸张尺寸",
+    "content": "# 3）技术支持\n\n至像科技技术支持网站：www.lenovoimage.com\n\n请您访问至像科技官网获取更多的信息和技术支持，为您提供至像科技产品及耗材的相关信息，行业解决方案及服务支持。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/6e143f2912447bc37cd4e02f8c4a9a37b958eb2dd57fc78523d53d584a18f2de.jpg)\n\n# macOS系统中使用驱动程序\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/bbb89b74d6f392dd8dfaed10acbb0fdf93df5b138088abffa5f42751f9153285.jpg)\n\n# 1）纸张尺寸\n\n从下拉列表中选择您正在使用的纸张的大小，可选择A4/Letter/B5/A5/A5(长边)/B6/B6(长\n\n边)/A6/Executive/16K/自定义尺寸。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/29b214938c93affc2c69c958ac66bdbe11f5a5fcb967a01a4fc0c45a83e1fb8b.jpg)\n\n2）用户纸张尺寸（系统内置功能）\n\n①打开您要打印的文件。  \n②按照如下操作：\n\na.选择【文件】>>【页面设置】。从设置弹出菜单选择页面属性，然后从格式弹出菜单选择任意打印机。选择任意打印机可以确保您的文件可以在任意支持您选择的纸张尺寸的打印机上打印。\n\nb.如果页面设置不可用，选择【文件】>>【打印】。如果打印对话框仅包含两个弹出菜单和一些在底部的按钮，点击打印机弹出菜单旁边的三角形。\n\n③从纸张尺寸弹出菜单选择管理用户尺寸。  \n④单击添加按钮【+】。  \n⑤双击纸张尺寸名称，键入一个新的名称。  \n⑥在纸张尺寸和不可打印的区域值域中输入值，然后点击【确定】。\n\nA 提示\n\n系统内置功能：这个内置系统的变化取决于您安装的 OSX 版本。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 33,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_33"
+  },
+  {
+    "title": "# 5）逐份打印",
+    "content": "# 3）方向\n\n可以选择文档打印的位置（纵向或横向）。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/9fe5193ad49b5d4d9859ee16069bb9b4db92c1013d02684c9c87a372fdd0bc82.jpg)\n\n# 4）份数\n\n份数选项可以设置将要打印的份数。\n\n# 5）逐份打印\n\n①选中逐份打印复选框时，将打印出一份完整的副本，然后重复整份打印，直至打印完您 所选择的份数。\n\n②如果未选中逐份打印复选框，打印机将根据设定份数对每一页重复打印。\n\n<table><tr><td>选中逐份打印复选框时</td><td>未选中逐份打印复选框时</td></tr><tr><td><img src=\"images/9203739fef72b17ca5e97314e8a998650fc11970ebf2c5fe278404c00f1cd11c.jpg\"/></td><td><img src=\"images/8766e9fc95bee89dcb39df526fb03b94f6112ef33c30c1f4ccf07872ebeb951e.jpg\"/></td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 34,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_34"
+  },
+  {
+    "title": "# 9）双面打印",
+    "content": "# 6）纸张类型\n\n本设备支持下列纸张类型：普通纸、再生纸、厚纸，选择你想使用的纸张类型，以便获得最佳打印质量。\n\n# 7）打印设置\n\n调整亮度：亮度指的是颜色的亮度/暗度水平，增加亮度能使亮度接近白色。\n\n# 8）布局（系统内置功能）\n\n①每张页数：您可以使用这个功能将多个页面打印在同一张纸上，可选择：“1、2、4、6、9、16”。  \n②布局方向：选择每页N 版选项时，你可以设置布局方向选择在一张纸上的连续页的位置。  \n③边框：使用多页功能将多个页面打印在同一张纸上时，您可以选择为纸张添加边框。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/738072fb38ff7ddc7da9e2e5583b741e65c05a23c5408ad560a45ca017683ce2.jpg)\n\n# 9）双面打印\n\n如果您想进行双面打印，请使用此选项。\n\n带自动双面打印功能的机型使用流程：\n\n①请在打印机特性中选择双面打印选项框中选择长边翻页或短边翻页。  \n②打印机将会按设置的参数自动进行双面打印。\n\n不带自动双面打印功能的机型使用流程：\n\n①用户使用手动双面打印选项设置打印一份文件。  \n②第一面打印偶数页（...8,6,4,2）。  \n③第一面打印完成后，取出剩余白纸，将已打印纸张翻转，且页眉朝上，再次放入打印机。\n\n④放回纸张后，按一下正在闪烁红灯的 G 键。  \n⑤打印机继续打印第二面。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 35,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_35"
+  },
+  {
+    "title": "# 打印开始前取消打印作业",
+    "content": "# 10）色彩平衡\n\n您可以通过调节墨粉浓度为黑色进行调节。\n\n# 11）省墨模式\n\n应用省墨模式会使打印出的颜色更淡并且节省墨粉。\n\n# 12）画像旋转\n\n您可以在打印前将画像调整180度。\n\n# 13）亮度\n\n您可以进行亮度的调节，调节范围：-100～100。\n\n# 14）跳过空白页\n\n如果选中跳过空白页，打印机驱动程序会自动检测空白页并且不打印空白页。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/77392b579e085ae88ccbb45861cf1e68bf1e1aa2ff98d464bcd7b47dc3e6d5bc.jpg)\n\n# 注意\n\n当您选择以下选项时：多页打印、双面打印，此选项不可用。\n\n# 取消打印\n\n如果您需要取消打印作业，根据打印状态不同操作不同。\n\n# 打印开始前取消打印作业\n\n1）在计算机任务栏上双击打印机图标，出现任务框。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/01027243c3571f1773faeb1b30f41edd38f9e059ad266fc5410e39caf4411f20.jpg)\n\n2）选中【打印任务】，之后点击【右键】，然后单击【取消】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/91b875493c8cdb882b146e6d1389f319b84eb2c0becb3ac741da7448b45a385b.jpg)\n\n3）点击【是】，打印任务取消。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/ecd945fdee9f58f3cd312177d2fef27e5d1d1c15e6e8aa95b4b4476d3afbe02f.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 36,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_36"
+  },
+  {
+    "title": "# 在扫描仪玻璃板上放置原稿",
+    "content": "# 打印进行中取消打印作业\n\n点击操作面板上的 键，操作面板上 键闪烁，电源键红灯 和绿灯 每0.5秒交替闪烁，显示取消当前任务。\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果取消的打印作业已经在处理中,则会继续打印几页后才会取消。</td></tr><tr><td>取消多页打印作业可能需要一段时间。</td></tr></table>\n\n# 复印\n\n# 放置原稿\n\n# 关于原稿\n\n# 1）建议的原稿尺寸\n\n宽度不超过216mm，长度不超过297mm，重量≤3kg。\n\n# 2）无法扫描的图像区域\n\n即使原稿正确放置，其周围 1 毫米左右的边距可能无法扫描。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/2cff373b457773d10d4f9ecc68146df951e365b16c07e0c40a57a395a725e3d1.jpg)\n\n# 在扫描仪玻璃板上放置原稿\n\n1）抬起扫描仪盖板。  \n2）将原稿正面朝下放置在扫描仪玻璃板上，原稿应与左上角对齐。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/8e5d4df6dceb8d336f6988f9eb37da206d33136278e7f91ae80e0f79e3919780.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 37,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_37"
+  },
+  {
+    "title": "# 身份证复印",
+    "content": "# 3）放下扫描仪盖板。\n\n<table><tr><td rowspan=\"2\">注意</td><td>在原稿上的墨粉完全干燥前,请勿放置原稿。否则可能在扫描仪玻璃板上留下印记,并且出现在复印件上。</td></tr><tr><td>使用厚重、折叠或装订的原稿时,或者盖子无法完全放下时,请双手按住扫描仪盖板。</td></tr></table>\n\n# 机身按键复印\n\n# 普通复印\n\n1）将您要复印的文件或证件放置于扫描仪玻璃板上，需要复印的面朝下。  \n2）就绪状态下，根据复印需求在操作面板上设置相应的参数，如份数、浓度等。  \n3）设置就绪后，按操作面板上的开始键，进行复印。  \n4）操作面板上 开始 键闪烁， 键绿灯闪烁，状态为复印中/连续复印中。\n\n<table><tr><td>提示</td><td>如果打印机处于休眠状态,操作面板上 开始 键灯不亮, ⏻ 键绿灯慢闪,按任意键唤醒打印机,之后使用打印机进行复印任务。</td></tr></table>\n\n# 身份证复印\n\n您可以通过使用打印机上按键将身份证的两面复印到纸张的一面上。\n\n1）将身份证放置于扫描仪玻璃板上复印最佳区域内。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/6d67f7ff04448f355a4d58269d00309aa84c7e00322deb7fbcb2ac877f2e98d1.jpg)\n\n2）根据身份证复印需求在操作面板上选择复印模式为身份证复印，然后再选择复印的份数。  \n3）就绪状态下，按操作面板上的 键，进行身份证复印。\n\n<table><tr><td rowspan=\"2\">提示</td><td>如果在1分钟内,您没有任何操作动作,打印机将会退出此模式,回到就绪状态。</td></tr><tr><td>如果身份证复印失败,请尝试确认及操作:1.确认玻璃板是否擦拭干净;2.扫描盖板是否有漏光;3.盖好上盖重置打印机,重新做一下校准。</td></tr></table>\n\n4）进入身份证复印模式后，点击操作面板上 键，开始扫描证件的第一面。  \n5）操作面板上 键绿灯闪烁，并且 G 键绿灯闪烁，此时为等待扫描证件第二面。  \n6）请将证件翻面，放置位置仍保持放置在扫描仪玻璃板复印最佳区域内，按操作面板上的始键一下，进入第二面扫描模式。  \n7）打印机会自动打印出您要复印的证件，证件的正反面在同一张纸的一面上。\n\n<table><tr><td>提示</td><td>证件复印完后,证件复印功能将会保持1分钟,您可以继续进行下一张身份证复印,如果1分钟内,没有任何操作动作,打印机将会退出身份证复印功能,回到就绪状态。在复印过程中您也可以按操作面板取消键退出身份证复印功能。</td></tr><tr><td></td><td>如果身份证复印失败,请尝试确认及操作:1.确认玻璃板是否擦拭干净;2.扫描盖板是否有漏光;3.盖好上盖重置打印机,重新做一下校准。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 38,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_38"
+  },
+  {
+    "title": "# 注意",
+    "content": "# 联想打印 App 复印\n\n# 普通复印\n\n手机/平板与打印机连接后，您可以通过手机/平板中的联想打印 App，进行单面复印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/3d6b17b05fa9e3de6005878be09f7b220c4a38271b6d8228e4e9d7d821aa18b8.jpg)\n\n# 注意\n\n复印操作前，需将手机/平板连接和打印机相同的路由器 Wi-Fi。\n\n1）打开扫描盖板，将原稿正面朝下，按左后角对齐原则，放入扫描区并盖上盖板。  \n2）在【联想打印】App中打开主页面，点击【复印】。在复印参数设置界面，设置好复印参数后，点击【开始复印】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/fc3e43e8d1343404dff6a3985ced5bfbb7496d10137977d77d941137cee781d6.jpg)\n\n※复印相关参数如下（打印机不同插件版本，复印参数可能略有不同，请以实际界面为准）：\n\n 复印到双面，默认为单面，按需点击选择。  \n 品质：默认为良好（300 dpi），您可以设置为良好（300 dpi）、极佳（600dpi）。  \n 浓度：默认为标准，按需点击选择相应浓度。  \n 原稿尺寸：默认为 A4 纸，有 A4、A5（纵向）、B5、Letter、Executive 等选项，请根据原稿尺寸进行选择。  \n原稿类型：默认为图片，您可以设置为图片、文档。  \n 每张复印页数（N 合1复印）：默认为1 页，每张打印页数可选择1、2、4、9页数。  \n 输出纸张尺寸：默认为 A4 纸，有 Letter、A4、A5（纵向）、A6、B5、B6（纵向）Executive、16K等选项，请根据纸盒中的纸张尺寸进行选择。\n\n 纸张类型：默认为普通纸，有普通纸、再生纸、厚纸等选项，请根据纸盒中的纸张类型进行选择。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 39,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_39"
+  },
+  {
+    "title": "# 普通复印",
+    "content": "# 身份证复印\n\n如果需要将身份证正反面复印到同一张A4 纸上，可按照以下步骤进行操作：\n\n1）打开扫描盖板，将证件正面朝下，按左后角对齐原则，放入扫描区并盖上盖板。  \n2）在【联想打印】App中打开打印机设备页面，点击【复印】>>【身份证复印】。在复印参数设置界面，设置好复印参数后，点击【开始复印】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/398e473971b56213be1dbd34a617f3c53a0fcd2771d023ab24199e9dc4a6ffb7.jpg)\n\n# 电脑端软件复印\n\n# 普通复印\n\n在复印功能页设置好复印参数后，点击【复印】按钮即可。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/cf9b1fa723fd29bdce736feedc2ace92d945a6bc50e7dd8c9d6e732248280554.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 40,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_40"
+  },
+  {
+    "title": "# 双面复印",
+    "content": "# 双面复印\n\n如需双面复印，可按照以下步骤进行操作：\n\n1）在复印功能页点击【双面复印】并设置好复印参数后，点击【双面复印】按钮即可。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/a314179b3efe300c704f00d102e5fb430b303a2941498865fe069c59b87d4ecd.jpg)\n\n2）按照弹出的动画提示放置第一页原稿，然后点击【确定】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d27b2b96d455fe85f945f87de3956c3a752cbad26e9aefca2ee3b983bc63bb80.jpg)\n\n3）按照界面提示放置第二面原稿，按一下闪烁的 开始 键完成双面复印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/15398cf186f20b0105a4835184d0cb78b5ac31af64ebe2a00fc7b4b9f4645b92.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 41,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_41"
+  },
+  {
+    "title": "# 身份证复印",
+    "content": "# 身份证复印\n\n如果需要将身份证正反面复印到同一张A4 纸上，可按照以下步骤进行操作：\n\n1）在复印功能页点击【身份证复印】并设置好复印参数后，点击【身份证复印】按钮即可。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/742361856dc913a41cdfd5cc5059f807420616802ebacdcf7e3f1913bcdd987c.jpg)\n\n2）按照弹出的动画提示放置第一页原稿，然后点击【确定】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/b08a64f7f1bf54319f2bb433eed25591983e17c637fd4b1baa04d8df24847373.jpg)\n\n3）按照界面提示放置第二面原稿，按一下打印机闪烁的 键完成身份证复印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/23fce691a415c7bb1bd4044ee1db6d07e19d81fdbd5c89e475ca4350c1aa6255.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 42,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_42"
+  },
+  {
+    "title": "# N合1复印",
+    "content": "# N合1复印\n\n如果需要将多张原稿复印到一张纸上，可按照以下步骤进行操作：\n\n1）在复印功能页面中选择【更多设置】，点击【N合1复印】，点选【N合1复印数量】，点击【确定】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/aa96f70ed01465008a3f973685535661acab28cceb06250f589da7486934ebb4.jpg)\n\n2）按照弹出的动画提示放置第一页原稿，然后点击【确定】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/35d07083be3e39d5a76cd0a2e3602e8f9dcb177c7ebd5489dc457153d462d97b.jpg)\n\n3）当第一页原稿复印后，打印机上 2 个绿色指示灯闪烁，请在1 分钟之内按照弹出的动画提示放置后面的原稿，按打印机操作面板的 键；循环本步骤，直至打印机吐纸。  \n4）N 合1复印完成。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 43,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_43"
+  },
+  {
+    "title": "# ！ 注意",
+    "content": "# 取消复印\n\n1）按操作面板上 取消 键即可以取消当前正在进行的复印作业。  \n2）操作面板上 键闪烁，电源键红灯 和绿灯 每0.5 秒交替闪烁，显示取消当前任务。\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果机器正在扫描原稿时取消复印,则复印会立即取消且没有打印输出复件。</td></tr><tr><td>如果在打印过程中取消复印,则系统将在打印输出当前页面之后取消复印过程。</td></tr></table>\n\n# 扫描\n\n# 将原稿扫描至手机/平板中\n\n手机/平板与打印机连接后，您可以通过手机/平板中的联想打印App，将原稿扫描至手机\n\n/平板中。\n\n# ！ 注意\n\n手机/平板需连接和打印机相同的路由器 Wi-Fi。\n\n1）打开扫描盖板，将原文稿正面朝下，按左后角对齐原则，放入扫描区并盖上盖板。  \n2）打开【联想打印】App，在首页点击【扫描】，设置好扫描参数后，根据界面指引操作，点击【开始扫描】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/5dcad8142bb1faf99e22a8c09926f976cf0411bb4c0bbff8d1e3ed9a33febc61.jpg)\n\n※扫描相关参数如下（根据手机系统版本和打印机不同插件版本，扫描参数可能略有不同，请以实际界面为准）：\n\n 品质：默认为标准（300 dpi），您可以设置为好（100 dpi）、更好（200dpi）、推荐（300 dpi）、极佳（600 dpi）、最好（1200 dpi）等选项。  \n 扫描区域：默认 A4（210×297mm），有 A4、A5、B5、Letter、4×6〃等选项。  \n 保持文件色彩模式：默认为彩色，您可以设置为彩色、灰度、黑白。  \n扫描模式：平板扫描。\n\n4）待出现扫描图片时，表示扫描完成。扫描的文件将以 JPG格式自动保存在手机/平板中。打开手机/平板图库，可以查看扫描后的单个JPG文件。\n\n5）若有多个文稿需要同时扫描，点击【继续扫描】，更换原稿后，点击【开始扫描】。\n\n6）全部原稿扫描完成后，长按拖动可以调整扫描文件顺序。勾选已扫描的文件，选择【存另为PDF】。\n\n7）选择保存文件路径。设置好扫描文件名称后，点击【保存】。\n\n8）在手机文件管理器中打开对应的保存路径或App历史记录中查找，即可看到已保存的PDF 文件。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 44,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_44"
+  },
+  {
+    "title": "# 将原稿扫描至电脑中（Windows/macOS）",
+    "content": "# 将原稿扫描至电脑中（Windows/macOS）\n\n将需要扫描的物件放入打印机的扫描区域，使用【至像打印】软件按照以下流程进行操作：\n\n1）在扫描功能页点击【扫描】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4319b48cfd8e633bf1a6326c5d7f534b62e76ae0083d586be1a58cb53128d3b2.jpg)\n\n2）扫描中请耐心等待。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/cdee7fd0f9ad765636955d8efb1dc42941f7e77eebc0d15090bdbeba0a6a7c06.jpg)\n\n3）扫描完成，点击【保存】将扫描文件保存至指定文件夹，或点击【扫描】继续扫描。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/09b12591f92ad6ad66274cbe8f45afcbcafdf0722e5dcd69115ab58b8afadfb2.jpg)\n\n4）点击【打印】，可将扫描图片打印。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 45,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_45"
+  },
+  {
+    "title": "# 使用TWAIN扫描步骤：",
+    "content": "# 通过计算机扫描\n\n通过计算机扫描（TWAIN扫描、WIA扫描和ICA扫描）支持直接从计算机操作机器，并将原稿扫描到计算机中。\n\n# 使用 TWAIN 扫描\n\n本节介绍使用TWAIN扫描仪所必需的准备和操作步骤。\n\n<table><tr><td rowspan=\"2\">提示</td><td>若您要使用 TWAIN 扫描仪,请先从 https://www.lenovoimage.com/ 下载安装您购买机型的驱动程序。</td></tr><tr><td>在您使用 TWAIN 扫描前,必须安装与 TWAIN 兼容的应用程序。</td></tr></table>\n\n# 使用TWAIN扫描步骤：\n\n计算机运行支持TWAIN的应用程序时可实现TWAIN扫描。\n\n1）请将您要扫描的原稿放置于扫描仪玻璃板上。\n\n提示 关于放置原稿的操作，详细信息请参见 >> 放置原稿。\n\n2）使用支持TWAIN的应用程序打开本机的属性对话框。  \n3）根据需要配置扫描设置，然后单击【扫描】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1dd120e46a88cf3828327ec9da2e088fe11100b2210e135ab648493367d3e3b3.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 46,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_46"
+  },
+  {
+    "title": "# 基本扫描",
+    "content": "# 基本扫描\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/06aaab1329b2781dbed71ccc599505f46b81edc53f06dac995410632d01a19b5.jpg)\n\n 图像类型：默认为24 位全色彩，下拉可选黑白、8 位灰度级、24位全色彩。  \n 分辨率：默认为 300 dpi，下拉可选 75 dpi/100 dpi/150 dpi/200 dpi/300 dpi/600dpi/1200 dpi/2400 dpi/4800 dpi/自定义。  \n 自定义：当您选择自定义选项时，将出现自定义对话框供您选择自定义分辨率。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/7c7aaed95c74a8aec3afc59a1d3f3f2f30e337f432f134d3b51d231de2423f5e.jpg)\n\n 扫描尺寸：A4（210×297mm），A5（148 x 210 mm），B5（182×257mm），Letter（8.5 x 11''），4×6''，典型尺寸。  \n扫描方式：快速扫描/高品质扫描。  \n端口：您可以使用此功能配置“端口设定”。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 47,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_47"
+  },
+  {
+    "title": "# 使用 WIA 扫描（Windows）",
+    "content": "# 使用 WIA 扫描（Windows）\n\nWIA 1.0（Windows XP/Windows Server 2003）\n\nWIA1.0提供如下用于扫描的用户界面：\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/ab6f135f277b33b42856fd03de9df51b53497618f5e9b19d290195146a91c66b.jpg)\n\nWIA 2.0（Windows Vista/Windows Server 2008 及以上的版本）\n\nWIA2.0 提供如下用于扫描的用户界面：\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d39a80642296e38e64c1e05e04f21738ffcf48b7c9d6dbc696dda6cf4ccefed0.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 48,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_48"
+  },
+  {
+    "title": "# 网络扫描仪设置（仅适用于带无线网络机型）",
+    "content": "# 使用WIA扫描步骤：\n\n1）请将您要扫描的原稿放置于扫描仪玻璃板上。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/21ef236b61d36057a728711d8a204b02618976ae2017df8fa6951f76a825a18c.jpg)\n\n关于放置原稿的操作，详细信息请参见 >> 放置原稿。\n\n2）在【开始】菜单中，单击【设备和打印机】。  \n3）右键单击您的打印机型号图标，然后单击【开始扫描】。  \n4）根据需要配置扫描设置，然后单击【扫描】。\n\n# 网络扫描仪设置（仅适用于带无线网络机型）\n\n如果您的电脑与扫描仪是通过无线网络相连，在使用扫描仪前请使用“扫描仪连接工具”设置扫描仪的无线参数。操作步骤如下：\n\n1）从开始菜单中选择【扫描仪连接工具】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4840d33a34c36d7e5567f79f2ef240197445137ff2b4c5b309fb2443743271f0.jpg)\n\n2）进入【扫描仪连接工具】界面后点击【搜索】，将会列出您的电脑所处网络中所有搜索到的扫描仪，根据扫描仪的名称或者IP地址选择扫描仪；或者您可以直接在【输入IP地址】栏中输入打印机的IP地址。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/638b4d9f71d75fee21f9b3ab09089653d704bc927003f4a89a33ca7ebeff4b8e.jpg)\n\n3）点击【确定】，网络扫描仪设定完成。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 49,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_49"
+  },
+  {
+    "title": "# 使用 ICA 扫描（macOS）",
+    "content": "# 使用 ICA 扫描（macOS）\n\nICA（图像捕捉）扫描仪设备模块（驱动）支持MacOSX10.6及以上系统，同时支持USB/网络扫描。\n\n驱动程序安装位置为：【应用程序】>>【图像捕捉】>>【设备】。\n\n有两种类型的用户界面：简易版和详细版，均由Mac提供。\n\n简易版用户界面：\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1608ea4ab01cff359ccaf403d5f946a98a591b4aa5fca924d036198e4953ac74.jpg)\n\n详细版用户界面：  \n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/f2de0434c01712eae3fdf7938869aebb04aa2f0b2138d9e43b1c40531ddf6dc2.jpg)\n\n 色彩模式：文本（1bit 图像），黑白（8-bits灰度），颜色（24-bits全色彩）。  \n 分辨率：75 dpi/100 dpi/150 dpi/200 dpi/300 dpi/600 dpi/1200 dpi/2400 dpi/4800dpi。  \n 扫描尺寸：A4，B5/JIS，B5，US Letter（美国信纸），A5，US Executive（美国行政用纸）。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 50,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_50"
+  },
+  {
+    "title": "# 更换鼓粉盒组件",
+    "content": "# 取消扫描\n\n按住操作面板上取消键 聚 1 秒以上，即取消扫描任务。\n\n# 更多操作\n\n# 更换鼓粉盒组件\n\n1）打开机器上盖。  \n2）握住鼓粉组件拉手，向上拉出。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/7ebdcfff1364fd55cd622a7b418ea257e4b6777d3518e178f8c48ea125bd2dbf.jpg)\n\n<table><tr><td rowspan=\"2\">注意</td><td>取出鼓粉盒时,注意高温烫手。</td></tr><tr><td>如果墨粉沾在您的衣服上,用干布擦,并用冷水洗净,热水会使墨粉渗进到纤维中。</td></tr></table>\n\n3）根据打印机的提示，更换相应的墨粉盒或感光鼓。  \n4）安装前请水平轻轻摇晃鼓粉盒五～六次，以使墨粉分布均匀。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4b9d3c09355a314e1a1e74ac87e09542816662827779dee89546ce8b5d769ee2.jpg)\n\n5）将鼓粉组件放到打印机内，确保鼓粉组件卡到位，并关上机器上盖。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/75bdb6889dc84f2e044618a7d2b818d7dbf9a2ebd6abe1f3b8161e5456b6f99b.jpg)\n\n6）通过操作面板按键或软件，复位墨粉盒或感光鼓。\n\n<table><tr><td>复位感光鼓</td><td>在电脑端上进行设置:【设置】&gt;&gt;【高级设置】&gt;&gt;【复位感光鼓】,或者在待机状态下开启上盖,连续按 ⏻ 键5次(2秒内),关闭上盖,待打印机进入待机模式时,则复位完成。⚠ 注意:此操作只能在更换新感光鼓后操作,否则会影响到感光鼓寿命的识别。</td></tr><tr><td>复位墨粉盒</td><td>在电脑端上进行设置:【设置】&gt;&gt;【高级设置】&gt;&gt;【复位墨粉盒】,或者在待机状态下开启上盖,连续按 ⏻ 键2次(1秒内),关闭上盖,待打印机进入待机模式时,则复位完成。⚠ 注意:此操作只能在更换新墨粉盒后操作,否则会影响到墨粉盒寿命的识别。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 51,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_51"
+  },
+  {
+    "title": "# 手动固件升级",
+    "content": "# 恢复出厂设置\n\n打开上盖，按住 键直到 键指示灯橙灯亮（红灯绿灯同时亮）。\n\n# 重置网络\n\n按任意键唤醒打印机，长按 键 3 秒，释放按钮后进行重新配网。 键白灯闪烁，配网进行中，用户进行配网设置。配网成功 键白灯长亮，配网不成功30 分钟后超时，键白灯灭。\n\n# 打印机固件升级\n\n# 手动固件升级\n\n1）在设置功能页，在基本信息里查看打印机固件版本。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/b895d9a53cf49371f0fd9a1c83489860db0a59d534cc31ff58e37998e0370f18.jpg)\n\n2）使用USB线连接电脑与打印，双击运行固件升级包【下载.bat】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/e8940641730d2123f4073e89b20f62c8eefde0d44e65e2e2673a50f368f8766b.jpg)\n\n3）确认固件更新成功，下边红框显示为 complete表示固件已下载至打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/d0d1ec92194dc9bc7b84df02b2200e59f8e7c28e888722c5368490ac2fab2853.jpg)\n\n4）更新完成后打印机自动重启至待机状态。  \n5）先关机，打开上盖，长按 键10 秒以上， 键呈黄灯时释放按键，合上上盖，让机器完成重置动作，直至操作面板显示“01”。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/de1e4488c132a77e81ed518f53d76e835517a8a99eecd0a06a7087b43620d4de.jpg)\n\n6）快速按 键3 次，再次打印帮助信息页，确认版本及其它产品信息。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 52,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_52"
+  },
+  {
+    "title": "# 感光鼓和墨粉盒的储存",
+    "content": "# 软件固件升级\n\n请确保手机与打印机配置的网络为同一个网络。点击【联想打印】>>【我的】>>【固件升级】，App 自动判断是否有新固件版本。如需更新，设备需在通电状态下等待5-10 分钟（受用户网络环境影响），升级成功后设备会自动重启。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/98e901523f4c75ea978107da848d9fd69e3fa8552ebcc9e754fce2b4afa3b261.jpg)\n\n# 查看打印机基本信息\n\n您可以通过打印帮助信息页查看您的打印机的基本信息及参数，比如打印机的型号名、网络参数、打印机热点的名称和密码、墨粉余量、废墨粉和打印总页数。\n\n帮助信息页操作步骤：打印机就绪状态下，在 2 秒内连续按 3 次 键，看到指示灯状态显示为 键绿色灯闪烁，说明任务设置成功，打印机会自动打印帮助信息页。\n\n# 机器维护\n\n# 维护感光鼓和墨粉盒\n\n# 感光鼓和墨粉盒的储存\n\n为了使感光鼓和墨粉盒发挥最大作用，请您牢记下列准则：\n\n 直到准备安装时，才将感光鼓或墨粉盒从它的包装中拿出来。  \n 不建议再次灌装墨粉盒，对打印机的保证不包括由于使用再次灌装墨粉盒而引起的损坏。  \n 不建议使用非原装正品的感光鼓，对打印机的保证不包括由于使用非本机官方配套的感光鼓而引起的损坏。\n\n 将感光鼓和墨粉盒储存在于打印机相同的环境中。应将感光鼓和墨粉盒存放于阴凉处。  \n 为了防止损坏感光鼓，不要将它暴露在光线下长达数分钟。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 53,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_53"
+  },
+  {
+    "title": "# 省墨",
+    "content": "# 感光鼓和墨粉盒的寿命\n\n感光鼓和墨粉盒的寿命取决于打印任务需要使用量。以打印“ISO/IEC19752”测试页进行计算，随机的墨粉盒的寿命平均为1000页，感光鼓的寿命平均为10000 页，零售墨粉盒 1500 页。\n\n 如果使用纸张不是推荐纸张，则感光鼓、墨粉盒和设备零件的寿命会因此而缩短。  \n感光鼓和墨粉盒的更换频率因打印页面、打印覆盖率和使用纸张类型的不同而有所不同。\n\n# 感光鼓和墨粉盒的回收\n\n请根据当地法规处理使用过的感光鼓和墨粉盒，并将其与生活垃圾分开。\n\n如果您有任何问题，请致电当地的废品处理站。务必重新密封感光鼓和墨粉盒以防内部墨粉溅出。\n\n我们建议您将使用过的感光鼓和墨粉盒放在干净的纸上，以防止墨粉意外溅出或散落。\n\n# 省墨\n\n打印机的属性设置中启用省墨模式。选择此选项，可延长墨粉盒使用寿命，降低打印每页的成本，但是也降低了打印质量。\n\n<table><tr><td>提示</td><td>如果机器墨粉不足和感光鼓使用寿命快结束时,操作面板上状态耗材指示灯 耗材 会显示红灯长亮,同时 ⏻ 键红灯会慢闪。</td></tr></table>\n\n如果打印的图像突然变浅或模糊，则请根据【至像打印】软件提示更换感光鼓或墨粉盒。\n\n 实际可打印的数量因图像数量和浓度、一次打印的页数、纸张类型和尺寸以及环境条件（如温度和湿度）而异。墨粉质量会随时间下降。  \n 为了获得良好的打印质量建议您使用原装正品感光鼓和墨粉盒。  \n对因在办公产品上使用非原装部件而导致的任何损坏或损失，本公司概不负责。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 54,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_54"
+  },
+  {
+    "title": "# 清洁打印机内部",
+    "content": "# 清洁打印机\n\n为了保持良好的打印质量，在每次更换鼓粉组件或出现打印质量时，执行下面的清洁程序。\n\n# 清洁注意事项\n\n请定期清洁机器以维持较高的打印质量。\n\n 用软布干擦机身表面。如果干擦不够，请使用完全拧干的柔软湿布擦拭。  \n·如果仍然不能去除污垢污渍，请使用中性清洁剂，为防止变形、变色或破裂，请勿使\n\n用挥发化学物品（例如汽油、稀释剂或喷雾杀虫剂）擦拭机器，用完全拧干的湿布反复擦拭，然后干擦该区域使其干燥。\n\n 在清洁打印机内部时，小心不要触及转印辊（位于鼓粉组件下面），手上的油污会引起打印质量问题。  \n如果机器内部有灰尘或污渍，请用清洁的干布擦拭。  \n 每年必须至少从墙壁插座上拔掉插头一次。清除插头和插座上的所有灰尘和污垢，然后再重新连接。积聚的灰尘和污垢可能导致起火危险。\n\n# 清洁打印机外部\n\n用清洁的、干的无绒布清洁打印机的外部。\n\n# 清洁打印机内部\n\n在打印过程中，纸、墨粉和灰尘颗粒会堆积在打印机内。时间久了之后，这些堆积物会引起打印质量问题，例如墨粉斑点、污迹和卡纸，清洁打印机内部可消除或减少这些问题。\n\n1）关闭打印机，然后拔下电源线，等待打印机冷却。  \n2）打开上盖，拿出鼓粉组件。  \n3）用干的无绒布擦去鼓粉组件区域和放鼓粉组件的空间上的灰尘和洒落的墨粉。  \n4）重新安装上鼓粉组件，并关紧上盖。\n\n5）插上电源线，接通打印机电源。\n\n<table><tr><td rowspan=\"2\">注意</td><td>为了防止损坏感光鼓,不要将感光鼓暴露在光线下长达数分钟。</td></tr><tr><td>如需要请用纸盖上它,不要触及打印机内部转印辊。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 55,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_55"
+  },
+  {
+    "title": "# 送纸问题",
+    "content": "# 清洁扫描仪玻璃板\n\n1）抬起扫描仪盖板。  \n2）用软湿布清洁扫描仪玻璃板部件，然后用干布擦拭相同部件，以去除所有剩余的水。\n\n# 故障排除\n\n# 常见问题\n\n本节介绍如何对操作机器时可能出现的常见问题进行故障排除。\n\n<table><tr><td>问题</td><td>可能的原因</td><td>解决方法</td></tr><tr><td>机器无法开机</td><td>没有正确连接电源线</td><td>● 确保电源插头牢牢地插入墙上插座中。● 通过连接其他工作设备,确保墙上插座没有故障。</td></tr><tr><td>无法打印</td><td>USB 线未正确连接</td><td>重新连接 USB 线</td></tr><tr><td>听到奇怪的噪音</td><td>鼓粉组件未正确安装</td><td>检查感光鼓和墨粉盒是否已正确安装</td></tr><tr><td>提示</td><td colspan=\"2\">如果这些问题依然存在,请关闭电源,拔下电源线,然后与您的销售或服务代表联系。</td></tr></table>\n\n# 送纸问题\n\n如果机器运行正常，但无法送纸或者频繁卡纸，请检查机器和纸张的情况。\n\n<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>纸张无法顺利送入</td><td>● 使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸。● 正确装入纸张,确保正确调整纸张导板。请参见 &gt;&gt; 装入纸张。● 如果纸张卷曲了,请弄平纸张。● 从进纸托盘中取出纸张并将其扇开。随后,颠倒纸张顶部和底部,然后放到进纸托盘中。</td></tr><tr><td>经常出现卡纸</td><td>● 如果纸张和挡纸板之间有缝隙,请调整纸张导板以消除缝隙。● 在打印包含大面积纯色的图像(这些图像会消耗大量墨粉)时,请避免在纸张的两面上进行打印。● 使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸。● 装纸时,请确保纸张高度不超过纸张导板上的上限标记。</td></tr><tr><td>一次送入多张纸</td><td>● 在装纸前,将纸来回弯曲,使纸松动,再扇动纸。在桌子上墩齐纸的边缘。● 确保进纸托盘位于正确的位置。● 使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸。● 装纸时,请确保纸张高度不超过纸张导板上的上限标记。● 检查是否在进纸托盘中还有少量纸的情况下直接添加了新纸,请将打印机进纸托盘中剩余的纸张拿出来,然后将它们放入新的纸张中,重新扇开墩齐后放回进纸托盘中。</td></tr><tr><td>纸张有褶皱</td><td>● 纸张潮湿。请使用保存良好的纸张。● 纸张过薄。请参见 &gt;&gt; 纸张尺寸。● 如果纸张和纸张导板之间有缝隙,请调纸张导板以消除缝隙。</td></tr><tr><td>打印的纸张卷曲</td><td>● 在进纸托盘中颠倒装入纸张。● 纸张潮湿。请使用保存良好的纸张。</td></tr><tr><td>打印到页面上的图像是斜的</td><td>如果纸张和纸张导板之间有缝隙,请调节纸张导板以消除缝隙。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 56,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_56"
+  },
+  {
+    "title": "# 打印问题-1",
+    "content": "# 打印问题\n\n<table><tr><td>类型</td><td>问题</td><td>解决方法</td></tr><tr><td>打印常见问题</td><td>打印出错</td><td>● 如果打印时出错,请更改计算机和打印机驱动程序设置。</td></tr></table>\n\n故障排除 \n\n<table><tr><td rowspan=\"8\"></td><td></td><td>● 检查其他应用程序是否正在运行。关闭其他应用程序,因为它们可能会干扰打印。● 如果问题没有解决,请另外再关闭不需要的进程。检查是否使用了最新的打印机驱动程序。</td></tr><tr><td>打印启动命令和实际打印之间的时间间隔太长</td><td>● 处理时间取决于数据量。处理大量数据(例如图形密集型文件)的时间较长。稍等片刻。● 要加快打印速度,请使用打印机驱动程序来降低打印分辨率。</td></tr><tr><td>整个打印输出模糊不清</td><td>● 纸张潮湿。请使用保存良好的纸张。请参见 &gt;&gt; 纸张尺寸。● 如果启用了【省墨模式】,则打印浓度通常比较低。● 可能聚集了冷凝物。如果温度或湿度变化较快,请在本机适应环境以后再使用。</td></tr><tr><td>使用某个应用程序时,无法正常打印,或者无法正常打印图像数据</td><td rowspan=\"2\">更改打印质量设置。</td></tr><tr><td>打印的某些字符暗淡,或者没有打印某些字符</td></tr><tr><td>打印纸卷曲破损</td><td>使用干爽的纸张;将纸张放置在纸仓后,调节纸张导板,将纸张轻轻夹住。</td></tr><tr><td>文件转换慢</td><td>与文件页数和网络速度有关,请耐心等待。</td></tr><tr><td>打印任务不能排队,多任务并行</td><td>建议在PC端使用USB连接或局域网下尝试,移动端App不支持。</td></tr><tr><td rowspan=\"4\">打印质量问题</td><td>机器的位置有问题</td><td>确保机器位于水平表面上。将机器放在不会摇动或震动的位置。</td></tr><tr><td>使用了不受支持的纸张类型</td><td>确保机器支持您所使用的纸张。请参见 &gt;&gt; 纸张尺寸。</td></tr><tr><td>纸张类型设置不正确</td><td>确保打印机驱动程序的纸张类型设置与装入的纸张类型一致。请参见 &gt;&gt; 纸张尺寸。</td></tr><tr><td>使用的是非原</td><td>使用的是非原装感光鼓和墨粉盒。非原装感光鼓和墨粉盒会降低</td></tr></table>\n\n故障排除 \n\n<table><tr><td rowspan=\"3\"></td><td>装耗材</td><td>打印质量,而且会引起故障。请使用原装感光鼓和墨粉盒。</td></tr><tr><td>使用的是旧感光鼓和墨粉盒</td><td>● 感光鼓和墨粉盒应在过期日期之前打开并在打开以后六个月内使用。</td></tr><tr><td>机器脏了</td><td>● 根据需要清洁机器。请参见 &gt;&gt; 清洁打印机。</td></tr><tr><td rowspan=\"2\">打印位置与显示位置不一致</td><td>页面布局设置的配置不正确</td><td>检查应用程序中是否正确配置了页面布局设置。</td></tr><tr><td>纸张尺寸设置与装入的纸张不一致</td><td>检查打印机驱动程序中指定的纸张尺寸是否与装入的纸张尺寸一致。</td></tr></table>\n\n复印问题",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 打印问题",
+    "chunk_index": 57,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_57"
+  },
+  {
+    "title": "# 打印问题-2",
+    "content": "<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>复印的纸张为空白</td><td>放置原稿时正反颠倒,按照正确的方向放置原稿。</td></tr><tr><td>复印的页面太深或太淡</td><td>在【至像打印】软件的复印功能中调整图像浓度。</td></tr><tr><td>复印的页面看起来与原稿不一样</td><td>在【至像打印】软件的复印功能中根据原稿类型选择正确的扫描模式。</td></tr><tr><td>复印照片印刷材料时,复印件上出现黑点</td><td>● 由于湿度较高,原稿可能粘到扫描仪玻璃板上了。● 将原稿放在扫描仪玻璃板上,然后将两张或三张白纸放在它上面。● 复印时未合上扫描仪盖板。</td></tr><tr><td>复印的图案有波纹</td><td>原稿可能有一些线条或点比较密集的区域。在【至像打印】软件的复印功能中在【照片】和【文字/照片】设置之间切换可能会减少波纹图案。</td></tr><tr><td>复印的纸张很脏</td><td>● 图像浓度过高。调整图像浓度。● 打印页表面上的墨粉没有干。复印以后,请勿立即触碰打印表面。逐一取走刚刚打印的纸张,注意不要触碰打印区域。● 扫描仪玻璃板上有脏污,请清洁扫描仪玻璃板。请参见 &gt;&gt; 清洁扫描仪玻璃板。● 将原稿放在扫描仪玻璃板上之前,请确保墨粉或修正液是干的。</td></tr><tr><td>从扫描仪玻璃板复印时复印件的打印区域未与原稿对齐</td><td>将原稿复印面朝下放置,确保它与左后角对齐并在扫描仪玻璃板上将它压平。</td></tr><tr><td>纸张尺寸设置与装入的纸张不一致</td><td>检查机器上指定的纸张尺寸是否与装入的纸张尺寸一致。</td></tr></table>\n\n扫描问题\n\n<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>扫描的图像脏</td><td>● 扫描仪玻璃板上有脏污,请清洁扫描仪玻璃板。请参见 &gt;&gt; 清洁扫描仪玻璃板。● 将原稿放在扫描仪玻璃板上之前,请确保墨粉或修正液是干的。</td></tr><tr><td>扫描的图像变形或错位</td><td>扫描过程中原稿被移动。扫描过程中请勿移动原稿。</td></tr><tr><td>扫描的图像上下颠倒</td><td>放置原稿时正反颠倒放置。按照正确的方向放置原稿。</td></tr><tr><td>扫描图像为空白</td><td>放置原稿时正反颠倒。</td></tr><tr><td>扫描的图像太深或太淡</td><td>调整图像浓度。</td></tr><tr><td>扫描有阴影</td><td>放置原稿时,需压平,尤其有厚度的原稿,否则会透光,致使扫描不清晰,有阴影。</td></tr><tr><td>扫描有轻微色差</td><td>性能限制,可尝试调整扫描质量。</td></tr><tr><td>扫描速度较慢</td><td>高质量扫描规格会影响速度;扫描完成后,需要等待扫描杆归位。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 打印问题",
+    "chunk_index": 58,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_58"
+  },
+  {
+    "title": "# 机器自动强排",
+    "content": "# 清除卡纸\n\n打印过程中有时会出现卡纸现象。打印介质被卡住时，您会通过【至像打印】软件提供的出错信息和打印机的指示灯状态显示得到通知。\n\n# 卡纸的原因\n\n给纸盒内纸装得不正确，或装得太多。  \n在打印时，上盖或后盖被打开。  \n纸张不符合要求的规格。请参见 >> 纸张尺寸。\n\n使用的纸张尺寸超出允许的大小范围。请参见 >> 纸张尺寸。\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果出现卡纸,操作面板上卡纸指示灯 卡纸 会显示红灯,同时 ⏻ 键红灯长亮。</td></tr><tr><td>如果看不清卡纸的位置,先检查打印机内部。</td></tr></table>\n\n# 机器自动强排\n\n卡纸时请首先使用自动强排功能，开关上盖机器将自动排纸。若自动强排，机器无反应，建议手动排纸。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/e6efa093573e9ce664b7f19b743341863dfd350812bf79b566044b6421c313ff.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 59,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_59"
+  },
+  {
+    "title": "# A 注意",
+    "content": "# 手动排纸\n\n若机器不能自动强排，请按照以下步骤完成手动排纸。\n\n# 1）纸卡在出纸区域\n\n# A 注意\n\n如卡纸在这个区域，可能会引起墨粉洒在纸上。如果您的衣服沾上墨粉，用冷水清洗，因为热水会使墨粉进入纤维。\n\n①打开打印机上盖。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/f06c7949efc0df3f7266db2a73f81e22cedfcfcf9ede860c0900f42f75114260.jpg)\n\n②拿出鼓粉组件。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/feb3806c54510e957784f7e3161907aa1093999789a42450f84ab9ff5ddbe4ca.jpg)\n\n③小心地将卡住的纸拉出出纸口。注意不要撕坏纸张，避免碎纸残留。\n\n④放回鼓粉盒。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/eb8a59e91d0fdc4e9cd8fff45bc244173a9270b36980a095f60d3e6cb4b1aacf.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0f65e61ff702225f4b71986252e722e6b80dcc174b9b35739990f442309370cd.jpg)\n\n⑤合上上盖，恢复打印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/6cdbc7bb61f45a2628dd0728abdacd6509cd7555217184361eef7b4ca6165abc.jpg)\n\n⑥如果以上操作无法清除卡纸，需要打开后门进行手动排纸，把卡住的纸张取出后，关上后门，恢复正常打印。（详情看\\*纸卡在定影部分）\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/4dc937d21a4e1d5399df52b59213edbecc7fb2978d6445ea04fb1f80fea3cf96.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 60,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_60"
+  },
+  {
+    "title": "# 2）纸卡在打印机内部",
+    "content": "# 2）纸卡在打印机内部\n\nA 注意\n\n如果纸已经进入鼓粉组件区域，按照如下步骤操作。\n\n如果 键依然红灯亮，说明仍然有纸卡在打印机内部。请检查打印机内部。\n\n①打开打印机上盖，拿出鼓粉组件。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/288edc27fb6d05bd51cabd08e5375cdcd9207674b1f483deb5f587ad6fbbd299.jpg)  \n注意烫手\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/28c1634d2fbb80154b590e83556098242b3c70567c7926e4c6d42af7c3178918.jpg)\n\n②小心地拉出卡在机器内部的纸。注意不要撕坏纸张，避免碎纸残留。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/01a047cbece3e2b4436ae38de8189a643d110f8f4be852715d397f77f9e7d794.jpg)\n\n③重新装回鼓粉组件并合上上盖。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/679c9c2003ad400afa8284deccdc1dc09dd291c7b0c331551ad584054f78a37b.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 61,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_61"
+  },
+  {
+    "title": "# 3）纸卡在进纸区域",
+    "content": "# 3）纸卡在进纸区域\n\n<table><tr><td rowspan=\"2\">注意</td><td>如纸卡在这个区域,可能会引起墨粉洒在纸上,如果您的衣服上沾上墨粉,用冷水清洗,因为热水会使墨粉进入纤维。</td></tr><tr><td>为了防止损坏感光鼓,不要将它暴露在光线下达数分钟,当将它从打印机内取出后,用一张纸盖住它。</td></tr></table>\n\n①打开打印机给纸盒。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/51a33836a5ea3665e982c58ac1dffc83b2ddd5b6325c5334224c311e7d942ce0.jpg)\n\n②机器稍稍向后倾斜，双手握住小手柄向下打开双面导纸板，并轻轻地将纸向您的方向从打印机内拉出。确保没有纸留在打印机内部。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/9fabb4d1085dfbc787739cca4b6eea98ed32112f50782e1e9f406b99d76e9b15.jpg)\n\n③装好给纸盒，打印机恢复打印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0275b328df2c18cbf81bd75c357462237d22da68a153871a7317ca74dfdd12ec.jpg)\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果 ⏻ 键依然红灯亮,说明仍然有纸卡在打印机内部。</td></tr><tr><td>请检查打印机内部。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 62,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_62"
+  },
+  {
+    "title": "# 4）纸卡在定影区域",
+    "content": "# 4）纸卡在定影区域\n\n①向下打开打印机后盖。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/30a0d83cbcd7ff074aa9f7a52973591b473294b13765b37f538128a8be557af6.jpg)\n\n②如果发现卡纸，请往下拨动两侧的蓝色压解除把手，小心地拉出所卡纸张，注意不要撕坏纸张。卡纸取出后，请上抬蓝色压解除把手回到原位置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/5aa8758d2828e9216e2eb016134251594fe0f6f642750a7150a06747c98f9fda.jpg)\n\n③关紧后盖和纵向导纸板，恢复打印机即可打印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/1cc325d6ce58e90f3a3e359801e0db5a8710967eedba23fe34680b9e87f8dc1a.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 63,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_63"
+  },
+  {
+    "title": "# 耗材的注意事项",
+    "content": "# 避免卡纸的注意事项\n\n选择正确的纸张类型，可以避免大部分卡纸。如果发生了卡纸，请按照“清除卡纸”中的步骤操作。\n\n. 正确地装入纸，正确调整纸张导板的位置。请参见 >> 装入纸张。  \n不要向进纸盘装入过多的纸。  \n正在进行打印时，不要从进纸托盘内取出纸。  \n在装入纸之前，弯曲、扇开和展平纸。  \n不要使用皱的、折叠过的、受潮的或非常卷曲的纸。  \n不要在一个进纸盘内混装不同类型的纸。  \n仅使用推荐的纸张。  \n将打印介质保存在适当的环境中。\n\n# 重要信息\n\n卡纸上可能覆盖有墨粉。注意不要使其沾到手上或衣服上。  \n 清除卡纸后，如果立即进行打印，则打印上的墨粉可能无法充分定影，从而弄脏纸张。打印一些测试页，直到不再出现污迹为止。  \n 请勿用力取出卡纸，因为卡纸可能会撕破。残留在机器中的碎片会导致以后卡纸并且可能损坏机器。  \n 卡纸可能导致页面丢失。请检查打印作业是否有丢失的页面，并重新打印没有打印输出的页面。\n\n# 注意事项\n\n# 耗材的注意事项\n\n如果使用非正品耗材，则无法保证机器正常运行。  \n 根据打印条件，有时候打印机无法打印出规格中说明的纸张数量。  \n 如果打印的图像突然变浅或模糊，请更换墨粉盒或感光鼓。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 64,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_64"
+  },
+  {
+    "title": "# 鼓粉组件",
+    "content": "# 移动和搬运机器\n\n本节介绍您在长/短距离范围内移动机器时必须注意的事项。\n\n长距离移动机器时，请使用原始包装材料来重新包装机器。  \n 运输之前，请务必拔下机器上的所有电缆。  \n本机是精密设备。移动时，请务必小心操作。  \n 请务必水平移动机器。上下楼梯搬运机器时，请格外小心。  \n 移动机器时请勿取出鼓粉组件。  \n·移动机器时，请务必让机器保持水平。为了防止墨粉溅出，请小心移动机器。  \n 要长距离移动机器，请将其包装妥当。在搬运过程中，请小心不要翻倒或倾斜机器。  \n 在搬运过程中，如果机器未保持水平，则墨粉可能会溅到机器内。  \n有关移动机器的详细信息，请与您的销售或服务代表联系。\n\n# 如何处理本机\n\n有关正确处理本机的信息，请询问您的销售或服务代表。\n\n# 到何处询问\n\n要了解本手册包含主题的更多信息，或了解本手册未涵盖的其他主题，请咨询您的销售或服务代表。\n\n# 鼓粉组件\n\n鼓粉组件包括感光鼓和墨粉盒。以打印“ISO/IEC19752”测试页进行计算，随机墨粉盒的寿命平均为1000页，感光鼓的寿命平均为10000页，零售墨粉盒1500页。\n\n<table><tr><td rowspan=\"4\">提示</td><td>除非在感光鼓使用寿命到达之前更换感光鼓,否则打印无法继续。为便于更换感光鼓,我们建议您在感光鼓快到达使用寿命之前购买并储存多余的感光鼓。</td></tr><tr><td>实际可打印的页数将视图像容量和浓度、一次要打印的页数、所用的纸张类型和纸张尺寸以及环境条件(例如温度和湿度)的不同而有所变化。</td></tr><tr><td>由于鼓粉组件随使用时间的延长而质量下降,因此可能需要在出现相关的指示信息之前将其更换。</td></tr><tr><td>鼓粉组件不在保修范围内。但是如果出现问题,请与销售商店联系。</td></tr></table>",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 65,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_65"
+  },
+  {
+    "title": "# 免责声明",
+    "content": "# 不推荐的纸张类型\n\n请勿使用以下类型的纸张：\n\n 喷墨打印机专用纸张；  \n粘性墨水特殊纸张；  \n弯曲、折叠或有折痕的纸张；  \n卷曲或扭曲的纸张；  \n起皱的纸张；  \n 潮湿的纸张；  \n很脏或破损的纸张；  \n容易产生静电的过分干燥的纸张；  \n 已经打印过的纸张、除有信头图案的纸张以外；  \n 采用非激光打印机（例如黑白和彩色复印机、喷墨打印机等）使用的纸张；  \n 打印过的纸张尤其可能造成故障；  \n特殊纸张、如热敏纸和复写纸；  \n纸张重量比限制值更重或更轻；  \n带有窗、洞、孔眼、图案或凹凸的纸张；  \n上面贴有胶纸或原纸的粘胶标签纸；  \n带有回形针或订书钉的纸张；  \n 信封。\n\n<table><tr><td rowspan=\"2\">提示</td><td>采用保存不当的纸张打印时也会造成卡纸、打印质量下降或出现故障。</td></tr><tr><td>如果使用上述任意一类纸张,则可能会损坏设备。由此造成的损坏不在本公司的保修服务范围内。</td></tr></table>\n\n# 安全信息\n\n# 免责声明\n\n开始安装、使用、维护、维修本产品前，请仔细阅读产品安全信息。如用户未遵循产品安全信息导致的短路、触电、设备损坏、火灾或人身伤害等，本公司不承担任何责任。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 66,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_66"
+  },
+  {
+    "title": "# 电源线及电源安全",
+    "content": "# 电源线及电源安全\n\n1）本产品功率较大，请务必使用产品包装内附的电源线。  \n2）为了您的安全，产品不使用时请关闭电源，长时间不使用时请从电源插座拔下电源插头。  \n3）本产品必须安装在靠近电源插座的地方，确保紧急情况时，可立即从电源插座上拔下产品电源插头以安全切断电源。  \n4）请用电源软线连接到具有接地连接的输出插座。  \n5）使用本产品前，请检查电源线是否有损坏或磨损，如：绝缘皮破损、插头变形、插头损坏等，如有以上情况，请勿接触损坏部位，并停止使用本产品，关闭电源并拔下电源插头。  \n6）本产品必须连接到符合产品标签所标的额定电压范围的交流电源上且电源插头完全插入电源插座，请勿将本产品连接到直流电源或变压器上。  \n7）请从插座上拔下电源插头以切断电源，切勿通过拉扯电源线材的方式切断电源，否则会使插头与插座在分离过程中发生接触不良，引起触电或火灾。  \n8）请勿用湿手插拔电源线插头，以免导致触电。  \n9）请勿踩踏、挤压或拉紧电源线，同时不要在电源线上放置任何物品，否则会导致电源线内部芯线短路引起火灾。  \n10）请勿让任何金属物品、水或其他液体落在本产品的电源插头上，否则可能会造成触电或火灾。  \n11）请勿使用不符合产品规格的 USB线或网线，否则可能会造成火灾或漏电。  \n12）强烈建议您不要使用任何类型的电源插排。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 67,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_67"
+  },
+  {
+    "title": "# 安全信息",
+    "content": "# 安装本产品\n\n1）请勿将本产品放置在加热器或者散热器等产品附近的场所，否则产品可能因为过热或加热设备引起短路或火灾。\n\n# 安全信息\n\n2）请勿将本产品放置在空调、电风扇、冰箱或水源等附近，否则产品可能会因为接触到水（包括加热器、空调或其他通风设备造成的凝露），而造成触电、短路或火灾。  \n3）请勿将本产品暴露于阳光直射、高温（超过35℃）、有明火、有腐蚀性气体、潮湿或多尘的环境中，否则可能会造成触电、短路或火灾。  \n4）请勿将本产品放置在化学品附近或可能发生化学品泄漏的地方，否则可能会造成火灾或触电；特别是有机溶剂或液体，例如苯、油漆稀释剂、去光水或除臭剂，可能会导致塑料外壳、电缆融化或溶解，造成触电或火灾。  \n5）请将本产品放置在通风状况良好的场所，请勿遮挡或阻碍产品通风口（如：散热孔等），否则可能会造成产品过热或引起火灾。  \n6）请将本产品（含墨粉盒/鼓粉组件）放置在儿童不易接触到的地方，警惕受伤。  \n7）请将本产品(含墨粉盒/鼓粉组件）放置在温湿度适宜的位置，环境温度应保持在 $1 0 ^ { \\circ } \\mathsf { C }$ -32℃，湿度应保持在15%-80%（无凝露）。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 68,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_68"
+  },
+  {
+    "title": "# 激光辐射标准",
+    "content": "# 日常使用与维护本产品\n\n1）本产品发出的无线电波可能会影响医疗电气设备工作（例：心脏起搏器），请勿在任何医疗电气设备附近使用本产品（仅限带无线网络功能的产品），否则可能导致医疗电气设备出现故障，造成医疗事故或人员伤害。  \n2）长时间使用产品时，产品内部的一些零件温度会非常高。因此，请至少等待 15 分钟以上，直至产品完全冷却后再接触产品。如果产品异常发烫、冒烟并释放一些强烈刺鼻气味，请立即关闭电源，并联系产品服务热线或您当地的产品经销商。\n\n# 激光辐射标准\n\n本机符合IEC60825-1:2014中对1类激光产品的要求。本机器包含AIGaAs激光二极管（12毫瓦），每个发射极的波长为775-800 纳米。垂直方向的光束发射角为25度 (最小值)和35 度（最大值），水平方向的光束发散角为 7 度（最小值）和12度（最大值），并且激光束在连续波（CW）模式下产生。\n\n注意：利用非本手册的步骤进行控制、调整或操作时，可能会导致危险的辐射暴露。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/0f54442de251dd077d0bf83045ea0521370d2590f63c7c2b12803bb6652ab21f.jpg)",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 69,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_69"
+  },
+  {
+    "title": "# 本机安全标签-1",
+    "content": "# 本机安全标签\n\n本机器内部有 ！ 警告或注意标签，为了安全起见，请根据说明操作本机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/f9efde381ded2747f6bd186868a0f44d96b1d628c8805855379a93452ad84440.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/f535447b3988b8d8cea9b0fe2aac6904227c36086e84c92613c2bf60c4013682.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/9e9c01beec4adfe931ccb52c009356fb10f096222d0179be85c6b2f52fadd47e.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/Z26通用机型打印机用户手册（至像）ver02.30-20251029/52018506e2b8a9bca12aebb57458ed43494f61b7154f822b4d62e445cb8b676a.jpg)\n\n1）请勿焚烧碳粉或碳粉容器。  \n2）碳粉遇到明火时会燃烧。  \n3）不得使用吸尘器吸除溢出的碳粉（包括废碳粉）。由于吸尘器内部的电器触点会产生火花，吸入碳粉（包括废碳粉）可能会导致火灾或爆炸。可使用专为防止粉尘爆炸而设计的吸尘器。  \n4）如果碳粉撒落到地上，应用湿布缓慢清除撒落的碳粉，以免碳粉飘散。  \n5）将碳粉（包括废碳粉）、碳粉盒和接触过碳粉的物品放在儿童所能触及的范围之外。  \n6）如果碳粉弄到衣服上，请用冷水清洗相关部位。  \n7）如果碳粉或废碳粉进入眼睛，请立即用大量的水冲洗。必要时请就医。\n\n警告或注意内容\n\n<table><tr><td><img src=\"images/f25c11fa3a84cac3078bb3ba9d477a992f03029b2215435fb660321f5b0ec76d.jpg\"/></td><td>请勿接触标签标示的部件,机器的该部件可能很烫。</td></tr><tr><td><img src=\"images/42bc1cc0fd8e638101e277875c4d894fda180becc6140c0f7bb873a9bbac545e.jpg\"/></td><td>本产品仅在海拔2000m以下的地方能够安全使用。</td></tr><tr><td><img src=\"images/7bf2608be353bcb04fa4f70d353e6191bda61782aa58e2c5e568b81e62fbeb65.jpg\"/></td><td>本产品仅在非热带气候条件的地方能够安全使用。</td></tr></table>\n\n电器电子产品中有害物质的名称及含有信息表如下",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 本机安全标签",
+    "chunk_index": 70,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_70"
+  },
+  {
+    "title": "# 本机安全标签-2",
+    "content": "<table><tr><td colspan=\"11\">产品中有害物质的名称及含有的信息表</td></tr><tr><td rowspan=\"2\">部件名称</td><td colspan=\"10\">有害物质</td></tr><tr><td>Pb</td><td>Hg</td><td>Cd</td><td>Cr(VI)</td><td>PBBs</td><td>PBDEs</td><td>DBP</td><td>DIBP</td><td>BBP</td><td>DEHP</td></tr><tr><td>自动进稿器*</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>原稿扫描器*</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>操作面板</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>风扇</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>印制电路板组件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>主马达</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>内部线材</td><td>○</td><td>○</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>鼓粉盒#</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>激光单元</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr></table>\n\n注1:O：表示该有害物质在该部件所有均质材料中的含量均不超出电器电子产品有害物质限制使用国家标准要求。  \n×：表示该有害物质至少在该部件的某一均质材料中的含量超出电器电子产品有害物质限制使用国家标准要求。\n\n注 2：以上未列出的部件，表明其有害物质含量均不超出电器电子产品有害物质限制使用国家标准要求。\n\n注3：表中标记“×”的部件，皆因现阶段技术水平限制，业界无法实现有害物质的替代，但符合中国 RoHS 物质限制和适用的豁免要求。\n\n注 4：根据型号不同，可能不会含有以上带\\*号的部件；另带#的部件，仅针对含有 ID芯片的鼓粉盒，请以实际购买机型为准。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "# 本机安全标签",
+    "chunk_index": 71,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_71"
+  },
+  {
+    "title": "# 为了创造更加美好的环境",
+    "content": "# China RoHS 合格评定制度标识和产品中有害物质含有信息标识说明\n\n<table><tr><td>SDoc</td><td>依据《电器电子产品有害物质限制使用合格评定制度实施安排》《绿色产品标识使用管理办法》中标识的相关要求,我司针对纳入《达标管理目录》内的产品,使用自我声明方式。</td></tr><tr><td></td><td>本标识内数字表示产品在正常使用状态下的环保使用期限为10年。</td></tr></table>\n\n# 法律声明\n\n# 为了创造更加美好的环境\n\n首先对您使用Lenovo产品表示衷心的感谢！\n\nLenovo公司致力于关爱地球环境，制定了“从产品开发到废弃，关爱地球环境”的基本方针。当地的公民在环境保护活动中也应该对当地社会、环境两方面尽每个人的微薄之力。因此，希望您能配合这个计划，作为环境保护活动的一环，在平时处理废弃物的时候能多加注意。\n\n1）不用的包装材料，为了能再次回收利用，请交付当地相关回收公司进行处理。  \n2）废弃耗材的处理，应遵守相关的法律和规定。请根据相关法律和规定妥当处理。  \n3）产品保养或修理需要更换零部件时，有不需要的电路板和电子零件，以及产品废弃时，请作为电子废弃物处理。  \n4）关闭本产品的电源开关后，在拔下电源插头的情况下耗电量是零。  \n5）本产品中的部分零部件可以用于同一工厂生产的同系列机型上。\n\n注：零部件的更换请联系就近的 Lenovo维修站。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 72,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_72"
+  },
+  {
+    "title": "# 声明",
+    "content": "# 中国环境标志的提示\n\n1）建议将噪声大于 63dB的设备放置于相对独立的区域。  \n2）建议使用再生纸。  \n3）在换气不畅的房间中长时间使用或打印大量文件时，应适时换气。\n\n4）在产品停产后5年内，联想保证提供产品在正常使用范围内可能损坏的部件，并提供产品的消耗材料。\n\n# 声明\n\n欢迎您使用Lenovo产品！\n\n首次安装和使用本产品前，请先仔细阅读随机配送的所有材料，这将有助于您更好地使用本产品。如果您未能按照本用户手册的说明和要求操作本产品，或由于理解错误等原因误操作本产品，至像科技有限公司将不对由此而导致的任何损失承担任何责任，但由于Lenovo专业维修人员安装或操作不当而造成的损失除外。\n\n至像科技有限公司已经对本手册的内容进行了严格、仔细的校勘，但是我们不能保证本手册完全没有错误或是疏漏。\n\n至像科技有限公司致力于不断改进产品功能、提升服务品质，因此保留随时更改本手册所叙述任何产品或软件程序以及本手册内容的权利，恕不另行通知。\n\n本手册旨在帮助您正确地使用本产品，并不包括对本产品的软硬件配置的任何说明。有关产品配置情况，请参阅相关合同（如有）和装箱清单，或者咨询向您出售产品的经销商。\n\n本手册中的图片仅供参考，如果有个别图片与产品实物不符，请以产品实物为准。\n\n©2024 至像科技有限公司。本手册受版权法律法规的保护。未经至像科技有限公司事先书面授权，不得以任何方式复制或抄录本手册，不得以任何形式在任何有线或无线网络中传送本手册，也不得将本手册翻译成任何语言。\n\n“联想”、“Lenovo”文字及徽标是联想集团所属企业的商标。提及的其他商号、产品或服务名称可能是联想或其他公司的商标并由其各自权利人拥有。©2024 联想集团所属企业和/或其许可方，保留所有权利。\n\n如果您在操作过程中发现本产品的实际情况与本手册有不一致之处，或您想获取最新的信息，或您有任何问题或建议，请登录服务网站：\n\n产品服务热线：400-6600-900 （周一到周日，09:00-20:00）\n\n产品服务网站：www.lenovoimage.com",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 73,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_73"
+  },
+  {
+    "title": "# 法律禁止项目",
+    "content": "# 法律禁止项目\n\n请勿复印或打印法律禁止复制的任何项目。\n\n根据当地法律，复制或打印以下项目一般属于违法行为：\n\n纸币；\n\n印花税票；\n\n债券或其他债务证明；  \n存折；  \n义务服兵役文件或草拟文件；  \n股票；  \n银行汇票；  \n支票；  \n护照；  \n驾驶执照；  \n福利文件；  \n移民文件；  \n政府机构签发的支票或汇票；  \n身份证明文件；  \n徽章或勋章；  \n 邮票（作废的或未作废的）。\n\n不可复印受版权保护的作品。一些受版权保护的作品可以被部分复制以进行“合理使用”。多份复制将被视为不正当使用。艺术作品等同于受版权保护的作品。\n\n以上列表仅作参考，并不包括所有内容在内。对于其完整性及准确性，本公司概不承担责任。如果您有与复印或打印某些项目的合法性相关的问题，请咨询法律顾问。",
+    "file_title": "Z26通用机型打印机用户手册（至像）ver02.30-20251029",
+    "parent_title": "",
+    "chunk_index": 74,
+    "chunk_id": "Z26通用机型打印机用户手册（至像）ver02.30-20251029_74"
+  }
+]

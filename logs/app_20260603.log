@@ -1,0 +1,180 @@
+2026-06-03 17:37:47.945 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 17:37:47.946 | INFO     | __main__:<module>:33 - 日志模块测试消息
+2026-06-03 17:38:02.056 | ERROR    | app.clients.milvus_utils:get_milvus_client:30 - Milvus客户端连接异常：<MilvusException: (code=2, message=Fail connecting to server on 47.94.86.115:19530, illegal connection params or server unavailable)>
+2026-06-03 17:38:22.996 | ERROR    | app.clients.minio_utils:<module>:46 - MinIO客户端初始化失败，错误信息：HTTPConnectionPool(host='47.94.86.115', port=9000): Max retries exceeded with url: /knowledge-base-files?location= (Caused by NewConnectionError("HTTPConnection(host='47.94.86.115', port=9000): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-06-03 17:50:57.775 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 17:51:55.550 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 17:51:55.904 | INFO     | __main__:node_entry:33 - >>> 开始执行节点: node_entry
+2026-06-03 17:51:55.904 | INFO     | __main__:node_entry:44 - 【node_entry】收到文件路径: E:\agent\PythonProject\dataset_rag\doc\hak180产品安全手册.pdf
+2026-06-03 17:51:55.904 | INFO     | __main__:node_entry:50 - 【node_entry】文件类型: PDF，开启PDF解析流程
+2026-06-03 17:51:55.904 | INFO     | __main__:node_entry:66 - 【node_entry】文件标题: hak180产品安全手册
+2026-06-03 17:51:55.905 | INFO     | __main__:node_entry:72 - 【node_entry】输出目录: E:\agent\PythonProject\dataset_rag\output
+2026-06-03 17:51:55.905 | INFO     | __main__:node_entry:76 - >>> 节点执行完成: node_entry
+2026-06-03 17:51:55.906 | INFO     | __main__:node_entry:33 - >>> 开始执行节点: node_entry
+2026-06-03 17:51:55.906 | INFO     | __main__:node_entry:44 - 【node_entry】收到文件路径: E:\agent\PythonProject\dataset_rag\doc\example.md
+2026-06-03 17:51:55.906 | INFO     | __main__:node_entry:55 - 【node_entry】文件类型: Markdown，开启MD解析流程
+2026-06-03 17:51:55.906 | INFO     | __main__:node_entry:66 - 【node_entry】文件标题: example
+2026-06-03 17:51:55.907 | INFO     | __main__:node_entry:72 - 【node_entry】输出目录: E:\agent\PythonProject\dataset_rag\output
+2026-06-03 17:51:55.907 | INFO     | __main__:node_entry:76 - >>> 节点执行完成: node_entry
+2026-06-03 17:51:55.908 | INFO     | __main__:node_entry:33 - >>> 开始执行节点: node_entry
+2026-06-03 17:51:55.908 | INFO     | __main__:node_entry:44 - 【node_entry】收到文件路径: E:\agent\PythonProject\dataset_rag\doc\example.txt
+2026-06-03 17:51:55.908 | WARNING  | __main__:node_entry:60 - 【node_entry】不支持的文件类型: .txt，仅支持 .pdf 和 .md
+2026-06-03 17:51:55.908 | INFO     | __main__:node_entry:66 - 【node_entry】文件标题: example
+2026-06-03 17:51:55.909 | INFO     | __main__:node_entry:72 - 【node_entry】输出目录: E:\agent\PythonProject\dataset_rag\output
+2026-06-03 17:51:55.909 | INFO     | __main__:node_entry:76 - >>> 节点执行完成: node_entry
+2026-06-03 22:37:53.031 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:37:53.652 | INFO     | __main__:node_pdf_to_md:42 - >>> 开始执行节点: node_pdf_to_md
+2026-06-03 22:37:53.652 | INFO     | __main__:step_1_validate_paths:98 - PDF路径: E:\agent\PythonProject\dataset_rag\doc\hak180产品安全手册.pdf
+2026-06-03 22:37:53.652 | INFO     | __main__:step_1_validate_paths:99 - 输出目录: E:\agent\PythonProject\dataset_rag\output
+2026-06-03 22:37:53.653 | INFO     | __main__:step_2_upload_and_poll:108 - 【step_2】开始处理PDF: hak180产品安全手册.pdf
+2026-06-03 22:37:53.653 | INFO     | __main__:step_2_upload_and_poll:129 - 请求上传URL: https://mineru.net/api/v4/file-urls/batch
+2026-06-03 22:37:53.997 | ERROR    | __main__:step_2_upload_and_poll:204 - MinerU API调用失败: 获取上传URL失败: 401
+2026-06-03 22:37:53.997 | WARNING  | __main__:step_2_upload_and_poll:205 - 使用模拟模式继续
+2026-06-03 22:37:53.997 | INFO     | __main__:_mock_upload:211 - 【模拟模式】处理PDF: hak180产品安全手册.pdf
+2026-06-03 22:37:54.999 | INFO     | __main__:step_3_download_and_extract:220 - 【step_3】开始处理ZIP: https://mock.example.com/hak180产品安全手册_result.zip
+2026-06-03 22:37:55.256 | WARNING  | __main__:step_3_download_and_extract:263 - 下载/解压失败: HTTPSConnectionPool(host='mock.example.com', port=443): Max retries exceeded with url: /hak180%E4%BA%A7%E5%93%81%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C_result.zip (Caused by NameResolutionError("HTTPSConnection(host='mock.example.com', port=443): Failed to resolve 'mock.example.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-03 22:37:55.256 | INFO     | __main__:step_3_download_and_extract:266 - 使用模拟MD文件
+2026-06-03 22:37:55.257 | INFO     | __main__:node_pdf_to_md:59 - 【node_pdf_to_md】MD文件生成成功: E:\agent\PythonProject\dataset_rag\output\hak180产品安全手册\hak180产品安全手册.md
+2026-06-03 22:37:55.264 | INFO     | __main__:node_pdf_to_md:65 - 【node_pdf_to_md】MD内容读取成功，长度: 111 字符
+2026-06-03 22:37:55.264 | INFO     | __main__:node_pdf_to_md:75 - >>> 节点执行完成: node_pdf_to_md
+2026-06-03 22:39:05.967 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:39:24.922 | ERROR    | app.clients.minio_utils:<module>:46 - MinIO客户端初始化失败，错误信息：HTTPConnectionPool(host='47.94.86.115', port=9000): Max retries exceeded with url: /knowledge-base-files?location= (Caused by NewConnectionError("HTTPConnection(host='47.94.86.115', port=9000): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-06-03 22:41:05.695 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:41:06.029 | INFO     | __main__:node_md_img:18 - >>> 开始执行节点: node_md_img
+2026-06-03 22:41:06.029 | INFO     | __main__:node_md_img:23 - 【简化版】跳过图片处理
+2026-06-03 22:41:06.030 | INFO     | __main__:node_md_img:26 - >>> 节点执行完成: node_md_img
+2026-06-03 22:41:16.750 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:41:17.046 | INFO     | __main__:node_document_split:38 - >>> 开始执行节点: node_document_split
+2026-06-03 22:41:17.046 | INFO     | __main__:step_1_get_inputs:90 - MD内容长度: 282 字符
+2026-06-03 22:41:17.046 | INFO     | __main__:step_2_split_by_titles:140 - 按标题切分完成，共 7 个章节
+2026-06-03 22:41:17.046 | INFO     | __main__:step_3_refine_chunks:164 - 精细化处理完成: 7 -> 7 -> 1
+2026-06-03 22:41:17.047 | INFO     | __main__:step_4_save_chunks:249 - Chunk结果已保存: E:\agent\PythonProject\dataset_rag\output\test_split\chunks.json
+2026-06-03 22:41:17.047 | INFO     | __main__:node_document_split:59 - 切分完成，共生成 1 个Chunk
+2026-06-03 22:41:17.048 | INFO     | __main__:node_document_split:66 - >>> 节点执行完成: node_document_split
+2026-06-03 22:41:38.529 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:53:47.026 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:53:48.963 | INFO     | __main__:node_item_name_recognition:36 - >>> 开始执行节点: node_item_name_recognition
+2026-06-03 22:53:48.963 | INFO     | __main__:step_1_get_inputs:82 - 文件标题: hak180产品安全手册, 切片数量: 2
+2026-06-03 22:53:48.963 | INFO     | __main__:step_2_build_context:112 - 上下文构建完成，长度: 117 字符
+2026-06-03 22:53:48.963 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=False
+2026-06-03 22:53:53.417 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=False
+2026-06-03 22:53:53.417 | INFO     | __main__:step_3_call_llm:130 - 调用LLM识别商品名称...
+2026-06-03 22:53:53.936 | INFO     | __main__:step_3_call_llm:139 - LLM识别结果: HAK 180 烫金机
+2026-06-03 22:53:53.936 | INFO     | __main__:step_4_update_state:155 - 已为 2 个切片添加商品名称
+2026-06-03 22:53:53.936 | INFO     | __main__:node_item_name_recognition:61 - 商品名称识别完成: HAK 180 烫金机
+2026-06-03 22:53:53.937 | INFO     | __main__:node_item_name_recognition:69 - >>> 节点执行完成: node_item_name_recognition
+2026-06-03 22:55:28.206 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:55:28.504 | INFO     | __main__:node_bge_embedding:30 - >>> 开始执行节点: node_bge_embedding
+2026-06-03 22:55:28.504 | INFO     | __main__:node_bge_embedding:41 - 开始向量化，共 1 个切片
+2026-06-03 22:55:28.504 | INFO     | __main__:node_bge_embedding:50 - 向量化完成，共 1 个切片
+2026-06-03 22:55:28.505 | INFO     | __main__:node_bge_embedding:57 - >>> 节点执行完成: node_bge_embedding
+2026-06-03 22:56:18.877 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:56:19.177 | INFO     | __main__:node_import_milvus:33 - >>> 开始执行节点: node_import_milvus
+2026-06-03 22:56:19.177 | INFO     | __main__:node_import_milvus:45 - 开始入库，商品: HAK 180 烫金机, 切片数: 1
+2026-06-03 22:56:30.151 | WARNING  | __main__:_get_milvus_client:97 - Milvus连接失败: <MilvusException: (code=2, message=Fail connecting to server on 47.94.86.115:19530, illegal connection params or server unavailable)>
+2026-06-03 22:56:30.151 | WARNING  | __main__:node_import_milvus:59 - Milvus未连接，使用模拟模式
+2026-06-03 22:56:30.152 | INFO     | __main__:_mock_insert:220 - 模拟入库完成，数据保存到: output\milvus_import\import_20260603_225630.json
+2026-06-03 22:56:30.153 | WARNING  | __main__:_save_import_result:242 - 保存入库结果失败: [Errno 2] No such file or directory: 'E:\\agent\\PythonProject\\dataset_rag\\output\\test_milvus\\import_result.json'
+2026-06-03 22:56:30.153 | INFO     | __main__:node_import_milvus:70 - >>> 节点执行完成: node_import_milvus
+2026-06-03 22:58:11.680 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 22:58:30.613 | ERROR    | app.clients.minio_utils:<module>:46 - MinIO客户端初始化失败，错误信息：HTTPConnectionPool(host='47.94.86.115', port=9000): Max retries exceeded with url: /knowledge-base-files?location= (Caused by NewConnectionError("HTTPConnection(host='47.94.86.115', port=9000): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-06-03 22:58:31.692 | INFO     | __main__:node_md_img:47 - >>> 开始执行节点: node_md_img
+2026-06-03 22:58:31.698 | INFO     | __main__:node_md_img:80 - 找到 1 张图片需要处理
+2026-06-03 22:58:31.699 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen3-vl-flash，JSON模式=False
+2026-06-03 22:58:32.443 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen3-vl-flash，JSON模式=False
+2026-06-03 22:58:32.985 | ERROR    | __main__:step_3_generate_summaries:220 - 图片摘要生成失败 product.jpg: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: The image length and width do not meet the model restrictions. [height:1 or width:1 must be larger than 10]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_parameter_error'}, 'id': 'chatcmpl-28d5461c-7fd4-9d8c-b08a-53defdb3577c', 'request_id': '28d5461c-7fd4-9d8c-b08a-53defdb3577c'}
+2026-06-03 22:58:32.985 | WARNING  | __main__:node_md_img:105 - MinIO客户端未初始化，跳过图片上传
+2026-06-03 22:58:32.985 | INFO     | __main__:node_md_img:112 - >>> 节点执行完成: node_md_img
+2026-06-03 23:22:36.738 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-03 23:22:55.567 | ERROR    | app.clients.minio_utils:<module>:46 - MinIO客户端初始化失败，错误信息：HTTPConnectionPool(host='47.94.86.115', port=9000): Max retries exceeded with url: /knowledge-base-files?location= (Caused by NewConnectionError("HTTPConnection(host='47.94.86.115', port=9000): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-06-03 23:22:56.325 | INFO     | __main__:create_import_graph:55 - 创建导入流程图
+2026-06-03 23:22:56.341 | INFO     | __main__:create_import_graph:106 - 导入流程图创建成功
+2026-06-03 23:22:56.345 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:33 - >>> 开始执行节点: node_entry
+2026-06-03 23:22:56.345 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:44 - 【node_entry】收到文件路径: E:\agent\PythonProject\dataset_rag\doc\hak180产品安全手册.pdf
+2026-06-03 23:22:56.346 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:50 - 【node_entry】文件类型: PDF，开启PDF解析流程
+2026-06-03 23:22:56.346 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:66 - 【node_entry】文件标题: hak180产品安全手册
+2026-06-03 23:22:56.346 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:72 - 【node_entry】输出目录: E:\agent\PythonProject\dataset_rag\output\test_import
+2026-06-03 23:22:56.347 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:76 - >>> 节点执行完成: node_entry
+2026-06-03 23:22:56.347 | INFO     | __main__:route_after_entry:76 - 路由: PDF文件 → node_pdf_to_md
+2026-06-03 23:22:56.348 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:node_pdf_to_md:42 - >>> 开始执行节点: node_pdf_to_md
+2026-06-03 23:22:56.348 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_1_validate_paths:98 - PDF路径: E:\agent\PythonProject\dataset_rag\doc\hak180产品安全手册.pdf
+2026-06-03 23:22:56.349 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_1_validate_paths:99 - 输出目录: E:\agent\PythonProject\dataset_rag\output\test_import
+2026-06-03 23:22:56.349 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_2_upload_and_poll:108 - 【step_2】开始处理PDF: hak180产品安全手册.pdf
+2026-06-03 23:22:56.349 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_2_upload_and_poll:129 - 请求上传URL: https://mineru.net/api/v4/file-urls/batch
+2026-06-03 23:22:56.673 | ERROR    | app.import_process.agent.nodes.node_pdf_to_md:step_2_upload_and_poll:204 - MinerU API调用失败: 获取上传URL失败: 401
+2026-06-03 23:22:56.674 | WARNING  | app.import_process.agent.nodes.node_pdf_to_md:step_2_upload_and_poll:205 - 使用模拟模式继续
+2026-06-03 23:22:56.674 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:_mock_upload:211 - 【模拟模式】处理PDF: hak180产品安全手册.pdf
+2026-06-03 23:22:57.675 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_3_download_and_extract:220 - 【step_3】开始处理ZIP: https://mock.example.com/hak180产品安全手册_result.zip
+2026-06-03 23:22:57.918 | WARNING  | app.import_process.agent.nodes.node_pdf_to_md:step_3_download_and_extract:263 - 下载/解压失败: HTTPSConnectionPool(host='mock.example.com', port=443): Max retries exceeded with url: /hak180%E4%BA%A7%E5%93%81%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C_result.zip (Caused by NameResolutionError("HTTPSConnection(host='mock.example.com', port=443): Failed to resolve 'mock.example.com' ([Errno 11001] getaddrinfo failed)"))
+2026-06-03 23:22:57.919 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:step_3_download_and_extract:266 - 使用模拟MD文件
+2026-06-03 23:22:57.919 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:node_pdf_to_md:59 - 【node_pdf_to_md】MD文件生成成功: E:\agent\PythonProject\dataset_rag\output\test_import\hak180产品安全手册\hak180产品安全手册.md
+2026-06-03 23:22:57.926 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:node_pdf_to_md:65 - 【node_pdf_to_md】MD内容读取成功，长度: 111 字符
+2026-06-03 23:22:57.926 | INFO     | app.import_process.agent.nodes.node_pdf_to_md:node_pdf_to_md:75 - >>> 节点执行完成: node_pdf_to_md
+2026-06-03 23:22:57.927 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:47 - >>> 开始执行节点: node_md_img
+2026-06-03 23:22:57.928 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:71 - 图片目录不存在，跳过处理: E:\agent\PythonProject\dataset_rag\output\test_import\hak180产品安全手册\images
+2026-06-03 23:22:57.928 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:112 - >>> 节点执行完成: node_md_img
+2026-06-03 23:22:57.929 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:38 - >>> 开始执行节点: node_document_split
+2026-06-03 23:22:57.929 | INFO     | app.import_process.agent.nodes.node_document_split:step_1_get_inputs:90 - MD内容长度: 111 字符
+2026-06-03 23:22:57.929 | INFO     | app.import_process.agent.nodes.node_document_split:step_2_split_by_titles:140 - 按标题切分完成，共 4 个章节
+2026-06-03 23:22:57.930 | INFO     | app.import_process.agent.nodes.node_document_split:step_3_refine_chunks:164 - 精细化处理完成: 4 -> 4 -> 1
+2026-06-03 23:22:57.930 | INFO     | app.import_process.agent.nodes.node_document_split:step_4_save_chunks:249 - Chunk结果已保存: E:\agent\PythonProject\dataset_rag\output\test_import\chunks.json
+2026-06-03 23:22:57.931 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:59 - 切分完成，共生成 1 个Chunk
+2026-06-03 23:22:57.931 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:66 - >>> 节点执行完成: node_document_split
+2026-06-03 23:22:57.932 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:36 - >>> 开始执行节点: node_item_name_recognition
+2026-06-03 23:22:57.932 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_1_get_inputs:82 - 文件标题: hak180产品安全手册, 切片数量: 1
+2026-06-03 23:22:57.932 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_2_build_context:112 - 上下文构建完成，长度: 130 字符
+2026-06-03 23:22:57.933 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=False
+2026-06-03 23:22:58.685 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=False
+2026-06-03 23:22:58.685 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_3_call_llm:130 - 调用LLM识别商品名称...
+2026-06-03 23:22:59.023 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_3_call_llm:139 - LLM识别结果: hak180
+2026-06-03 23:22:59.023 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_4_update_state:155 - 已为 1 个切片添加商品名称
+2026-06-03 23:22:59.023 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:61 - 商品名称识别完成: hak180
+2026-06-03 23:22:59.023 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:69 - >>> 节点执行完成: node_item_name_recognition
+2026-06-03 23:22:59.025 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:30 - >>> 开始执行节点: node_bge_embedding
+2026-06-03 23:22:59.025 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:41 - 开始向量化，共 1 个切片
+2026-06-03 23:22:59.025 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:50 - 向量化完成，共 1 个切片
+2026-06-03 23:22:59.026 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:57 - >>> 节点执行完成: node_bge_embedding
+2026-06-03 23:22:59.026 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:33 - >>> 开始执行节点: node_import_milvus
+2026-06-03 23:22:59.027 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:45 - 开始入库，商品: hak180, 切片数: 1
+2026-06-03 23:23:09.569 | WARNING  | app.import_process.agent.nodes.node_import_milvus:_get_milvus_client:97 - Milvus连接失败: <MilvusException: (code=2, message=Fail connecting to server on 47.94.86.115:19530, illegal connection params or server unavailable)>
+2026-06-03 23:23:09.569 | WARNING  | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:59 - Milvus未连接，使用模拟模式
+2026-06-03 23:23:09.571 | INFO     | app.import_process.agent.nodes.node_import_milvus:_mock_insert:220 - 模拟入库完成，数据保存到: output\milvus_import\import_20260603_232309.json
+2026-06-03 23:23:09.573 | INFO     | app.import_process.agent.nodes.node_import_milvus:_save_import_result:240 - 入库结果已保存: E:\agent\PythonProject\dataset_rag\output\test_import\import_result.json
+2026-06-03 23:23:09.573 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:70 - >>> 节点执行完成: node_import_milvus
+2026-06-03 23:23:09.576 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:33 - >>> 开始执行节点: node_entry
+2026-06-03 23:23:09.576 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:44 - 【node_entry】收到文件路径: E:\agent\PythonProject\dataset_rag\output\test_md\test_document.md
+2026-06-03 23:23:09.576 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:55 - 【node_entry】文件类型: Markdown，开启MD解析流程
+2026-06-03 23:23:09.576 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:66 - 【node_entry】文件标题: test_document
+2026-06-03 23:23:09.577 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:72 - 【node_entry】输出目录: E:\agent\PythonProject\dataset_rag\output\test_md_import
+2026-06-03 23:23:09.577 | INFO     | app.import_process.agent.nodes.node_entry:node_entry:76 - >>> 节点执行完成: node_entry
+2026-06-03 23:23:09.577 | INFO     | __main__:route_after_entry:79 - 路由: MD文件 → node_md_img
+2026-06-03 23:23:09.578 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:47 - >>> 开始执行节点: node_md_img
+2026-06-03 23:23:09.584 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:71 - 图片目录不存在，跳过处理: E:\agent\PythonProject\dataset_rag\output\test_md\images
+2026-06-03 23:23:09.585 | INFO     | app.import_process.agent.nodes.node_md_img:node_md_img:112 - >>> 节点执行完成: node_md_img
+2026-06-03 23:23:09.585 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:38 - >>> 开始执行节点: node_document_split
+2026-06-03 23:23:09.586 | INFO     | app.import_process.agent.nodes.node_document_split:step_1_get_inputs:85 - 从文件读取MD内容: E:\agent\PythonProject\dataset_rag\output\test_md\test_document.md
+2026-06-03 23:23:09.586 | INFO     | app.import_process.agent.nodes.node_document_split:step_1_get_inputs:90 - MD内容长度: 101 字符
+2026-06-03 23:23:09.586 | INFO     | app.import_process.agent.nodes.node_document_split:step_2_split_by_titles:140 - 按标题切分完成，共 4 个章节
+2026-06-03 23:23:09.586 | INFO     | app.import_process.agent.nodes.node_document_split:step_3_refine_chunks:164 - 精细化处理完成: 4 -> 4 -> 1
+2026-06-03 23:23:09.587 | INFO     | app.import_process.agent.nodes.node_document_split:step_4_save_chunks:249 - Chunk结果已保存: E:\agent\PythonProject\dataset_rag\output\test_md_import\chunks.json
+2026-06-03 23:23:09.587 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:59 - 切分完成，共生成 1 个Chunk
+2026-06-03 23:23:09.587 | INFO     | app.import_process.agent.nodes.node_document_split:node_document_split:66 - >>> 节点执行完成: node_document_split
+2026-06-03 23:23:09.588 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:36 - >>> 开始执行节点: node_item_name_recognition
+2026-06-03 23:23:09.588 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_1_get_inputs:82 - 文件标题: test_document, 切片数量: 1
+2026-06-03 23:23:09.588 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_2_build_context:112 - 上下文构建完成，长度: 120 字符
+2026-06-03 23:23:09.589 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_3_call_llm:130 - 调用LLM识别商品名称...
+2026-06-03 23:23:09.920 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_3_call_llm:139 - LLM识别结果: 测试文档
+2026-06-03 23:23:09.921 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:step_4_update_state:155 - 已为 1 个切片添加商品名称
+2026-06-03 23:23:09.921 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:61 - 商品名称识别完成: 测试文档
+2026-06-03 23:23:09.921 | INFO     | app.import_process.agent.nodes.node_item_name_recognition:node_item_name_recognition:69 - >>> 节点执行完成: node_item_name_recognition
+2026-06-03 23:23:09.921 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:30 - >>> 开始执行节点: node_bge_embedding
+2026-06-03 23:23:09.922 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:41 - 开始向量化，共 1 个切片
+2026-06-03 23:23:09.922 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:50 - 向量化完成，共 1 个切片
+2026-06-03 23:23:09.922 | INFO     | app.import_process.agent.nodes.node_bge_embedding:node_bge_embedding:57 - >>> 节点执行完成: node_bge_embedding
+2026-06-03 23:23:09.922 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:33 - >>> 开始执行节点: node_import_milvus
+2026-06-03 23:23:09.923 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:45 - 开始入库，商品: 测试文档, 切片数: 1
+2026-06-03 23:23:20.028 | WARNING  | app.import_process.agent.nodes.node_import_milvus:_get_milvus_client:97 - Milvus连接失败: <MilvusException: (code=2, message=Fail connecting to server on 47.94.86.115:19530, illegal connection params or server unavailable)>
+2026-06-03 23:23:20.029 | WARNING  | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:59 - Milvus未连接，使用模拟模式
+2026-06-03 23:23:20.030 | INFO     | app.import_process.agent.nodes.node_import_milvus:_mock_insert:220 - 模拟入库完成，数据保存到: output\milvus_import\import_20260603_232320.json
+2026-06-03 23:23:20.032 | INFO     | app.import_process.agent.nodes.node_import_milvus:_save_import_result:240 - 入库结果已保存: E:\agent\PythonProject\dataset_rag\output\test_md_import\import_result.json
+2026-06-03 23:23:20.032 | INFO     | app.import_process.agent.nodes.node_import_milvus:node_import_milvus:70 - >>> 节点执行完成: node_import_milvus

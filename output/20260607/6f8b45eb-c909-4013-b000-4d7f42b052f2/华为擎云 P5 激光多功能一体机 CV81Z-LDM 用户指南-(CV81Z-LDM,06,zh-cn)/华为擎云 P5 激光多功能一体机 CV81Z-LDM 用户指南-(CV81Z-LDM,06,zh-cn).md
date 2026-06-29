@@ -1,0 +1,1605 @@
+# 用户指南
+
+# 目录
+
+# 外观介绍
+
+# 首次安装打印机
+
+# 首次配置打印机
+
+# 装纸
+
+# 打印
+
+# 复印
+
+复印注意事项 14
+
+直接在打印机上进行单面复印、双面复印、身份证复印 14
+
+从电脑端进行单面复印、双面复印、N合一复印 17
+
+# 扫描
+
+# 开关机与休眠
+
+# 更多操作
+
+更换粉盒 22
+
+更换硒鼓 23
+
+恢复出厂设置 24
+
+查看打印机 S/N 号 25
+
+安装和更新驱动 26
+
+# 故障排除
+
+无法开机 27
+
+送纸问题 27
+
+卡纸问题 28
+
+打印质量问题 30
+
+打印问题 31
+
+复印问题 31
+
+扫描问题 32
+
+常见故障代码处理 32
+
+# 安全信息
+
+# 法律声明
+
+# 外观介绍
+
+![](images/808773eb6829a0ff22fdd72683ce545ac9d4aca4a098e54d91650de7116bd17d.jpg)
+
+<details>
+<summary>text_image</summary>
+
+①
+②
+③
+HUAWEI
+④
+⑤
+⑥
+⑦
+⑧
+</details>
+
+![](images/3c0e6fe3faa797e6ce06db9f0c1d6e059065ecab7b149eea2e0ab7d40695a19b.jpg)
+
+<details>
+<summary>text_image</summary>
+
+© 102.4.1
+⑨
+⑩
+⑪
+⑫
+⑬
+⑭
+⑬
+⑭
+</details>
+
+<table><tr><td>1</td><td>挡纸板通过挡纸板接住打印出来的纸张。i 首次安装打印机时,挡纸板合入在打印机中,打印、复印时请拉出。</td></tr><tr><td>2</td><td>前盖打开前盖,可以直接更换粉盒。</td></tr><tr><td>3</td><td>纸盒装入纸张。</td></tr><tr><td>4</td><td>左/右扣手位方便搬动打印机。</td></tr><tr><td>5</td><td>上盖按钮按压上盖按钮,打开打印机上盖,可以更换硒鼓或排查故障。上盖打开时,打印机停止工作。i 打开和关闭上盖时,请小心操作,注意不要夹伤手。</td></tr><tr><td>6</td><td>操作面板按操作面板上的功能键,可进行复印等操作。i 关于打印机操作面板上指示灯如何显示设备状态,以及按键功能的详细信息,具体请查阅《操作面板》章节。</td></tr><tr><td>7</td><td>扫描区将原稿放入扫描区进行扫描或复印。</td></tr><tr><td>8</td><td>扫描盖板打开盖板,放入待扫描或复印的原稿。</td></tr><tr><td>9</td><td>后盖打开后盖,可以排查卡纸等故障问题。</td></tr><tr><td>10</td><td>电源开关开启或关闭打印机。</td></tr><tr><td>11</td><td>电源接口连接电源线给打印机供电。</td></tr><tr><td>12</td><td>纸盒防尘盖用于纸盒后端防尘。i 首次安装打印机时,纸盒防尘盖合入在打印机里,装纸时纸盒防尘盖可被顶出。</td></tr><tr><td>13</td><td>USB-B(USB 2.0)接口连接电脑传输数据。</td></tr><tr><td>14</td><td>LAN口(网口)插入网线连接网络。</td></tr></table>
+
+# 操作面板
+
+![](images/ac66870ad53714176588881e440311c64bee7a96cc37905267f8ee498055791a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+</details>
+
+<table><tr><td>1</td><td>缺纸指示灯缺纸时会显示红灯,请在纸盒中装入纸张。</td></tr><tr><td>2</td><td>缺墨指示灯缺墨时会显示红灯,请更换粉盒。建议您前往华为官方渠道购买打印机适配的原装粉盒,如使用非原装粉盒,打印机的打印质量和性能可能达不到原来的设计标准。</td></tr><tr><td>3</td><td>卡纸指示灯卡纸时会显示红灯,请您检查卡纸位置,小心拿出被卡纸张。</td></tr><tr><td>4</td><td>ID复印键触按进入ID(身份证)复印模式。</td></tr><tr><td>5</td><td>双面复印键触按进入双面复印模式。</td></tr><tr><td>6</td><td>数字键·显示目前选择的复印份数。·显示错误代码,具体请查阅《常见故障代码处理》章节。</td></tr><tr><td>7</td><td>加/减键触按加键⊕/减键⊖可调整要复印的份数。i复印份数较多时,长按加键⊕可以直接+10份。</td></tr><tr><td>8</td><td>取消键触按取消当前操作。</td></tr><tr><td>9</td><td>开始键触按开始复印。长按开始键 ▶ 3秒,听到“滴”声松开,开始键 ▶ 白色闪烁,打印机即可自动打印信息页,可查看打印机基本信息(包含S/N号、固件版本等)。按键上的灯可以显示打印机当前工作状态:白色常亮表示待机状态。白色闪烁表示工作状态。红色闪烁表示故障。</td></tr></table>
+
+# 首次安装打印机
+
+若安装前室内外温差较大，建议您将打印机在室内环境静置 2-4 小时后再使用，避免由于温度突变导致打印机光学玻璃结雾影响画像打印质量。
+
+1 移除胶带：移除外包装袋和所有橙色胶带。
+
+i．打印机背后、纸盒内也贴有胶带，请注意全部移除。  
+- 打印机粉盒上的胶带，需打开打印机前盖后移除。
+
+![](images/206cd630961541e775c35578aab92b92c9fb683bd419c5925e94bd911d9ca48e.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand pressing down on a printer cover with buttons and a logo (no text or symbols)
+</details>
+
+![](images/40b4d8cfab65f8a05793e7837bbb36b617a00e8079fc061f75b131c1b39905a2.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram of a printer or printer casing with labeled parts, showing internal structure and mounting points (no text or symbols present)
+</details>
+
+![](images/c8eda600fa5ae357b9d9bbbcae8480387ae92fbfa82c834e262861d463c35878.jpg)
+
+<details>
+<summary>text_image</summary>
+
+3
+HUNESI
+</details>
+
+2 放置位置和预留空间：将打印机放在阴凉通风处，水平稳固放置。打印机背后需预留 10 厘米以上空间。
+
+如果预留空间不足，纸盒防尘盖可能无法被正常顶出，造成纸张卷曲、卡纸，无法正常打印。
+
+![](images/236c54c403e89d252e756bfc8fb4b809cae746ea6fc432bb5f1db1ba75016ce0.jpg)
+
+<details>
+<summary>text_image</summary>
+
+≥10 cm
+</details>
+
+3 装入纸张：将纸盒完全拉出，捏住纸盒后端固定手柄向后拉，平整放入纸张；捏住后端和左边挡板调整，以固定纸张；将纸盒装回打印机。
+
+i．纸张厚度请勿超出装纸上限刻度线。  
+- 将挡板拉到最大位置，可刚好放入 A4 纸。如果纸张小于 A4 纸大小，需要捏住卡板调节固定纸张。  
+- 支持的纸张类型以及装纸详细操作，请查阅《装纸》章节。
+
+![](images/fa6a218cdbba648618de25ba16b3c55e3682539d5677799130264e0b0d3a1933.jpg)
+
+<details>
+<summary>text_image</summary>
+
+捏住向后拉
+装纸上限
+放入纸张
+短边
+</details>
+
+4 开机：将电源线接入打印机背后的电源接口，打开电源开关。打印机开始预热，稍等片刻，待开始键 ▶ 白色常亮，打印机就绪。
+
+![](images/d7b7715cc3c9cad41a3c9bdd5e36c699a5bf885a314de5cdbd51630cb86266e5.jpg)
+
+<details>
+<summary>text_image</summary>
+
+开关
+</details>
+
+# 首次配置打印机
+
+打印机安装好后，您可以直接操作打印机面板，快速复印。若需要体验打印、扫描功能，需要在电脑端配置打印机。
+
+# 1 选择任意一种方式，连接打印机与电脑：
+
+打印机仅需连接一台电脑时：使用打印机随附 USB 线缆连接打印机和电脑，更稳定。
+
+若为鸿蒙电脑：确保已安装智慧生活，与打印机连接后，请跳过以下步骤，直接按照《打印》、《复印》、《扫描》章节内容操作。
+
+![](images/d8456bdadec3e61b45be342053d2a9334687c1933ebbc1167d665bfea28b2785.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram showing a printer connected to a tower and computer monitor (no text or symbols present)
+</details>
+
+打印机连接一台或多台电脑时：打印机连接与电脑相同的路由器网络，即局域网连接。
+
+![](images/bf49fb939402d4cd771287a31b7373f7c31cfff22bf52277a83faf5974d47a87.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["打印机"] --> B["电脑"]
+    B --> C["电脑"]
+    C --> D["电脑"]
+```
+</details>
+
+i．打印机仅支持通过网线接入路由器网络，电脑可以通过WLAN或网线接入路由器网络。
+
+\- 若为鸿蒙电脑：确保已安装智慧生活，点击设置 > 打印机和扫描仪 > 添加打印机和扫描仪，点击华为打印机，连接打印机后，请跳过以下步骤，直接按照《打印》、《复印》、《扫描》章节内容操作。
+
+2 右键点击桌面的 ☐ 电脑图标，点击属性，查看电脑的系统版本和处理器信息。如果不能按此方式查询，可查阅电脑使用指南或咨询电脑的客户服务热线。  
+3 打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-P5/），选择打印机，点击驱动列表，根据电脑系统版本和处理器型号，下载适配的打印客户端安装程序压缩包。
+
+![](images/8dcd9a2124a006950b7948cd1064128a4958e6b7f227d7c8c290a5d4478a64f3.jpg)
+
+<details>
+<summary>text_image</summary>
+
+手册下载	驱动列表	常见问题
+其他
+xxxxxx_Windows_xxxx
+___________________
+xxxxxx_xxx_UOS_xxxx
+___________________
+___________________
+</details>
+
+# 4 根据电脑系统，按如下步骤操作：
+
+处理器和系统版本不同，操作存在差异，请以实际为准。
+
+# Windows 系统电脑
+
+1 安装包解压后，双击文件类型为 exe 的文件，例如 PixLab\_Series for Windows v1.156.exe，打开华为打印客户端安装程序。  
+2 在选择连接打印机方式界面中，阅读并勾选“同意华为打印应用用户协议”，根据打印机与电脑的实际连接方式进行选择。  
+3 待界面提示“安装成功”后，点击完成，此时电脑桌面上将出现华为打印客户端。
+
+# macOS 系统电脑
+
+1 双击文件类型为 “应用程序” 的文件，例如 HUAWEI PixLab Series，打开华为打印客户端安装程序。  
+2 在选择连接打印机方式界面中，勾选同意华为打印用户协议，根据打印机与电脑的实际连接方式选择通过 USB 连接或通过局域网搜索连接。  
+3 在弹出华为打印机客户端安装器引导窗口，点击继续。  
+4 在软件许可协议界面，点击继续，在弹窗中点击同意。  
+5 根据界面指引操作，在安装界面，点击安装，在弹窗中输入用户密码，点击安装软件。  
+6 稍等片刻，界面提示安装成功后，电脑与打印机完成连接。   
+7 此时，您可以打印电脑中的文件，或打开华为打印客户端进行复印。
+
+# UOS 系统电脑
+
+1 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，输入电脑的登录帐号和密码，授权安装华为打印客户端。  
+2 完成华为打印客户端的安装后，点击任务栏启动器图标，在应用菜单中点击打印管理器。  
+3 在打印管理器中，点击 + ，系统会自动查找打印机。
+
+![](images/9c56259022001804c6f7d1b09f973b03afedbec5502976ed03f676967f5384a8.jpg)
+
+<details>
+<summary>text_image</summary>
+
+打印管理器
+-   □ ×
+≡
+打印机设备 + - 
+无打印设备
+未配置打印机
+请点击添加按钮 (+)，添加打印机
+</details>
+
+4 在查找结果中选择已连接的华为打印机（如 HUAWEI CV81Z-LDM xxx），点击下一步，系统搜索驱动后，点击安装驱动。（USB 线缆连接与局域网连接使用的协议不同，但操作方法一样。）
+
+![](images/54e45c5431272a438e1f4da80846f373089665776e99ada67e729a73622b9631.jpg)
+
+<details>
+<summary>text_image</summary>
+
+打印管理器
+自动查找
+手动查找
+URL查找
+选择打印机
+HUAWEI CV81Z-LDM（使用XXX协议）
+驱动 手动选择驱动方案
+下一步
+</details>
+
+5 驱动安装后，点击打印测试页，能正常打印表示安装成功。
+
+![](images/c43c7f4c279ecd69f3847215322bec78d0acf6b33e4960b1b72563455595a82a.jpg)
+
+<details>
+<summary>text_image</summary>
+
+安装成功HUAWEI CV81Z-LDM
+添加打印机成功。请打印测试页测试打印机是否能够正常打印。
+查看打印机	打印测试页
+</details>
+
+6 打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、扫描。
+
+# KOS 系统电脑
+
+1 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，输入电脑的登录帐号和密码，授权安装华为打印客户端。  
+2 华为打印客户端安装成功后，点击任务栏开始菜单图标，在开始菜单中点击 设置 > 设备。  
+3 选择打印机，点击 + 添加，系统自动查找打印机。
+
+![](images/61281ce5d2ab2c66f49cac6b0827ff68dab9a29b0ec7f8bb43a4ad4da8aab1f5.jpg)
+
+<details>
+<summary>text_image</summary>
+
+设置
+打印机和扫描仪
++ 添加
+打印机-localhost
+服务器(S) 打印机(P) 查看(V) 帮助(H)
++ 添加
+过滤(F): 
+还没有配置打印机。
+添加
+已连接localhost
+</details>
+
+4 如果通过 USB 连接打印机，在设备中选择已连接的华为打印机（如 HUAWEI CV81Z-LDM xxx），点击前进。
+
+如果通过局域网连接打印机，点击网络打印机，选择已连接的华为打印机（如 HUAWEI CV81Z-LDM xxx），点击前进。
+
+![](images/7c4134b6ab1e5540849e08d233e58800a2a68d965dd39cdfd3bf66da4d9f76d6.jpg)
+
+<details>
+<summary>text_image</summary>
+
+新打印机
+选择设备
+设备
+XXXXXXXXX
+XXXXXXXXX
+HUAWEI CV81Z-LDM (XX)
+输入 URI
+▶ 网络打印机
+描述
+一个打印机连接到一个 USB 端口。
+▼ 连接
+USB
+取消 (C)    前进 (F)
+</details>
+
+5 系统自动搜索打印机驱动程序，搜索完成后，设置打印机名称等信息后，点击应用。
+
+![](images/0b80bacd38f5b845f8c965ff4c95ec45d4256e8c2f8b3944dbfedebbf454d954.jpg)
+
+<details>
+<summary>text_image</summary>
+
+新打印机
+描述打印机
+打印机名称
+这台打印机的简称比如“laserjet”
+HUAWEI-CV81Z-LDM
+描述（可选）
+可读描述比如“xxx激光打印机”
+HUAWEI CV81Z-LDM
+位置（可选）
+可读位置比如“Lab 1”
+返回(B)    取消(C)    应用(A)
+</details>
+
+6 安装完成后，点击打印测试页，能正常打印表示安装成功。
+
+![](images/01f2da70147e61ceb7fa80c5faaff3ca27692a269b0122c60c3c8b79215b83cc.jpg)
+
+<details>
+<summary>text_image</summary>
+
+您想打印一张测试页吗？
+取消	打印测试页
+</details>
+
+7 打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、扫描。
+
+# 中科方德系统电脑
+
+1 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击安装包，输入电脑的登录帐号和密码，授权安装华为打印客户端。  
+2 华为打印客户端安装成功后，点击任务栏开始菜单图标，在开始菜单中搜索“打印机设置”，点击打开打印机设置界面。  
+3 点击 + 添加，系统会自动查找打印机。
+
+![](images/4e092c97544a402fd05275b751a300845c9bdd9702c19487f547cd2371718d02.jpg)
+
+<details>
+<summary>text_image</summary>
+
+打印机-localhost
+服务器(S) 打印机(P) 查看(V) 帮助(H)
++ 添加 √ 过滤(F): 
+添加
+还没有配置打印机。
+已连接localhost
+</details>
+
+4 选择已连接的华为打印机（如 HUAWEI CV81Z-LDM xxx），点击前进。
+
+![](images/3e0a442b0790b5d1cf79883fa8b8976aa29fedcfe5a13c22517a8734402e8614.jpg)
+
+<details>
+<summary>text_image</summary>
+
+新打印机
+查找方式
+自动查找
+手动查找
+URI查找
+描述
+一个打印机连接到一个USB端口。
+▼连接
+连接
+HUAWEI CV81Z-LDM (XXXXXXXX)
+取消(C)    前进(F)
+</details>
+
+5 系统自动搜索打印机驱动程序，搜索完成后，设置打印机名称等信息后，点击应用。
+
+![](images/c79fdf9e4a973568cbc067cf1916a1ca548f8168d636695cec4621c3f1d55669.jpg)
+
+<details>
+<summary>text_image</summary>
+
+新打印机
+描述打印机
+打印机名称
+这台打印机的简称比如“laserjet”
+HUAWEI-CV81Z-LDM
+描述（可选）
+可读描述比如“xxx激光打印机”
+HUAWEI CV81Z-LDM
+位置（可选）
+可读位置比如“Lab 1”
+XXXXXX
+返回(B)    取消(C)    应用(A)
+</details>
+
+6 安装完成后，点击打印测试页，能正常打印表示安装成功。
+
+![](images/39a3021f66790c2bc956fa284de83821cbb1be5c78c3c5ad69c2c1c5ee793393.jpg)
+
+<details>
+<summary>text_image</summary>
+
+您想打印一张测试页吗？
+取消(C)	打印测试页
+</details>
+
+7 打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、扫描。
+
+# 装纸
+
+# 打印机支持的纸张如下：
+
+- 纸张类型：普通纸、厚纸、再生纸。  
+- 纸张尺寸: A4、B5 JIS、A5 (SEF)、B6 JIS (SEF)、A6 (SEF)、Letter (216 × 279 mm)、Executive (184 × 267 mm)、16 Kai (184 × 260 mm)。  
+- 纸张厚度: $60 - 105 \mathrm{~g} / \mathrm{m}^{2}$ 。
+
+# 打印机不支持的纸张如下：
+
+喷墨打印机专用的纸张；特殊纸张，如有粘性的纸张、热敏纸、复写纸等；弯曲、扭曲、折叠或有折痕的纸张；潮湿的纸张；很脏或破损的纸张；容易产生静电的过分干燥的纸张；打印过的纸张（有信头图案的纸张除外）；重量超出限制值的纸张；带有窗、洞、孔眼、图案或凹凸的纸张；上面贴有胶纸或原纸的粘胶标签纸；带有回形针或订书钉的纸张；信封等。
+
+使用不支持的纸张打印，可能会造成打印机损坏，请使用适合的纸张。
+
+1 用双手扶住纸盒两侧，将纸盒向外完全拉出。
+
+![](images/6f49e386eee76cb2ad0460191f3f33537af7ab693a3733b7ceced9d79ac6446b.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer being inserted into a plastic tray, with hands performing maintenance (no text or symbols)
+</details>
+
+2 取一叠不超过 150 页的打印纸，将纸张轻微来回弯曲，使纸松动，再扇动纸，然后在桌子上墩齐纸的边缘，这样做有助于防止卡纸。
+
+i 纸张卷曲可能会卡纸。装纸前，请务必将卷曲的纸张整理平整。
+
+![](images/125a6e0a583e8a045b0dc2df3b475b490ba9837dc798f800d23d53b709328d71.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of two hands holding a folded document or book, with arrows indicating movement or change (no text or symbols present)
+</details>
+
+3 捏住装纸盒的固定手柄，将后端挡板拉出。打印面朝下放入适量处理后的纸，然后滑动纸张长度卡板，使之适应纸张边缘位置。若放入 A4 纸，则刚好被挡板卡住；若放入纸张的大小小于 A4 纸，捏住后端和左边挡板调整，以固定纸张。
+
+i．装纸盒最多可装入 150 页（70g/m²）纸，请注意装纸上限。
+
+- 如需放入已打印了单面的纸，拉出纸盒，将打印了单面的纸的空白面朝下，放到剩余纸张的最上面。  
+- 若后端挡板未在纸盒最后端，捏住向后滑动到最后端；若左侧挡板未在纸盒最左侧，捏住向左滑动到最左侧。
+
+![](images/1a0898267c8ae614ae82afcf365861482df36b3b1636b4267a1e06bea1bc890b.jpg)
+
+<details>
+<summary>text_image</summary>
+
+捏住向后拉
+装纸上限
+放入纸张
+短边
+</details>
+
+4 打印机背后预留出 10 厘米以上的空间，装回纸盒，此时打印机纸盒防尘盖会被顶出。
+
+如果打印机背后预留空间不足，装回纸盒后，纸盒防尘盖不能被正常顶出，会造成纸张卷曲、卡纸，无法正常打印。
+
+![](images/056d16e25fb8634d046cf548b9c275d1f202035e22c0dc2c6e832a1fef73b750.jpg)
+
+<details>
+<summary>text_image</summary>
+
+HUNPEL
+≥10 cm
+</details>
+
+![](images/ce42b46283d1afcdf738379e38cf7d8e8d3c07f4be70780ce97675da928f06da.jpg)
+
+<details>
+<summary>text_image</summary>
+
+纸盒防尘盖被顶出
+</details>
+
+5 向外拉出挡纸板，并将挡纸板上的挡板向外翻转，准备开始打印。
+
+![](images/0db37fcfc153a93991035aa0d21e953c12f0fa87647a0aedca29fafd17b73915.jpg)
+
+<details>
+<summary>text_image</summary>
+
+HUAWEI
+</details>
+
+# 打印
+
+电脑连接打印机后，打开待打印的文档或图片等，选择打印，或者点按 Ctrl + P 键（macOS 系统电脑：Command + P 键），在打印机列表中选择已连接的华为打印机，设置打印参数后(如单面/双面)，进行打印，即可快速打印电脑中的文件。
+
+对于 macOS 系统电脑，当系统升级后，若您在设置打印参数界面无法选择双面打印，可尝试进行以下操作后再选择双面打印：打开系统偏好设置 > 打印机与扫描仪 > 选项与耗材 > 选项，勾选双面打印单位后点击好。
+
+\- 不同系统的操作界面可能存在差异，请以实际界面为准。
+
+具体操作（以 Windows 电脑打印 Word 文档为例）：
+
+1 在 Word 应用中打开待打印的文档，点击文件 > 打印（或点按 Ctrl + P 组合键），打开打印设置界面。  
+2 在打印机列表中选择已连接的华为打印机（如 HUAWEI CV81Z-LDM xxx），按界面提示配置好打印参数后（若要双面打印，请点击单面打印，在下拉框中，选择双面打印，从长边翻转页面或双面打印，从短边翻转页面），点击打印，开始打印。
+
+i．双面打印支持的纸张规格为 A4 、 Letter，其他纸张规格不支持。
+
+\- 您可以通过设置纸张尺寸将原稿进行缩放打印：
+
+- 若原稿（如普通文档）为大尺寸 A4，此时设置纸张尺寸为小尺寸 A5，可将原稿进行缩小打印。  
+- 若原稿（如病例）为小尺寸 A5，此时设置纸张尺寸为大尺寸 A4，可将原稿进行放大打印。
+
+![](images/99178fd31edc4043ab242439541a680e039be81a51209136c23ba8a32f97f8e7.jpg)
+
+<details>
+<summary>text_image</summary>
+
+打印
+打印机
+HUAWEI CV81Z-LDM
+就绪
+打印机属性
+设置
+打印所有页
+整个文档
+页数:
+单面打印
+仅在纸面的一侧上进行打印
+单面打印
+仅在纸面的一侧上进行打印
+双面打印
+从长边翻转页面
+双面打印
+从短边翻转页面
+手动双面打印
+在提示打印第二首时重新加载纸张
+XXX - Word
+共 无 页
+</details>
+
+(Office-Microsoft Word 打印界面示意图)
+
+# 复印
+
+# 复印注意事项
+
+打印机支持单面复印、双面复印等多种复印方式。复印前，需要将原稿正面朝下，放置在打印机扫描区中，放置时，请注意以下事项：
+
+- 若原稿上的墨迹未完全干燥，请勿放置到扫描区。否则可能会在扫描区留下印记，并出现在复印件上。  
+- 原稿建议尺寸：宽度不超过 210 mm（8.5 英寸），长度不超过 297 mm（11.7 英寸），重量不超过 1 kg。  
+- 请正确放置原稿。扫描区有 A4、A5、B5 等多个尺寸示意区域，请您按原稿大小，对齐扫描区左上角，正确放置。
+
+![](images/ab74f9e69766978647ed6663908537a008c2d8895df082fb4b90b967fdaa0442.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with an open lid and a triangular print symbol on the screen (no text or symbols present)
+</details>
+
+# 直接在打印机上进行单面复印、双面复印、身份证复印
+
+# 单面复印
+
+1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/968baf82ebf110a86957177572083d2c73a2265c16dcbd93321fe6154c0a1510.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with an open lid and a paper airplane icon, showing no text or symbols.
+</details>
+
+2 在操作面板上触按加键 ⊕ / 减键 ⊖，设置需要复印的份数。触按开始键 ▶ 开始复印。开始键 ▶ 白色闪烁，表示正在扫描、复印，开始键 ▶ 停止闪烁，完成复印。
+
+![](images/ef31f78c4dcf0b7becac95ee7bb70da9068d3eb07ca918cb7177c746a2b51743.jpg)
+
+<details>
+<summary>text_image</summary>
+
+①
+②
+08+
+</details>
+
+# 双面复印
+
+1 在操作面板上触按双面复印键 ☑，双面复印键 ☑ 白色常亮，进入双面复印模式。
+
+![](images/147756265a7759b18c0540ad50ce13250d849f22d210c005ddb957ea49da3255.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Diagram illustrating the process of printer printing and printmaking, showing step-by-step transformation from printer to printer.
+</details>
+
+2 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/c90ff2a81366355c24829ef823d4c0bf00bc071de33bf5b81e9234dad4f202d3.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with an open lid and a paper airplane icon, showing no text or symbols.
+</details>
+
+3 在操作面板上触按加键 ⊕ / 减键 ⊖，设置需要复印的份数。触按开始键 ▶ 进行第一面扫描，开始键 ▶ 白色闪烁，表示正在扫描中。
+
+![](images/0b68530ce5183c877dc0547a3ec67228b97f3679c2b86974a21b072f15b456fa.jpg)
+
+<details>
+<summary>text_image</summary>
+
+①
+②
+08 +
+-
+×
+▶
+</details>
+
+4 待开始键 ▶ 停止闪烁，打开盖板，将原稿翻面放置，并合上盖板。
+
+![](images/eb5b36ae45f3b28f5beb2248b3369e905ac427be065cc61b2e2d4dd705d6caab.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with open lid and digital screen (no text or symbols)
+</details>
+
+5 触按开始键 ▶ 进行第二面扫描，扫描完成后，打印机会自动完成双面复印。
+
+![](images/77bd4a9f63836db6778aadbebd53feeef819e570a0489ece9f6f60234ae752a0.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand pressing a printer with a play button icon above (no text or symbols)
+</details>
+
+# 身份证复印
+
+打印机支持身份证智能排版，自动校正证件位置、角度和正反面顺序。您可以使用打印机快速复印身份证。
+
+1 在操作面板上触按 ID 复印键 ☑，ID 复印键 ☑ 白色常亮，进入身份证复印模式。
+
+![](images/08b40d6118e76632369f26cf591c6214ef2051dd259c6e2bae6a1a9512c49742.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a hand pressing down on a printer with a speech bubble icon (no text or symbols)
+</details>
+
+2 打开扫描盖板，将身份证放置在扫描有效区域内（扫描台左边和上边刻印的 A4 的区域内），并合上盖板。
+
+![](images/81e27decba281eb810ab189f1ffb4dce29028aff4e5cba3c8c9b083421ea2ee9.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Diagram of a printer with open lid and digital display showing print status, indicating rotation or change.
+</details>
+
+3 在操作面板上触按开始键 ▶，开始键 ▶ 白色闪烁，进行第一面扫描。
+
+![](images/d79f88f92a16475ce215f99b02f10f3e818d9ce546fd0e7157fada392776dc0d.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a hand pressing a printer with a play button icon on top (no text or symbols)
+</details>
+
+4 待开始键 ▶ 停止闪烁，打开盖板，将身份证翻面并合上盖板。
+
+![](images/d00d64b237daffa283eaabf4d435595ad2e58bf5eba8e9cf12bd0a962f8627eb.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with open lid and internal scroll (no text or symbols)
+</details>
+
+5 触按开始键 ▶，开始键 ▶ 白色闪烁，进行第二面扫描。扫描结束后，打印机将自动校正身份证位置、角度和正反面顺序，完成身份证复印。
+
+![](images/1038b4d630324197a4fbdf24b8891c7f4bf74cea28a4ced5ce5055188543485a.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a hand pressing a button on a printer with a play button icon (no text or symbols)
+</details>
+
+# 从电脑端进行单面复印、双面复印、N合一复印
+
+支持 Windows/macOS/UOS/KOS/中科方德系统电脑。
+
+电脑通过华为打印客户端连接打印机后，打开华为打印客户端，您可以进行单面复印、双面复印、N合一复印，快捷方便。
+
+1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/e0997e5ba18b1c680bc30a036e8088af600ed68977b4622823d50749aaf9bdf8.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with open lid and control panel, showing internal circuitry (no text or symbols)
+</details>
+
+2 打开华为打印客户端（如 CV81 系列\_华为打印），选择您的打印机，点击复印。
+
+![](images/e257c5848499e535c7baa035bdb6cab36535653ccf6fa3bf21eb4b06056ad619.jpg)
+
+<details>
+<summary>text_image</summary>
+
+华为打印
+复印 扫描
+</details>
+
+# 3 设置好复印参数后，点击开始复印。
+
+复印相关参数如下（打印机不同插件版本，复印参数可能略有不同，请以实际界面为准）：
+
+- 份数：默认复印1份，您可以在输入框中输入需要的份数。  
+- 单双面：默认单面，您可以设置为单面、双面（长边翻页）、双面（短边翻页）。  
+- 复印质量：默认为标准，您可以设置为标准、最佳。  
+- 原稿尺寸：默认为A4，有A4、A5、B5等选项，请根据原稿的实际尺寸进行选择。  
+- 纸张尺寸：默认为A4，有A4、A5、B5等选项，请根据纸盒中纸张的实际尺寸进行选择。  
+- 纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择普通纸、再生纸、厚纸。  
+- 复印浓度：默认为默认，您可以拖动条形栏，设置为特浅、浅、默认、浓、特浓。  
+- 复印比例：默认为 $100\%$ ，您可以拖动条形栏，设置其他复印比例。  
+- 每张复印页数：默认每张纸复印 1 页。若您想要 N 合一复印，可以点击选择其他页数，例如选择 2，会将 2 页纸的原稿缩放到 1 张纸中打印。
+
+![](images/43e08cc89a23e4322328af2345ed73469a291b0e8cfcb61530de049eb3f16d5e.jpg)
+
+<details>
+<summary>text_image</summary>
+
+华为打印
+← 复印
+份数 1
+单双面 双面（长边翻页）
+复印质量 标准
+原稿尺寸 A4 (210*297 mm)
+纸张尺寸 A4 (210*297 mm)
+纸张类型 普通纸
+取消 开始复印
+</details>
+
+# 4 根据客户端界面提示操作，完成复印。
+
+# - 单面复印:
+
+点击开始复印后，打印机开始键 ▶ 白色闪烁，客户端会提示您复印中。打印机开始键 ▶ 停止闪烁后，完成复印。
+
+\- 双面复印（复印参数中，单双面设置为双面（长边翻页）或双面（短边翻页））：
+
+a 点击开始复印后，客户端界面会提示您如何放置原稿。打印机扫描完第一页原稿后，开始键 ▶ 停止闪烁，此时请放入第二张原稿并合上盖板，按 ▶ 开始键完成第二面扫描。  
+b 待第二页原稿完成扫描后，打印机将自动进行复印，待开始键 ▶ 停止闪烁，完成双面复印。
+
+\- N合一复印（复印参数中，每张复印页数为多页，例如2）：
+
+点击开始复印后，客户端界面会提示您如何放置原稿。打印机扫描完第一页原稿后，开始键停止闪烁，此时请放入第二张原稿并合上盖板，按开始键完成第二面扫描。重复此动作，直至所有原稿扫描完成，打印机将自动开始复印。
+
+# 扫描
+
+i 扫描前，确认电脑连接与打印机相同的路由器 WLAN 或有线网络。
+
+# 将原稿扫描至 Windows/UOS/KOS/中科方德系统电脑中
+
+电脑通过华为打印客户端连接打印机后，打开华为打印客户端，可使用扫描功能，将原稿扫描至电脑中。
+
+1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/0cbccfaf2e6a0bce64d50ca42c480c7097ccc5aab2178cd473cf078a9b983e1e.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with an open lid and a paper airplane icon, showing no text or symbols.
+</details>
+
+2 打开华为打印客户端（如 CV81 系列\_华为打印），选择打印机后，点击扫描。
+
+![](images/71a4557af1ba5aac4bbe3828fe3fbae430f96a815d79bebae01ffa035a4871f4.jpg)
+
+<details>
+<summary>text_image</summary>
+
+华为打印
+复印 扫描
+</details>
+
+3 设置扫描参数后，点击开始扫描。
+
+- 扫描颜色：默认为彩色，您可以设置为彩色、黑白、灰度。  
+- 扫描质量（分辨率越高，扫描后的文件质量越高，相应的，扫描时间越长）：  
+- 最佳：扫描分辨率为 1200dpi。  
+- 标准：扫描分辨率为 600dpi。  
+- 草稿：扫描分辨率为 300dpi。
+
+\- 原稿尺寸：默认为A4，有A4、A5、B5等选项，请根据原稿的实际尺寸进行选择。
+
+![](images/1b8fbd576917d152995bf216f94f6119149b9a9013c935ccb5976e08fc526999.jpg)
+
+<details>
+<summary>text_image</summary>
+
+华为打印
+← 扫描
+色彩模式	彩色
+扫描质量	标准
+扫描区域尺寸(A4 (210*297 mm)
+查看扫描文件 >
+取消	开始扫描
+</details>
+
+4 扫描完成后，按界面提示，可以选择打开存储文件夹、继续扫描、另存为 PDF 或直接选择完成。
+
+# 将原稿扫描至鸿蒙电脑中
+
+鸿蒙电脑与打印机连接后，可以在系统中打开扫描仪，将原稿扫描至鸿蒙电脑中。
+
+1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/b0d9f88908866f8e4b4241c96fc30d7ed2755548097a9430c70cafa55dfb9cb9.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with an open lid and a paper airplane icon, showing no text or symbols.
+</details>
+
+2 在电脑中，点击设置 > 打印机和扫描仪，在已添加设备中点击华为打印机（如 HUAWEI CV81Z-LDM xx）下方的打开扫描仪。  
+3 设置扫描参数（色彩模式、扫描区域尺寸等），开始扫描。  
+4 扫描完成后，可点击另存为保存为图片或 PDF，也可以点击继续扫描。
+
+# 将原稿扫描至 macOS 系统电脑中
+
+macOS 系统电脑与打印机连接后，可以使用电脑系统扫描功能，将原稿扫描至 macOS 系统电脑中。
+
+1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。
+
+![](images/4159bed92630eb3569aee59fcccd425c9ffd96dd86c8d59ec64ba2f7ef2b7f23.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with an open lid and a paper airplane icon, showing no text or symbols.
+</details>
+
+2 点击任务栏设置图标，打开系统偏好设置，选择打印机与扫描仪。  
+3 在打印机列表中选择对应的华为打印机，然后点击扫描。  
+4 将待扫描文件放入打印机扫描区域中，在扫描仪窗口中，设置好扫描文件的存储路径（左下角文件夹图标）以及纸张大小后，点击扫描，开始扫描。  
+5 扫描完成后，在存储文件夹中可以查看扫描文件。
+
+# 开关机与休眠
+
+# 开关机
+
+1 将电源线插入打印机背面的电源接口，另一端插入电源插座内。  
+2 开机：在打印机背面找到电源开关，向上按打开电源开关，打印机操作面板指示灯亮起，表示打印机已开机。稍等片刻，打印机预热完毕，开始键 ▶ 白色常亮，数字键显示 01，表示打印机就绪。  
+关机：向下按关闭电源开关，打印机操作面板所有指示灯熄灭，打印机关机。
+
+![](images/40cda3c0755c248c3ac421f057c074ff30c1e07d35a51e1f9f10d2d13abbfbfc.jpg)
+
+<details>
+<summary>text_image</summary>
+
+开关
+</details>
+
+# 退出休眠和设置休眠时间
+
+打印机默认持续 5 分钟无操作后自动进入休眠状态，此时，操作面板所有指示灯熄灭。触摸操作面板或收到打印任务时退出休眠。
+
+# 设置休眠时间：
+
+电脑通过华为打印客户端连接打印机后，您可在华为打印客户端中设置休眠时间。
+
+i 打印机不支持设置永不休眠。
+
+打开华为打印客户端，点击右上角：选择设备设置 > 设备设置，在休眠时间中，滑动滑块设置打印机进入休眠的时间，下滑滚动条至页面底部，点击保存。
+
+![](images/54e39d173eccf10583e447410072b123265ee6eb261661aad3db4aa09023c208.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a Huawei printer and desktop computer (no text or symbols)
+</details>
+
+# 深度休眠
+
+打印机未联网且没有设备连接时，持续 25 分钟无操作后，将进入深度休眠状态。此时，打印机接口（LAN 口、USB-B 接口）功能关闭，无法连接。触摸操作面板退出深度休眠。
+
+# 更多操作
+
+# 更换粉盒
+
+打印机缺墨时，操作面板上缺墨指示灯 🏠️ 会红色亮起、数字键显示 📄 ，请您更换粉盒。
+
+建议您前往华为官方渠道购买打印机适配的原装粉盒，若使用非原装粉盒，打印机的打印质量和性能可能达不到原来的设计标准，并无法享受原厂保修服务。
+
+1 双手扶住前盖两侧，打开前盖。捏住粉盒手柄向图标指示方向拨动，解锁后取出旧粉盒。
+
+i．若为打印机出厂自带粉盒，无需解锁直接取出旧粉盒即可。
+
+\- 若您的衣物或手不小心沾染了墨粉，请及时用干布擦，并用冷水洗，热水会使墨粉渗进到纤维中。
+
+![](images/6edbc05474d37fb2e5f56e9e24f2d95d6766e2119c20e7c4d25a6882aecb4da7.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Diagram of an printer with labeled parts showing internal structure and a magnified view of the printer's internal components.
+</details>
+
+2 从包装盒中取出新粉盒，水平摇晃新粉盒 2\~3 秒，防止墨粉堆积。
+
+![](images/c48a6ffaddb40577ede3631985155bdf28c2126c43c3cd1051a3748511631d8f.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Technical diagram showing two mechanical components with labeled parts and an arrow indicating assembly or transformation.
+</details>
+
+3 将新粉盒安装进打印机，捏住粉盒手柄向图标指示方向拨动，锁定粉盒后，关闭前盖。
+
+![](images/ccc08d451e0a98ab0c61fbd1cda4541b8d55ca7e67026183ca574ab181e5b208.jpg)
+
+<details>
+<summary>text_image</summary>
+
+Diagram of a printer with labeled parts showing internal structure and lock icon insertion
+</details>
+
+4 重置粉盒：同时触按加键 ⊕ 和减键 ⊖ 5 秒，至数字键显示 86 松开，打印机开始转移墨粉，发出“嗡嗡”声，持续约 100 秒后，“嗡嗡”声结束，表示重置成功。
+
+![](images/f441b0f660d8b89007620b4b310b34f69e5d49d3754c4a3844bbd5f16ef3e26c.jpg)
+
+<details>
+<summary>text_image</summary>
+
+5秒
+86
+</details>
+
+# 更换硒鼓
+
+当操作面板上数字键显示 [C]，且开始键 ▶ 红色闪烁时，表示您需要更换打印机硒鼓。请您前往华为官方渠道，购买华为打印机适配的原装硒鼓和粉盒，并及时更换。
+
+- 更换新的硒鼓时需同时更换新的粉盒，无法保留旧粉盒，请在更换硒鼓时连同粉盒一起进行更换。  
+- 建议您前往华为官方渠道购买打印机适配的原装硒鼓组件，若使用非原装硒鼓组件，打印机的打印质量和性能可能达不到原来的设计标准，并无法享受原厂保修服务。  
+- 打印机内部有发热零部件，为避免烫伤手，建议先将打印机关机，静置半小时，再更换硒鼓。
+
+1 按下上盖按钮，打开上盖。
+
+![](images/53597d98256d83a769090f9a0f57984b8164f1b9dc38ed327745f013ee0772bb.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with a hand inserting a button to its side (no text or symbols present)
+</details>
+
+2 握住旧硒鼓的内把手，斜向上拉动，小心取出旧硒鼓和粉盒。
+
+![](images/13859e9c484b6e8b4032bdfd14983fa0c565e77ce9f918b7b16dc746db0379ba.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of a Huawei internal device with no visible text or symbols
+</details>
+
+3 从包装盒内分别取出新粉盒和新硒鼓，将新粉盒安装到新硒鼓上，并锁定粉盒。
+
+若您的衣物或手上不小心沾染了墨粉，请及时用干布擦拭，并用冷水清洗，热水会使墨粉渗进到纤维中。  
+- 请注意区分粉盒和硒鼓，确认粉盒处于锁定状态（参考下图示意）。
+
+![](images/697d0f7400c9bbb9f8210fdfc45cd7ba3bf5cc8055c16c622bdb1ab308ff10a7.jpg)
+
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+graph TD
+    A["输入锁紧"] --> B["粉碎盒"]
+    B --> C["粉碎盒"]
+    C --> D["粉碎盒"]
+    D --> E["粉碎盒"]
+    E --> F["粉碎盒"]
+    F --> G["粉碎盒"]
+    G --> H["粉碎盒"]
+    H --> I["粉碎盒"]
+    I --> J["粉碎盒"]
+    J --> K["粉碎盒"]
+    K --> L["粉碎盒"]
+    L --> M["粉碎盒"]
+    M --> N["粉碎盒"]
+    N --> O["粉碎盒"]
+    O --> P["粉碎盒"]
+    P --> Q["粉碎盒"]
+    Q --> R["粉碎盒"]
+    R --> S["粉碎盒"]
+    S --> T["粉碎盒"]
+    T --> U["粉碎盒"]
+    U --> V["粉碎盒"]
+    V --> W["粉碎盒"]
+    W --> X["粉碎盒"]
+    X --> Y["粉碎盒"]
+    Y --> Z["粉碎盒"]
+```
+</details>
+
+4 轻轻水平摇晃（前后左右）新的硒鼓和粉盒组件 3-4 次，注意不要翻转，如果摇晃过程中有少量墨粉飞散，属正常现象，请使用纸巾擦拭干净即可。
+
+![](images/2a469b232896cde5737892bfc3fad17ae83a92f57c09796b29ab9c21cef28745.jpg)
+
+5 倾斜向下安装新的硒鼓和粉盒组件（将硒鼓左右两侧的金属头和塑料头分别对准打印机两侧内壁上两条竖直槽道，向下安装到位），并下压上盖直至盖好。
+
+![](images/894d7ecac3367cf35bb8dd9a0168574c7450396c45fa9e7bf8d0a3b91e5f8b72.jpg)
+
+<details>
+<summary>text_image</summary>
+
+HUAWEI
+</details>
+
+6 重置硒鼓：同时按下加键 ⊕ 和取消键 ⊗ 5 秒，至数字键显示 99 松开按键，待打印机完成初始化，表示重置成功。
+
+![](images/20124d3d30924905525ee75380be6ce7a66a333123e94bea6b5ef3cdc6549be4.jpg)
+
+<details>
+<summary>text_image</summary>
+
+5秒
+99
+</details>
+
+7 硒鼓重置后，还需要重置粉盒：同时按下加键 ⊕ 和减键 ⊖ 5 秒，至数字键显示 86 松开按键，打印机开始转移墨粉，发出“嗡嗡”声，持续约 100 秒后，“嗡嗡”声结束，表示重置成功。
+
+![](images/632d22e454b82d8e885c58b616605e161ebfd6ed33c44eb79d0081ab47ad0a04.jpg)
+
+<details>
+<summary>text_image</summary>
+
+5秒
+86
+</details>
+
+# 恢复出厂设置
+
+i．将打印机恢复出厂之前，请先打开扫描盖板，取出所有原稿，并合上盖板。
+
+\- 鸿蒙电脑端不支持将打印机恢复出厂设置，您可以在打印机面板上进行恢复出厂设置的操作。
+
+# 方法一：直接在打印机上操作
+
+1 打开扫描盖板，取出所有原稿，盖上盖板。  
+2 长按取消键 ☒ 约 8 秒，数字键显示 88，打印机开始恢复出厂，待数字键显示 01，表示打印机已恢复出厂。
+
+![](images/0163392eef029c1a338547a30ea58b16e82ca3233ee4a82e8aaf8f7cb91b2de4.jpg)
+
+<details>
+<summary>text_image</summary>
+
+88+ - +
+</details>
+
+3 向下按电源开关将打印机关机，稍等片刻，向上按电源开关将打印机开机。请等待约 3 分钟，待数字键显示 ☐，完成启动（启动过程中将自动进行扫描校准，请勿打开扫描盖板），即可正常使用打印机。
+
+# 方法二：华为打印客户端中将打印机恢复出厂设置
+
+电脑通过华为打印客户端连接打印机后，可按照如下操作将打印机恢复出厂：
+
+1 打开华为打印客户端，点击 $\because\because>$ 设备设置 > 高级设置，找到恢复出厂设置按钮，点击按钮，按界面提示恢复出厂。
+
+![](images/0db30952ffdd1d170f5a0292527e1f0f3266b45e8676a32fae133f044f626926.jpg)
+
+<details>
+<summary>text_image</summary>
+
+华为打印
+设备设置
+复印 扫描
+</details>
+
+2 打印机恢复出厂后，向下按电源开关将打印机关机，稍等片刻，向上按电源开关将打印机开机。请等待约 3 分钟，待数字键显示 ☐，完成启动（启动过程中将自动进行扫描校准，请勿打开扫描盖板），即可正常使用打印机。
+
+# 查看打印机 S/N 号
+
+S/N 码，即产品序列号，是产品的身份证号码，又称机器码、认证码、注册申请码等。
+
+您可以按以下任一方式，查看打印机 S/N 号。如您遇到无法获取 S/N 号的情况，您可前往附近的华为客户服务中心获取帮助，商品的纸质及电子发票、电商渠道有效凭证等均可作为保修凭证。
+
+# 方式一：通过打印机铭牌获取
+
+打印机铭牌贴在打印机背后，铭牌上印有打印机 S/N 号，请仔细查阅。
+
+![](images/839e339dc3e6cbe2c59c755a2d66a08693125cf57faaf5d0f517544a934b904e.jpg)
+
+<details>
+<summary>text_image</summary>
+
+S/N
+S/N
+</details>
+
+# 方式二：通过打印机信息页获取
+
+长按打印机开始键 ▶3 秒，听到 “滴” 声松开按键，开始键 ▶ 白色闪烁，打印机将自动打印信息页，在信息页上可查看序列号。
+
+![](images/b4c8ba34b49edc0db06db17eb766cda73b1fa86d439c133d0a57380d0cdc02fa.jpg)
+
+<details>
+<summary>text_image</summary>
+
+基本信息
+机器型号 XXXXXXX
+打印机序列号XXXXXXXXXXXXXX
+</details>
+
+# 方式三：通过电脑端华为打印客户端获取
+
+通过华为打印客户端配置打印机后，打开华为打印客户端（如 CV81 系列\_华为打印），点击右上角：选择设备设置 > 设备设置，在打印机序列号中查看。
+
+# 方式四：通过打印机包装盒获取
+
+若打印机的原始包装还在，您可以通过打印机包装盒查看 S/N 号。
+
+# 安装和更新驱动
+
+# 打印机驱动无需单独下载
+
+\- 鸿蒙电脑：打印机驱动无需手动安装，电脑系统版本升级后将自动安装打印机驱动。
+
+其他系统电脑：通过安装华为打印客户端配置打印机，在安装客户端和配置打印机的过程中，会进行打印机驱动的安装。
+
+# 打印机驱动的更新
+
+鸿蒙电脑：电脑系统版本升级后，打印机驱动将跟随系统版本自动升级至最新。
+
+# 其他系统电脑：
+
+1 通过安装华为打印客户端配置打印机后，打开华为打印客户端（如 CV81 系列\_华为打印），点击右上角：选择设备设置 > 关于，查看客户端的版本。  
+2 打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-P5/），选择打印机，点击驱动列表，核对华为打印客户端版本是否是您电脑上安装的版本，如果不是，您可以下载安装最新版本华为打印客户端，在安装和配置打印机的过程中即可安装新的驱动。
+
+# 故障排除
+
+# 无法开机
+
+如果打印机无法开机，请检查打印机有没有正确连接电源线。
+
+请确保电源插头牢牢地插入插座中，且插座可正常工作。
+
+# 送纸问题
+
+如果机器运行正常，但无法送纸或者频繁卡纸，请检查机器和纸张的情况。
+
+<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>纸张无法顺利送入</td><td>· 请使用支持的纸张类型。 · 正确装入纸张,确保纸张平整放入纸盒,且四周被挡板固定。参见《装纸》章节。 · 如果纸张卷曲,请更换平整纸张。 · 从纸盒中取出纸张并将其扇开。随后,颠倒纸张顶部和底部,然后放到纸盒中。</td></tr><tr><td>经常出现卡纸</td><td>· 检查纸盒中,纸张是否被挡板卡紧,请调整左边和后端挡板,将纸刚好卡住。 · 在打印包含大面积纯色的图像(这些图像会消耗大量碳粉)时,请避免在纸张的两面上进行打印。 · 请使用支持的纸张类型。 · 装纸时,请确保纸张高度不超过纸盒容量的上限。</td></tr><tr><td>一次送入多张纸</td><td>· 在装纸前,将纸来回弯曲使纸松动,然后在桌子上墩齐纸张的边缘。 · 请使用支持的纸张类型。 · 装纸时,请确保纸张高度不超过纸盒容量的上限。</td></tr><tr><td>纸张有褶皱</td><td>· 可能是纸张潮湿,请使用保存良好的纸张。 · 可能是纸张过薄,请更换厚度适合的纸张。 · 检查纸盒中,纸张是否被挡板卡紧,若未卡紧,请调整左边和后端挡板,将纸刚好卡住。</td></tr><tr><td>打印的纸张卷曲</td><td>· 将纸盒中的纸张拿出,颠倒一下,再装回纸盒。 · 可能是纸张潮湿,请使用保存良好的纸张。</td></tr><tr><td>打印到页面上的图像是斜的</td><td>检查纸盒中,纸张是否被挡板卡紧,若未卡紧,请调整左边和后端挡板,将纸刚好卡住。</td></tr></table>
+
+# 卡纸问题
+
+打印介质被卡住时，您可通过华为打印客户端显示的报错信息或打印机操作面板上的卡纸指示灯状态获知。
+
+如果出现卡纸，操作面板上卡纸指示灯 🏠 红色常亮。
+
+# 卡纸的原因：
+
+- 纸盒中纸张未正确放置或超过纸盒容量的上限。  
+- 在打印时，上盖或后盖被打开。  
+- 纸张规格不符合要求。具体请查阅《装纸》章节。
+
+\- 使用的纸张尺寸超出允许的大小范围。具体请查阅《装纸》章节。
+
+打印机自动强排：如果出现卡纸，请开关打印机上盖或后盖，将自动排纸。
+
+如果打印机不能自动排纸，可根据卡纸的区域，选择对应的操作。如果在外部未看到卡纸，请检查内部。
+
+卡纸上可能洒有墨粉。注意取卡纸时，不要将墨粉沾到手上或衣物上。如果沾上墨粉，请及时用冷水清洗。
+
+# 纸卡在出纸区域
+
+1 按下上盖按钮，打开上盖。
+
+![](images/2e8fd1fc62b3e4f377bb9245c780e3844c58b563a461b665f8a109fe7984ceeb.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with a hand inserting a button (no text or symbols)
+</details>
+
+2 握住硒鼓和粉盒组件的内把手，斜向上拉动，小心取出硒鼓和粉盒组件。  
+i 打印机内部有发热零部件，在取硒鼓和粉盒组件时，注意不要烫伤手。
+
+![](images/87f0621285fb03451e0c47fd15b61ea504ad649a0190e2a24283acb3f7bdf578.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Diagram of a Huawei device showing internal components and airflow direction (no text or symbols)
+</details>
+
+3 在打印机内部如果发现卡纸，请小心地将卡纸全部拉出，注意不要撕坏纸张，以免纸张碎片掉落打印机内部。
+
+![](images/7590d729a62fdeffc6c3fc713f7f4feb60654bed58f7b912701096c5d7e509bd.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of an open HUAWEI printer case with a paper slot and handle (no text or symbols)
+</details>
+
+4 倾斜向下安装硒鼓和粉盒组件（将硒鼓左右两侧的金属头和塑料头分别对准打印机两侧内壁上两条竖直槽道，向下安装到位），并下压上盖直至盖好。操作面板上卡纸指示灯熄灭，打印机恢复正常。
+
+![](images/b90994ef26713d13f68d9063497aecc2fe7c1cb60e1216614da5dc70de03cf79.jpg)
+
+<details>
+<summary>text_image</summary>
+
+HUAWEI
+</details>
+
+# 纸卡在进纸区域
+
+1 用双手扶住纸盒两侧，将纸盒向外完全拉出。
+
+![](images/9f73d635fe86d0208718c9f756be3e254591d5a7b23379a7c3b9e7ba87056e56.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with arrows indicating process flow (no text or symbols)
+</details>
+
+2 在纸盒中如果发现卡纸，请小心地将卡纸全部拉出，注意不要撕坏纸张，以免纸张碎片掉落纸盒中。
+
+![](images/fb0ad241d86b4b4b993b531df131b60af1f3fd2feb289b53fb2c3bacb80cd21b.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a printer with a paper holder and paper tray, showing internal components (no text or symbols)
+</details>
+
+3 装回纸盒，操作面板上卡纸指示灯 🏠 熄灭，打印机恢复正常。
+
+# 纸卡在定影部分
+
+1 在打印机背后，向下打开打印机后盖。
+
+![](images/a07cb038ffb07019628120d2f896512a40488b5cbff1a84b467f87927dab7598.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a computer chassis with top panel and front panel (no text or symbols)
+</details>
+
+2 在打印机内部如果发现卡纸，请往下拨动两侧的蓝色解压把手，打开纵向导纸板，然后小心地将卡纸全部拉出，注意不要撕坏纸张，以免纸张碎片掉落打印机内部。卡纸取出后，请上抬蓝色解压把手回到原位置。
+
+![](images/f3319b9fbc1b9291d01d3c520fd93ab744dea60276d65d7c4c29071d37b82548.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Illustration of a printer with paper being inserted, showing internal components and a magnified view of the printer's lid (no text or symbols present)
+</details>
+
+3 关紧后盖和纵向导纸板，操作面板上卡纸指示灯熄灭，打印机恢复正常。
+
+![](images/1c9b58c527d82d0efa35eb19406e6321eb3a82ba05ccfb9293e1dbe544e9d6a2.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of a mechanical device with no visible text or symbols
+</details>
+
+# 避免卡纸和清理卡纸的注意事项
+
+- 选择正确的纸张类型和规格，可以避免大部分的卡纸问题。如果发生卡纸，请按照上述方式操作。  
+- 请按照正确的方式装入纸张，正确调整纸张挡板的位置。  
+- 请勿向纸盒装入过多的纸。  
+- 正在进行打印时，请勿拉出纸盒。  
+- 在装纸之前，请弯曲、扇开和展平纸张。  
+- 请勿使用皱的、折叠过的、受潮的或非常卷曲的纸。  
+- 请勿在纸盒中混装不同类型的纸。  
+- 请将纸张保存在适当的环境中。  
+- 清除卡纸后，如果立即进行打印，墨粉可能无法充分定影，从而弄脏纸张。建议先打印一些测试页，直到不再出现污迹为止。  
+- 请勿用力拉扯卡纸，以免撕破纸张。残留在打印机中的纸张碎片会导致再次卡纸并且可能损坏打印机。  
+- 卡纸可能导致页面丢失。请检查打印作业是否有丢失的页面，并重新打印没有打印输出的页面。
+
+# 打印质量问题
+
+如果打印质量有问题，请先检查机器情况。
+
+<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>机器放置问题</td><td>请确保机器放置在不会摇动或震动的水平表面上。</td></tr><tr><td>使用了不支持的纸张类型</td><td>请确保使用支持的纸张。</td></tr><tr><td>纸张类型设置不正确</td><td>请确保在打印设置界面选择的纸张类型与装入的纸张类型一致。</td></tr><tr><td>使用的是非原装耗材</td><td>非原装硒鼓和粉盒会降低打印质量,而且会引起机器故障。请使用原装硒鼓和粉盒。</td></tr><tr><td>硒鼓和粉盒过期</td><td>硒鼓和粉盒应在过期日期之前打开并在有效期内使用。</td></tr><tr><td>机器脏污</td><td>请根据需要清洁机器。</td></tr></table>
+
+打印问题
+
+<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>打印出错</td><td>·如果打印时出错,请更改电脑和打印机驱动程序设置。·检查其他应用程序是否正在运行。如果正在运行,关闭其他应用程序,它们可能会干扰打印。·如果问题没有解决,请关闭不需要的进程再尝试。·请检查是否已安装最新版本的华为打印客户端或将鸿蒙电脑升级至最新版本。</td></tr><tr><td>打印启动命令和实际打印之间的时间间隔太长</td><td>处理时间取决于数据量,处理大量数据(例如图形密集型文件)的时间一般较长,请稍等片刻。</td></tr><tr><td>整个打印输出模糊不清</td><td>·可能是纸张潮湿。请使用保存良好的纸张。·可能是打印浓度较低。请在打印设置界面调整打印浓度。·可能是打印机上聚集了冷凝物。如果温度或湿度变化较快,请将打印机静置一段时间后再使用。</td></tr></table>
+
+复印问题
+
+<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>复印的纸张为空白</td><td>可能是放置原稿时正反颠倒。请将原稿复印面朝下放置。</td></tr><tr><td>复印的页面太深或太淡</td><td>可能是打印浓度设置不恰当。请在打印设置界面调整打印浓度。</td></tr><tr><td>复印照片印刷材料时,复印件上出现黑点</td><td>·可能是由于湿度较高。原稿粘到扫描区玻璃板上。·可能是扫描区有脏污。请清洁后再复印。·可能是复印时未合上扫描盖板,造成纸张黑污。复印时请关闭扫描盖板。</td></tr><tr><td>复印的图案有波纹</td><td>可能是原稿有一些线条或点比较密集的区域。</td></tr><tr><td>复印的纸张很脏</td><td>·可能是打印浓度设置过高。请在打印设置界面调整打印浓度。·可能是纸张表面上的碳粉没有干。复印以后,可稍等片刻再碰触纸张。·可能是扫描区有脏污。请清洁扫描区。·可能是原稿上有未完全晾干的地方。将原稿放在扫描区玻璃板上之前,请确保原稿表面已完全晾干。</td></tr><tr><td>复印内容歪斜</td><td>可能是原稿未正确放置。请将原稿复印面朝下,对齐扫描区左上角放置,并在扫描区将原稿压平。</td></tr><tr><td>纸张尺寸设置与装入的纸张不一致</td><td>确认打印设置界面选择的纸张尺寸是否与装入的纸张尺寸一致。如果不一致,请在打印设置界面调整纸张尺寸参数。</td></tr></table>
+
+扫描问题
+
+<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>扫描的图像脏</td><td>·可能是扫描区有脏污。请清洁扫描区。·可能是原稿未完全晾干。将原稿放入扫描区之前,请确保原稿已完全晾干。</td></tr><tr><td>扫描的图像变形或错位</td><td>可能是扫描过程中原稿被移动。扫描过程中,请勿移动原稿。</td></tr><tr><td>扫描的图像上下颠倒</td><td>可能是放置原稿时上下颠倒。请按照正确的方向放置原稿。</td></tr><tr><td>扫描的图像为空白</td><td>可能是放置原稿时,内容面朝上,空白面朝下。请将原稿内容面朝下放置。</td></tr><tr><td>在使用WIA网络扫描时提示“无法从设备检索图片,请检查该设备是否正确连接,然后再试”</td><td>请使用“扫描仪连接工具”,根据界面指引设置网络扫描仪。</td></tr></table>
+
+# 常见故障代码处理
+
+打印机显示以下故障代码时，请按照提供的解决方法操作，如果仍未解决，请拨打服务热线咨询。
+
+<table><tr><td>代码</td><td>含义</td><td>解决方法</td></tr><tr><td>TF</td><td>墨粉耗尽。</td><td>请购买华为原装粉盒进行更换。具体请参考《更换粉盒》章节操作。</td></tr><tr><td>CC</td><td>硒鼓寿命耗尽。</td><td>请购买华为原装硒鼓和粉盒进行更换。具体请参考《更换硒鼓》章节操作。</td></tr><tr><td>bA</td><td>双面入口处卡纸。</td><td rowspan="7">参考《卡纸》章节,解决卡纸问题。</td></tr><tr><td>bb</td><td>双面单元卡纸。</td></tr><tr><td>bc</td><td>打印机内部卡纸。</td></tr><tr><td>bd</td><td>缺纸或进纸异常。</td></tr><tr><td>be</td><td>进纸处卡纸。</td></tr><tr><td>bf</td><td>内部卡纸。</td></tr><tr><td>c0</td><td>出纸处卡纸。</td></tr><tr><td>c3</td><td>纸盒无纸。</td><td>拉出纸盒,装入纸张。</td></tr><tr><td>c1</td><td>上盖/前盖/后盖未闭合,或出现感应器异常等故障。</td><td>确认上盖/前盖/后盖的闭合状态,并重新开关盖。开关盖如无法恢复,请重启打印机。</td></tr><tr><td>c8</td><td>打印机过热。</td><td>可能由于长时间使用造成。请停止使用,等待30~60分钟查看是否恢复。请将打印或复印任务分批次进行。</td></tr><tr><td>cd / CE / CF / d1</td><td>激光模块错误。</td><td rowspan="8">请重启打印机。</td></tr><tr><td>d2</td><td>高压电源单元故障。</td></tr><tr><td>d4</td><td>主马达故障。</td></tr><tr><td>d5</td><td>风扇故障。</td></tr><tr><td>eA</td><td>操作面板故障。</td></tr><tr><td>e5</td><td>扫描单元马达故障。</td></tr><tr><td>eE</td><td>软件异常,进入安全模式。</td></tr><tr><td>eF</td><td>数据传输异常、直接存储器访问(DMA)错误。</td></tr><tr><td>d6 / d7 / d8 / d9 / d8 / db</td><td>定影单元温度异常。</td><td>若打印机使用场景温湿度发生较大变化需放置4小时以上再开机。确认打印机的供电电源是否稳定,是否在产品正常工作电压范围内。打开打印机后盖,确认有无卡纸,如有卡纸,请小心拉出纸张。(注意烫手)电脑通过华为打印客户端连接打印机后,在电脑上打开华为打印客户端,点击:设备设置&gt;高级设置,找到“解除定影单元错误”选项并执行。请重启打印机。</td></tr><tr><td>e9</td><td>扫描单元未找到初始位置。</td><td>请长按取消键⊗8秒至数字键显示99,等待打印机恢复出厂设置。请重启打印机。</td></tr><tr><td>e2</td><td>扫描单元内存分配不足。</td><td rowspan="2">建议减少每次扫描或打印的文件页数。重启打印机后,再进行扫描或打印任务。</td></tr><tr><td>c2</td><td>打印图像处理内存不足。</td></tr></table>
+
+# 安全信息
+
+⚠️【警告】在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。
+
+# 操作安全与保养
+
+\- 设备产生的无线电波或含有磁铁可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。
+
+\- 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少15厘米的距离。
+
+\- 电源插头应连接到易于触及的插座，插座应与接地线连接。
+
+\- 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。
+
+\- 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。
+
+\- 请在介于 $5^{\circ} \mathrm{C} \sim 35^{\circ} \mathrm{C}$ 的环境温度中、 $20 \% \sim 80 \%$ （非凝结）的环境湿度中内使用本产品，并在介于 $-20^{\circ} \mathrm{C} \sim +40^{\circ} \mathrm{C}$ 的环境温度中、 $30 \% \sim 93 \%$ 的环境湿度中存放本产品及其配件。当环境温度过高或过低时，可能会引起设备故障。
+
+\- 请勿使用任何物体堵塞设备的开孔，且在设备四周留出10厘米以上的散热空间。
+
+\- 请将设备或其配件放置在通风、阴凉、无阳光直射的环境中。请勿将设备包裹、密封或在设备上覆盖毛巾及放置其它物品。请勿将设备放置在盒子、箱子等封闭环境中使用，以免散热不良导致设备损坏。
+
+\- 打开或关闭设备上盖时，小心手指被夹伤。
+
+\- 请勿在打印过程中强行将纸拉出。否则，可能会对打印机造成损坏。
+
+\- 换纸或清除卡纸的过程中，请小心操作。纸张边缘比较锋利，可能导致割伤。
+
+\- 清除卡纸时，请小心操作，以免夹伤手指。
+
+\- 请勿将墨粉、硒鼓、粉盒投入火中。
+
+\- 请勿让儿童接触硒鼓、粉盒。
+
+\- 请根据当地法律法规来处理使用过的硒鼓和粉盒。
+
+\- 如果墨粉沾染到手上或衣服上，请立即擦去或用冷水清洗干净。
+
+\- 如果墨粉撒落到地上，应用湿布缓慢清除撒落的墨粉，以免墨粉飘散。
+
+· 如果吸入墨粉或废墨粉，请用大量的水漱口，并进入有新鲜空气的环境中，必要时请就医。
+
+\- 如果墨粉进入眼睛，请立即用大量的水冲洗,必要时请就医。
+
+\- 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。
+
+\- 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。
+
+\- 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。
+
+\- 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。
+
+- 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。  
+- 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。  
+- 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。  
+- 请勿在设备上放置任何物体（如蜡烛、盛水容器等），若有异物或液体进入设备，请立刻停止使用并断开电源，拔出连接在设备上的所有线缆，并联系华为客户服务中心。  
+- 在换气不畅的房间中长时间使用或打印大量文件时，请适时通风换气。  
+- 如果您所在区域室内外温差较大，打印机从室外低温环境搬到室内时，建议您将新打印机在室内环境静置 2～4 小时再使用，避免光学玻璃表面由于温度突变导致结雾影响画像打印质量。
+
+![](images/56458fd9fa90751607931330aa19842b1b28411421a9ab55d6e8c1879bf353b5.jpg)
+
+本设备仅适用于海拔 2000m 以下地区安全使用。
+
+![](images/714f1e980b4b817787feeeab31627bfd64c335af88edb7763d4912ce9dfc4524.jpg)
+
+本设备仅适用于非热带气候条件下安全使用。
+
+![](images/2f1ec5d0bb614a8e5dbc13fa35d6a0d4d86b45c462f35fd56a6901d2d1480273.jpg)
+
+【警告】热表面，不要接触。
+
+![](images/ce3f4a9c57bcb711f49db190f92ddf34eb8a00a784c6a52ee2425a652122b6a4.jpg)
+
+![](images/70af11f4e0014559a70f6f245d1eca1a20b0689aba3853057fac4102dc518ef9.jpg)
+
+![](images/639072c2c719e4a88dce703b8309cc271583c5bbc45788b449730f88d1e34edf.jpg)
+
+警告
+
+关闭上盖时请小心操作，避免夹伤手。
+
+避免儿童接触。
+
+![](images/ff4d582bb8ddff98eb2b0a8c5d7d8e37f8e246f1bdf697e12019fda90bd2fa69.jpg)
+
+如果未按本指南中的规定而擅自使用控制器、进行调节或执行操作可能会使操作员受到辐射。
+
+产品中有害物质的名称及含量
+
+<table><tr><td rowspan="2">部件名称</td><td colspan="10">有害物质</td></tr><tr><td>铅(Pb)</td><td>汞(Hg)</td><td>镉(Cd)</td><td>六价铬(Cr(VI))</td><td>多溴联苯(PBB)</td><td>多溴二苯醚(PBDE)</td><td>邻苯二甲酸二(2-乙基)己酯(DEHP)</td><td>邻苯二甲酸丁基苄酯(BBP)</td><td>邻苯二甲酸二正丁酯(DBP)</td><td>邻苯二甲酸二异丁酯(DIBP)</td></tr><tr><td>电路板</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>扫描模组</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>打印模组</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>电源组件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>附件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td colspan="11">本表格依据SJ/T 11364的规定编制。○:表示该有害物质在该部件所有均质材料中的含量均不超出电器电子产品有害物质限制使用国家标准要求。×:表示该有害物质至少在该部件的某一均质材料中含量超出电器电子产品有害物质限制使用国家标准要求,且由于技术性或经济性等因素的局限,法律法规不规定其限量要求或放宽其限量要求的技术应用。因型号不同,产品可能不包括以上部分部件,请以产品实际销售配置为准。</td></tr></table>
+
+![](images/7494d8f44309728bcfe8e3f665c3cf35a8522bc4f24cd45e4503650ff92101a2.jpg)
+
+本标识内数字表示产品附件在正常使用状态下的环保使用期限为 10 年。
+
+某些部件也可能有环保使用期限标识，其环保使用期限以标识内数字为准。
+
+# 维护硒鼓和粉盒
+
+# 硒鼓和粉盒的储存
+
+- 为了使设备发挥最大作用，建议在准备安装硒鼓或粉盒时，再将硒鼓或粉盒从包装中取出。  
+- 粉盒为一次性消耗品，无法再次灌装。  
+- 为了防止损坏硒鼓，不要将它暴露在光线下长达数分钟。
+
+# 硒鼓和粉盒打印量
+
+- 硒鼓打印量是基于国际标准 ISO/IEC 19752 推荐的测试方法得出，实际打印量可能因打印内容或其他因素而存在差异（具体取决于纸张类型，纸张方向，开机时初始化操作，使用环境状况等因素）。  
+- 粉盒打印量是基于国际标准 ISO/IEC 19752：室温环境下(25 摄氏度)，使用 $5\%$ 覆盖率标准测试样张，一个全新粉盒打印出来的 A4 单面纸的数量。
+
+# 硒鼓和粉盒的回收
+
+- 请根据当地法规处理使用过的硒鼓和粉盒，并将其与生活垃圾分开。  
+请勿将墨粉、硒鼓、粉盒投入火中。墨粉在接触到明火时可能会燃烧。  
+· 如果您有任何问题，请致电当地的废品处理站。务必重新密封硒鼓和粉盒以防内部墨粉溅出。
+
+\- 建议您将使用过的硒鼓和粉盒放在纸上，以防止墨粉意外溅出弄脏桌面、衣服等。
+
+# 硒鼓和粉盒的更换
+
+- 如果打印内容突然变浅或模糊，请根据打印机错误代码提示或华为打印客户端的提示，及时更换硒鼓或粉盒。  
+- 实际可打印的数量因图像数量和浓度、一次打印的页数、纸张类型和尺寸以及环境条件（如温度和湿度）而异。墨粉质量会随时间下降。  
+- 为了获得良好的打印质量，建议您使用华为原装正品硒鼓和粉盒。
+
+# 移动和搬运打印机
+
+- 长距离移动机器时，请使用原始包装材料重新包装机器，将其包装妥当。  
+- 运输之前，请务必将机器关机，并拔下机器上连接的所有线缆。  
+- 本设备是精密设备。移动时，请务必小心操作，将机器保持水平，不要翻倒或倾斜，防止墨粉溅出或机器损毁。  
+- 移动机器时请勿取出硒鼓和粉盒组件。
+
+# 清洁打印机
+
+为了保持良好的打印质量，在每次更换硒鼓和粉盒组件或出现打印质量时，请遵照以下内容，进行清洁：
+
+- 请定期清洁机器，以维持较高的打印质量。  
+· 用柔软的干布擦拭机身表面。如果无法擦拭干净，请使用完全拧干的柔软湿布擦拭。  
+- 如果仍然不能去除污垢污渍，请使用中性清洁剂，为防止变形、变色或破裂，请勿使用挥发性化学物品（例如汽油、稀释剂或喷雾杀虫剂）擦拭机器，用完全拧干的湿布反复擦拭，然后用干布擦拭该区域使其干燥。  
+- 在清洁打印机内部时，小心不要触及转印辊（位于硒鼓和粉盒组件下面），手上的油污会引起打印质量问题。  
+- 如果机器内部有灰尘或污渍，请用清洁的干布擦拭。  
+- 每年必须至少从插座上拔掉插头一次。清除插头和插座上的所有灰尘和污垢，然后再重新连接。积聚的灰尘和污垢可能导致起火危险。  
+- 清洁打印机外部：用清洁的、干的无绒布清洁机器的外部。  
+- 清洁扫描区玻璃板：打开扫描盖板，用软湿布清洁扫描仪玻璃板部件，然后用干布擦拭相同部件，以去除所有剩余的水。  
+- 清洁打印机内部：在打印过程中，纸、墨粉和灰尘颗粒会堆积在打印机内。时间久了之后，这些堆积物会引起打印质量问题，例如墨粉斑点、污迹和卡纸，清洁打印机内部可消除或减少这些问题：  
+- 关闭打印机，然后拔下电源线，等待打印机冷却。  
+- 按下上盖按钮，打开上盖。  
+- 握住硒鼓的内把手，斜向上拉动，小心取出硒鼓和粉盒组件。（请注意烫手）  
+- 用干的无绒布擦去硒鼓和粉盒组件区域和放硒鼓和粉盒组件的空间上的灰尘和洒落的墨粉。  
+- 倾斜向下安装好硒鼓和粉盒组件，并下压上盖直至盖好。插上电源线，接通打印机电源。
+
+![](images/ddec5bc08bf493e170baddf4a537dc43934f7a8e04cfde5f7fc0b8ca41518cd6.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of an open industrial machine with internal components (no text or symbols)
+</details>
+
+![](images/02306bf5cbac0232a2c629299bba4f164911d24d4c67f949e8f1258da2f01706.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Line drawing of a Huawei-branded open box with internal components (no text or symbols)
+</details>
+
+![](images/fecf5a5319d91027a1fdb4141708c74a17a8d568ee4fb0f557f6ea485405e324.jpg)
+
+<details>
+<summary>natural_image</summary>
+
+Technical line drawing of a Huawei printer case with an inset showing internal components (no text or symbols)
+</details>
+
+为了防止损坏硒鼓，不要将硒鼓暴露在光线下长达数分钟。如需要，用纸将硒鼓盖住。不要触及打印机内部转印辊。
+
+# 法律声明
+
+版权所有 © 2025 华为技术有限公司。保留一切权利。
+
+本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法禁止此类限制的除外。
+
+# 商标声明
+
+在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。
+
+# 其他声明
+
+通过国家十环认证的型号，产品无任何外接输入电源相连时可实现零能耗。请以购买时实际产品型号为准。
+
+产品回收处理相关信息，请访问 https://consumer.huawei.com/cn/support/recycling/
+
+# 注意
+
+本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。
+
+华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。
+
+# 责任限制
+
+本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。
+
+在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。
+
+在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。
+
+# 进出口管制
+
+若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。
+
+# 隐私保护
+
+为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。
+
+本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。
+
+更多信息请访问 https://consumer.huawei.com/cn/。
+
+购买华为终端产品，请访问华为商城 https://www.vmall.com/。

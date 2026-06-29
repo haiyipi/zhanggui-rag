@@ -1,0 +1,1062 @@
+# PANTUM
+
+WWW-PANTUM-COM
+
+# Pantum P3030D
+
+# 黑白激光打印机
+
+# 前言
+
+欢迎您使用奔图系列产品！
+
+对您使用奔图系列产品我们表示衷心的感谢！
+
+为了保障您的切身权益，请认真阅读下面的声明内容。
+
+更多信息可登录奔图官网（www.pantum.com）获取。
+
+# 法律说明
+
+# 商标
+
+Pantum 和 Pantum 标识是珠海奔图电子有限公司注册的商标。
+
+Microsoft $^{®}$ 、Windows $^{®}$ 、Windows server $^{®}$ 和 Windows Vista $^{®}$ 是微软公司在美国和其他国家注册的商标和注册商标。
+
+对于本用户指南涉及的软件名称，其所有权根据相应的许可协议由所属公司拥有，引用仅供说明。
+
+本用户指南涉及的其他产品和品牌名称为其相应所有者的注册商标、商标或服务标志，引用仅供说明。
+
+# 版权
+
+本用户指南版权归珠海奔图电子有限公司所有。
+
+未经珠海奔图电子有限公司事先书面同意，禁止以任何手段或形式对本用户指南进行复印、翻译、修改和传送。
+
+版本：V1.2
+
+# 免责声明
+
+为了更好的用户体验，珠海奔图电子有限公司保留对本用户指南作出更改的权利。如有更改，恕不另行通知。
+
+用户未按用户指南操作，而产生的任何损害，应由本人承担。同时，珠海奔图电子有限公司除了在产品维修书或服务承诺作出的明示担保外，也未对本用户指南（包括排版或文字）作出任何明示或默示的担保或保证。
+
+本产品被用于某些档案或影像的复印、打印、扫描或其他形式时，可能违反您所在地的法律。您如果无法确定该使用是否符合所在地法律时，应向法律专业人士咨询后进行。
+
+# 维修保证
+
+企业承诺，在停产后至少5年内，保证提供产品在正常使用范围内可能损坏的备件。
+
+# 消耗材料的供应
+
+企业承诺，在停产后至少5年内，提供产品的消耗材料。
+
+# 安全防范措施
+
+断开产品电源
+
+本产品必须放置在靠近且容易触及到电源插座的地方，以便于从电源插座上及时拔下产品电源插头切断电源！
+
+激光安全
+
+激光辐射对人体有害。由于激光组件完全密闭在打印机内，激光辐射不会泄露。为了避免激光辐射，请不要随意拆机！
+
+注意：未按照本说明书所规定内容进行控制、调整或操作程序可能导致接触危险的放射性辐射。
+
+本机遵循 CFR 及 IEC 60825-1 标准的 1 类激光产品。
+
+# 1类激光产品
+
+本机带有 3B 类的激光二极管，在激光组件中无激光辐射的外泄。
+
+本机内部的激光组件上贴有如下标签：
+
+![激光组件警告标签，标明为3B类激光产品，无外泄激光辐射。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2a2a1ec49c3e5f6009b9651d83c5228319d8b8e9be65b6c514ee63dabe209144.jpg)
+
+# or
+
+![组件标签示意图，展示打印机各部分名称及珠海奔图电子产品回收体系介绍开头。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/25bc012efa531091158e2b63daf9b8e45715080128cf59715b906428d7cd386e.jpg)
+
+# 珠海奔图电子产品回收利用体系
+
+为保护环境，珠海奔图电子有限公司建立废弃产品的回收再利用体系，您可以选择将废弃的打印机和耗材交给当地奔图维修中心进行统一回收，再由国家认定的具备废弃物处理资质的处理机构对废弃产品进行正确的回收、再利用处理，以确保节约资源，降低环境污染，解除用户对废弃产品污染环境的担忧。
+
+![打印机及耗材回收流程与费用承担方，以及使用前的安全警告。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/83bd51c08392a7e04038a01c35718f9e7b55f8928168b31885158b3b9577c232.jpg)
+
+1. 用户负担费用：用户—维修中心。  
+2. 珠海奔图电子有限公司负担费用：奔图维修中心—具备资质的废弃物处理机构。
+
+# 安全警告
+
+在使用本打印机前，请注意如下安全警告：
+
+<table><tr><td colspan="2">警告</td></tr><tr><td>打印机内部有高压电极。在清洁打印机之前,请确保已切断电源!</td><td><img src="images/76d780ee40f56c9cd9cbb7572754ca17bf4a95d8b7ae82e0de2394a2a62428e5.jpg"/></td></tr><tr><td>请勿用湿手插拔电源线插头,以免导致电击。</td><td><img src="images/392d94538612d6f785af07e41ec0c0187b7fd7f05ffd45b4e24df7b01043ab7f.jpg"/></td></tr><tr><td>打印机打印时和打印后,定影组件会处于高温状态,请勿触摸定影单元(图示阴影部分),以免造成烫伤!</td><td><img src="images/41912db0ab4eb1572ba02d1adc4c9f056a994aaa6b43475aeba8ac63239b990f.jpg"/></td></tr><tr><td>定影单元有高温警示标签,请勿移动或损坏该标签。</td><td><img src="images/dfaf55e7e2f00e3f88896220e2c9e9014774a92763ddfd064ea4602257f65712.jpg"/></td></tr></table>
+
+# 注意事项
+
+# 使用打印机前的注意事项：
+
+1. 阅读和理解所有说明；  
+2. 了解电器使用的基本常识;  
+3. 遵循机器上标识或随机手册上的警告和说明；  
+4. 如果操作说明与安全信息有冲突，请以安全信息为准；您可能错误理解了操作说明；如果您不能解决冲突，请拨打售后电话或与服务代表联系以寻求说明；  
+5. 清洁之前，请将电源线从 AC 电源插座拔下。请勿使用液体或气雾清洁剂；  
+6. 请勿将本机器放在不稳定的台面上，以免跌落造成严重损坏；  
+7. 请勿将任何物体放置于机器顶部，以免机器部件温度升高，从而造成损坏或者火灾；  
+8. 严禁将本机器置于散热器、空调或通风管附近；  
+9. 请勿在电源在线压任何物品；请勿将本机器放在人们可能会踩到其电源线的地方；  
+10. 插座和延长线不要超载；这可能会降低性能，以及造成火灾或电击；  
+11. 谨防小动物咬噬 AC 电源线和计算机接口线；  
+12. 切勿让尖锐物品刺穿机器槽孔，以免触到内部高压装置，造成火灾或电击；切勿让任何液体溅到机器上；  
+13. 请勿拆解本机器以免造成电击；需要修理时应请专业维护人员进行；打开或卸下护盖时会有电击或其它危险；不正确的拆装可能会导致以后使用时造成电击；  
+14. 若出现以下情况,请将机器从计算机和墙上 AC 电源插座上拔下,并联络专业维修人员进行维护:  
+- 机器中溅入了液体。  
+- 机器受到雨淋或进水。  
+- 机器跌落，或机壳摔坏。  
+- 机器性能发生明显变化。  
+15. 只调整操作说明中提到的控制；不正确地调整其它控制可能会造成损坏，并且需要专业维修人员用更长时间才能修好；  
+16. 避免在雷暴天气使用本机器，以免遭到电击；如果可能，请在雷雨期间拔下 AC 电源线；  
+17. 如果连续打印多页，出纸盘的表面会变得很烫，当心不要触碰此表面，并让儿童远离此表面；  
+18. 与该打印机相连的设备的信号线不能连接到户外；
+
+19. 在换气不畅的房间中长时间使用或打印大量文件时，请您适时换气；  
+20. 待机状态下，产品未接收到工作指示一段时间后（如 1 分钟），会自动进入节电（休眠）模式；只有当产品无任何外接输入电源相连时才能实现零能耗；  
+21. 本产品为 Class1 等级设备，使用时必须将其连接到带有保护性接地线的电源插座上；  
+22. 本产品运输过程中请按照产品包装箱运输标识放置；  
+23. 本产品为低电压设备，在低于本产品规定电压范围时，使用过程中如出现打印机内的碳粉脱落，或启动出现启动缓慢等故障，请参见产品注意事项或连络奔图售后服务中心；  
+24. 本产品为整机销售，消费者可到奔图售后服务中心购买所需配件。如销售产品与包装列表不一致，请到产品指定售后服务中心进行处理；  
+25. 请将本产品安装在温度介于 $10^{\circ} \mathrm{C}$ 至 $35^{\circ} \mathrm{C}$ 之间，相对湿度介于 $20 \%$ 至 $80 \%$ 之间的地方；  
+26. 为避免火灾或电击危险，请只使用随本产品提供的电源线或经制造商许可的替代品；  
+27. 本产品提供的电源线只可用于此产品。请勿适用于其他设备，可能会造成火灾、电击或其他伤害；  
+28. 请勿在机器附近或内部使用可燃性喷雾或易燃溶剂等。另外，请勿放置在机器附近或内部。会造成火灾或电击；  
+29. 请妥善保管本手册。
+
+# 法规信息
+
+<table><tr><td><img src="images/9620f78c7449a491371a24a3caa0840577f00fce66d93372ea1a7f74a7cc9882.jpg"/></td><td>此符号表明不能将该产品与其它废物一起随意丢弃。更妥善的做法,您应该将废弃设备送到指定的收集点,以便回收利用废弃的电气和电子设备。</td></tr><tr><td><img src="images/5efe2cf16f3b44e9d8c0d6a23c0dba5fe2fc879c143bbe93cee839308da94ed3.jpg"/></td><td>本产品适合室内使用,不适合室外使用。</td></tr><tr><td><img src="images/1acffd454ec01c231cf4302159a2cfbedbf5de10a8faf0eec9ba20f519308ee2.jpg"/></td><td>欧共体(EC)指令合规性本产品符合欧共体理事会2014/30/EU和2014/35/EU指令的成员国近似和协调法规中涉及电磁兼容性和电气设备安全性(为在特定电压范围内使用)的保护要求。本产品制造商为:中华人民共和国广东省珠海市金湾区平沙镇升平大道888号02栋、06栋、08栋珠海奔图电子有限公司。有关这些指令要求的合规声明,可向授权代表索取。本产品符合EN 55032 / EN 55035的B级范围和EN 62368-1的安全要求。</td></tr><tr><td><img src="images/18cc1a6a4c2e4a24c0a20fca33a00c63c62c2f70160e53e0c98341b2610d8324.jpg"/></td><td>本产品仅适用于非热带气候条件下安全使用。</td></tr><tr><td><img src="images/1db80195a5c69276ef898c9e1d41dc9215c5831c455d35f84cc86bc10cf4c2d9.jpg"/></td><td>本产品仅适用于海拔2000米及以下地区安全使用。</td></tr></table>
+
+产品中有害物质的名称及含量
+
+<table><tr><td rowspan="2">部件名称</td><td colspan="10">有害物质</td></tr><tr><td>Pb</td><td>Hg</td><td>Cd</td><td>Cr(VI)</td><td>PBB</td><td>PBDE</td><td>DEHP</td><td>BBP</td><td>DBP</td><td>DIBP</td></tr><tr><td>塑胶部件</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>金属部件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>电线电缆</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>电路板组件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>玻璃部件</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>碳粉</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>包装材料</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr></table>
+
+本表格依据SJ/T11364的规定编制：
+
+1. ○：表示该有毒有害物质在该部件所有均质材料中含量均在GB/T26572规定的限量要求以下。
+
+2. ×：表示该有毒有害物质至少在该部件的某一均质材料中的含量超出GB/T26572规定的限量要求。
+
+3. 本产品的部分部件含有有害物质，这些部件是在现有科学技术水平下暂时无可替代物质。
+
+4. 环保使用期限取决于产品正常工作的温度和湿度等条件。
+
+# 目录
+
+# 1. 使用本机前.... 1
+
+1.1. 产品系列简介....1  
+1.2. 随机附件..... 2   
+1.3. 产品视图.....3   
+1.4. 激光碳粉盒....5   
+1.5. 控制面板....6
+
+1.5.1. 控制面板概览....6  
+1.5.2. 控制面板指示灯功能.....7
+
+# 2. 纸张与打印介质.....8
+
+2.1. 纸张规格.....8   
+2.2. 特殊纸张....9   
+2.3. 装入纸张.....10
+
+2.3.1. 装入自动进纸盒....10   
+2.3.2. 装入手动进纸盒....12
+
+2.4. 非打印区域.....14  
+2.5. 纸张使用原则.....14
+
+# 3. 驱动安装与卸载.....15
+
+3.1. Windows 系统的驱动安装..... 15
+
+3.1.1. 一键安装.....15  
+3.1.2. 手动安装.....17  
+3.1.3. 驱动卸载方法..... 18
+
+3.2.macOS系统的驱动安装....18  
+3.2.1. 驱动安装..... 19   
+3.3.macOS系统添加打印机....21
+
+3.3.1. USB 连接方式添加打印机.....21
+
+4. 安全功能.....22
+
+4.1. 文档溯源功能.....22
+
+4.1.1. 打印二维码溯源信息设置....22
+
+4.1.2. 提取二维码溯源信息.....23
+
+5. 打印 24
+
+5.1. 打印功能.....24
+
+5.2. 打印设置..... 25
+
+5.3. 取消打印.....25
+
+5.4. 打印方式.....26
+
+5.4.1. 自动进纸盒打印 26
+
+5.4.2. 手动进纸盒打印 27
+
+5.5. 自动双面打印.....27
+
+5.5.1. 双面打印单元设置.....28
+
+5.5.2. 如何进行自动双面打印.... 29
+
+5.6. 精细模式打印....31
+
+5.7. 静音打印....32
+
+5.8. 自动关机设置....33
+
+5.9. 打开帮助文档....34
+
+6. 日常维护....35
+
+6.1. 打印机清洁....35
+
+6.2. 粉盒和鼓组件维护 37
+
+6.2.1. 关于粉盒和鼓组件....37
+
+6.2.2. 更换粉盒和鼓组件....38
+
+7. 故障排除....43
+
+7.1. 移除卡纸.....43
+
+7.1.1. 自动进纸盒卡纸 43  
+7.1.2. 手动进纸盒卡纸 45  
+7.1.3. 中间卡纸.....46  
+7.1.4. 定影单元卡纸.....49  
+7.1.5. 双面打印单元卡纸.....51
+
+7.2. 软件故障....52
+
+7.3. 常见故障排除....53
+
+7.3.1. 一般故障....53  
+7.3.2. 图像缺陷.....55
+
+8. 产品规格.....58
+
+8.1. 规格总述.....58
+
+# 1. 使用本机前
+
+# 1.1. 产品系列简介
+
+<table><tr><td colspan="3">产品系列参数</td><td>P3030D</td></tr><tr><td>接口类型</td><td colspan="2">USB</td><td>●</td></tr><tr><td>打印语言</td><td colspan="2">GDI</td><td>●</td></tr><tr><td>控制面板</td><td colspan="2">LED</td><td>●</td></tr><tr><td rowspan="2">打印速度</td><td>A4</td><td>30ppm</td><td>●</td></tr><tr><td>Letter</td><td>32ppm</td><td>●</td></tr><tr><td colspan="3">自动双面打印</td><td>●</td></tr><tr><td colspan="3">静音打印</td><td>●</td></tr></table>
+
+(●：支持，空白：不支持)
+
+![该图片展示了Pantum P3030打印机的功能特性，包括支持自动双面打印和静音打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/b3fb85dd23c93b699566916725f0c80f8868a98bee4001c2904bc0fc83369669.jpg)  
+注：·如有产品系列增加或变更，恕不另行通知。
+
+# 1.2. 随机附件
+
+<table><tr><td>名称</td><td>部件</td></tr><tr><td>粉盒</td><td><img src="images/6bdc9552719ab87b6b9316a41ed8b72d0f392b1a149bd02737dcf1471c1da928.jpg"/></td></tr><tr><td>鼓组件</td><td><img src="images/445b8952f28bc4bb872621c1d729a4b1aa9a2fcec239c216204d5720aa57235b.jpg"/></td></tr><tr><td>USB 连接线</td><td><img src="images/36241f58b6575480c7846d35dbe3ef68d0faa83323911a8a8770083a62465712.jpg"/></td></tr><tr><td>电源线</td><td><img src="images/8f90342f171a5baaa9bf6e33320f150b3be69c43e77d7f46be40f1bf80720e6c.jpg"/></td></tr><tr><td>光盘</td><td><img src="images/2d03fe60bb1d8e87644e16073c58b6c5514262a293feb3b4f61c997e0ec6b27a.jpg"/></td></tr><tr><td>快速安装指南</td><td><img src="images/55c8a27e5dd40fe77f04731c517405b5716fe0c624dcdd1ed2dbcbb8ad55b53f.jpg"/></td></tr><tr><td>三包凭证</td><td><img src="images/6afe8b7aaf854f40fe2788b307557406506b43bf7dfdd3f4f2519146518e9a22.jpg"/></td></tr></table>
+
+![打印机侧视图，展示Pantum P3030型号的侧面外观设计与结构。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/3573a37de8051bfac723ce3d0c1b9cb54dc8dca8c82070bc3a426acc13e83749.jpg)
+
+注：·个别地区可能不包含三包凭证。
+
+# 1.3. 产品视图
+
+侧视图  
+![Pantum P3030打印机侧视图，展示出纸槽和控制面板位置及功能。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1a1c248f97015082c73aa24f80eb2e96ce8eb5a74967513377ebac7716c66101.jpg)
+
+<table><tr><td>1</td><td>出纸槽</td><td>用于存放打印出来的纸张。</td></tr><tr><td>2</td><td>控制面板</td><td>指示打印机当前状态。</td></tr><tr><td>3</td><td>出纸托盘</td><td>防止打印出来的纸张滑落。</td></tr><tr><td>4</td><td>前盖</td><td>打开前盖,可取出激光碳粉盒。</td></tr><tr><td>5</td><td>手动进纸盒</td><td>用于放置从手动进纸盒进行打印的介质。</td></tr><tr><td>6</td><td>电源开关</td><td>打开或关闭电源,就绪状态按下此按钮进入节能模式。按住此按钮超过2秒钟,关闭打印机电源。</td></tr><tr><td>7</td><td>自动进纸盒</td><td>用于放置从自动进纸盒进行打印的介质。</td></tr><tr><td>8</td><td>手动进纸盒导纸板</td><td>滑动导纸板以匹配纸张的宽度。</td></tr><tr><td>9</td><td>自动进纸盒宽度导纸板</td><td>滑动宽度导纸板以匹配纸张的宽度。</td></tr><tr><td>10</td><td>自动进纸盒长度导纸板</td><td>滑动长度导纸板以匹配纸张的长度。</td></tr><tr><td>11</td><td>自动进纸盒延长托盘卡扣</td><td>用于调节托盘的延伸长度</td></tr></table>
+
+# 后视图
+
+![后视图：展示自动进纸盒延长托盘卡扣、USB和电源接口等部件位置。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/d89f5892c95ce4e9a60f684da125977f94502e5d5ec69d20411a13a55c898864.jpg)
+
+<table><tr><td>1</td><td>USB 界面</td><td>用于通过USB连接线将产品连接到计算机。</td></tr><tr><td>2</td><td>电源界面</td><td>用于通过电源线将产品连接到电源。</td></tr><tr><td>3</td><td>后盖</td><td>用于在出纸口处卡纸时解除卡纸。</td></tr><tr><td>4</td><td>双面打印单元</td><td>用于双面打印走纸及在双面打印卡纸时解除卡纸。</td></tr></table>
+
+![出纸口及双面打印单元示意图，展示了解除卡纸的方法与双面打印功能部件。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/de1411c9dbe2f3679dae505b60ecd081772665ce98a9505fcadcaa52178ff717.jpg)
+
+注：·打印机外观因型号功能不同会存在差异，示意图仅供参考。
+
+# 1.4. 激光碳粉盒
+
+激光碳粉盒由鼓组件和粉盒两部分组成。
+
+鼓组件使用寿命
+
+![激光碳粉盒结构及标准鼓组件的平均打印量说明](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/890bed33080fde4a736f833149934cf1ed46fb5b8198b6647fb2720e5c70a573.jpg)
+
+<table><tr><td>类型</td><td>平均打印量</td></tr><tr><td>标准鼓组件</td><td>约 12000 页(基于 ISO 19752 标准)</td></tr></table>
+
+粉盒使用寿命
+
+![标准鼓组件和粉盒的平均打印量分别为约12000页和1500页（基于ISO 19752标准）。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/763330db9ead6cae6a223490b7a6c74a3e31e89016ef28a588838e2ff75778d3.jpg)
+
+<table><tr><td>类型</td><td>平均打印量</td></tr><tr><td>标准容量粉盒</td><td>约 1500 页(基于 ISO 19752 标准)</td></tr><tr><td>高容量粉盒</td><td>约 3000 页(基于 ISO 19752 标准)</td></tr></table>
+
+![Pantum P3030打印机粉盒容量：标准1500页，高容量3000页（基于ISO 19752标准）。建议使用原装耗材。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/bf668e42085af81bbbd7e166ce0d1d7c204b5bbe3d6448b35a358e0d69b0a983.jpg)
+
+注：·如有型号增加恕不另行通知。
+
+- 耗材容量可能会因使用类型不同而有所差异。  
+- 本公司不建议使用原装耗材以外的耗材，因使用非原装耗材而导致的任何损坏不在保修范围之内。  
+- 粉盒外观因容量型号不同可能会存在差异，示意图仅供参考。
+
+# 1.5. 控制面板
+
+# 1.5.1. 控制面板概览
+
+打印机控制面板布局如下图所示：
+
+![控制面板布局图，展示鼓组件/纸张状态灯等按键位置及功能。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e0e9f7dd5b01836646f53e1ccd6d30fc30cb3f08a6537acff9227b3ca15b085e.jpg)
+
+<table><tr><td>序号</td><td>名称</td><td>功能</td></tr><tr><td>1</td><td>鼓组件/纸张状态灯</td><td>指示纸张和鼓组件的状态(请参阅第1.5.2章)。</td></tr><tr><td>2</td><td>粉盒/状态灯</td><td>指示粉盒和除纸张以外其他的状态(请参阅第1.5.2章)。</td></tr><tr><td>3</td><td>取消/继续按键</td><td>有作业正常打印的情况下,按住此按钮超过2秒钟取消当前正在打印的工作。有作业进纸失败、缺纸的情况下,按下此按钮继续打印当前正在打印的工作,按住此按钮超过2秒钟取消当前正在打印的工作。在空闲状态时,按住此按钮超过2秒钟可打印信息页。</td></tr></table>
+
+# 1.5.2. 控制面板指示灯功能
+
+鼓组件/纸张状态灯状态显示含义如下：
+
+<table><tr><td>序号</td><td>鼓组件/纸张状态灯状态显示</td><td>状态</td><td>状态描述</td></tr><tr><td>1</td><td><img src="images/5bf93c62483688321fa94f76c013e9a6d0394c499dc45ec96e37fd40c2976d38.jpg"/></td><td>熄灭</td><td>休眠状态</td></tr><tr><td>2</td><td><img src="images/3bf3546a64812d764af1eb30aeda93bb37bacb309d6fe2a505c699667cc58f2e.jpg"/></td><td>绿灯常亮</td><td>鼓组件正常,无纸张错误</td></tr><tr><td>3</td><td><img src="images/d6bc0d044f5f376ad331a05c9d37f870d72ca7e218e916dc4aed2a974bb3704b.jpg"/>-</td><td>红灯常亮</td><td>鼓组件错误(鼓组件未安装、鼓组件不匹配、鼓组件寿命尽)、纸张错误(打印缺纸、卡纸、进纸失败)</td></tr><tr><td>4</td><td><img src="images/8e6e1d0f0caf980916ef6713880f94df7334ac92d6d45d8004f59fde4e5d476a.jpg"/></td><td>橙灯常亮</td><td>鼓组件即将达到其预计寿命</td></tr></table>
+
+粉盒/状态灯状态显示含义如下：
+
+<table><tr><td>序号</td><td>粉盒/状态灯状态显示</td><td>状态</td><td>状态描述</td></tr><tr><td>1</td><td><img src="images/d5cf05530a7cf3955048212a37038e536aa3ed38c48e125422df83cba14ed426.jpg"/></td><td>熄灭</td><td>休眠状态</td></tr><tr><td>2</td><td><img src="images/b09419a4c2f2977f8dab1eb1330f7cc2632d6b3a1d6dff5ab6672fed524ac37b.jpg"/></td><td>绿灯常亮</td><td>打印机就绪</td></tr><tr><td>3</td><td><img src="images/61c96e1beaabfe852837187547894b35d3411923efd6e7428e2fe73f32412740.jpg"/></td><td>绿灯闪烁</td><td>预热中、打印中、工作取消中</td></tr><tr><td>4</td><td><img src="images/89d0b8c4e32a859ad1aef68ac4fd91ea2809adcfaa790761e2be24979199f7c4.jpg"/></td><td>红灯常亮</td><td>前盖打开等打印机错误</td></tr><tr><td>5</td><td><img src="images/d59303d89529bda29fd7760b6d5f5add492e974efe3597eac7c9f45f04fd5c09.jpg"/></td><td>橙灯常亮</td><td>粉盒错误(粉盒未安装,粉盒不匹配,粉盒寿命尽)</td></tr><tr><td>6</td><td>[5y35]</td><td>橙灯闪烁</td><td>粉量低警告</td></tr></table>
+
+# 2. 纸张与打印介质
+
+# 2.1. 纸张规格
+
+<table><tr><td rowspan="4">自动进纸盒</td><td>介质类型</td><td>普通纸(70~105g/m2)、薄纸(60~70g/m2)</td></tr><tr><td>介质尺寸</td><td>A4、Letter、A5、Legal、Statement、JIS B5、Folio、Oficio、Executive、ISO B5、A6、B6、16K、Big 16K、32K、Big 32K、自定义</td></tr><tr><td>介质克重</td><td>60~105 g/m2</td></tr><tr><td>纸盒最大容量</td><td>250页 (80 g/m2)</td></tr><tr><td rowspan="4">手动进纸盒</td><td>介质类型</td><td>普通纸(70~105g/m2)、薄纸(60~70g/m2)、厚纸(105~200g/m2)、透明胶片、卡片纸、标签纸、信封</td></tr><tr><td>介质尺寸</td><td>A4、Letter、Legal、Folio、Oficio、Statement、Executive、JIS B5、ISO B5、A5、A6、B6、Monarch Env、DL Env、C5 Env、NO.10 Env、C6 Env、Japanese Postcard、ZL、16K、Big 16K、32K、Big 32K、Yougata4、Postcard、Younaga3、Nagagata3、Yougata2、自定义</td></tr><tr><td>介质克重</td><td>60~200 g/m2</td></tr><tr><td>纸盒最大容量</td><td>1页</td></tr></table>
+
+![自定义介质克重为60~200 g/m²，纸盒最大容量1页；建议使用80 g/m²标准纸，不建议大量使用特殊纸。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/0d3e16e9463212d12083a8f4b39cff8e399ff1713f4c98f2e5c18d2ee963cbc0.jpg)
+
+注：· 本款打印机建议使用 $80 \, g/m^{2}$ 标准纸。
+
+- 不建议大量使用特殊纸，可能影响打印机寿命。  
+- 不符合本用户指南中所列准则的打印介质可能导致打印质量差、卡纸次数增多、打印机过度磨损。  
+- 重量、成分、纹理及湿度等属性是影响打印机性能和输出质量的重要因素。
+
+在选择打印介质时，请注意以下事项：
+
+1. 所需打印效果：选择的打印介质应符合打印任务的需要。  
+2. 表面平滑度：打印介质的平滑度会对打印效果的清晰程度产生影响。
+
+3. 某些打印介质可能符合本部分的所有使用准则，但仍不能产生令人满意的打印效果。这可能是由于不正确的操作、不适宜的温度和湿度，或者奔图无法控制的其他因素造成的。在大批量购买打印介质之前，请确保打印介质符合本用户指南中指定的规格。
+
+# 2.2. 特殊纸张
+
+本产品支持特殊纸张进行打印，特殊纸张包括：标签纸、信封、透明胶片、厚纸、卡片纸、薄纸。
+
+![特殊纸张打印指南：选择匹配的打印类型和尺寸，确保符合指定规格以获得最佳效果。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1226ff7ffe7b3ba6eec9b9682671dc49005314722e01d22aeb9b4bc2fea7966c.jpg)
+
+注：·当使用特殊纸张或打印介质时，请确保在打印设置上选择匹配的打印类型和尺寸，以便获得最佳打印效果。
+
+请遵守以下标准：
+
+<table><tr><td>打印介质种类</td><td>正确做法</td><td>错误做法</td></tr><tr><td>标签纸</td><td>仅使用未暴露衬纸的标签。标签使用时应放平。仅使用整张的标签。不保证市面上所有的标签纸都能够满足要求。</td><td>使用褶皱、起泡或破损的标签纸。</td></tr><tr><td>信封</td><td>信封应平整置入。</td><td>使用有褶皱、缺口、粘连或损坏的信封。使用带有别针、按扣、窗口或涂层衬里的信封。使用自粘不干胶或其他合成材料的信封。</td></tr><tr><td>透明胶片</td><td>仅使用经核准适用于激光打印机的透明胶片。</td><td>使用不适用于激光打印机的透明胶片。</td></tr><tr><td>厚纸、卡片纸</td><td>仅使用经核准适用于激光打印机并满足本产品重量规格的重质纸。</td><td>使用重量超过本产品推荐介质规格的纸张,除非是经核准适用于本产品的纸张。</td></tr></table>
+
+# 2.3. 装入纸张
+
+# 2.3.1. 装入自动进纸盒
+
+1. 从打印机中完全抽出自动进纸盒。
+
+![调整自动进纸盒的延长托盘卡扣、长度导纸板及宽度导纸板以匹配纸张大小。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/a0db5211472a68302628b958dd7271d5bd26b81e4dfdb706a471c603427e634a.jpg)
+
+2. 滑动自动进纸盒延长托盘卡扣、长度导纸板及宽度导纸板到所需的纸张大小卡槽，匹配纸张的长度和宽度。
+
+![调整自动进纸盒的延长托盘卡扣、长度导纸板及宽度导纸板至适合纸张尺寸的位置。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/8b02facf23ea35f60052b172c96ac455ff75050f360ff629789557cc09f6a725.jpg)
+
+![调整大小卡槽以匹配纸张尺寸，注意不要过度挤压导纸板，防止纸张变形。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/ec0a29a1a1e68719216d7bb3053a72464e8dcd6036b407b475731b58dc005f16.jpg)
+
+注：·请不要过度挤压“长度导纸板”和“宽度导纸板”，否则容易导致纸张变形。
+
+3. 请在装入纸张之前展开堆叠的纸张，避免卡纸或进纸错误，再把纸张打印面朝下装入纸盒内，自动进纸盒最多可装入250张 $80\mathrm{g} / \mathrm{m}^2$ 纸。
+
+![纸张装入前需展开，打印面朝下放入纸盒，最多250张80g/m²；抬起出纸托盘防滑落。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/25b0996146b695ba60efb5ae1fff445dd1be25b2e8a675e962e74fcf976faea2.jpg)
+
+4. 抬起出纸托盘，避免打印完的纸张滑落，或在打印完成后立即将打印的取走。
+
+![抬起出纸托盘，防止打印纸滑落或及时取走打印件以保持整洁。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1f31fb130da097644cec7b6b7e7e9e7091c289747dd2a715eda9df049c03047f.jpg)
+
+![建议抬起出纸托盘防止纸张滑落，或立即取走打印完成的纸张以避免卡纸。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/79ccaf4e25e52959732dcab907fd7b666ba9067741563d400a9a5f0ebb827a76.jpg)
+
+注：· 建议抬起出纸托盘避免打印完纸张滑落。如果您选择不抬起出纸托盘，我们建议立即取走从打印机中输出的已打印纸张。
+
+- 如果一次性放入自动进纸盒的纸张超过 250 页（80g/m²）会造成卡纸或不进纸。  
+- 如果仅打印单面时，请把要打印的面（空白面）朝下。
+
+# 2.3.2. 装入手动进纸盒
+
+1. 抬起出纸托盘，避免打印完的纸张滑落，或在打印完成后立即将打印的取走。
+
+![打开手动进纸盒，准备放入纸张进行打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/eaa221662057ad17794a5ee98820a97be3f0ae7ce86e3224eb157ed219fb27cb.jpg)
+
+2. 打开手动进纸盒。
+
+![打开手动进纸盒，并调整导纸板以匹配纸张宽度。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/86961498741575aeecda51ff9fbffe57544030c3d8274d998b7e9e0dc25c8a01.jpg)
+
+3. 滑动手动进纸盒的导纸板以匹配纸张的两侧。不要用力过度，否则会导致卡纸或纸张歪斜。
+
+![调整手动进纸盒导纸板以匹配纸张尺寸，然后平整放入打印介质。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/93420bfa50f6b89e6be3c557f7ec9cba87cda2a1bded266bbd259c925fe3728c.jpg)
+
+4. 双手将一张打印介质平整的放入手动进纸盒中。
+
+![将打印介质平整地放入手动进纸盒中，确保纸张边缘对齐。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/6bbd2059ac0973b1e121b0f61d5280a5e4d6cb30267c7daedda0bd11718b21ee.jpg)
+
+![将打印介质平整地放入手动进纸盒，确保打印面朝上，每次仅放一张。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/a3a9accba5c7dd6b3a0f32f0edccd06e348b496f4339ace639c658cc3d853e1c.jpg)
+
+注：· 当您将纸张放入手动进纸盒时，打印机将自动进入手动进纸模式。  
+- 请每次放入一张打印介质到手动进纸盒中，打印结束后再放入另一张。  
+- 将打印介质打印面向上放入手动进纸盒，装入时，纸张的顶部先进入手动进纸盒。
+
+5. 当打印完的页面从打印机输出后，按照如上步骤，再放入第二张继续打印。放入过慢，将会提示手动进纸盒缺纸或手动进纸盒进纸失败，放入纸张，自动继续打印；放入太快，纸张会被卷入打印机并容易造成卡纸。
+
+![非打印区域示意图：阴影部分为打印机无法打印的边缘区域。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e603266004305d39aa69419b2727da7709af7721d8e72def4ee10e7a1b85f30c.jpg)
+
+注：·打印后，请立即取走从打印机中输出的已打印纸张。堆叠的纸张或信封会引起卡纸或曲纸。
+
+# 2.4. 非打印区域
+
+阴影部分表示非打印区域。
+
+![非打印区域示意图：阴影部分为不可打印区，展示纸张的上下左右边距。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/aeba352a978e31cc6190a57977023986abe9e06b75ad45872c5541ad4e71e24b.jpg)
+
+<table><tr><td>用途</td><td>纸张尺寸</td><td>上下边距(A)</td><td>左右边距(B)</td></tr><tr><td rowspan="2">打印</td><td>A4</td><td>5mm(0.197inch)</td><td>5mm(0.197inch)</td></tr><tr><td>Letter</td><td>5mm(0.197inch)</td><td>5mm(0.197inch)</td></tr></table>
+
+# 2.5. 纸张使用原则
+
+- 纹理粗糙、有凹凸、油渍、十分光滑的纸张打印效果不佳。  
+- 请确保纸上无灰尘、绒毛等。  
+- 将纸张置于平坦的表面，存放在阴凉、干燥的环境。
+
+# 3. 驱动安装与卸载
+
+# 3.1. Windows 系统的驱动安装
+
+Windows 驱动安装软件提供一键安装和手动安装两种安装方式。推荐您使用一键安装方式，它可以帮助您更快速、更便捷的自动完成驱动安装。当您使用一键安装方式遇到困难时，您可以尝试手动安装。
+
+![介绍Pantum P3030打印机Windows驱动的一键安装与手动安装方式，包括USB、有线及无线网络连接选项。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/62b918af9b7d82eda964bd8707274122f43c473639b42b96fda7c0349f36c604.jpg)
+
+注：·驱动安装界面因型号功能不同存在差异，示意图仅供参考。
+
+# 3.1.1. 一键安装
+
+一键安装为您提供 USB 线连接打印机、有线网络连接打印机、无线网络连接打印机三种安装方式，您可以根据您打印机支持的连接方式选择您习惯使用的安装方式。
+
+# 3.1.1.1. 方式一：USB线连接打印机
+
+1. 使用 USB 线连接打印机和计算机，并开启打印机和计算机电源。  
+2. 在计算机的光驱中插入随附的安装光盘：
+
+- Windows XP 系统：自动运行安装程序。  
+- Windows 7/Vista/Server 2008 系统：弹出“自动播放”界面，点击“Autorun.exe”，运行安装程序。  
+- Windows 8 系统：计算机桌面右上角弹出“DVD RW 驱动器”窗口，鼠标点击此弹窗任意位置，然后点击“Autorun.exe”，运行安装程序。  
+- Windows 10 系统：计算机桌面右下角弹出“DVD RW 驱动器”窗口，鼠标点击此弹窗任意位置，然后点击“Autorun.exe”，运行安装程序。
+
+![插入光盘后，通过自动播放或手动打开DVD RW驱动器运行Autorun.exe安装程序。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/9a9194ad6d5c24c1ebdb876560ce9c9cb655feec1e72952a4fa3a145b2c98efd.jpg)
+
+注：· 部分计算机可能因系统配置等原因，插入安装光盘后不会自动播放光盘，请双击“计算机”，找到“DVD RW 驱动器”，双击“DVD RW 驱动器”，运行安装程序。
+
+3. 阅读并同意《最终用户许可协议》和《隐私政策》协议条款，点击界面右下角的“下一步”按钮，进入驱动安装界面。  
+4. 点击方式一下方的“一键安装”按钮，进入安装过程，安装过程可能需要一定时间，时间长短与您计算机配置有关，请您耐心等待。
+
+![驱动安装完成界面，提供“打印测试页”按钮以验证安装是否成功。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/eb36a542c6340cbb32754f51aa9ad0c8cef71a34256563d520cdc6aeb6fa3049.jpg)
+
+![安装打印机驱动过程中，等待计算机配置完成，并准备打印测试页以验证安装是否成功。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/10b42b132a68bf8186908a040636cbde4bd5aa1eec9e720333cc4f41c26d92d5.jpg)
+
+5. 安装完成，点击“打印测试页”，如果您的打印机能打印测试页，说明您已经正确安装打印机驱动。
+
+# 3.1.2. 手动安装
+
+\- 驱动安装前，您需要知道打印机型号，请打印打印机的“信息页”并查看“产品名称”来获知打印机型号（如何打印，请长按“取消/继续”键）。
+
+# 3.1.2.1. USB连接方式安装
+
+1. 使用 USB 连接线连接打印机和计算机，并开启打印机和计算机电源。  
+2. 在计算机的光驱中插入随附的安装光盘：
+
+\- Windows XP 系统：自动运行安装程序。
+
+\- Windows 7/Vista/Server 2008 系统：弹出“自动播放”界面，点击“Autorun.exe”，运行安装程序。
+
+\- Windows 8 系统：计算机桌面右上角弹出“DVD RW 驱动器”窗口，鼠标点击此弹窗任意位置，然后点击“Autorun.exe”，运行安装程序。
+
+\- Windows 10 系统：计算机桌面右下角弹出“DVD RW 驱动器”窗口，鼠标点击此弹窗任意位置，然后点击“Autorun.exe”，运行安装程序。
+
+![插入光盘后，通过自动运行或手动打开DVD RW驱动器运行Autorun.exe安装程序。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/d590a574d0e4e565b44256a4db05f4a31515216cd25f122e0c0a331dab2a9021.jpg)
+
+注：· 部分计算机可能因系统配置等原因，插入安装光盘后不会自动播放光盘，请双击“计算机”，找到“DVD RW 驱动器”，双击“DVD RW 驱动器”，运行安装程序。
+
+3. 阅读并同意《最终用户许可协议》和《隐私政策》协议条款，点击界面右下角的“下一步”按钮，进入驱动安装界面。  
+4. 点击驱动安装界面下方的“手动安装”，进入手动安装界面。   
+5. 选择安装语言和打印机型号。
+
+6. 选择“USB 连接”，点击“安装”。
+
+![手动安装Pantum P3030打印机驱动，选择USB连接并完成安装后打印测试页。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/0f67331956cd519d98f4b715102015a04f70a01d83476f8c6900d1edce24c8e2.jpg)
+
+7. 安装软件自动安装驱动，安装过程可能需要一定时间，时间长短与您计算机配置有关，请您耐心等待。  
+8. 安装完成，点击“打印测试页”，如果您的打印机能打印测试页，说明您已经正确安装打印机驱动。
+
+# 3.1.3. 驱动卸载方法
+
+以下操作以 Windows 7 为例，您的计算机屏幕信息可能因操作系统的不同而有差异。
+
+1. 点击计算机的“开始菜单”，然后点击“所有程序”。  
+2. 点击"Pantum"，然后点击"Pantum XXX Series"。
+
+Pantum XXX Series 中的"XXX"代表产品型号。
+
+3. 点击“卸载”，按照卸载窗口说明删除驱动。  
+4. 卸载完成后重启计算机。
+
+# 3.2. macOS 系统的驱动安装
+
+\- macOS 系统下的驱动安装分为驱动安装和添加打印机两个步骤。
+
+# 3.2.1. 驱动安装
+
+以下操作以 macOS 10.14 为例，您的计算机屏幕信息可能因操作系统的不同而有差异。
+
+1. 打开打印机和计算机的电源。  
+2. 在计算机的光驱中插入随附的安装光盘，双击"Pantum XXX Series" 安装包。(Pantum XXX Series中的 XXX 代表产品型号。)
+
+![安装向导启动，点击“继续”并阅读许可协议后再次点击“继续”。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1f219dff75cc2d15f7915a95925fbac954b9cd80c62a401f83b411105a1a84cf.jpg)
+
+3. 点击“继续”。  
+4. 阅读许可协议，然后点击“继续”。
+
+![安装过程中同意许可协议和隐私政策的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/36ed2529d5c4ab7333c98f3f52353f59eaae8a17c64c487ad1c04cd4a29e8e1e.jpg)
+
+5. 在弹出的提示窗口，点击“同意”，接受许可协议。
+
+6. 阅读隐私政策，然后点击“继续”。
+
+![安装过程中同意许可协议和隐私政策，然后点击“安装”并输入计算机密码以继续。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2cdb74571c3e3b74e6ab13ec70e616112a8efbca277ece6fb14a63a6f01dff10.jpg)
+
+7. 在弹出的提示窗口，点击“同意”，接受隐私政策。  
+8. 点击“安装”。  
+9. 输入计算机密码，点击“安装软件”。
+
+![安装过程中同意隐私政策、点击安装并输入密码，继续安装直至驱动自动完成。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/668eeb3a3fa00d36c1ae1e8ea1fa1a975d43d82463a686f1f68d030045bfadc8.jpg)
+
+10. 在弹出的提示窗口，点击“继续安装”。  
+11. 系统自动完成驱动安装。
+
+若用 USB 连接线连接计算机，在驱动安装过程中将弹出“添加打印机”界面，可在此处添加打印机（如何添加打印机，请参阅第 3.3 章）。
+
+# 3.3. macOS 系统添加打印机
+
+# 3.3.1. USB 连接方式添加打印机
+
+1. 使用 USB 连接线连接打印机和计算机，打开电源。  
+2. 进入计算机的“系统偏好设置”—“打印机与扫描仪”。  
+3. 点击 + 按钮，选择“添加打印机或扫描仪”。  
+4. 选择打印机，然后从“使用”弹出菜单中选择对应的打印机型号。  
+5. 点击“添加”。
+
+# 4. 安全功能
+
+安全功能仅适用于安全型打印机。本机支持的安全功能有文档溯源功能。若您需要进行普通打印，请参阅第 5 章。
+
+# 4.1. 文档溯源功能
+
+文档溯源功能用于打印纸质文档来源追溯，保护文档版权及追踪泄密源头。可以通过打印机的打印首选项配置文档溯源功能。
+
+![文档溯源功能介绍及二维码溯源信息设置步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/97ff6c93e97733dc57749416445a10e6cfadb0d663b54b499caa90bb523a5dcb.jpg)
+
+注：·打印溯源仅支持A4和A5纸张尺寸。
+
+# 4.1.1. 打印二维码溯源信息设置
+
+通过打印首选项来设置二维码溯源信息，操作如下：
+
+1. 打开您需要打印的文件，点击左上角“文件”菜单，选择“打印”，调出打印驱动。  
+2. 选择相应型号的打印机。  
+3. 单击“打印机属性”-“首选项”-“溯源打印”，进行打印配置。
+
+4. 根据需要勾选“二维码溯源”，设置溯源内容（默认内容为“计算机 MAC 地址”+“打印时间”），也可以根据您的需要自定义溯源内容，选择二维码显示位置，点击“应用”。
+
+![打印配置界面，可选二维码溯源并自定义内容及位置，自定义内容限24字。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/4846b9e37e810e60ff8aa420ed71210b7673cfe46b5cb8a8d136e35f985dd907.jpg)
+
+![选择二维码在页面上的显示位置，并可自定义最多24个字符的内容。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/9f63631de3eeecf1dcdaba5a628b9adf7cf9ab02ab1ffa760a8a777bc439e19d.jpg)
+
+注：·自定义内容最多可以设置24个字符（包括汉字、字母、数字、符号、空格）。
+
+\- 若您打印的当页文件内容过多，二维码可能会遮挡部分内容，请根据文件内容调整二维码位置。
+
+5. 打开一份文档，设置打印参数后启动打印。  
+6. 打印机开始打印，打印完成，步骤 4 设置的二维码溯源信息将嵌入到打印文档内。  
+7. 已经嵌入的二维码溯源信息需用第三方软件来获取（如何获取，请参阅第4.1.2章）。
+
+# 4.1.2. 提取二维码溯源信息
+
+您可以通过第三方软件的“扫一扫”功能提取二维码溯源信息。
+
+# 5. 打印
+
+# 5.1. 打印功能
+
+您可以通过“开始”—“设备和打印机”—选择相应的打印机—单击鼠标右键—在“打印首选项”中设置打印功能，部分功能如下：
+
+<table><tr><td>功能</td><td>图示</td></tr><tr><td>自动双面打印</td><td><img src="images/cc9ed95770120e472bed39ffa05ab56a02bfec21caab8134d8ed71026b936730.jpg"/></td></tr><tr><td>逐份打印</td><td><img src="images/c130bf99e7db798e6aca91217f25579987b4e15d5caa361541e7e43bbc76ba89.jpg"/></td></tr><tr><td>逆序打印</td><td><img src="images/d911a94612aec572ef08e3cd906e1059709ebf919e327cc7d94096b221a0eb87.jpg"/></td></tr><tr><td>多页合一</td><td><img src="images/4cde22adae1062cfe309783595ec94398eab048644b6d44cc37d0b2aa83dd3a2.jpg"/></td></tr><tr><td>海报打印(仅适用于Windows系统)</td><td><img src="images/aa38c25aa79772356a328e2e4e0368629b69091824bbfb01ff934f9723569170.jpg"/></td></tr><tr><td>缩放打印</td><td><img src="images/f68f045a96d81abe8bc90283677b682d904ae8b6a4e7ada5857a8d61ea162c86.jpg"/></td></tr><tr><td>自定义尺寸</td><td><img src="images/129888972be6a7d29d5f64c8b48d9f4afc8d349d2323106f99679e8dfacf8470.jpg"/></td></tr></table>
+
+![示例展示了在Windows 7系统下，如何通过打印首选项选择2x2海报打印功能及打开帮助文档的方法。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/86e1740c3b8e975224354a14a046ae130b130b1d5d5b751b686c1436ad08188d.jpg)
+
+注：· 以上说明以Windows 7系统为例。
+
+- 您可以在多页中选择2x2海报打印，实现海报打印功能。  
+- 您可以打开打印首选项，点击帮助按钮，查看具体的功能解释。如何打开帮助文档，请参阅第5.9章。
+
+# 5.2. 打印设置
+
+发送打印作业前，可通过以下两种方式设置打印参数（如纸张类型、纸张尺寸和纸张来源）。
+
+<table><tr><td>操作系统</td><td>临时更改打印作业的设置</td><td>永久更改默认设置</td></tr><tr><td>Windows 7</td><td>1. 点击文件菜单一打印一选择打印机一打印机属性(具体步骤因操作系统不同而有差异)。</td><td>1. 点击开始菜单一控制面板一设备和打印机。2. 右键点击打印机图标,选择打印首选项,更改设置并保存。</td></tr><tr><td>macOS</td><td>1. 点击文件菜单一打印。2. 在弹出的窗口更改设置。</td><td>1. 点击文件菜单一打印。2. 在弹出的窗口更改设置,点击保存预设置。(每次进行打印时,必须选择预设置,否则按默认设置进行打印。)</td></tr></table>
+
+![更改打印设置方法及取消打印作业的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/cb785b7eea8b77be72969208dc1b3d16b595cc24fa1ccd2b2edcd2694bd9ec75.jpg)
+
+注：·应用软件设置优先级高于打印机设置。
+
+# 5.3. 取消打印
+
+在打印过程中可取消当前打印作业。对于 LED 控制面板的打印机，按“取消”键超过 2 秒钟取消当前打印作业。
+
+# 5.4. 打印方式
+
+本机可进行自动进纸盒打印和手动进纸盒打印。默认状态为自动选择，若手动进纸盒有打印介质，则优先打印手动进纸盒内的打印纸张。
+
+# 5.4.1. 自动进纸盒打印
+
+在打印前，请确保自动进纸盒中已装入相应数量的介质，且手动进纸盒内无打印介质。
+
+![自动进纸盒与手动进纸盒示意图，展示如何正确放置打印介质以进行打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/f1a996e74b6cadaaa617f0fe6156f29ac8e5d9a153170d42c8dae01c8d4a2562.jpg)
+
+![手动进纸盒为空时的状态，准备放入打印介质。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/3c9c1affd48b7d9c00fa50fe4f676e58fabf22f6e0dc158a49c3f5c523ed7543.jpg)
+
+注：· 有关装纸注意事项，请参阅第2章。
+
+\- 有关自动进纸盒打印的介质类型，请参阅第2.1章。
+
+# 5.4.2. 手动进纸盒打印
+
+当您将纸张放入手动进纸盒时，本机将自动进入手动进纸模式。
+
+![手动进纸盒使用说明：展示如何正确放置纸张以启用手动进纸模式。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/de0de02a5c6878e806e0a699ded4cf92a655b8f1ad3c9aedd1a9915d987cbce5.jpg)
+
+![手动进纸模式说明：优先使用手动进纸盒，适用于特殊纸张，每次仅放一张。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2fed5742df1dd319a2b70dc5ec414dfb69ab95f5e0d73129d38b6082aa2a72fd.jpg)
+
+注：·手动进纸模式是当手动进纸盒放入纸张时，优先从手动进纸盒走纸。  
+- 手动进纸盒一般用来打印特殊纸张，如信封纸、胶片纸等，且每次只能放入一张。  
+- 有关在手动进纸盒中装纸，请参阅第2章。  
+- 有关可以通过手动进纸盒打印的介质种类，请参阅第2.1章。
+
+# 5.5. 自动双面打印
+
+本机支持普通纸的自动双面打印。自动双面打印支持的纸张大小：A4、Letter、Legal、Oficio、Folio、16K。
+
+![自动双面打印支持的纸张类型及大小，以及不适用于自动双面打印的情况说明。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/75e137d34f0ad6ba1116907c30d8d9785150907ab8518e06800cf91c41210907.jpg)
+
+注：·某些纸张介质不适于自动双面打印，尝试自动双面打印可能会损坏打印机。
+
+- 自动双面打印不支持海报打印。  
+- 有关装纸，自动进纸盒打印的介质类型，请参阅第2章。
+
+# 5.5.1. 双面打印单元设置
+
+为获得最佳打印效果，您可以对双面打印单元的纸张尺寸进行设置。若进行 A4、16K 双面打印，需将拨块调节到 A4 位置；若进行 Letter、Legal、Folio、Oficio 双面打印，需将拨块调节到 Letter 位置。双面打印单元设置步骤为：
+
+1. 抽出双面打印单元。
+
+![双面打印单元背面朝上放置示意图](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/74e0defcb04d41fe0a93474a0327bec0b4815a99056c0caf69bf60ca1c476f3a.jpg)
+
+2. 将双面打印单元的背面朝上。
+
+![展示双面打印单元背面，并指示如何调整纸张尺寸拨块至A4或Letter位置。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/c7c2c20fcfe0f53526c2c58439e037bf78dffa260780f6b7aab541fca07e5eeb.jpg)
+
+3. 调节纸张尺寸拨块到 A4 或 Letter 位置，即可完成设置。
+
+![调节纸张尺寸拨块至A4或Letter位置，准备安装双面打印单元。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/be527b07521f54945da8266127fda9844d4a5f2eb289e792fb66643ca2a7fa7d.jpg)
+
+4. 将双面打印单元装入打印机。
+
+![安装双面打印单元到打印机的步骤示意图](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/ea483251101a863da3197816d02f9b73d3a3f0642a43e38263f8b7fd59339d5a.jpg)
+
+# 5.5.2. 如何进行自动双面打印
+
+1. 从应用程序（如记事本）打开要打印的打印作业。  
+2. 从“文件”菜单中选择“打印”。
+
+![选择打印机设置中的双面打印选项以启用自动双面打印功能。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/fcd689d160ffd7562497ee9459e9b8d29ae44e2f67149df2a282a2673ed844f3.jpg)
+
+3. 选择相应型号的打印机。
+
+![选择打印机型号后，进入打印首选项设置双面打印方向。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/685a5cc2fdff969c57a5a8a16bc7af555457351fee3b27a08eca0f9e88f4271f.jpg)
+
+4. 单击“首选项”，进行打印配置。  
+5. 选择“基本”选项卡的“双面打印”，选择“长边”或“短边”选项。
+
+![打印设置界面，选择“首选项”中的“双面打印”选项，并设定为“长边”或“短边”。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e5c69a79ef97576cf23ad3f082978b012dcf08ab3f82422988ffb6089246634d.jpg)
+
+6. 单击“确定”，完成打印设置。点击“打印”，即可实现自动双面打印。
+
+![自动双面打印设置完成后的确认步骤及精细模式打印介绍开头](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/6c9662d8c03aa1dbb01d262033fa91fb66028f5978c5903973bd88df97d30933.jpg)
+
+# 5.6. 精细模式打印
+
+精细模式适用于工程图纸及细线打印。
+
+在打印机首选项的基本页面，进行精细模式设置。打印作业，即可实现精细模式打印。
+
+![精细模式打印设置，适用于工程图纸及细线打印，通过打印机首选项进行配置。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/a975bce0984bcaac5556541d6efc6907327b320d3cd348c5351447878dd5ca80.jpg)
+
+# 5.7. 静音打印
+
+设置静音打印，可减小打印噪音，但打印速度将会有所降低。
+
+静音打印，操作步骤如下（适用于 USB 连接方式安装的打印机）
+
+以下步骤以 Windows 7 系统为例，您的计算机屏幕信息可能因操作系统的不同而有差异。
+
+1. 进入计算机的“开始”菜单—“控制面板”—查看“设备和打印机”。  
+2. 右键点击打印机，在下拉菜单，选择“打印机属性”。  
+3. 进入“辅助设置”选项。  
+4. 勾选“静音打印”，点击“确定”，完成设置。
+
+![设置Pantum P3030静音打印：通过控制面板访问打印机属性，选择辅助设置并勾选静音打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2a79f2cd469580132334ad3f9ff9a8158c202180e139e536c2819e2ca0fd779d.jpg)
+
+5. 从应用程序打开要打印的打印作业，选择相应型号的打印机，根据需要进行打印配置。  
+6. 点击“打印”，即可实现静音打印。
+
+# 5.8. 自动关机设置
+
+“自动关机设置”用来设置打印机关机条件和关机延时时间。
+
+1. 进入计算机的“开始菜单”—“控制面板”—查看“设备和打印机”。  
+2. 右键点击打印机，在下拉菜单，选择“打印机属性”。  
+3. 进入“辅助设置”选项，进行相应的“自动关机设置”选项设置。   
+4. 点击“确定”，完成设置。
+
+![设置Pantum P3030打印机自动关机功能步骤示意图](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/5708648c31dc4effde9c99cc277812684d3c4c7f88c7c5a19406ea851db35f32.jpg)
+
+![点击“确定”完成设置，部分国家/地区不支持自动关机功能。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/3531b74cb9bea14ce65cd240b2680757be59f752ad5243e1bcd322591dc67626.jpg)
+
+注：·个别国家（或地区）不支持自动关机设置功能。
+
+# 5.9. 打开帮助文档
+
+您可以打开“打印首选项”，点击“帮助”按钮（仅适用于 Windows 系统）。帮助文档中有打印机的使用指南，可通过使用指南了解打印的相关设置信息。
+
+![打开打印首选项中的帮助文档以获取打印机使用指南和设置信息。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2fdf0e8c16497f62f4efb26c9a6bdaca3bf195a56c378ac831076d57c411de21.jpg)
+
+![打印设置界面示意图，展示如何调整打印机相关配置选项。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/a060f05edacc8a012e458e0e2f0461f6aed495d4a99137362622abe5dd555c35.jpg)
+
+# 6. 日常维护
+
+![打印机清洁步骤示意图，展示如何安全有效地清洁打印机外部及内部部件。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/5643a93dfa11778521286298dd238a1783d3cbb098d6b63348e9d3bd8be1b9a5.jpg)
+
+注：·打印机外观因型号功能不同存在差异，示意图仅供参考。
+
+# 6.1. 打印机清洁
+
+![打印机清洁步骤及注意事项，包括使用中性清洁剂和避免烫伤提醒。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/06eb0243661402a50deeda7cf894788562f405bfbe631e015b07243b46393934.jpg)
+
+注：· 请使用中性清洁剂。
+
+\- 打印机使用后短时间内局部零件仍处于高温状态。当打开前盖或后盖接触内部零件时，请勿立即触碰高温警示标签位置，谨防烫伤。
+
+![使用中性清洁剂和柔软抹布清洁打印机外部，注意高温部件以防烫伤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1dae283f5fe6e4ec2e438ea7651a73e835a7efbb2c686eb9b9b449f06b8cb6f3.jpg)
+
+1. 使用柔软的抹布擦拭设备外部，除去灰尘。
+
+![清洁与维护步骤：先用软布清理外部灰尘，再打开前盖取出激光碳粉盒。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/06168fabd0b7937ba70a4dcd9771e21c29b81f7d2aa0fffc064a4783a437ebf8.jpg)
+
+2. 打开前盖，沿着导轨取出激光碳粉盒。
+
+![打开前盖，沿导轨小心取出激光碳粉盒，注意操作时的正确姿势。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/04f9b4c9b9f715fe05583e3ee3bd881d159211885f90da047904ab8c71e2fe06.jpg)
+
+![打开前盖，沿导轨取出激光碳粉盒，并用干布清洁打印机内部指定区域。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/92ed1cbf85746e50dcf934babb3bbdf88cb8698075e172256297b24117ac9730.jpg)
+
+注：· 取下激光碳粉盒时，请将激光碳粉盒装入保护袋或用厚纸包裹，避免光线照射而损坏感光鼓。
+
+3. 清洁打印机内部，如下图所示，用干燥无绒布料轻轻擦拭图示阴影处。
+
+![清洁打印机内部及LSU镜片，使用干燥无绒布料轻轻擦拭指定区域。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/10751f0d7bb6df4f7400f45b4a7986e49943c4e95105ea5318b883d3b0c15373.jpg)
+
+4. 用干燥无绒布料轻轻擦拭打印机 LSU 镜片。
+
+![清洁打印机LSU镜片和搓纸辊的步骤说明](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/5361abba73c7317ea5b5c7958770bbc786affc2b58a2282ff852f4fa1d387ff6.jpg)
+
+5. 打开打印机的自动进纸盒，用干燥无绒布料轻轻擦拭打印机搓纸辊。
+
+![清洁打印机搓纸辊步骤：打开自动进纸盒，用干燥无绒布轻拭搓纸辊。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2871dedf8105bfd03eb6ffeebd01a06df6adbb50539fa1badfbd3be437a3f67a.jpg)
+
+# 6.2. 粉盒和鼓组件维护
+
+# 6.2.1. 关于粉盒和鼓组件
+
+1. 粉盒的使用和维护。
+
+为了获得更好的打印质量，请使用原装粉盒。
+
+使用粉盒时，请注意下列事项：
+
+- 除非立即使用，否则请勿从包装中取出粉盒。  
+- 请勿擅自重新填充粉盒。否则由此引起的损坏不包括在打印机保修范围内。
+
+- 请将粉盒存放在阴凉干燥的环境。  
+- 请勿将粉盒置于火源附近，粉盒内的碳粉为易燃物，避免引起火灾。  
+- 在取出或拆卸粉盒时，请注意碳粉泄露问题，若发生碳粉泄露导致碳粉与皮肤接触或者飞溅入眼睛和口中，请立即用清水清洗，如有不适请立即就医。  
+- 放置粉盒时，请远离儿童可接触区域。
+
+# 2. 粉盒使用寿命。
+
+- 粉盒的使用寿命取决于打印作业需要的碳粉量。  
+- LED 控制面板的打印机，当粉盒指示灯橙灯常亮，表示该粉盒已到寿命期限，请更换粉盒。
+
+# 3. 鼓组件使用寿命。
+
+\- LED 控制面板的打印机，当鼓组件指示灯红灯常亮，表示该鼓组件已到寿命期限，请更换鼓组件。
+
+# 6.2.2. 更换粉盒和鼓组件
+
+![当粉盒或鼓组件指示灯红灯常亮时，表示需更换相应部件，请小心操作避免碳粉洒落。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/fa860a2ad37f5f6066759893a9042d4090fe3525c4c6caa81e6a1a518a68fcff.jpg)
+
+注：在更换粉盒前，请注意如下事项：
+
+- 因粉盒表面可能含有碳粉，取出时请小心处理，避免洒落。  
+- 取出的粉盒请放置在纸张上，以免碳粉大范围洒落。  
+- 安装时，请勿触碰感光鼓表面，以免刮伤感光鼓。
+
+# 更换粉盒步骤如下：
+
+# 1. 关闭打印机电源。
+
+![打开前盖，沿导轨小心取出激光碳粉盒，放置于纸张上。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/be339651e044d130fb4c06a4f48a7c8641905297b572a6c19a4b23a0dab3f56e.jpg)
+
+# 2. 打开前盖，沿着导轨取出激光碳粉盒。
+
+![打开前盖，沿导轨取出激光碳粉盒，并按左侧蓝色按钮提起把手以取出粉盒。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/d97875fd2df5b84c8b6ab21e46232e3e0fc2ca5b38ea3e122f381de072cfc896.jpg)
+
+# 3. 用左手按下鼓组件左侧蓝色按钮，同时用右手提起粉盒把手，取出粉盒。
+
+![更换粉盒步骤：按住鼓组件按钮，提起并取出旧粉盒；新粉盒摇匀后准备安装。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/938099d8a29300fa175a2d1a19bb4c7e4f5487679ff3d4ee4455ba65e5e15bf7.jpg)
+
+4. 打开新的粉盒包装，握住粉盒把手，轻轻的左右摇动 5 至 6 次使粉盒内碳粉均匀分散。
+
+![打开新粉盒包装，摇匀碳粉后拉出封条并取下保护罩。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/4e4330bc6435a585bb727e1a0d499be9be83dd07f631be350138210c04564b05.jpg)
+
+5. 拉出封条，取下粉盒保护罩。
+
+![取下粉盒保护罩后，将粉盒沿导轨装入鼓组件内。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/157da0d01de16e061c6f49d3af90f88a9d5204ab1f90396ff0af487f5652ce6c.jpg)
+
+6. 沿着鼓组件内导轨将粉盒装入鼓组件内，完成粉盒安装。
+
+![将粉盒沿导轨装入鼓组件，再将装好粉盒的鼓组件装入打印机。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/1a73a68d2949d39e3c3aca6b167a7ce7c5a351ff31441d2c90ecc860aca69744.jpg)
+
+7. 拿起安装完粉盒的鼓组件，沿着打印机内导轨装入已安装了粉盒的鼓组件，完成安装。
+
+![将装有粉盒的鼓组件沿导轨装入打印机，并合上前盖。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/b5f90def5e7b391eaaddb6bf2ab9cd93b84ecaa6c457c124f8b5880efd6010d4.jpg)
+
+8. 合上前盖。
+
+# 更换鼓组件步骤如下:
+
+1. 关闭打印机电源。
+
+![关闭打印机电源后，打开前盖准备取出激光碳粉盒。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/b113416209a80cd34b77bd771f9c9a9c44118a783d1f1acea96c73b76228558e.jpg)
+
+2. 打开前盖，沿着导轨取出激光碳粉盒。
+
+![打开前盖，沿导轨取出激光碳粉盒，并按左侧蓝色按钮提起粉盒把手以取出。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/aae9b12212ddb51e98079bb23b2ce70a752dd28edd9df0d5a118f02802a3cbc5.jpg)
+
+3. 用左手按下鼓组件左侧蓝色按钮，同时用右手提起粉盒把手，取出粉盒。
+
+![更换粉盒步骤：按住鼓组件按钮，提起并取出粉盒；准备新鼓组件。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/033fb17554ab008387759e5c7604b079210045061d8ea8481279f430bfbac191.jpg)
+
+4. 打开新的鼓组件包装，取下鼓组件保护装置，将鼓组件放置于水平台面。
+
+![将粉盒沿导轨装入已准备好的鼓组件内，完成安装。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/0708897687e5b2fea798d10d6a67aaa612e39e86b4d584f3c3f506128104ac66.jpg)
+
+5. 沿着鼓组件内导轨将粉盒装入鼓组件内，完成粉盒安装。
+
+![将粉盒沿导轨装入鼓组件，再将装有粉盒的鼓组件装入打印机。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/fe3aac1a314aadbb5ea8f598d3906b5e4bbf9f63c7c6ab7ea5c98d4057cb0917.jpg)
+
+6. 拿起安装完粉盒的鼓组件，沿着打印机内导轨装入已安装了粉盒的鼓组件，完成安装。
+
+![将装有粉盒的鼓组件沿导轨装入打印机，并合上前盖。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e5cc6e77a4201915a05eaf637247ee31eb2c40b5ff810a2b9d8be42fba744c0e.jpg)
+
+7. 合上前盖。
+
+# 7. 故障排除
+
+请仔细阅读本章节，可以帮您解决打印过程中常见的故障。若还未能解决出现的问题，请及时联系奔图售后服务中心。
+
+在处理常见故障之前，首先请检查以下情况：
+
+- 电源线是否连接正确，并且打印机电源开关是否已打开。  
+- 所有的保护零件是否已拆除。  
+- 激光碳粉盒是否已正确安装。  
+- 纸张是否已正确放入纸盒中。  
+- 接口电缆线是否已正确连接打印机和计算机。  
+- 是否已选择并安装了正确的打印机驱动程序。  
+- 计算机端口是否已安装并连接到正确的打印机端口。
+
+# 7.1. 清除卡纸
+
+# 7.1.1. 自动进纸盒卡纸
+
+# 1. 打开纸盒。
+
+![打开自动进纸盒，轻轻拉出卡住的纸张以清除卡纸。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/8b8e16afea6daf294e88d1642a5dc129e15264eb43549b8e33f29a78cbf084ae.jpg)
+
+2. 将卡住的纸张轻轻地向外拉出。
+
+![展示如何轻柔地从打印机中拉出卡住的纸张，以便安全移除。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/0ab385f9915ae16099c8d83c45cce57232108a159f415a4637977248e6b76dfe.jpg)
+
+3. 取出卡纸后，请将纸盒重新装入打印机，开合前盖，打印机将自动恢复打印。
+
+![手动取出卡纸后，重新装入纸盒并关闭前盖，打印机自动恢复打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/9b5bed03cfc04bfa488afde227209009a64055437ebb5bf52b23a00d1b244835.jpg)
+
+# 7.1.2. 手动进纸盒卡纸
+
+1. 将卡住的纸张轻轻地向外拉出。
+
+![手动移除进纸盒卡纸并重新装入纸张的步骤示意图](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/c79272e9e82942095fd01960311ea6fa50741281f0616b5e785ba6c8fc795b89.jpg)
+
+2. 取出后重新装入纸张，开合前盖，打印机将恢复打印。
+
+![处理中间卡纸：展示如何打开打印机并移除卡住的纸张步骤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e04a55fb1691063c1e4f0d0ccd9ead261d067ca54d0b2ad4c9aa93b53392ffd1.jpg)
+
+# 7.1.3. 中间卡纸
+
+![中间卡纸取出方法及注意事项，避免触碰高温区域以防灼伤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/510628ac48c2be79fe840a96970355ae03c76ca1f0ef3714cf9f2b57b1cddf25.jpg)
+
+注：·在取中间卡纸时，请注意切勿触摸如下阴影部分区域，避免灼伤。
+
+![取出卡纸时避免触碰高温区域，小心抽出纸盒处理卡纸问题。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/eaf3fe5f75681bf92bc9e0bfe84b25ab058ee4d55b7049ecf83e7b593f7f0ab7.jpg)
+
+1. 抽出纸盒。
+
+![取出纸盒以清理卡纸，小心操作避免受伤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/78e3c088ee8c9d64fe45da3742a12fbbbce77cc7f3341d99f517b26c538dfc64.jpg)
+
+2. 将卡住的纸张轻轻地向外拉出。
+
+![将卡住的纸张轻轻拉出后，正确装入纸盒以备使用。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/2924fbc860b2bf22d09ed136cd8551e91dab4eb7c3eb74f461ac96c35b295a40.jpg)
+
+3. 装入纸盒。
+
+![打开打印机前盖，准备进行下一步操作。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/cd8a0d609b9b93c375d4d76963922c2048b64e4de7cab72b5079af2d300426aa.jpg)
+
+4. 打开前盖。
+
+![打开前盖后，展示如何沿着导轨取出激光碳粉盒的步骤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/30973783dbe7c3338cab73360b2698fb035835bf27c49e6cf9f91c003b46b7f7.jpg)
+
+5. 沿着导轨取出激光碳粉盒。（为避免感光鼓曝光影响打印质量，请用保护袋将激光碳粉盒装好，或用厚纸包裹激光碳粉盒。）
+
+![取出激光碳粉盒并妥善保护，随后轻轻拉出卡纸。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/5dc2156fedf168cc7784bbd135a192ca1e8577015f62678651517994acf3fa1e.jpg)
+
+6. 将卡住的纸张轻轻地向外拉出。
+
+![取出定影单元中卡住的纸张，小心操作避免损坏。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/8904a2ef4d9e75e6c7f5e2bf83c711f43c2eb44f13666cbf5633c0f970c7d0c9.jpg)
+
+7. 取出卡纸后，重新装入激光碳粉盒，合上前盖，打印机将恢复打印。
+
+# 7.1.4. 定影单元卡纸
+
+![取出定影单元卡纸时避免触摸高温区域以防灼伤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/f9228b7d3a4d836321dfd5ecbf0599086deb115f66eb6ac4ad977e6aee725dd8.jpg)
+
+注：·在取定影单元卡纸时，请注意切勿触摸如下阴影部分区域，避免灼伤。
+
+![取定影单元卡纸时，避免触摸高温区域以防灼伤，安全操作指示图。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/5863722022e71c2139c344816e02a758fec97c957af2d11e8d3c4add728c88fb.jpg)
+
+1. 打开后盖。
+
+![打开后盖并使用两边把手小心地打开定影解压单元，注意避免烫伤。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e6b250974cd50339a45b1680cdc6fbfc3cd4a447b40bb2b28fa390a327d33abd.jpg)
+
+2. 通过两边的把手打开定影解压单元。
+
+![打开定影解压单元后，轻轻拉出卡住的纸张。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/b864ba18484bb6ccb2d3f8d3e6b6cf276739dfe2669cefa20434f455e607bdec.jpg)
+
+3. 将卡住的纸张轻轻地向外拉出。
+
+![取出卡纸后，关闭后盖并开合前盖，使打印机恢复正常打印。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e71c962e2ed266e8e03f92e231a94e8dba2d782698dc5937813447aa1821948d.jpg)
+
+4. 取出卡纸后，关上后盖，开合前盖，打印机将自动恢复打印。
+
+![取出卡纸后，关闭后盖并开合前盖，打印机自动恢复打印。展示如何处理卡纸问题。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/e0d29d01bf801a8d72bd11b36b45688c105b03747ec2ae149f387fe15bcf34e5.jpg)
+
+# 7.1.5. 双面打印单元卡纸
+
+1. 从打印机后面取出双面打印单元。
+
+![从双面打印单元中取出卡纸的步骤示意图。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/91dccb3a7d6ea1605a7154cbc9bd4a13f034e3818cac96d32783a58fb82dbc27.jpg)
+
+2. 从双面打印单元中取出卡纸。
+
+![从双面打印单元中取出卡纸的步骤示意图](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/44fabcbc5d275bcaa5c96fff94bec21892bc84303515bdf985ab8f82e2fd6374.jpg)
+
+3. 如果纸张未随双面打印单元一起出来，请打开纸盒直接从底部取出卡纸。
+
+![当纸张卡在双面打印单元时，从底部取出卡纸并重新装回双面打印单元。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/24fe2f7a3b943aac49f15de6141dfcef5657da15f9aced9d5fd9ee591c584ff7.jpg)
+
+4. 取出卡纸后，装回双面打印单元，检查产品其他部位，确保无卡纸后，开合前盖，打印机将自动恢复打印。
+
+![取出卡纸后装回双面打印单元，检查并确保无卡纸，合上前盖恢复打印。如无法解决请联系支持。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/833f8f082c90dd73be593c4006f06257bf85cfd473ee8c294d907d11ba138ded.jpg)
+
+注：·按如上步骤将卡纸全部取出后，合上前盖，整理好纸盒中的纸张，打印机将自动恢复打印。
+
+- 如果打印机仍然未开始打印，请检查打印机内的卡纸是否全部清除。   
+- 如果不能自行取出卡纸，请联系当地的奔图授权维修中心或送往就近奔图授权维修中心维修。   
+- 打印机外观因型号功能不同会存在差异，示意图仅供参考。
+
+# 7.2. 软件故障
+
+<table><tr><td>故障现象</td><td>解决方法</td></tr><tr><td>在“设备和打印机”文件夹中不显示打印机图标。</td><td>重新安装打印机驱动程序。请确保USB连接线及电源线正确连接。</td></tr><tr><td>打印机处于“就绪”模式,但不执行任何打印作业。</td><td>重启打印机,若故障依旧,请重新安装打印机驱动程序。确保USB连接线正确连接。</td></tr><tr><td>驱动安装失败。</td><td>检查Print Spooler服务是否已经打开。检查打印机电源是否打开,打印机连接是否正常。</td></tr></table>
+
+# 7.3. 常见故障排除
+
+# 7.3.1. 一般故障
+
+<table><tr><td>故障现象</td><td>原因</td><td>解决办法</td></tr><tr><td colspan="3">打印机问题</td></tr><tr><td>打印机不打印</td><td>计算机与打印机之间的连接线未正确连接。打印端口指定错误。打印机处于脱机状态,勾选了“脱机使用打印机”。打印机内部错误未恢复,如卡纸,缺纸等。打印机驱动程序安装不正确。</td><td>断开打印机线缆连接,然后重新连接。检查 Windows 打印机设置,确保打印作业发送到正确的端口。如果计算机有多个端口,请确认产品连接到正确的端口。请确保打印机处于正常联机状态。请排除错误使打印机恢复正常状态。卸载然后重新安装打印机的驱动程序。</td></tr><tr><td colspan="3">纸张处理问题</td></tr><tr><td>打印不进纸</td><td>未正确安装打印介质。打印介质超出了使用规格范围。给纸辊脏污。纸盒中的纸张过多。</td><td>请正确安装打印介质,如果使用特殊打印介质打印,请使用手动进纸盒打印。请使用规格范围内的打印介质。清洁给纸辊。从纸盒中取出多余的纸张,如果在特殊打印介质上打印,请使用手动进纸盒。</td></tr><tr><td>卡纸</td><td>纸盒中的纸张过多。打印介质超出了使用规格范围。进纸通道有异物。给纸辊脏污。内部部件故障。</td><td>从纸盒中取出多余的纸张,如果在特殊打印介质上打印,请使用手动进纸盒。确保使用符合规格的纸张。如果在特殊打印介质上打印,请使用手动进纸盒。清洁进纸通道。清洁给纸辊。</td></tr><tr><td>打印多页进纸</td><td>打印介质含静电量过大。打印介质受潮或粘合在一起。内部部件故障。</td><td>将打印介质重新分离,可以消除部分静电。建议使用推荐打印介质。请重新将打印介质分离或使用更好的干燥打印介质。</td></tr></table>
+
+![打印介质受潮粘连导致问题，建议重新分离或更换干燥介质，若无效请联系客服。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/73d5cec6554ea9ea441d5aed84711f17979ef374f937225b493f3a6f73a72eb9.jpg)
+
+注：·若问题依旧存在，请联系客服中心，具体联系方式请查阅三包凭证。
+
+# 7.3.2. 图像缺陷
+
+<table><tr><td>故障现象</td><td>故障原因</td><td>解决办法</td></tr><tr><td><img src="images/8a78013974c1ce243cb4f1ee2fce99294e3c90cb9b9c698d8548483bd2885a0d.jpg"/>打印发白或偏淡</td><td>·打印介质不符合使用规格,例如介质受潮或太粗糙。·打印程序中质量设置过低,浓度设置过低,或勾选了省墨模式。·碳粉不足。·粉盒损坏。</td><td>·请正确使用规格范围内的介质。·设置程序中的打印质量,浓度设置,或取消勾选省墨模式。·建议更换原装粉盒。</td></tr><tr><td><img src="images/8660852a15aaf4f723b6318109bbc741e3befe6febd0bede383a8364b96dc6f9.jpg"/>粉墨斑点</td><td>·粉盒脏污或漏粉。·粉盒损坏。·使用了不符合使用规格的打印介质,例如介质受潮或太粗糙。·进纸通道脏污。</td><td>·建议更换原装粉盒。·请使用规格范围内的打印介质。·清洁进纸通道。</td></tr><tr><td><img src="images/050526ac2ebe15a12216419bc00c32906f4805b6195cf7e8a5ecc929c001c398.jpg"/>白点</td><td>·使用了不符合使用规格的打印介质,例如介质受潮或太粗糙。·进纸通道脏污。·粉盒内部鼓损坏。</td><td>·请使用规格范围内的打印介质。·清洁进纸通道。·建议更换原装粉盒。</td></tr><tr><td><img src="images/5ae29cfeaded1a0ee2a6e0e418080c66a326690b422924218ca57e25a387acc7.jpg"/>碳粉脱落</td><td>·使用了不符合使用规格的打印介质,例如介质受潮或太粗糙。·设置打印纸张介质与放置纸张介质不一致·机器内部脏污。粉盒损坏。机器内部部件损坏。</td><td>·请使用规格范围内的打印介质,特殊介质请使用手动进纸盒进行打印。·请使用相对应的纸张介质进行打印。·清洁机器内部。·建议更换原装粉盒。</td></tr><tr><td><img src="images/c14bf94140955db02e780b9a330116b27ca44c1a28549bc8e2331bcfe45443c2.jpg"/>黑色竖条</td><td>粉盒脏污。粉盒内部部件损坏。机器内部激光器反光玻璃脏污。进纸通道脏污。</td><td>清洁或更换新粉盒。清洁机器背部激光器反光玻璃。清洁打印机进纸通道。</td></tr><tr><td><img src="images/f2b38cb206622963e886c5da49c317026b3948e0a07e0fd4025310afba58cecf.jpg"/>黑色背景(底灰)</td><td>使用了不符合使用规格的打印介质,例如介质受潮或太粗糙。粉盒脏污。粉盒内部部件损坏。进纸通道脏污。打印机内部转印电压异常。</td><td>请使用规格范围内的打印介质。清洁或更换新粉盒。清洁机器内部进纸通道。</td></tr><tr><td><img src="images/d714a01d2781755a613390e0482e8f2f1b4a11845927e0f9d8a45ee6b2735928.jpg"/>出现周期性痕迹</td><td>粉盒脏污。粉盒内部部件损坏。定影组件损坏。</td><td>清洁或更换新粉盒。请联系客服中心维修更换新的定影组件。</td></tr><tr><td><img src="images/77e15bfad7a6b44b52a1542d66bddd398b2dddbff1688d388daabaaa9983f7f6.jpg"/>页面歪斜</td><td>未正确安装打印介质。机器进纸通道脏污。</td><td>确保正确安装打印介质。清洁机器内部进纸通道。</td></tr><tr><td><img src="images/3d2e91a0ee42eeec37fd6da1787d00b6680b36bbc1589cc89985095bca61c8f9.jpg"/>皱纸</td><td>未正确安装打印介质。打印介质不符合使用规格。机器进纸通道脏污。定影组件损坏。</td><td>确保正确安装打印介质。请使用规格范围内的打印介质进行打印。清洁机器内部进纸通道。请联系客服中心维修更换新的定影组件。</td></tr><tr><td><img src="images/d638cd580248a5ec12c6dd3c2a7cfd4dfd01ef9fce70c29dbd4faffa0313b16d.jpg"/>背面脏污</td><td>粉盒脏污。机器内部转印辊脏污。机器内部转印电压异常。</td><td>清洁或更换新粉盒。清洁机器内部转印部件。</td></tr><tr><td><img src="images/a2d31efe9091305bbe9e0008a07946c22c8a5dc5585d23a0c560a53a8501eb30.jpg"/>打印全黑版</td><td>未正确安装粉盒。粉盒内部损坏。机器内部充电异常,未给粉盒充电。</td><td>确保正确安装粉盒。建议更换原装粉盒。</td></tr><tr><td><img src="images/ae0d6480bce1cd76c776f1899663e98d5ab63b63497fe410d4d3734d5d83df99.jpg"/>碳粉晕开</td><td>使用了不符合使用规格的打印介质,例如介质受潮或太粗糙。机器内部脏污。粉盒损坏。机器内部部件损坏。</td><td>请使用规格范围内的打印介质,特殊介质请使用手动纸盒进行打印。清洁机器内部。建议更换原装粉盒。</td></tr><tr><td><img src="images/1e82c373f45e8e32fd521a5bf9c08aede2406ae4ad1ecc92680aad0f1bd91890.jpg"/>水平条纹</td><td>粉盒未正确安装。粉盒可能损坏。机器内部部件损坏。</td><td>确保正确安装粉盒。建议更换原装粉盒。</td></tr></table>
+
+![水平条纹问题：粉盒未正确安装或损坏，建议更换原装粉盒并确保正确安装。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/de8589cc3d37875a09bf2b805ddaeb43af3e7e84edbf2490d9b255e3d5664ff0.jpg)
+
+注：· 上述故障可采用清洁或更换新粉盒等方法来改善。如果问题依旧，请联系客服中心，具体联系方式请查阅三包凭证。
+
+# 8. 产品规格
+
+![打印机故障处理建议及产品规格说明，包括清洁/更换粉盒与规格数值可能存在的差异。](http://localhost:9000/knowledge-base-files/upload-images/PantumP3030UserGuidezh_CNV1_2/7c0438c2bc1afc60e60b0741651844f777c692c88c08bd5875df8771b875e4d2.jpg)
+
+注：· 不同型号不同功能的打印机，规格数值略有差异，不同区域国家的产品规格也存在差异。
+
+\- 数值基于初始数据，有关更多最新规格信息，请访问：www.pantum.com。
+
+8.1. 规格总述
+
+<table><tr><td>产品尺寸(长*宽*高)</td><td>354mm*334mm*232mm</td></tr><tr><td>产品净重(含本体半成品和随机鼓粉)</td><td>6.8Kg</td></tr><tr><td>产品毛重(含所有包材和外箱)</td><td>9.4kg</td></tr><tr><td rowspan="2">操作环境</td><td>最佳打印温度范围:10~32°C</td></tr><tr><td>最佳打印湿度范围:20%RH~80%RH</td></tr><tr><td>电源电压</td><td>220V Model:AC220-240V,50/60Hz,4.5A</td></tr><tr><td rowspan="3">噪音(声压级)</td><td>打印:≤52dB(A)</td></tr><tr><td>就绪:≤30dB(A)</td></tr><tr><td>静音模式:≤46 dB(A)</td></tr><tr><td>进入网络待机时间</td><td>1分钟</td></tr><tr><td rowspan="3">功耗</td><td>待机:≤50W</td></tr><tr><td>关机:≤0.5W</td></tr><tr><td>TEC:符合中国能效等级要求</td></tr><tr><td>操作系统</td><td>Microsoft Windows XP/ Windows Vista/ Windows 7/ Windows 8/ Windows 8.1/ Windows 10/ Windows 11/ Windows Server 2003/ Windows Server 2008/ Windows Server 2012 (32/64 Bit)macOS 10.9/10.10/10.11/10.12/10.13/10.14/10.15/11.6/12.1</td></tr><tr><td></td><td>Linux (Ubuntu 14.04/ Ubuntu 16.04/ Ubuntu 18.04/ Ubuntu 20.04)</td></tr><tr><td>通信接口</td><td>USB 2.0 (High Speed)</td></tr><tr><td>首页打印时间</td><td>≤8.5秒</td></tr><tr><td>最大打印幅面</td><td>216mm*356mm</td></tr></table>
+
+# PANTUM

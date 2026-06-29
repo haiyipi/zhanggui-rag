@@ -1,0 +1,5547 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.669,
+                0.287,
+                0.909,
+                0.333
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.803,
+                0.859,
+                0.904,
+                0.912
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.804,
+                0.917,
+                0.904,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.665,
+                0.283,
+                0.914,
+                0.338
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.796,
+                0.851,
+                0.914,
+                0.924
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.802,
+                0.916,
+                0.906,
+                0.934
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.058,
+                0.044,
+                0.161,
+                0.077
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.13,
+                0.092,
+                0.27,
+                0.115
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.288,
+                0.12,
+                0.94,
+                0.137
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.289,
+                0.142,
+                0.94,
+                0.158
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.289,
+                0.163,
+                0.94,
+                0.18
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.289,
+                0.185,
+                0.94,
+                0.201
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.289,
+                0.206,
+                0.94,
+                0.223
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.128,
+                0.234,
+                0.242,
+                0.257
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.128,
+                0.268,
+                0.376,
+                0.291
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.129,
+                0.303,
+                0.242,
+                0.325
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.947,
+                0.965,
+                0.957,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.053,
+                0.041,
+                0.166,
+                0.083
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.129,
+                0.233,
+                0.244,
+                0.259
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.128,
+                0.301,
+                0.245,
+                0.328
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.131,
+                0.092,
+                0.271,
+                0.116
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.286,
+                0.118,
+                0.378,
+                0.142
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.922,
+                0.121,
+                0.943,
+                0.138
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.287,
+                0.141,
+                0.337,
+                0.161
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.922,
+                0.142,
+                0.943,
+                0.159
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.288,
+                0.162,
+                0.458,
+                0.181
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.923,
+                0.165,
+                0.942,
+                0.18
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.287,
+                0.183,
+                0.458,
+                0.204
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.922,
+                0.186,
+                0.943,
+                0.202
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.29,
+                0.206,
+                0.416,
+                0.224
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.923,
+                0.207,
+                0.942,
+                0.223
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.129,
+                0.267,
+                0.378,
+                0.292
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.946,
+                0.966,
+                0.959,
+                0.98
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.056,
+                0.043,
+                0.277,
+                0.078
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.112,
+                0.212,
+                0.14
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.071,
+                0.15,
+                0.259,
+                0.168
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.217,
+                0.195,
+                0.8,
+                0.454
+            ],
+            "angle": 0,
+            "content": "Technical diagram showing labeled components of an electronic device with numbered parts and internal wiring layout",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.457,
+                0.941,
+                0.945
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>1</td><td>电源键·关机状态下,短按电源键,可开启计算机。·开机状态下,长按电源键10秒以上,可强制关闭计算机。</td></tr><tr><td>2</td><td>耳麦接口连接耳机。</td></tr><tr><td>3</td><td>USB-A (USB 3.2 Gen 1) 接口 x 2连接手机、U盘等外接设备传输数据。</td></tr><tr><td>4</td><td>USB-A (USB 3.2 Gen 2) 接口 x 2连接手机、U盘等外接设备传输数据。</td></tr><tr><td>5</td><td>麦克风输入接口连接麦克风,可将麦克风接收到的声音输入计算机。</td></tr><tr><td>6</td><td>音频输出接口连接音箱等外部设备,将计算机内的音频信号传送至外部设备。</td></tr><tr><td>7</td><td>音频输入接口连接外部音频设备,将外部设备声音传送至计算机。</td></tr><tr><td>8</td><td>HDMI接口 x 2高清晰度多媒体接口,连接显示设备。部分型号只有一个HDMI接口,具体接口请以实物为准。</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.943,
+                0.965,
+                0.955,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.11,
+                0.215,
+                0.143
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.054,
+                0.041,
+                0.28,
+                0.081
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.942,
+                0.965,
+                0.957,
+                0.98
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.15,
+                0.258,
+                0.17
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.861,
+                0.021,
+                0.957,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.039,
+                0.941,
+                0.476
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>9</td><td>串口连接调制解调器、串行打印机、仿真器或有串口的设备。</td></tr><tr><td>10</td><td>USB-A (USB 3.2 Gen 1) 接口 x 2连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>11</td><td>挡板i 挡板可拆卸,拆卸之后可增添新接口,具体接口请以实物为准。</td></tr><tr><td>12</td><td>电源接口连接计算机电源线。</td></tr><tr><td>13</td><td>RJ45 接口连接网线。i 不同型号,RJ45 接口的位置不同,请以实物为准。</td></tr><tr><td>14</td><td>USB-A (USB 2.0) 接口 x 4连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>15</td><td>DP 接口 x 2接入 DP 线缆,连接显示设备。i 部分型号只有一个 DP 接口,具体接口请以实物为准。</td></tr></table>",
+            "cell_merge": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.071,
+                0.5,
+                0.259,
+                0.518
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.216,
+                0.545,
+                0.8,
+                0.771
+            ],
+            "angle": 0,
+            "content": "Technical diagram showing internal components of a device with numbered labels pointing to ports and connectors.",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.776,
+                0.941,
+                0.967
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>1</td><td>电源键·关机状态下,短按电源键,可开启计算机。·开机状态下,长按电源键10秒以上,可强制关闭计算机。</td></tr><tr><td>2</td><td>耳麦接口连接耳机。</td></tr><tr><td>3</td><td>USB-A (USB 3.2 Gen 1) 接口 x 2连接手机、U 盘等外接设备传输数据。</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.966,
+                0.956,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.861,
+                0.021,
+                0.958,
+                0.038
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.94,
+                0.965,
+                0.958,
+                0.982
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.5,
+                0.258,
+                0.519
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.861,
+                0.021,
+                0.957,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.04,
+                0.941,
+                0.766
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>4</td><td>USB-A (USB 3.2 Gen 2) 接口 x 2连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>5</td><td>USB-C (USB 2.0) 接口连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>6</td><td>麦克风输入接口连接麦克风,可将麦克风接收到的声音输入计算机。</td></tr><tr><td>7</td><td>音频输出接口连接音箱等外部设备,将计算机内的音频信号传送至外部设备。</td></tr><tr><td>8</td><td>音频输入接口连接外部音频设备,将外部设备声音传送至计算机。</td></tr><tr><td>9</td><td>HDMI 接口 x 2高清晰度多媒体接口,连接显示设备。</td></tr><tr><td>10</td><td>串口连接调制解调器、串行打印机、仿真器或有串口的设备。</td></tr><tr><td>11</td><td>USB-A (USB 3.2 Gen 1) 接口 x 2连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>12</td><td>挡板i 挡板可拆卸,拆卸之后可增添新接口,具体接口请以实物为准。</td></tr><tr><td>13</td><td>电源接口连接计算机电源线。</td></tr><tr><td>14</td><td>RJ45 接口连接网线。i 不同型号,RJ45 接口的位置不同,请以实物为准。</td></tr><tr><td>15</td><td>USB-A (USB 2.0) 接口 x 4连接手机、U 盘等外接设备传输数据。</td></tr><tr><td>16</td><td>DP 接口 x 2接入 DP 线缆,连接显示设备。</td></tr></table>",
+            "cell_merge": [
+                0,
+                0
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.791,
+                0.145,
+                0.816
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.825,
+                0.648,
+                0.845
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.857,
+                0.22,
+                0.876
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.883,
+                0.836,
+                0.902
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.139,
+                0.917,
+                0.213,
+                0.952
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.28,
+                0.913,
+                0.404,
+                0.93
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.285,
+                0.936,
+                0.549,
+                0.955
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.966,
+                0.956,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.861,
+                0.021,
+                0.958,
+                0.038
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.28,
+                0.914,
+                0.404,
+                0.93
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.857,
+                0.219,
+                0.876
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.788,
+                0.149,
+                0.821
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.826,
+                0.648,
+                0.846
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.884,
+                0.836,
+                0.902
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.285,
+                0.936,
+                0.314,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.334,
+                0.935,
+                0.551,
+                0.953
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.861,
+                0.021,
+                0.957,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.039,
+                0.941,
+                0.328
+            ],
+            "angle": 0,
+            "content": "<table><tr><td><img src=\"data:image/jpeg;base64,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\"/></td><td>增强屏幕亮度i 仅支持华为品牌显示器。</td></tr><tr><td><img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABUAHcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+q15qFlp8YkvbuC2Q8BppAgP51m+K9fXw3oE9/tDTZEcKN0Zz0z7Dk/hXm3h/wAF6j41La3rd/KkMrHYcZeQA84zwqg8Dj8KAPT/APhJ9A/6Dmm/+Bcf+NH/AAk2gf8AQc03/wAC4/8AGuW/4VFoH/P5qX/fyP8A+Io/4VFoH/P5qX/f2P8A+IoA6n/hJtA/6Dmm/wDgXH/jR/wk2gf9BzTf/AuP/GuW/wCFRaB/z+al/wB/Y/8A4ij/AIVFoH/P5qX/AH9j/wDiKAOp/wCEm0D/AKDmm/8AgXH/AI0f8JNoH/Qc03/wLj/xrlv+FRaB/wA/mpf9/Y//AIij/hUWgf8AP5qX/f2P/wCIoA6n/hJtA/6Dmm/+Bcf+NH/CTaB/0HNN/wDAuP8Axrlv+FRaB/z+al/39j/+Io/4VFoH/P5qX/f2P/4igDqf+Em0D/oOab/4Fx/40f8ACTaB/wBBzTf/AALj/wAa5b/hUWgf8/mpf9/Y/wD4ij/hUWgf8/mpf9/Y/wD4igDqf+Em0D/oOab/AOBcf+NPj8RaJNIscWsae7scKq3KEk+3Ncn/AMKi0D/n81L/AL+x/wDxFV7z4QaY0DCx1G7jm7Gfa6/oBQB6NRXk3g/xHf8AhjXZfDevy4t0yEaRsiEgZGD/AHSOg9x05ooAtfGOeVbbSLcPiJ3ldl9WUKAfyZvzruvDAA8KaPtUKDZQnA90FcD8ZP8AmC/9t/8A2nXfeGf+RU0f/rxg/wDQBQBq0UVj3/irQtLuntb3UoYZ0ALRnJIyM9hQBsUVyf8AbOt+Ijt0K1+w2J66heJ8zD1jj7/U8fSrvgu6uL3wnZT3c7zzt5gaRzkth2Az+AFAG/RRRQAUUUUAFFFFABRRRQB4t8W0VPFtuygAtZIWI7ne4/kBRS/F3/ka7X/rxT/0OSimI1fjJ/zBf+2//tOu+8M/8ipo/wD14wf+gCuB+Mn/ADBf+2//ALTrvvDP/IqaP/14wf8AoApDNWuN006cPGfiT7cbUP5kGzz9uf8AV84z+FdlWPf+FtD1O5kub3TYJp5AA0hBBOBjtQBsV5bbsV8J+Hzppm/t/wA2b7GIuhXzW3788bMdc/41039i634eO/Qbr7bZA86fePyo9I37fQ8fWrvgu1uLPwnYw3cDwTr5haNxhly7Hn8MUAU/BG0w35ujOdaMw/tDz+obnbt7bcdMf4V1dGOc0UAFFFFABRRRQAUUUUAeL/F3/ka7X/rxT/0OSij4u/8AI12v/Xin/oclFMRq/GT/AJgv/bf/ANp133hn/kVNH/68YP8A0AVwPxk/5gv/AG3/APadd94Z/wCRU0f/AK8YP/QBSGatFFFABRRRQAUUUUAFR3Ewt7aWcjcI0L49cDNSVV1L/kFXn/XB/wD0E0AcxpvjXUNUigntvC961tM2BMJBtxnBPTtzXWXNxDaW0tzcSLHDEpd3boAOprgfA0nikaBpS28GlnSt3LOz+bs3nd3xnrj8Kj8b+IbG48QQeHr64e302ErLfMqMTKcBljGB05BJ/qKAOt8M+IofE+my30EDwxpO0QDkEnABzx061tVwPwz1Swmt9S0+2bEn2uW4RAhAER2he2B9K76gDxf4u/8AI12v/Xin/oclFHxd/wCRrtf+vFP/AEOSimI1fjJ/zBf+2/8A7TrvvDP/ACKmj/8AXjB/6AKw/iXo82q+FGkt1Ly2kgn2gclQCGx+Bz+FU/APjTT7vRbbTb25jt722QRKJWCiRRwpBPfGBikM72isr/hJtA/6Dmm/+Bcf+NH/AAk2gf8AQc03/wAC4/8AGgDVorK/4SbQP+g5pv8A4Fx/40f8JNoH/Qc03/wLj/xoA1aKyv8AhJtA/wCg5pv/AIFx/wCNH/CTaB/0HNN/8C4/8aANWormH7RazQbtvmIyZxnGRis//hJtA/6Dmm/+Bcf+NH/CTaB/0HNN/wDAuP8AxoAd4f0j+wtCtdM8/wA/yAR5mzbuyxPTJx19a06yv+Em0D/oOab/AOBcf+NH/CTaB/0HNN/8C4/8aAG+H9D/ALCtruH7R5/2i6kuc7Nu3djjqc4x1rXrK/4SbQP+g5pv/gXH/jSyeJNDitGum1eyMCnBdJ1bn04PJ9qAPK/i7/yNdr/14p/6HJRTJUl+JPjuRoFeOyjj2h2H3I1BwT7lj09/aimI9rrzLx74L0e2tJNVtY5LeZm+aONgIyfXGOPwwKKKQzyaiiimIKKKKACiiigAooooAKKKKACuk8L6Daa3PBFcvKgeZkJjYA4wvqD6miigD3HRtD0/QLIWunwCJM5ZurOfUnvRRRSGf//Z\"/></td><td>开启或关闭静音</td></tr><tr><td><img src=\"data:image/jpeg;base64,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\"/></td><td>减小音量</td></tr><tr><td><img src=\"data:image/jpeg;base64,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\"/></td><td>增大音量</td></tr><tr><td><img src=\"data:image/jpeg;base64,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\"/></td><td>切换屏幕投影模式</td></tr></table>"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.352,
+                0.26,
+                0.37
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.378,
+                0.707,
+                0.397
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.404,
+                0.49,
+                0.422
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.43,
+                0.938,
+                0.472
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.5,
+                0.345,
+                0.526
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.537,
+                0.912,
+                0.556
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.567,
+                0.77,
+                0.586
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.591,
+                0.934,
+                0.632
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.66,
+                0.349,
+                0.687
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.698,
+                0.84,
+                0.716
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.074,
+                0.72,
+                0.928,
+                0.761
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.772,
+                0.586,
+                0.79
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.799,
+                0.478,
+                0.818
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.772,
+                0.586,
+                0.818
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.845,
+                0.279,
+                0.872
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.888,
+                0.777,
+                0.908
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.966,
+                0.956,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.861,
+                0.021,
+                0.958,
+                0.038
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.378,
+                0.708,
+                0.397
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.353,
+                0.259,
+                0.37
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.844,
+                0.282,
+                0.873
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.698,
+                0.842,
+                0.716
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.499,
+                0.346,
+                0.527
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.658,
+                0.342,
+                0.689
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.404,
+                0.489,
+                0.422
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.798,
+                0.482,
+                0.819
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.431,
+                0.94,
+                0.448
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.455,
+                0.548,
+                0.47
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.08,
+                0.594,
+                0.106,
+                0.611
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.591,
+                0.933,
+                0.608
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.105,
+                0.612,
+                0.168,
+                0.632
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.72,
+                0.93,
+                0.741
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.743,
+                0.265,
+                0.76
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.537,
+                0.915,
+                0.555
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.565,
+                0.774,
+                0.589
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.886,
+                0.779,
+                0.91
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.771,
+                0.589,
+                0.792
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.964,
+                0.959,
+                0.982
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.053,
+                0.043,
+                0.233,
+                0.077
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.111,
+                0.941,
+                0.153
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.168,
+                0.158,
+                0.185
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.193,
+                0.926,
+                0.234
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.239,
+                0.528,
+                0.26
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.279,
+                0.239,
+                0.296
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.302,
+                0.94,
+                0.415
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.302,
+                0.85,
+                0.32
+            ],
+            "angle": 0,
+            "content": "· 在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.328,
+                0.938,
+                0.39
+            ],
+            "angle": 0,
+            "content": "- 设备产生的无线电波或含有磁铁可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.397,
+                0.903,
+                0.415
+            ],
+            "angle": 0,
+            "content": "- 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少15厘米的距离。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.421,
+                0.527,
+                0.441
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.46,
+                0.158,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.484,
+                0.94,
+                0.525
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.54,
+                0.199,
+                0.557
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.564,
+                0.94,
+                0.626
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.633,
+                0.788,
+                0.651
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.07,
+                0.564,
+                0.94,
+                0.651
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.668,
+                0.159,
+                0.685
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.07,
+                0.692,
+                0.83,
+                0.787
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.692,
+                0.305,
+                0.709
+            ],
+            "angle": 0,
+            "content": "- 设备铭牌位于设备底部。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.717,
+                0.829,
+                0.734
+            ],
+            "angle": 0,
+            "content": "请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.743,
+                0.808,
+                0.76
+            ],
+            "angle": 0,
+            "content": "- 插拔设备线缆前，请先停止使用设备并断开电源。在插拔线缆时请保持双手干燥。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.768,
+                0.789,
+                0.785
+            ],
+            "angle": 0,
+            "content": "- 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.794,
+                0.708,
+                0.811
+            ],
+            "angle": 0,
+            "content": "- 请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.819,
+                0.924,
+                0.86
+            ],
+            "angle": 0,
+            "content": "- 请在温度 \\(0^{\\circ} \\mathrm{C} \\sim 35^{\\circ} \\mathrm{C}\\) 范围内使用本设备，并在温度 \\(-10^{\\circ} \\mathrm{C} \\sim +45^{\\circ} \\mathrm{C}\\) 范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.866,
+                0.668,
+                0.883
+            ],
+            "angle": 0,
+            "content": "- 请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.891,
+                0.94,
+                0.932
+            ],
+            "angle": 0,
+            "content": "- 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.965,
+                0.956,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "inline_formula",
+            "bbox": [
+                0.175,
+                0.82,
+                0.278,
+                0.837
+            ],
+            "latex": "0 ^ { \\circ } C \\sim 3 5 ^ { \\circ } C",
+            "score": 0.5186
+        },
+        {
+            "type": "inline_formula",
+            "bbox": [
+                0.55,
+                0.82,
+                0.687,
+                0.836
+            ],
+            "latex": "- 1 0 ^ { \\circ } C \\sim + 4 5 ^ { \\circ } C",
+            "score": 0.5493
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.54,
+                0.2,
+                0.559
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.279,
+                0.24,
+                0.298
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.069,
+                0.793,
+                0.709,
+                0.812
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.691,
+                0.305,
+                0.71
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.051,
+                0.041,
+                0.236,
+                0.082
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.168,
+                0.16,
+                0.187
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.46,
+                0.16,
+                0.481
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.667,
+                0.16,
+                0.687
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.301,
+                0.851,
+                0.322
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.715,
+                0.832,
+                0.736
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.195,
+                0.924,
+                0.212
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.215,
+                0.113,
+                0.237
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.33,
+                0.938,
+                0.345
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.35,
+                0.918,
+                0.367
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.088,
+                0.372,
+                0.128,
+                0.393
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.82,
+                0.175,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.278,
+                0.82,
+                0.55,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.687,
+                0.82,
+                0.926,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.093,
+                0.844,
+                0.527,
+                0.859
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.397,
+                0.905,
+                0.415
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.111,
+                0.941,
+                0.131
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.135,
+                0.25,
+                0.152
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.485,
+                0.938,
+                0.5
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.508,
+                0.447,
+                0.525
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.564,
+                0.939,
+                0.581
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.588,
+                0.938,
+                0.603
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.088,
+                0.608,
+                0.187,
+                0.628
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.891,
+                0.939,
+                0.909
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.914,
+                0.246,
+                0.932
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.241,
+                0.108,
+                0.261
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.11,
+                0.24,
+                0.527,
+                0.258
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.423,
+                0.108,
+                0.442
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.109,
+                0.421,
+                0.527,
+                0.44
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.631,
+                0.791,
+                0.652
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.742,
+                0.81,
+                0.762
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.768,
+                0.789,
+                0.786
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.864,
+                0.67,
+                0.885
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.877,
+                0.021,
+                0.957,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.041,
+                0.941,
+                0.201
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.041,
+                0.941,
+                0.082
+            ],
+            "angle": 0,
+            "content": "- 设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.088,
+                0.81,
+                0.105
+            ],
+            "angle": 0,
+            "content": "· 请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.113,
+                0.94,
+                0.154
+            ],
+            "angle": 0,
+            "content": "- 当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.16,
+                0.94,
+                0.2
+            ],
+            "angle": 0,
+            "content": "- 装有激光产品（如 CD-ROM、DVD 驱动器）时，请勿卸下外盖。卸下激光产品的外盖可能会导致遭受危险的激光辐射。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.208,
+                0.936,
+                0.249
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.255,
+                0.888,
+                0.376
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.255,
+                0.445,
+                0.272
+            ],
+            "angle": 0,
+            "content": "- 始终使用设备制造商建议的柜子或支架。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.28,
+                0.809,
+                0.298
+            ],
+            "angle": 0,
+            "content": "- 始终使用能安全支撑本设备的家具，始终确保本设备没有伸出该支撑家具的边缘。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.305,
+                0.875,
+                0.324
+            ],
+            "angle": 0,
+            "content": "- 请勿将本设备放在不稳定的位置，请勿将本设备放置在高的家具（例如橱柜或书柜）上。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.331,
+                0.715,
+                0.349
+            ],
+            "angle": 0,
+            "content": "· 始终规划好连接到本设备上的电线和电缆，这样它们就不会被绊或拉。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.357,
+                0.729,
+                0.375
+            ],
+            "angle": 0,
+            "content": "- 请勿将本设备置于可能铺在本设备和支撑家具之间的织物或其他材料上。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.382,
+                0.588,
+                0.4
+            ],
+            "angle": 0,
+            "content": "- 始终教育儿童攀爬家具到达本设备或其控制装置的危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.407,
+                0.889,
+                0.426
+            ],
+            "angle": 0,
+            "content": "- 在本设备或放置本设备的家具顶部，请勿放置可能引诱儿童攀爬的物品，如玩具和遥控器。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.433,
+                0.593,
+                0.451
+            ],
+            "angle": 0,
+            "content": "- 如果设备需要保留并更换位置，也应考虑上述注意事项。",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.468,
+                0.158,
+                0.485
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.07,
+                0.492,
+                0.94,
+                0.557
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.492,
+                0.94,
+                0.533
+            ],
+            "angle": 0,
+            "content": "- 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.539,
+                0.527,
+                0.556
+            ],
+            "angle": 0,
+            "content": "· 本设备并非玩具，儿童应在成人监护下使用设备。",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.574,
+                0.158,
+                0.591
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.597,
+                0.94,
+                0.687
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.597,
+                0.809,
+                0.615
+            ],
+            "angle": 0,
+            "content": "- 使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.622,
+                0.94,
+                0.686
+            ],
+            "angle": 0,
+            "content": "- 只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如需获取认可的配件，请与华为客户服务中心联系。",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.701,
+                0.158,
+                0.718
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.725,
+                0.938,
+                0.919
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.725,
+                0.848,
+                0.743
+            ],
+            "angle": 0,
+            "content": "- 电源软线上插头作为断开装置，对可插式设备，插座应安装在产品附近并应易于操作。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.75,
+                0.769,
+                0.768
+            ],
+            "angle": 0,
+            "content": "- 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.776,
+                0.487,
+                0.793
+            ],
+            "angle": 0,
+            "content": "- 电源插头应连接到插座，插座与接地线连接。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.801,
+                0.688,
+                0.819
+            ],
+            "angle": 0,
+            "content": "- 若电源插头或电源线已损坏，请勿继续使用，以免发生触电或火灾。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.827,
+                0.608,
+                0.845
+            ],
+            "angle": 0,
+            "content": "- 请勿用湿手触碰电源线，或用拉电源线缆的方式拔出电源。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.852,
+                0.647,
+                0.87
+            ],
+            "angle": 0,
+            "content": "- 请勿用湿手触摸设备或电源，以免发生设备短路、故障或触电。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.877,
+                0.936,
+                0.918
+            ],
+            "angle": 0,
+            "content": "- 若设备需要连接 USB 端口，请确认 USB 端口具备 USB-IF 标识且其性能符合 USB-IF 的相关规范。",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.941,
+                0.965,
+                0.956,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.069,
+                0.33,
+                0.715,
+                0.35
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.356,
+                0.729,
+                0.376
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.98
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.876,
+                0.021,
+                0.958,
+                0.039
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.468,
+                0.16,
+                0.487
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.574,
+                0.16,
+                0.592
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.7,
+                0.16,
+                0.721
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.852,
+                0.649,
+                0.872
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.723,
+                0.852,
+                0.744
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.776,
+                0.487,
+                0.794
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.208,
+                0.933,
+                0.225
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.232,
+                0.407,
+                0.247
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.879,
+                0.936,
+                0.896
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.088,
+                0.899,
+                0.169,
+                0.92
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.751,
+                0.77,
+                0.769
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.382,
+                0.588,
+                0.401
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.041,
+                0.938,
+                0.058
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.066,
+                0.427,
+                0.081
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.115,
+                0.938,
+                0.13
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.137,
+                0.567,
+                0.152
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.16,
+                0.938,
+                0.177
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.182,
+                0.328,
+                0.199
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.492,
+                0.939,
+                0.509
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.516,
+                0.709,
+                0.533
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.623,
+                0.939,
+                0.64
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.646,
+                0.94,
+                0.663
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.669,
+                0.328,
+                0.686
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.539,
+                0.529,
+                0.558
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.086,
+                0.811,
+                0.107
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.279,
+                0.812,
+                0.299
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.596,
+                0.81,
+                0.614
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.801,
+                0.689,
+                0.82
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.254,
+                0.447,
+                0.274
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.304,
+                0.875,
+                0.324
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.407,
+                0.891,
+                0.426
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.434,
+                0.594,
+                0.451
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.069,
+                0.826,
+                0.609,
+                0.846
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.877,
+                0.021,
+                0.956,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.051,
+                0.158,
+                0.068
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.074,
+                0.942,
+                0.165
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.075,
+                0.567,
+                0.092
+            ],
+            "angle": 0,
+            "content": "- 如果更换不正确的型号的电池会有起火或爆炸的危险。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.1,
+                0.94,
+                0.141
+            ],
+            "angle": 0,
+            "content": "- 请勿将电池暴露在高温处或发热产品的周围，如日照、取暖器、微波炉、烤箱或热水器等。电池过热可能引起爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.146,
+                0.788,
+                0.165
+            ],
+            "angle": 0,
+            "content": "- 请勿将电池放置在极低气压环境中，可能导致电池爆炸或泄漏可燃液体或气体。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.172,
+                0.547,
+                0.19
+            ],
+            "angle": 0,
+            "content": "- 请勿把电池扔到火里，否则会导致电池起火和爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.197,
+                0.91,
+                0.216
+            ],
+            "angle": 0,
+            "content": "· 请勿跌落、挤压或穿刺电池。避免让电池遭受外部大的压力，从而导致电池内部短路和过热。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.223,
+                0.94,
+                0.263
+            ],
+            "angle": 0,
+            "content": "- 请勿拆解或改装电池、插入异物、或浸入水中或其他液体中，以免引起电池漏液、过热、起火或爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.269,
+                0.93,
+                0.288
+            ],
+            "angle": 0,
+            "content": "- 请按当地规定处理电池，不可将电池作为生活垃圾处理。若电池处置不当可能会导致电池爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.295,
+                0.94,
+                0.335
+            ],
+            "angle": 0,
+            "content": "- 请勿将金属物导体与电池两极对接，或接触电池的端点，以免导致电池短路，以及因电池过热而引起的烧伤等身体伤害。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.341,
+                0.94,
+                0.382
+            ],
+            "angle": 0,
+            "content": "- 如果电池漏液，请勿使皮肤或眼睛接触到漏出的液体。若接触到皮肤或眼睛上，请立即用清水冲洗，并到医院进行医疗处理。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.387,
+                0.928,
+                0.406
+            ],
+            "angle": 0,
+            "content": "- 如果电池在使用或保存过程中有变色、变形、异常发热等异常现象，请停止使用并更换新电池。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.413,
+                0.668,
+                0.431
+            ],
+            "angle": 0,
+            "content": "请勿让儿童或宠物吞咬电池，以免对其造成伤害或导致电池爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.438,
+                0.325,
+                0.456
+            ],
+            "angle": 0,
+            "content": "- 请勿使用已经损坏的电池。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.464,
+                0.92,
+                0.505
+            ],
+            "angle": 0,
+            "content": "- 本产品包含纽扣锂电池，更换纽扣锂电池时，请仅使用相同类型的电池或制造商推荐的同类电池。该电池中含有锂，如果使用、操作或处理不当，可能会发生爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.51,
+                0.94,
+                0.573
+            ],
+            "angle": 0,
+            "content": "- 请勿让儿童接触电池。如果电池仓未安全闭合，停止使用该产品并使之远离儿童。如果吞食纽扣锂电池，在2小时内就可能导致严重的内部灼伤并可能导致死亡。如果误吞纽扣锂电池或误置入体内任何部位，请立即就医。",
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.589,
+                0.178,
+                0.606
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.612,
+                0.94,
+                0.898
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.612,
+                0.829,
+                0.63
+            ],
+            "angle": 0,
+            "content": "· 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.638,
+                0.869,
+                0.656
+            ],
+            "angle": 0,
+            "content": "- 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.663,
+                0.849,
+                0.682
+            ],
+            "angle": 0,
+            "content": "- 请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.689,
+                0.849,
+                0.707
+            ],
+            "angle": 0,
+            "content": "- 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.714,
+                0.889,
+                0.732
+            ],
+            "angle": 0,
+            "content": "- 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.74,
+                0.94,
+                0.781
+            ],
+            "angle": 0,
+            "content": "- 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.786,
+                0.94,
+                0.827
+            ],
+            "angle": 0,
+            "content": "- 请勿擅自拆卸或改装设备及配件，否则该设备及配件将不在本公司保修范围之内，设备发生故障时请联系华为客户服务中心。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.833,
+                0.94,
+                0.874
+            ],
+            "angle": 0,
+            "content": "- 如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.879,
+                0.91,
+                0.897
+            ],
+            "angle": 0,
+            "content": "- 请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.904,
+                0.729,
+                0.923
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.965,
+                0.955,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.588,
+                0.18,
+                0.608
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.082,
+                0.908,
+                0.106,
+                0.923
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.903,
+                0.729,
+                0.923
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.876,
+                0.021,
+                0.958,
+                0.039
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.05,
+                0.161,
+                0.071
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.613,
+                0.83,
+                0.631
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.663,
+                0.851,
+                0.682
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.688,
+                0.851,
+                0.708
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.438,
+                0.325,
+                0.457
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.466,
+                0.918,
+                0.481
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.488,
+                0.708,
+                0.503
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.198,
+                0.912,
+                0.215
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.271,
+                0.931,
+                0.287
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.388,
+                0.932,
+                0.406
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.879,
+                0.91,
+                0.896
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.075,
+                0.568,
+                0.094
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.101,
+                0.939,
+                0.118
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.124,
+                0.267,
+                0.141
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.223,
+                0.94,
+                0.24
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.086,
+                0.245,
+                0.147,
+                0.264
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.296,
+                0.938,
+                0.311
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.318,
+                0.307,
+                0.335
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.342,
+                0.939,
+                0.359
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.365,
+                0.346,
+                0.38
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.511,
+                0.938,
+                0.528
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.535,
+                0.939,
+                0.55
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.558,
+                0.346,
+                0.572
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.741,
+                0.939,
+                0.758
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.764,
+                0.207,
+                0.781
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.787,
+                0.939,
+                0.804
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.81,
+                0.346,
+                0.827
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.833,
+                0.939,
+                0.85
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.857,
+                0.464,
+                0.872
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.171,
+                0.549,
+                0.191
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.145,
+                0.79,
+                0.165
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.069,
+                0.412,
+                0.669,
+                0.432
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.638,
+                0.872,
+                0.656
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.715,
+                0.892,
+                0.733
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.877,
+                0.021,
+                0.956,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.051,
+                0.158,
+                0.068
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.075,
+                0.528,
+                0.093
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.1,
+                0.607,
+                0.118
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.07,
+                0.075,
+                0.607,
+                0.118
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.135,
+                0.158,
+                0.152
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.162,
+                0.39,
+                0.179
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.195,
+                0.502,
+                0.213
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.221,
+                0.936,
+                0.261
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.068,
+                0.269,
+                0.941,
+                0.68
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.269,
+                0.94,
+                0.332
+            ],
+            "angle": 0,
+            "content": "（一）产品符合“微功率短距离无线电发射设备目录和技术要求”第一条通用微功率设备第3款C类设备的规定，内置环形NFC天线，通过负载调制方式实现一碰连通信，不具备主动发射场景，用户可根据产品说明书来使用此功能；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.34,
+                0.936,
+                0.381
+            ],
+            "angle": 0,
+            "content": "（二）不得擅自改变使用场景或使用条件、扩大发射频率范围、加大发射功率（包括额外加装射频功率放大器），不得擅自更改发射天线；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.389,
+                0.843,
+                0.408
+            ],
+            "angle": 0,
+            "content": "（三）不得对其他合法的无线电台（站）产生有害干扰，也不得提出免受有害干扰保护；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.415,
+                0.936,
+                0.456
+            ],
+            "angle": 0,
+            "content": "（四）应当承受辐射射频能量的工业、科学及医疗（ISM）应用设备的干扰或其他合法的无线电台（站）干扰；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.464,
+                0.936,
+                0.505
+            ],
+            "angle": 0,
+            "content": "（五）如对其他合法的无线电台（站）产生有害干扰时，应立即停止使用，并采取措施消除干扰后方可继续使用；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.512,
+                0.94,
+                0.576
+            ],
+            "angle": 0,
+            "content": "（六）在航空器内和依据法律法规、国家有关规定、标准划设的射电天文台、气象雷达站、卫星地球站（含测控、测距、接收、导航站）等军民用无线电台（站）、机场等的电磁环境保护区域内使用微功率设备，应当遵守电磁环境保护及相关行业主管部门的规定；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.584,
+                0.824,
+                0.603
+            ],
+            "angle": 0,
+            "content": "（七）禁止在以机场跑道中心点为圆心、半径 5000 米的区域内使用各类模型遥控器；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.61,
+                0.675,
+                0.628
+            ],
+            "angle": 0,
+            "content": "（八）本产品 NFC 工作电压为 1.5V，工作环境温度为  \\( 0^{\\circ}C \\sim 35^{\\circ}C \\) 。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.636,
+                0.742,
+                0.654
+            ],
+            "angle": 0,
+            "content": "（九）使用微功率短距离无线电发射设备应当符合国家无线电管理有关规定。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.659,
+                0.668,
+                0.679
+            ],
+            "angle": 0,
+            "content": "仅部分型号涉及型号核准代码以及微功率，请以实际产品为准。",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.965,
+                0.956,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "inline_formula",
+            "bbox": [
+                0.559,
+                0.61,
+                0.663,
+                0.628
+            ],
+            "latex": "0 ^ { \\circ } C \\sim 3 5 ^ { \\circ } C",
+            "score": 0.5228
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.069,
+                0.635,
+                0.744,
+                0.655
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.98
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.876,
+                0.021,
+                0.958,
+                0.039
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.05,
+                0.16,
+                0.07
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.134,
+                0.161,
+                0.155
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.078,
+                0.661,
+                0.108,
+                0.681
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.109,
+                0.659,
+                0.669,
+                0.678
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.389,
+                0.845,
+                0.409
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.584,
+                0.825,
+                0.602
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.195,
+                0.5,
+                0.214
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.221,
+                0.935,
+                0.239
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.245,
+                0.687,
+                0.262
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.34,
+                0.933,
+                0.357
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.365,
+                0.428,
+                0.38
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.416,
+                0.935,
+                0.433
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.439,
+                0.178,
+                0.456
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.465,
+                0.931,
+                0.48
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.488,
+                0.207,
+                0.505
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.27,
+                0.94,
+                0.287
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.293,
+                0.929,
+                0.308
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.315,
+                0.409,
+                0.332
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.513,
+                0.933,
+                0.531
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.536,
+                0.94,
+                0.553
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.56,
+                0.67,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.074,
+                0.528,
+                0.094
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.611,
+                0.558,
+                0.63
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.664,
+                0.611,
+                0.673,
+                0.63
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.1,
+                0.608,
+                0.119
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.162,
+                0.391,
+                0.18
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.054,
+                0.043,
+                0.452,
+                0.078
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.11,
+                0.941,
+                0.151
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.069,
+                0.156,
+                0.94,
+                0.444
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.157,
+                0.628,
+                0.174
+            ],
+            "angle": 0,
+            "content": "- 请将设备放置于安全区域，防止未经授权人员使用您的设备。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.182,
+                0.668,
+                0.2
+            ],
+            "angle": 0,
+            "content": "· 建议不要阅读来自陌生人的信息或邮件，以免设备遭受病毒感染。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.207,
+                0.729,
+                0.225
+            ],
+            "angle": 0,
+            "content": "- 在使用设备上网时，请勿浏览存在安全隐患的网站，以免个人信息被盗。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.233,
+                0.938,
+                0.273
+            ],
+            "angle": 0,
+            "content": "- 在使用无线共享、蓝牙等业务时，请设定密码，防止未授权访问。不需要使用这些业务时，建议及时关闭。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.28,
+                0.467,
+                0.297
+            ],
+            "angle": 0,
+            "content": "- 安装设备安全软件，并定期进行安全检查。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.305,
+                0.868,
+                0.323
+            ],
+            "angle": 0,
+            "content": "- 获取第三方应用时，应保证获取方式的安全性。获取的第三方应用程序应进行病毒扫描。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.331,
+                0.809,
+                0.348
+            ],
+            "angle": 0,
+            "content": "- 请及时安装或升级华为或授权的第三方应用程序供应商发布的安全性软件或补丁。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.356,
+                0.938,
+                0.396
+            ],
+            "angle": 0,
+            "content": "- 使用非授权第三方软件升级设备的固件和系统，可能存在设备无法使用或者泄漏您个人信息等安全风险。建议您使用在线升级或者将设备送至您附近的华为客户服务中心升级。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.402,
+                0.94,
+                0.443
+            ],
+            "angle": 0,
+            "content": "- 设备可能会将检测、诊断等信息反馈给第三方应用程序供应商，这些信息将用于帮助第三方应用供应商改善产品和服务。",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.942,
+                0.965,
+                0.956,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.068,
+                0.206,
+                0.73,
+                0.227
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.941,
+                0.965,
+                0.957,
+                0.981
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.234,
+                0.94,
+                0.251
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.257,
+                0.186,
+                0.274
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.357,
+                0.937,
+                0.372
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.38,
+                0.79,
+                0.397
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.112,
+                0.938,
+                0.127
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.133,
+                0.571,
+                0.15
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.403,
+                0.939,
+                0.42
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.426,
+                0.307,
+                0.443
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.33,
+                0.81,
+                0.349
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.182,
+                0.669,
+                0.201
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.054,
+                0.042,
+                0.455,
+                0.08
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.28,
+                0.468,
+                0.298
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.305,
+                0.872,
+                0.323
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.157,
+                0.629,
+                0.175
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.053,
+                0.043,
+                0.232,
+                0.077
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.11,
+                0.557,
+                0.129
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.136,
+                0.941,
+                0.222
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.238,
+                0.158,
+                0.254
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.265,
+                0.938,
+                0.306
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.076,
+                0.311,
+                0.526,
+                0.331
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.071,
+                0.342,
+                0.291,
+                0.371
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.073,
+                0.372,
+                0.268,
+                0.381
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.392,
+                0.94,
+                0.434
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.441,
+                0.585,
+                0.459
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.467,
+                0.938,
+                0.508
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.523,
+                0.117,
+                0.54
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.549,
+                0.938,
+                0.634
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.643,
+                0.772,
+                0.661
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.07,
+                0.676,
+                0.219,
+                0.694
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.702,
+                0.94,
+                0.766
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.773,
+                0.938,
+                0.837
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.845,
+                0.94,
+                0.931
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.931,
+                0.965,
+                0.955,
+                0.978
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.676,
+                0.219,
+                0.695
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.051,
+                0.042,
+                0.236,
+                0.081
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.237,
+                0.16,
+                0.257
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.643,
+                0.774,
+                0.661
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.109,
+                0.558,
+                0.13
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.44,
+                0.585,
+                0.46
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.265,
+                0.938,
+                0.284
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.29,
+                0.793,
+                0.305
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.392,
+                0.941,
+                0.412
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.414,
+                0.657,
+                0.435
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.467,
+                0.938,
+                0.484
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.49,
+                0.23,
+                0.508
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.076,
+                0.704,
+                0.938,
+                0.719
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.725,
+                0.94,
+                0.743
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.749,
+                0.753,
+                0.766
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.774,
+                0.938,
+                0.791
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.797,
+                0.924,
+                0.814
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.82,
+                0.895,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.078,
+                0.312,
+                0.109,
+                0.333
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.109,
+                0.311,
+                0.526,
+                0.329
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.138,
+                0.938,
+                0.154
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.16,
+                0.923,
+                0.176
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.183,
+                0.938,
+                0.199
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.204,
+                0.132,
+                0.224
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.075,
+                0.55,
+                0.923,
+                0.566
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.573,
+                0.923,
+                0.589
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.596,
+                0.938,
+                0.612
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.616,
+                0.232,
+                0.637
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.846,
+                0.924,
+                0.863
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.868,
+                0.941,
+                0.886
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.073,
+                0.891,
+                0.94,
+                0.908
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.912,
+                0.154,
+                0.933
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.076,
+                0.374,
+                0.268,
+                0.381
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.07,
+                0.522,
+                0.121,
+                0.544
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.928,
+                0.962,
+                0.959,
+                0.983
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.877,
+                0.021,
+                0.957,
+                0.037
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.051,
+                0.162,
+                0.069
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.077,
+                0.942,
+                0.118
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.126,
+                0.941,
+                0.189
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.197,
+                0.942,
+                0.261
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.275,
+                0.18,
+                0.294
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.302,
+                0.942,
+                0.343
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.357,
+                0.162,
+                0.376
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.388,
+                0.941,
+                0.434
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.446,
+                0.942,
+                0.488
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.502,
+                0.159,
+                0.52
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.528,
+                0.644,
+                0.546
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.555,
+                0.564,
+                0.573
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.933,
+                0.965,
+                0.955,
+                0.979
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.275,
+                0.18,
+                0.295
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.876,
+                0.02,
+                0.959,
+                0.039
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.05,
+                0.16,
+                0.071
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.356,
+                0.16,
+                0.377
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.501,
+                0.16,
+                0.522
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.527,
+                0.643,
+                0.549
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.072,
+                0.554,
+                0.565,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.079,
+                0.938,
+                0.094
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.076,
+                0.101,
+                0.733,
+                0.116
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.127,
+                0.939,
+                0.144
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.149,
+                0.939,
+                0.166
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.171,
+                0.31,
+                0.189
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.198,
+                0.937,
+                0.213
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.221,
+                0.938,
+                0.236
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.242,
+                0.172,
+                0.262
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.302,
+                0.94,
+                0.319
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.077,
+                0.326,
+                0.389,
+                0.341
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.071,
+                0.387,
+                0.941,
+                0.408
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.415,
+                0.25,
+                0.432
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.447,
+                0.939,
+                0.464
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.074,
+                0.47,
+                0.833,
+                0.487
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.932,
+                0.964,
+                0.958,
+                0.982
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

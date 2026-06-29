@@ -1,0 +1,2940 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "【操作说明】"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                421,
+                247,
+                576,
+                272
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                194,
+                300,
+                805,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                376,
+                706,
+                621,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 年 04 月"
+                    }
+                ]
+            },
+            "bbox": [
+                436,
+                753,
+                559,
+                770
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶 sunfull 专注自控物物互联 "
+                    }
+                ]
+            },
+            "bbox": [
+                687,
+                98,
+                843,
+                168
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                475,
+                93,
+                524,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 系统网络架构."
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                146,
+                850,
+                162
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 米家 APP 设置.. 3"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                185,
+                850,
+                200
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.1 米家 APP 添加小米设备 . .3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.2 开启绿米网关局域网协议. 3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                223,
+                848,
+                278
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. LUMISCAN 搜索局域网设备. .. 6"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                302,
+                850,
+                317
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.1LUMISCAN 搜索步骤 . .. 6 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.2 操作步骤示意图. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3 文件解析.."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                340,
+                848,
+                432
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3.1 小米多功能网关属性."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3.2 多功能网关下的设备. .8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3.3 米家智能插座属性. 8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3.4 米家温湿度传感器属性. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                445,
+                848,
+                519
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. X2VIEW 工程配置 . .10"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                533,
+                850,
+                549
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.1 新建驱动. .10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2 新建通道.. .10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.3 新建设备... .11"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.4 新建标签. .12"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                573,
+                848,
+                703
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 总结 .... 13"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                728,
+                850,
+                743
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 系统网络架构"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                111,
+                329,
+                131
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①通过米家 APP 将绿米网关接入现场的局域网络；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②通过米家 APP 将需要集成的所有小米设备接入现场的局域网络；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③将自己的电脑接入现场的局域网络并且禁用其他所有网卡；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "④运行 LumiScan.exe 程序即可搜索到绿米网关下所有设备的信息；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "⑤根据 LumiScan搜索到的报文信息配置网关工程。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                154,
+                737,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 米家 APP 设置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                407,
+                339,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 米家APP添加小米设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                154,
+                458,
+                421,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据小米设备的说明书操作步骤，在米家 APP 中添加所有小米的设备，一般步骤分为:"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                505,
+                850,
+                560
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①长按设备上的按钮进入设置模式；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②按照提示连接小米设备的网络；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③设备接入现场的局域网络；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "④米家APP绑定小米设备成功。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                587,
+                487,
+                747
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 开启绿米网关局域网协议"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                152,
+                777,
+                435,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "按照下面的步骤开启绿米网关的局域网协议："
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                824,
+                549,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "①点击米家多功能网关进入米家多功能网关界面；"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                870,
+                586,
+                888
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②点击右上角的“…“进入设置界面；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③点击“关于”进入关于设置界面；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "④一直点击空白处，大约连续点击 5-10 次会出现隐藏信息；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "⑤点击“局域网通信协议”进入局域网通信设置界面；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "⑥选择开启局域网通信协议，获取米家多功能网关的局域网通讯密码；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "⑦关于界面点击网关信息进入绿米网关信息查询界面。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                96,
+                752,
+                342
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b32470e3dd557a1255a6ffbc4db0dffc95643ad6c941d37cacd676e70b681316.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "界面显示如下图所示："
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                453,
+                836,
+                800
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                588,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/30d211c769e030ce1a6b3214dac51ce7428f0675a9d7287d1e7a3a68927be066.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                152,
+                87,
+                848,
+                657
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c1f893949aaade1e5120f1e3f0e332212c6b7f0223eb50d054d960703a32894c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>取消</td><td>确定</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                507,
+                747,
+                751,
+                774
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                588,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/70ee85bfc956b92f9587ba7e5fd2a44b3b7d985817f033fe4eca4d46384fe3b1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2-2-1 局域网通讯和网关信息示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                87,
+                754,
+                420
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. LumiScan 搜索局域网设备 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                497,
+                465,
+                517
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1LumiScan 搜索步骤 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                154,
+                549,
+                384,
+                567
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①禁用无关的网卡，只保留当前局域网的网卡；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②运行 LumiScan.exe 程序进行搜索；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "③得到 LumiScan搜索日志文件；"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                589,
+                569,
+                707
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2 操作步骤示意图"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                93,
+                339,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/63d862b81ffe73fc76567634d8343b6b5569cec004cffa508c6386b6d54d8e18.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                181,
+                129,
+                818,
+                406
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4ad46ae5cb9db566aa49b90f9bb71c85265ece1db759c7b6d1f7bb35fe0df17b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-2-1 禁用网络示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                490,
+                444,
+                507,
+                483
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9a7c9cdecbe205979111853dc24fc07cad88769d52917d5aa9aea16300512f02.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-2-2 LumiScan 搜索示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                152,
+                485,
+                847,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3 文件解析"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                706,
+                275,
+                725
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.1小米多功能网关属性"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                749,
+                366,
+                766
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/552aea6f015a0ab97fac746ccda9282906e33dbafc705e1d51aa217dc824826e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-3-1 小米多功能网关属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                149,
+                772,
+                877,
+                860
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "属性说明："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                96,
+                238,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "port：多功能网关当前使用的端口号。sid：多功能网关的 MAC 地址。model：当前设备的属性分类。proto_version：版本号。ip：多功能网关的当前 IP 地址。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                131,
+                489,
+                252
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.2多功能网关下的设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                294,
+                361,
+                310
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/36ce702386b64d39f9e96dc4fb3e0b25aa141e27f64b8135ac6942adaef7bf6c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-3-2 小米多功能网关连接设备"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                317,
+                878,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "属性说明："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                450,
+                238,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sid：多功能网关的 MAC 地址。token：令牌。data：多功能网关下连接的设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                476,
+                455,
+                544
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.3米家智能插座属性"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                587,
+                346,
+                602
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f284fd1d40193e2f48b35fd619ec23d3a711972b9d13d1a8d57f1c9194542e23.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-3-3 小米智能插座属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                606,
+                877,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "属性说明："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                743,
+                238,
+                759
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "model：当前设备的属性分类。sid：米家智能揑座的MAC地址。short_id：米家智能揑座的设备号。voltage：米家智能揑座的当前电压值。status：米家智能揑座的当前状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                769,
+                499,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "power_consumed：米家智能揑座的负载消耗电量。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                92,
+                606,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "load_power：米家智能揑座的负载功率。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                118,
+                517,
+                135
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.4米家温湿度传感器属性"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                178,
+                381,
+                193
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4911872b6b0c155302fe379a6832163d00e7ac00002b640aae1dac772ebb5299.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-3-4 米家温湿度传感器属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                202,
+                878,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "属性说明："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                351,
+                238,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "model：当前设备的属性分类。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                378,
+                433,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sid：米家温湿度传感器的 MAC 地址。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                404,
+                492,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "short_id：米家温湿度传感器的设备号。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                431,
+                502,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "voltage：米家温湿度传感器的当前电压值。 "
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                457,
+                536,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "temperature：米家温湿度传感器的当前温度值。 "
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                483,
+                579,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "humidity：米家温湿度传感器的当前湿度值。 "
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                508,
+                547,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.5米家无线开关属性"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                561,
+                346,
+                577
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e863f1a866e4216f09705ce8a9bc5b00db6377bdbe9437109299fd1771bab388.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-3-4 米家无线开关属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                588,
+                877,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "属性说明："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                737,
+                236,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "model：当前设备的属性分类。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                764,
+                433,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sid：米家无线开关的MAC地址。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                790,
+                455,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "short_id：米家无线开关的设备号。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                816,
+                465,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "voltage：米家无线开关的当前电压值。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                841,
+                499,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意：其他设备以此类推即可，如有其他疑惑请联系上海迅饶自动化科技有限公司。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                868,
+                821,
+                885
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                152,
+                52,
+                384,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                54,
+                843,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                842,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. X2View 工程配置"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                93,
+                371,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.1 新建驱动"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                146,
+                275,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "选择驱动 Lumi_Gateway："
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                181,
+                369,
+                198
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/796872ddc33a87874fc465052cde62c188f1d030cbf1095b7e263ee8a4053c0f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-1-1 驱动属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                199,
+                848,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "名称可自定义填写，轮训时间默认 1000 毫秒，可以更具现场的实际情况自行修改。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                394,
+                821,
+                411
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2 新建通道"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                460,
+                275,
+                479
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e6cc08a999166c803da850437353e168b190e417b8833b337881de380b2490e0.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-2-1 通道属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                257,
+                499,
+                741,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "此处的IP地址为迅饶网关的 IP地址，端口号默认 4321，网络超时时间可以根据具体的现场环境设置，默认2000 毫秒。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                751,
+                843,
+                794
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                52,
+                381,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                54,
+                847,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.3 新建设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                93,
+                275,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/81e48b5fd2b2ccb094b560be3babdb7391fc720f2cdf2356dab720cb2ade64bc.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-3-1 设备属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                285,
+                127,
+                715,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "名称可自定义，站号填写格式为：网关的“：mac 地址”+“绿米网关的局域网通信协议密码”，请求帧间隔默认 1000 毫秒，可更具现场的需要自行修改。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                463,
+                850,
+                519
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1e943bfc82c42bfb2c552b16dd70986e128618b964634a9166e0b0fedbc6968f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-3-2 密码及mac 地址示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                247,
+                527,
+                749,
+                813
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                52,
+                381,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                54,
+                847,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.4 新建标签"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                93,
+                275,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/397fa2df0ac2bbf8463069ef4e2f28382db5b1fe654ede4baae1b87929267dc8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-4-1 标签属性"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                127,
+                848,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "点名可自定义填写，数据类型根据你设备的实际情况填写，开关量选择Boolean，模拟量选择Word；数据类型为 LumiScan 扫描出来的”model”；寄存器地址为 LumiScan扫描出来的“sid”+“data 属性”；"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                653,
+                848,
+                724
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/08e7aef67c66148f19d09888bd2f36283306d6ae23afaf04c37125bceb431af1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-4-2 工程点位示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                730,
+                828,
+                877
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                52,
+                381,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                54,
+                847,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                842,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bef40423156112bbf0fc143ebc4f5dcaf864d7195ee01af3b6ff0afde149a1e7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-4-3 通常成功示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                91,
+                840,
+                212
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 总结"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                146,
+                316,
+                235,
+                336
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "①绿米网关的局域网通讯要开启；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "②局域网需要有绿米网关在线；"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                356,
+                458,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "③LumiScan 扫描时需要禁用其他无关网络；"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                458,
+                546,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "④配置工程需要根据 LumiScan 扫描到的具体信息进行配置。"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                508,
+                673,
+                525
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "迅饶网关与小米产品通讯配置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                52,
+                381,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 / 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                54,
+                847,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "上海迅饶自动化科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                936,
+                346,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "技术支持：021-20252795"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                936,
+                586,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Email: sales@opcmaster.com "
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                938,
+                843,
+                950
+            ]
+        }
+    ]
+]

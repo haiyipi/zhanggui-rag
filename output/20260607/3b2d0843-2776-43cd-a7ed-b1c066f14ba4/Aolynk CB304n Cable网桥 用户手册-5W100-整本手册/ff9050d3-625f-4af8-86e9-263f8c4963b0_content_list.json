@@ -1,0 +1,5752 @@
+[
+    {
+        "type": "text",
+        "text": "Aolynk CB304n Cable 网桥",
+        "text_level": 1,
+        "bbox": [
+            487,
+            334,
+            897,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "用户手册",
+        "bbox": [
+            757,
+            387,
+            897,
+            414
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杭州华三通信技术有限公司",
+        "bbox": [
+            99,
+            851,
+            285,
+            866
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://www.h3c.com.cn ",
+        "bbox": [
+            100,
+            868,
+            257,
+            882
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "资料版本：5W100-20140731",
+        "bbox": [
+            100,
+            899,
+            300,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "H3C ",
+        "bbox": [
+            749,
+            103,
+            899,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright © 2014 杭州华三通信技术有限公司及其许可者 版权所有，保留一切权利。",
+        "bbox": [
+            141,
+            77,
+            796,
+            94
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "未经本公司书面许可，任何单位和个人不得擅自摘抄、复制本书内容的部分或全部，并不得以任何形式传播。",
+        "bbox": [
+            141,
+            99,
+            907,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "、H3 Care、 PeareH3C、 、H3CS、H3CIE、H3CNE、Aolynk、 、IRF、NetPilot、Netflow、SecEngine、SecPath、SecCenter、SecBlade、Comware、ITCMM、HUASAN、华三均为杭州华三通信技术有限公司的商标。对于本手册中出现的其它公司的商标、产品标识及商品名称，由各自权利人拥有。",
+        "bbox": [
+            141,
+            141,
+            905,
+            233
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于产品版本升级或其他原因，本手册内容有可能变更。H3C保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，H3C尽全力在本手册中提供准确的信息，但是 H3C 并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。",
+        "bbox": [
+            141,
+            238,
+            905,
+            313
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前 言",
+        "text_level": 1,
+        "bbox": [
+            458,
+            108,
+            537,
+            133
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "《Aolynk CB304n Cable网桥 用户手册》将会详细地指导您如何通过 Web设置页面对设备进行本地管理。",
+        "bbox": [
+            141,
+            158,
+            907,
+            194
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前言部分包含如下内容：",
+        "bbox": [
+            142,
+            200,
+            329,
+            215
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "读者对象",
+            "本书约定",
+            "资料获取方式",
+            "技术支持",
+            "资料意见反馈 "
+        ],
+        "bbox": [
+            142,
+            222,
+            297,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "读者对象",
+        "text_level": 1,
+        "bbox": [
+            90,
+            342,
+            196,
+            363
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本手册主要适用于如下工程师：",
+        "bbox": [
+            142,
+            381,
+            383,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "网络规划人员",
+            "现场技术支持与维护人员",
+            "负责网络配置和维护的网络管理员"
+        ],
+        "bbox": [
+            142,
+            403,
+            455,
+            462
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本书约定",
+        "text_level": 1,
+        "bbox": [
+            90,
+            481,
+            196,
+            501
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ea37bd9ed25758bcf264371d70e12660c99ea9309eb5dc7aa00b692cbc9a1b5.jpg",
+        "table_caption": [
+            "1. 命令行格式约定"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>格式</td><td>意义</td></tr><tr><td>粗体</td><td>命令行关键字(命令中保持不变、必须照输的部分)采用加粗字体表示。</td></tr><tr><td>斜体</td><td>命令行参数(命令中必须由实际值进行替代的部分)采用斜体表示。</td></tr><tr><td>[]</td><td>表示用“[]”括起来的部分在命令配置时是可选的。</td></tr><tr><td>{x|y|...}</td><td>表示从多个选项中仅选取一个。</td></tr><tr><td>[x|y|...]</td><td>表示从多个选项中选取一个或者不选。</td></tr><tr><td>{x|y|...}*</td><td>表示从多个选项中至少选取一个。</td></tr><tr><td>[x|y|...]*</td><td>表示从多个选项中选取一个、多个或者不选。</td></tr><tr><td>&amp;&lt;1-n&gt;</td><td>表示符号&amp;前面的参数可以重复输入1~n次。</td></tr><tr><td>#</td><td>由“#”号开始的行表示为注释行。</td></tr></table>",
+        "bbox": [
+            142,
+            540,
+            907,
+            795
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. 图形界面格式约定",
+        "text_level": 1,
+        "bbox": [
+            142,
+            77,
+            309,
+            94
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/db753e0a8667ed6a1bcb1080bcec40fa354b9dc8c48e7129520e01e1acaa45de.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>格式</td><td>意义</td></tr><tr><td>&lt;&gt;</td><td>带尖括号“&lt; &gt;”表示按钮名,如“单击&lt;确定&gt;按钮”。</td></tr><tr><td>[]</td><td>带方括号“[]”表示窗口名、菜单名和数据表,如“弹出[新建用户]窗口”。</td></tr><tr><td>/</td><td>多级菜单用“/”隔开。如[文件/新建/文件夹]多级菜单表示[文件]菜单下的[新建]子菜单下的[文件夹]菜单项。</td></tr></table>",
+        "bbox": [
+            144,
+            99,
+            907,
+            217
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. 各类标志",
+        "text_level": 1,
+        "bbox": [
+            142,
+            243,
+            238,
+            259
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本书还采用各种醒目标志来表示在操作过程中应该特别注意的地方，这些标志的意义如下：",
+        "bbox": [
+            142,
+            268,
+            845,
+            284
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4950b4324d68a90c443872c4a93a74a492b34f09e2057afe8a4a15be5719d2a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td><img src=\"images/6f3a4e4cca63e3a711af719848e00711bda5931fa1ae78578603e3444fdc1b09.jpg\"/> 注意</td><td>提醒操作中应注意的事项,不当的操作可能会导致数据丢失或者设备损坏。</td></tr><tr><td>[85Σ1] 提示</td><td>为确保设备配置成功或者正常工作而需要特别关注的操作或信息。</td></tr><tr><td>[7ΣA2] 说明</td><td>对操作内容的描述进行必要的补充和说明。</td></tr></table>",
+        "bbox": [
+            142,
+            287,
+            907,
+            397
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资料获取方式",
+        "text_level": 1,
+        "bbox": [
+            90,
+            431,
+            247,
+            452
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "您可以通过H3C网站（www.h3c.com.cn）获取最新的产品资料：",
+        "bbox": [
+            141,
+            471,
+            640,
+            488
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3C网站与产品资料相关的主要栏目介绍如下：",
+        "bbox": [
+            141,
+            493,
+            512,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "[服务支持/文档中心]：可以获取硬件安装类、软件升级类、配置类或维护类等产品资料。",
+            "[产品技术]：可以获取产品介绍和技术介绍的文档，包括产品相关介绍、技术介绍、技术白皮书等。",
+            "[解决方案]：可以获取解决方案类资料。",
+            "[服务支持/软件下载]：可以获取与软件版本配套的资料。"
+        ],
+        "bbox": [
+            141,
+            514,
+            905,
+            616
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "技术支持",
+        "text_level": 1,
+        "bbox": [
+            90,
+            633,
+            198,
+            654
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户支持邮箱：service@h3c.com",
+        "bbox": [
+            142,
+            672,
+            413,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "技术支持热线电话：400-810-0504（手机、固话均可拨打）",
+        "bbox": [
+            142,
+            694,
+            601,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "网址：http://www.h3c.com.cn",
+        "bbox": [
+            142,
+            716,
+            379,
+            733
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资料意见反馈 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            750,
+            247,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果您在使用过程中发现产品资料的任何问题，可以通过以下方式反馈：",
+        "bbox": [
+            141,
+            789,
+            700,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "E-mail：info@h3c.com ",
+        "bbox": [
+            142,
+            811,
+            329,
+            826
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "感谢您的反馈，让我们做得更好！",
+        "bbox": [
+            142,
+            832,
+            403,
+            847
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目 录",
+        "text_level": 1,
+        "bbox": [
+            460,
+            108,
+            539,
+            133
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 您想了解什么？ · 1-1",
+            "2 产品概述 · 2-1 "
+        ],
+        "bbox": [
+            92,
+            158,
+            902,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.1 产品简介 ····· ·· 2-1",
+            "2.2 产品特点 ··· · 2-1"
+        ],
+        "bbox": [
+            127,
+            207,
+            902,
+            245
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 登录设备Web页面 · ·3-1",
+        "bbox": [
+            92,
+            256,
+            902,
+            271
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 建立网络连接·· ··· 3-1",
+        "bbox": [
+            127,
+            279,
+            902,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.1.1 有线方式 ···· ·· 3-1",
+            "3.1.2 无线方式 ··· ·· 3-2",
+            "3.1.3 取消代理服务器 ··· 3-3"
+        ],
+        "bbox": [
+            163,
+            301,
+            902,
+            363
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.2 登录设备Web页面 ··· · 3-4",
+            "3.3 熟悉Web设置页面 · ·· 3-5"
+        ],
+        "bbox": [
+            127,
+            371,
+            902,
+            409
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.3.1 Web设置页面概述· ···· 3-5",
+            "3.3.2 退出 ···· ···· 3-6"
+        ],
+        "bbox": [
+            163,
+            417,
+            902,
+            455
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 设备常用功能管理 4-1",
+        "bbox": [
+            92,
+            466,
+            902,
+            481
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 网络 ········· ···· 4-1",
+        "bbox": [
+            127,
+            488,
+            902,
+            503
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.1.1 LAN侧地址配置·· · 4-1",
+            "4.1.2 无线配置 · 4-2"
+        ],
+        "bbox": [
+            163,
+            512,
+            902,
+            549
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 安全 ····· · 4-5",
+        "bbox": [
+            127,
+            558,
+            902,
+            571
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.2.1 广域网访问控制 · · 4-5",
+            "4.2.2 防火墙 · · 4-5 ",
+            "4.2.3 Mac过滤 ··· ·· 4-6 ",
+            "4.2.4 IP过滤 ··· · 4-7 "
+        ],
+        "bbox": [
+            163,
+            581,
+            902,
+            665
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 应用 ··········· ···· 4-7",
+        "bbox": [
+            127,
+            673,
+            902,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.3.1 DDNS配置 ·4-7 ",
+            "4.3.2 高级NAT配置 ··· ·· 4-8",
+            "4.3.3 upnp配置 ······· ······4-10 ",
+            "4.3.4 IGMP配置 ··· 4-10 "
+        ],
+        "bbox": [
+            163,
+            696,
+            902,
+            780
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4 管理 ··········· ····· 4-11",
+        "bbox": [
+            127,
+            789,
+            902,
+            803
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.4.1 用户管理 ··· ··· 4-11",
+            "4.4.2 设备管理 ··· 4-12"
+        ],
+        "bbox": [
+            163,
+            811,
+            902,
+            849
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.5 状态 ·········· ······ 4-13 ",
+        "bbox": [
+            127,
+            858,
+            902,
+            872
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.5.1 设备信息 · ··· 4-13",
+            "4.5.2 网络侧信息··· ··· 4-14"
+        ],
+        "bbox": [
+            163,
+            879,
+            902,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            495,
+            931,
+            502,
+            941
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.5.3 用户侧信息··· ··· 4-14",
+        "bbox": [
+            159,
+            77,
+            902,
+            94
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.6 帮助 ···· ··· 4-15",
+        "bbox": [
+            126,
+            101,
+            902,
+            116
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 附录 – 故障排除 · · 5-1 ",
+        "bbox": [
+            92,
+            126,
+            902,
+            142
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 附录 – 产品术语 · · 6-1",
+        "bbox": [
+            92,
+            152,
+            902,
+            167
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "ii ",
+        "bbox": [
+            494,
+            931,
+            504,
+            943
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 您想了解什么？",
+        "text_level": 1,
+        "bbox": [
+            92,
+            97,
+            344,
+            139
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fcc8cb3f60f3fa15f9eace1bbdd5a1ff43d0593d1c4d30db68b35074a8890e7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>如果您想</td><td>您可以查看</td></tr><tr><td>初识设备的大致形态、熟悉设备面板上的接口、指示灯及设备的主要特点</td><td>“产品概述”</td></tr><tr><td>通过有线或无线的方式建立网络连接,登陆设备Web页面</td><td>“登录设备Web页面”</td></tr><tr><td>通过Web设置页面来对设备进行配置和管理,包括:网络、安全、应用、管理和帮助</td><td>“设备常用功能管理”</td></tr><tr><td>定位或排除使用设备过程中遇到的问题</td><td>“附录-故障排除”</td></tr><tr><td>了解产品相关的技术术语及其解释</td><td>“附录-产品术语”</td></tr></table>",
+        "bbox": [
+            144,
+            155,
+            905,
+            337
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "1-1 ",
+        "bbox": [
+            487,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "产品概述",
+        "text_level": 1,
+        "bbox": [
+            90,
+            97,
+            267,
+            139
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本章节主要包含以下内容：",
+        "bbox": [
+            142,
+            157,
+            347,
+            173
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "产品简介",
+            "产品特点"
+        ],
+        "bbox": [
+            142,
+            179,
+            263,
+            219
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1 产品简介",
+        "text_level": 1,
+        "bbox": [
+            89,
+            235,
+            245,
+            256
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Aolynk CB304n是H3C推出的一款面向家庭用户的EPCN无线终端设备。产品采用全新一代芯片，并且向前兼容，配合新一代 Aolynk CC700E 系列、CC754 系列、CC710 系列以及 CC721E 网络集中器，融合了 Cable 网络和无线路由器的功能，在提供有线客户端接入的同时允许支持802.11b/g/n无线客户端接入，组网更灵活，使用更方便，同时不影响原有的 CATV信号。",
+        "bbox": [
+            139,
+            274,
+            905,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Aolynk CB304n提供 4个百兆全双工以太网接口，可用于连接计算机、数字机顶盒、IP电话机等多种终端。同时内置 IEEE 802.11b/g/n无线模块，最高支持 300Mbps的传输速率，用于连接笔记本、平板电脑、智能手机等无线终端设备，是家庭用户及小企业构建无线网络的理想设备。",
+        "bbox": [
+            139,
+            353,
+            905,
+            409
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2 产品特点",
+        "text_level": 1,
+        "bbox": [
+            89,
+            426,
+            245,
+            446
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "提供 4 个 10/100M 自适应以太网接口，用于连接计算机、机顶盒、IP 电话等设备。",
+            "具有无线接入点功能。工作在 2.4GHz频段，支持 802.11n标准，最高传送速率达到 300M，能够兼容目前的 802.11b 和 802.11g 网络。",
+            "内置分离滤波器。",
+            "占用 65MHz以下的低频带通信，对现有的 CATV信号无任何影响。"
+        ],
+        "bbox": [
+            141,
+            466,
+            902,
+            566
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "2-1 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "登录设备Web页面",
+        "text_level": 1,
+        "bbox": [
+            90,
+            97,
+            391,
+            139
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本章节主要包含以下内容：",
+        "bbox": [
+            142,
+            157,
+            349,
+            174
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "建立网络连接",
+            "登录设备Web页面",
+            "熟悉Web设置页面"
+        ],
+        "bbox": [
+            142,
+            180,
+            332,
+            238
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "完成硬件安装后（安装过程可参见《Aolynk CB系列 Cable网桥 快速入门》），在登录设备的 Web设置页面前，您需要确保管理计算机和网络满足一些基本要求。",
+        "bbox": [
+            141,
+            243,
+            907,
+            280
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 建立网络连接",
+        "text_level": 1,
+        "bbox": [
+            89,
+            298,
+            297,
+            319
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "您可以通过有线方式或无线方式连接到 CB304n。以下描述均在 CB304n 缺省配置的基础上进行。",
+        "bbox": [
+            141,
+            337,
+            904,
+            353
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 有线方式",
+        "text_level": 1,
+        "bbox": [
+            89,
+            371,
+            233,
+            387
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. 客户端计算机要求",
+        "text_level": 1,
+        "bbox": [
+            142,
+            405,
+            309,
+            420
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "确认计算机已安装并启用了以太网网卡。",
+            "确认计算机已和 CB304n的 LAN口相连（有线方式）。"
+        ],
+        "bbox": [
+            142,
+            430,
+            603,
+            467
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. 设置客户端计算机的IP地址",
+        "text_level": 1,
+        "bbox": [
+            142,
+            476,
+            379,
+            491
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "建议您将计算机设置成缺省的“自动获得 IP 地址”和“自动获得 DNS 服务器地址”，由 CB304n自动分配 IP地址。",
+        "bbox": [
+            141,
+            500,
+            907,
+            535
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/93f7a218cbcebf4ae5a0aaf00d940c94c8b70835f2607302f0ed06dec0ffbe28.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            549,
+            189,
+            573
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "说明",
+        "text_level": 1,
+        "bbox": [
+            189,
+            558,
+            226,
+            573
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如果您想给计算机指定静态 IP地址，则需要将计算机的 IP地址与 CB304n的 IP地址设置在同一子网中（CB304n 缺省 IP 地址为：192.168.1.1，子网掩码为 255.255.255.0）。",
+        "bbox": [
+            141,
+            585,
+            907,
+            621
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. 确认管理计算机和设备之间的网络是否连通",
+        "text_level": 1,
+        "bbox": [
+            141,
+            653,
+            502,
+            668
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "操作步骤如下：",
+        "bbox": [
+            142,
+            676,
+            260,
+            691
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "3-1 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过快捷键<Win+R>，弹出“运行”对话框",
+        "bbox": [
+            152,
+            84,
+            448,
+            97
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e045d9572c8327850faa3c197d6f14a3ca7952f19e1f324f1345c55577755258.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            514,
+            82,
+            897,
+            256
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "输入“ping 192.168.1.1（设备的IP地址，此处是缺省IP地址）”，单击<确定>按钮。如果在弹出的对话框中显示了从设备侧返回的回应，则表示网络连通；否则请检查网络连接",
+        "bbox": [
+            152,
+            264,
+            495,
+            324
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/12555c70c3283ef6e894a6c051729e1ba1cbcf0a9a105a5c5803202fe9232ace.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            510,
+            264,
+            894,
+            450
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 无线方式",
+        "text_level": 1,
+        "bbox": [
+            90,
+            492,
+            235,
+            509
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. 客户端计算机要求",
+        "text_level": 1,
+        "bbox": [
+            142,
+            527,
+            309,
+            543
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "确认计算机已安装了无线网卡，并处于开启状态。",
+            "将计算机放置于 CB304n的无线网络范围内。"
+        ],
+        "bbox": [
+            142,
+            551,
+            569,
+            590
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. 设置客户端计算机的IP地址",
+        "text_level": 1,
+        "bbox": [
+            142,
+            597,
+            379,
+            613
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "建议您将计算机设置成缺省的“自动获得 IP 地址”和“自动获得 DNS 服务器地址”，由 CB304n自动分配 IP地址。",
+        "bbox": [
+            141,
+            621,
+            907,
+            658
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d86b522eb5f354d05f1950ef6ff1cb69d14c8765545a09e4947970284c9013c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            670,
+            189,
+            695
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "说明",
+        "text_level": 1,
+        "bbox": [
+            189,
+            679,
+            226,
+            695
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果您想给计算机指定静态 IP地址，则需要将计算机的无线网卡的 IP地址与 CB304n的 IP地址设置在同一子网中（CB304n 缺省 IP 地址为：192.168.1.1，子网掩码为 255.255.255.0）。",
+        "bbox": [
+            142,
+            706,
+            907,
+            743
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. 设置无线客户端 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            774,
+            290,
+            790
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/61a4d82856f8c5c86155d8844ec6f6371f99bc25fa1ec77bf2db0687485e5e00.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            806,
+            189,
+            830
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "说明",
+        "text_level": 1,
+        "bbox": [
+            189,
+            815,
+            226,
+            830
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本手册以 Windows7的无线网络设置功能为例进行介绍。",
+        "bbox": [
+            142,
+            842,
+            579,
+            858
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "3-2 ",
+        "bbox": [
+            485,
+            931,
+            512,
+            944
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "设置步骤如下：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            77,
+            258,
+            92
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "单击屏幕左下角<开始>按钮，进入[开始]菜单，选择[控制面板]，点击“网络和Internet”，打开“网络和共享中心”",
+            "• 单击“更改适配器设置”，显示无线网络连接界面"
+        ],
+        "bbox": [
+            152,
+            106,
+            510,
+            170
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e26f288dcad231389f22a5d3e0da8dad1be5150727e3b8400910514b2aed34d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            544,
+            103,
+            884,
+            408
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在“无线网络连接” 列表里找到需连接的无线网络，缺省情况下，CB304n提供一个名为“ROUTE\\_XXXXXX”的无线网络，XXXXXX为设备背面铭牌上MAC地址的后六位，且不加密，单击<连接(C)>按钮，即可连接成功",
+        "bbox": [
+            152,
+            417,
+            515,
+            491
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/13ddd29095eed803ff88ba0c0e63e40fc4cd3b867c80ef1eb7926237adfab9eb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            554,
+            417,
+            875,
+            726
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 取消代理服务器",
+        "text_level": 1,
+        "bbox": [
+            90,
+            768,
+            290,
+            785
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如果当前管理计算机使用代理服务器访问因特网，则必须取消代理服务，操作步骤如下：",
+        "bbox": [
+            142,
+            803,
+            823,
+            819
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "3-3 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            944
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在浏览器窗口中，选择[工具/Internet 选项]进入“Internet 选项”窗口",
+        "bbox": [
+            152,
+            82,
+            467,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbe2451c8af6fc698b5c0f73186fece38aec6c0c40ce8001f6e14da20f672e43.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            515,
+            82,
+            895,
+            414
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "选择<连接>页签，并单击<局域网设置（L）>按钮，进入“局域网（LAN）设置”页面。请确认未选中“为LAN使用代理服务器”选项；若已选中，请取消并单击<确定>按钮",
+        "bbox": [
+            152,
+            424,
+            494,
+            483
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2527fc94cbb76a77d0b87bf901186ca133410c81c8c30ca2ffe5127245e7251.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            512,
+            424,
+            892,
+            634
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 登录设备Web页面",
+        "text_level": 1,
+        "bbox": [
+            89,
+            680,
+            347,
+            701
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "运行Web浏览器，在地址栏中输入“http://192.168.1.1”，回车后跳转到Web登录页面，如 图 3-1所示，输入用户名、密码（缺省均为admin，区分大小写），单击<登录>按钮或直接回车即可进入Web设置页面。",
+        "bbox": [
+            139,
+            719,
+            907,
+            774
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "3-4 ",
+        "bbox": [
+            485,
+            931,
+            512,
+            944
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图3-1 登录设备 Web设置页面",
+        "bbox": [
+            142,
+            77,
+            386,
+            94
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "H3C ",
+        "text_level": 1,
+        "bbox": [
+            270,
+            147,
+            512,
+            193
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            268,
+            225,
+            332,
+            243
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            275,
+            250,
+            329,
+            267
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "admin ",
+        "bbox": [
+            369,
+            228,
+            418,
+            243
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            369,
+            253,
+            423,
+            264
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "登录",
+        "bbox": [
+            307,
+            299,
+            349,
+            315
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "取消 ",
+        "bbox": [
+            436,
+            300,
+            473,
+            314
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3 熟悉Web设置页面",
+        "text_level": 1,
+        "bbox": [
+            89,
+            428,
+            347,
+            450
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "设备提供非常简便的 Web设置页面，您可以通过该设置页面快速地完成所需功能的配置。",
+        "bbox": [
+            142,
+            467,
+            836,
+            483
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Web设置页面概述",
+        "text_level": 1,
+        "bbox": [
+            89,
+            501,
+            315,
+            518
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "成功登录后，出现Web设置页面。设备提供的Web页面主要分为两部分，如 图 3-2所示。",
+        "bbox": [
+            141,
+            535,
+            830,
+            551
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 页面上方是一级导航栏。通过单击链接，可以进入相应的配置、管理页面。",
+            "页面左侧是二级导航栏及配置管理区域。右侧显示的内容根据导航栏选中的功能而定，详细信息请参见下面具体业务配置。"
+        ],
+        "bbox": [
+            141,
+            556,
+            905,
+            613
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9363662510b5cc9466056e71d63900354defbf43ba6e55bea102d6fb59ab7ec.jpg",
+        "image_caption": [
+            "图3-2 Web设置页面"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            648,
+            853,
+            892
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "3-5 ",
+        "bbox": [
+            485,
+            931,
+            512,
+            944
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d742ee5f40601d4d2c7ec4ac3624cbc35d563df735196b097a07a3326f3fdee.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            84,
+            169,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "提示",
+        "text_level": 1,
+        "bbox": [
+            171,
+            95,
+            211,
+            112
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "为了安全起见，建议您首次登录后修改缺省的登录密码，并保管好密码信息，修改登录密码操作请参见 4.4.1 用户管理。",
+        "bbox": [
+            142,
+            121,
+            907,
+            157
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 退出",
+        "text_level": 1,
+        "bbox": [
+            90,
+            198,
+            191,
+            215
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "如 图 3-3 所示，单击导航栏右上角的<退出>按钮，确认后即可退出Web设置页面。",
+        "bbox": [
+            142,
+            233,
+            779,
+            250
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ff9ba72f3240fc1fa8d8fee7a6366119170549184c75dc2c2ee2cad6cb5aa75.jpg",
+        "image_caption": [
+            "图3-3 退出 Web 设置页面"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            146,
+            283,
+            853,
+            525
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/061af0791f2a3bd5bdfe534fb61eafe29d507a14d966cb709afe9a5cca1a98f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            564,
+            186,
+            591
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "注意",
+        "text_level": 1,
+        "bbox": [
+            191,
+            574,
+            230,
+            590
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "请勿通过直接关闭浏览器来退出 Web设置页面，因为这样操作用户并不能真正退出设备的 Web设置页面。",
+        "bbox": [
+            142,
+            600,
+            907,
+            634
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "3-6 ",
+        "bbox": [
+            485,
+            931,
+            512,
+            944
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "设备常用功能管理",
+        "text_level": 1,
+        "bbox": [
+            90,
+            97,
+            389,
+            139
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1 网络",
+        "text_level": 1,
+        "bbox": [
+            90,
+            158,
+            196,
+            179
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 LAN侧地址配置",
+        "text_level": 1,
+        "bbox": [
+            90,
+            196,
+            290,
+            212
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "页面向导：网络→LAN 侧地址配置→IPV4 配置",
+        "bbox": [
+            142,
+            230,
+            515,
+            247
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            252,
+            383,
+            268
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置LAN侧的IPv4地址信息，包括网关IP地址、起始/终止IP地址和DNS服务器等。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            280,
+            383,
+            360
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "局域网(LAN)设置 ",
+        "text_level": 1,
+        "bbox": [
+            405,
+            280,
+            507,
+            294
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "为局域网配置路由器IP地址和子网掩码接口。“保存/应用\"按钮保存LAN配置数据",
+        "bbox": [
+            418,
+            303,
+            759,
+            315
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            403,
+            326,
+            443,
+            337
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "子网掩码：",
+        "bbox": [
+            403,
+            340,
+            448,
+            351
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed9524db22a037bbb73d6e92034bc00832127a4431b45d1cafffc41902ad07be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>192.168.1.1</td></tr><tr><td>255.255.255.0</td></tr></table>",
+        "bbox": [
+            500,
+            326,
+            623,
+            352
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "禁用环流控制",
+            "启用环流控制",
+            "禁用DHCP服务器",
+            "启用DHCP服务器"
+        ],
+        "bbox": [
+            410,
+            362,
+            509,
+            419
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "起始IP地址：",
+        "bbox": [
+            436,
+            422,
+            487,
+            433
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "终止IP地址：",
+        "bbox": [
+            436,
+            436,
+            487,
+            446
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "延续时间：",
+        "bbox": [
+            436,
+            450,
+            478,
+            460
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DNS服务器：",
+        "bbox": [
+            436,
+            462,
+            487,
+            472
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "首选DNS服务器：",
+        "bbox": [
+            436,
+            476,
+            510,
+            486
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "备用DNS服务器",
+        "bbox": [
+            436,
+            490,
+            510,
+            500
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/546ea6ad553610c173c3104529ef47baa920554154a752da1972967fcced51b9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>192.168.1.100</td></tr><tr><td>192.168.1.254</td></tr><tr><td>一天 ▼</td></tr><tr><td>自动 ▼</td></tr><tr><td>N/A</td></tr><tr><td>N/A</td></tr></table>",
+        "bbox": [
+            532,
+            422,
+            655,
+            504
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            658,
+            516,
+            702,
+            527
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "预留IP地址",
+        "text_level": 1,
+        "bbox": [
+            403,
+            539,
+            470,
+            551
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "选择\"编辑预留IP地址列表”来配置预留IP地址列表注意1：最多预留10个ip地址和特殊的mac.",
+        "bbox": [
+            418,
+            561,
+            635,
+            581
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/8333efd5ee8fda666b048991428bc88ac19c3447eeddcd232c9efff72cf2bfa1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>MAC 地址</td><td>IP 地址</td><td>删除</td></tr><tr><td></td><td>添加</td><td></td></tr></table>",
+        "bbox": [
+            472,
+            591,
+            890,
+            621
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            655,
+            401,
+            670
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/99ccad3bd83b3fc284279db6001e9e59e138b6338d147945352f5aa15b8edc37.jpg",
+        "table_caption": [
+            "表4-1 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>IP地址/子网掩码</td><td>配置网关的IP地址和子网掩码</td></tr><tr><td>禁用/启用环流控制</td><td>启用环流控制,即表示局域网侧开启STP(Spanning Tree Protocol,生成树协议)功能</td></tr><tr><td>禁用/启用DHCP服务器</td><td>· 开启网关的 DHCP 服务器功能,网关将自动为连接到网关的设备分配 IP 地址· 禁用网关的 DHCP 服务器功能,网关将不能为连接到网关的设备分配 IP 地址</td></tr><tr><td>起始/终止IP地址</td><td>启用DHCP服务器功能后,网关可指定设备的起始和终止IP地址</td></tr><tr><td>延续时间</td><td>DHCP服务器分配的租约时间</td></tr><tr><td>DNS服务器</td><td>• 自动:连接到网关的设备可以自动连接到局域网内的 DNS 服务器• 手动:手动设置连接到网关的设备需连接的局域网内的 DNS 服务器地址</td></tr><tr><td>首选/备用DNS服务器</td><td>配置首选和备用的DNS服务器</td></tr><tr><td>预留IP地址</td><td>通过&lt;添加&gt;或&lt;删除&gt;按钮,您可以添加或删除一个规则:一个MAC地址对应一个IP地址</td></tr></table>",
+        "bbox": [
+            144,
+            701,
+            905,
+            892
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "4-1 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            144,
+            75,
+            905,
+            215
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 无线配置",
+        "text_level": 1,
+        "bbox": [
+            90,
+            250,
+            231,
+            267
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "页面向导：网络→无线配置→无线配置",
+        "text_level": 1,
+        "bbox": [
+            142,
+            285,
+            448,
+            301
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            306,
+            383,
+            323
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置无线LAN口的基本特性。包括启用无线、隐藏热点、客户端分离和设置无线网络名(即 SSID)等。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            335,
+            381,
+            429
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "无线设置--基本",
+        "bbox": [
+            406,
+            337,
+            497,
+            347
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本页配置无线LAN口的基本特性。包括启用或禁用无线LAN口、从工作站的AP扫描搜索中隐藏SSID、设置无线网络名（即SSID)。点击\"保存/应用\"，无线设置的基本配置生效.",
+        "bbox": [
+            420,
+            357,
+            889,
+            377
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "选择SSID ",
+        "bbox": [
+            408,
+            388,
+            448,
+            398
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ROUTE\\_F7D6B8 ",
+        "bbox": [
+            549,
+            388,
+            636,
+            399
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "? 启用无线",
+            "□隐藏热点",
+            "□客户端分离 "
+        ],
+        "bbox": [
+            416,
+            404,
+            484,
+            443
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ROUTE\\_F7D6B8 ",
+        "bbox": [
+            410,
+            450,
+            527,
+            460
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            410,
+            465,
+            527,
+            474
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "访问数量限制：",
+        "bbox": [
+            410,
+            490,
+            467,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            418,
+            509,
+            458,
+            519
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/1934373ba11bf1de234567b35c5091f651eeb41770395ad71ff2b821f54fabb4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            547,
+            488,
+            557,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "安全",
+        "bbox": [
+            551,
+            508,
+            571,
+            519
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "0为不限制",
+        "bbox": [
+            697,
+            490,
+            739,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            556,
+            401,
+            573
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/60fb3bb6d942ae84c11a93ad8c267702bd28b91544a9c0cbce052ebd1195c123.jpg",
+        "table_caption": [
+            "表4-2 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>启用无线</td><td>启用或禁用无线网络,缺省为开启状态</td></tr><tr><td>隐藏热点</td><td>启用或禁用隐藏热点,启用后终端将无法通过扫描来获得设备的SSID</td></tr><tr><td>客户端分离</td><td>启用或禁用客户端分离,启用后可以使无线网络中的不同客户端之间相互隔离,不能通信</td></tr><tr><td>SSID</td><td>设置无线网络名,SSID用来区分不同的无线网络</td></tr><tr><td>BSSID</td><td>无线网络设备的MAC地址</td></tr><tr><td>访问数量限制</td><td>设置同时访问无线网络的用户数量</td></tr></table>",
+        "bbox": [
+            144,
+            603,
+            905,
+            785
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "页面向导：网络→无线配置→无线配置→安全",
+        "text_level": 1,
+        "bbox": [
+            142,
+            808,
+            502,
+            825
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            831,
+            383,
+            847
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "4-2 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/618666c6ff7c3fd4fb3ca9be75e5dd3b808a6b28a1753b4746fef53045076bb5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            152,
+            84,
+            885,
+            222
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            257,
+            401,
+            272
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/feba4d54ddf81ea39321a36fc6dd5486ca805c1c0e741c70a9ee3cc98139009b.jpg",
+        "table_caption": [
+            "表4-3 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>选择SSID</td><td>选择需要配置的无线网络</td></tr><tr><td>网络认证方式</td><td>可以选择开放、共享、WPA-PSK、WPA2-PSK、Mixed WPA2/WPA-PSK等认证方式</td></tr><tr><td>WEP加密</td><td>可以选择禁用或者启用</td></tr></table>",
+        "bbox": [
+            144,
+            301,
+            905,
+            405
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "页面向导：网络→无线配置→无线配置→安全（以网络认证方式为 Mixed WPA2/WPA-PSK 举例）",
+        "bbox": [
+            142,
+            430,
+            905,
+            446
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            452,
+            383,
+            467
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "将网络认证方式设置为MixedWPA2/WPA-PSK，将显示右图所示页面。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            480,
+            381,
+            559
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "无线设置--安全",
+        "bbox": [
+            408,
+            481,
+            515,
+            493
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本页配置无线LAN口的安全特性。包括设置认证方式、数据加密方式、无线网络认证密钥和密钥长度。",
+        "bbox": [
+            423,
+            504,
+            890,
+            518
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            406,
+            535,
+            463,
+            548
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "BRIDGE\\_F7D6B8 ",
+        "bbox": [
+            564,
+            535,
+            675,
+            549
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "网络认证方式：",
+        "bbox": [
+            406,
+            559,
+            475,
+            571
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Mixed WPA2/WPA -PSK ",
+        "bbox": [
+            564,
+            559,
+            695,
+            570
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WPA预共享密钥：",
+        "bbox": [
+            406,
+            574,
+            492,
+            585
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            564,
+            574,
+            623,
+            585
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WPA更新会话密钥间隔：",
+        "bbox": [
+            406,
+            603,
+            522,
+            616
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3600 ",
+        "bbox": [
+            564,
+            603,
+            591,
+            613
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            406,
+            618,
+            462,
+            629
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "TKIP+AES - ",
+        "bbox": [
+            564,
+            618,
+            638,
+            629
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "返回",
+        "bbox": [
+            413,
+            649,
+            438,
+            660
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            573,
+            650,
+            618,
+            662
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            699,
+            401,
+            714
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/80683cb90ab302f23d75aa1ab453d1b13b269a8a84759e71f39e97e0a7ec5065.jpg",
+        "table_caption": [
+            "表4-4 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>网络认证方式</td><td>设置无线认证方式,选择Mixed WPA2/WPA-PSK</td></tr><tr><td>WPA预共享密钥</td><td>设置WPA预共享密钥</td></tr><tr><td>显示文本</td><td>勾选该选项,WPA预共享密钥将以明文显示</td></tr><tr><td>WPA更新会话密钥间隔</td><td>设置WPA更新会话密钥间隔时间,缺省为3600s</td></tr><tr><td>WPA加密</td><td>设置WPA加密方式,可以选择TKIP、AES或TKIP+AES等加密方式</td></tr></table>",
+        "bbox": [
+            144,
+            743,
+            905,
+            898
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "4-3 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "页面向导：网络→无线配置→无线高级配置",
+        "text_level": 1,
+        "bbox": [
+            144,
+            77,
+            485,
+            94
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            144,
+            100,
+            381,
+            115
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/34df8ddc0693a34ef1c2ed1045e1b20204d098782b0a148aee8e2c183f398a29.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"11\">配置无线LAN口的高级特性。包括设置频段、信道、带宽和发送功率等。配置完成后,单击&lt;保存/应用&gt;按钮,配置将被保存并生效。</td><td colspan=\"3\">无线设置--高级</td></tr><tr><td>频段:</td><td>2.4GHz</td><td></td></tr><tr><td>信道选择:</td><td>Auto</td><td>当前信道5</td></tr><tr><td>802.11n/EWC:</td><td>自动</td><td></td></tr><tr><td>带宽:</td><td>40MHz in 2.4G Band</td><td>当前带宽:40 MHz</td></tr><tr><td>控制边带:</td><td>下降</td><td>当前控制边带:lower</td></tr><tr><td>802.11n速率:</td><td>Auto</td><td>当前速率:Auto</td></tr><tr><td>仅支持802.11n客户端:</td><td>Off</td><td></td></tr><tr><td>54gTM速率:</td><td>54 Mbps</td><td></td></tr><tr><td>发送功率:</td><td>100%</td><td></td></tr><tr><td colspan=\"3\">保存/应用</td></tr></table>",
+        "bbox": [
+            152,
+            127,
+            890,
+            368
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            405,
+            401,
+            422
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9b303ceb736354dae5f838a259920f315460db7800db74a1172e75c79276f55.jpg",
+        "table_caption": [
+            "表4-5 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>频段</td><td>无线使用的频段</td></tr><tr><td>信道选择</td><td>无线信息,有1-13选择,也可以选择Auto</td></tr><tr><td>802.11n/EWC</td><td>启用或禁用802.11n功能选择“自动”,开启802.11n模式,此时可以设置802.11n模式的速率;选择“禁用”,关闭802.11n模式,此时可以设置 $54g^{TM}$ 模式和前导类型</td></tr><tr><td>带宽</td><td>无线网络工作的带宽</td></tr><tr><td>控制边带</td><td>默认为降低控制边带</td></tr><tr><td>802.11n速率</td><td>设置802.11n工作的速率</td></tr><tr><td>仅支持802.11n客户端</td><td>是否启用仅支持802.11n客户端</td></tr><tr><td> $54g^{TM}$ 速率</td><td>缺省为54Mbps</td></tr><tr><td> $54g^{TM}$ 模式选择</td><td>设置 $54g^{TM}$ 模式,默认为54g Auto</td></tr><tr><td>前导类型</td><td>设置前导类型,默认为long</td></tr><tr><td>发送功率</td><td>缺省为100%</td></tr></table>",
+        "bbox": [
+            144,
+            451,
+            905,
+            797
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "4-4 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.2 安全",
+        "text_level": 1,
+        "bbox": [
+            90,
+            77,
+            194,
+            97
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 广域网访问控制",
+        "text_level": 1,
+        "bbox": [
+            89,
+            116,
+            292,
+            133
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "页面向导：安全→广域网访问控制→广域网访问控制",
+        "bbox": [
+            142,
+            150,
+            554,
+            167
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            173,
+            381,
+            188
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置设备的URL过滤功能，包括URL地址过滤和URL列表类型等。",
+            ". 必须先开启URL地址过滤，选择URL列表类型，再通过<添加>按钮进行配置。",
+            "配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            201,
+            381,
+            329
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "URL过滤设置 ",
+        "text_level": 1,
+        "bbox": [
+            401,
+            199,
+            510,
+            215
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "请先选择列表类型然后配置列表条目.最多可配置100条.",
+        "bbox": [
+            421,
+            230,
+            751,
+            245
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "URL地址过滤：",
+        "bbox": [
+            405,
+            264,
+            490,
+            278
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "启用",
+        "bbox": [
+            519,
+            264,
+            569,
+            279
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "禁用",
+        "bbox": [
+            623,
+            264,
+            670,
+            279
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "URL列表类型：",
+        "bbox": [
+            406,
+            287,
+            490,
+            300
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "黑名单",
+        "bbox": [
+            519,
+            288,
+            581,
+            301
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "白名单",
+        "bbox": [
+            623,
+            288,
+            685,
+            301
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e6ba9b274a9613ee1a57329029cfa44ece0875d0a5bcec1542b63430969a751.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            403,
+            347,
+            757,
+            371
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "添加",
+        "bbox": [
+            463,
+            392,
+            495,
+            407
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            635,
+            392,
+            667,
+            407
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "URL过滤--添加URL过滤规则",
+        "bbox": [
+            401,
+            417,
+            603,
+            431
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "添加规则时请输入URL地址以及端口号，该规则将在点击\"保存/应用”按钮后生效",
+        "bbox": [
+            420,
+            444,
+            838,
+            457
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "URL地址：",
+        "bbox": [
+            401,
+            471,
+            453,
+            485
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "http://evacs.edatahome.cc ",
+        "bbox": [
+            492,
+            472,
+            643,
+            485
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            401,
+            490,
+            433,
+            502
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "0 ",
+        "bbox": [
+            492,
+            490,
+            510,
+            502
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "（如果未指定端口号系统将以80为默认端口号）",
+        "bbox": [
+            650,
+            492,
+            890,
+            504
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "返回",
+        "bbox": [
+            408,
+            525,
+            436,
+            538
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            566,
+            527,
+            618,
+            540
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 防火墙",
+        "text_level": 1,
+        "bbox": [
+            89,
+            590,
+            213,
+            607
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. 防火墙等级",
+        "text_level": 1,
+        "bbox": [
+            144,
+            625,
+            255,
+            641
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "页面向导：安全→防火墙→防火墙等级",
+        "bbox": [
+            142,
+            649,
+            448,
+            665
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            670,
+            383,
+            686
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "配置设备的防火墙等级，进行相应设置，防火墙等级分高、中、低三种等。",
+        "bbox": [
+            152,
+            699,
+            379,
+            743
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。",
+        "bbox": [
+            152,
+            750,
+            381,
+            778
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "选择防火墙等级，进行相应的设置。 ",
+        "bbox": [
+            408,
+            699,
+            670,
+            715
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "防火墙等级：",
+        "bbox": [
+            411,
+            735,
+            482,
+            748
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "高",
+        "bbox": [
+            833,
+            733,
+            872,
+            750
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "关闭FTP TELNET NNTP H323 T.120 SSH RADIUS SIP SNMP RTSP 服务",
+        "bbox": [
+            411,
+            769,
+            825,
+            784
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            426,
+            809,
+            480,
+            823
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. 攻击保护设置",
+        "text_level": 1,
+        "bbox": [
+            142,
+            862,
+            273,
+            878
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "页面向导：安全→防火墙→攻击保护设置",
+        "bbox": [
+            142,
+            886,
+            467,
+            902
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "4-5 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            144,
+            77,
+            381,
+            92
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/42f35527667dd077582f2b1b50473f7d56411f0ebb222f22b42517072a000660.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">● 配置攻击保护功能,可以禁用和开启此功能。● 配置完成后,单击&lt;保存/应用&gt;按钮,配置将被保存并生效。</td><td colspan=\"3\">攻击 保护如果想设定 DOS 保护或防端口扫描,您必须设定此项目。</td></tr><tr><td>● 禁用</td><td>○ 启用</td><td>保存/应用</td></tr></table>",
+        "bbox": [
+            152,
+            106,
+            816,
+            201
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 Mac过滤 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            256,
+            230,
+            272
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "页面向导：安全→Mac过滤→Mac过滤",
+        "bbox": [
+            142,
+            290,
+            455,
+            306
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            311,
+            381,
+            327
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/3da1f1366c41acf1712f00ec63b87fce74a7fe10c39bfe67f0e6d869784236d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>源MAC地址</td><td>目的MAC地址</td><td>删除</td></tr><tr><td>bc:96:80:f7:d6:b0</td><td>bc:96:80:f7:d6:b1</td><td></td></tr></table>",
+        "bbox": [
+            152,
+            341,
+            873,
+            612
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            648,
+            401,
+            664
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/5734a6165f81aca014afad1e3f41ab719d40b48e364a6e3660d042d8b32f9a09.jpg",
+        "table_caption": [
+            "表4-6 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>MAC地址过滤</td><td>禁用和开启MAC地址过滤功能,缺省处于禁用状态</td></tr><tr><td>过滤模式</td><td>可以配置过滤模式为白名单和黑名单:启用黑名单后,除加入黑名单的 MAC 地址不可以通过,其余均可通过启用白名单后,除加入白名单的 MAC 地址可以通过,其余均不可通过</td></tr></table>",
+        "bbox": [
+            144,
+            694,
+            904,
+            814
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "4-6 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 IP过滤 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            77,
+            211,
+            94
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "页面向导：安全→IP 过滤→IP 过滤",
+        "text_level": 1,
+        "bbox": [
+            142,
+            112,
+            420,
+            128
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            134,
+            381,
+            149
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "配置IP地址过滤功能，可以启用或禁用此功能。",
+            "• 配置过滤器名，并配置协议、源IP地址、源子网掩码、目的IP地址和目的子网掩码等过滤器规则。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            162,
+            381,
+            290
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "IP地址过滤配置 ",
+        "text_level": 1,
+        "bbox": [
+            406,
+            162,
+            489,
+            173
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "通过下列配置，您可以阻止LAN内的某些地址通过您的网关访问WAN侧的其他资源。",
+        "bbox": [
+            418,
+            181,
+            729,
+            191
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "IP地址过滤：",
+        "bbox": [
+            406,
+            202,
+            453,
+            212
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            500,
+            202,
+            532,
+            212
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            569,
+            202,
+            603,
+            212
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "流出IP过滤器配置 ",
+        "text_level": 1,
+        "bbox": [
+            406,
+            246,
+            499,
+            257
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "默认情况下，允许所有IP通信从LAN流出，但是可以通过设置IP过滤器来阻止某些IP通信。",
+        "bbox": [
+            418,
+            264,
+            739,
+            275
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "选择添加或删除按钮来配置LAN的流出IP过滤器，",
+        "bbox": [
+            418,
+            283,
+            600,
+            293
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/c02d2128bbbddcdd791432c6ca315e6185d5963087d19c49846b84c16fd3bed8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            455,
+            308,
+            843,
+            323
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9c460d4b6e4df576c101ff5eff74fe361b1ad4d6bb61cc5ffd50ce57b21f36b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            623,
+            335,
+            675,
+            347
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            383,
+            401,
+            399
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/88daa131a8b5f4f7e2289010f35ade55af8fc915bbbe7acd45c9d089d5513ee8.jpg",
+        "table_caption": [
+            "表4-7 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>IP地址过滤</td><td>开启或禁用IP地址过滤功能,缺省处于开启状态</td></tr><tr><td>流出IP过滤器配置</td><td>配置流出IP过滤器来阻止某些IP通信</td></tr></table>",
+        "bbox": [
+            144,
+            429,
+            904,
+            508
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3 应用",
+        "text_level": 1,
+        "bbox": [
+            89,
+            544,
+            193,
+            565
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 DDNS配置 ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            582,
+            248,
+            600
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→DDNS配置→DDNS配置",
+        "text_level": 1,
+        "bbox": [
+            142,
+            617,
+            485,
+            633
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            639,
+            383,
+            655
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置动态DNS服务，可以将一个动态的IP地址化名为任意多域中的一个静态主机名。",
+            "单击<添加>按钮，在“添加动态 DNS”页面，选择 D-DNS提供方，并通过配置域名、接口、用户名和密码等信息，添加一个动态DNS地址。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            667,
+            381,
+            825
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "动态DNS ",
+        "text_level": 1,
+        "bbox": [
+            401,
+            667,
+            470,
+            681
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "动态DNS服务允许你将一个动态IP地址化名为任意多域中的一个静态主机名，允许您的路由器更容易被来自因特网的不同位置访问。",
+        "bbox": [
+            418,
+            711,
+            675,
+            745
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "启用动态DNS服务",
+        "text_level": 1,
+        "bbox": [
+            406,
+            769,
+            544,
+            784
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "选择添加或移除来配置动态DNS. ",
+        "bbox": [
+            420,
+            809,
+            600,
+            821
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "域名用户名服务接口删除",
+        "bbox": [
+            685,
+            830,
+            855,
+            847
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "删除 ",
+        "bbox": [
+            724,
+            855,
+            816,
+            870
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "4-7 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            941
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "添加动态DNS ",
+        "text_level": 1,
+        "bbox": [
+            410,
+            82,
+            532,
+            97
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "该页允许你从DynDNS.org或TZO添加一个动态DNS地址.",
+        "bbox": [
+            433,
+            110,
+            798,
+            126
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "D-DNS提供方：",
+        "bbox": [
+            410,
+            153,
+            505,
+            169
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "DynDNS.org ",
+        "bbox": [
+            631,
+            153,
+            749,
+            170
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            410,
+            189,
+            447,
+            204
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            410,
+            209,
+            447,
+            222
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1\\_INTERNET\\_R\\_VID\\_/eth0\\_3 ",
+        "bbox": [
+            631,
+            209,
+            843,
+            225
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "用户名：",
+        "bbox": [
+            410,
+            238,
+            460,
+            252
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "密码：",
+        "bbox": [
+            410,
+            258,
+            447,
+            272
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f3d0373eddf84e77d13dca43a6d4b81728896f9e853ae66ea716618567af023.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            631,
+            233,
+            820,
+            275
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "返回",
+        "bbox": [
+            423,
+            289,
+            455,
+            304
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            642,
+            290,
+            705,
+            305
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 高级NAT配置",
+        "text_level": 1,
+        "bbox": [
+            90,
+            356,
+            272,
+            373
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. ALG配置 ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            391,
+            238,
+            405
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→高级 NAT 配置→ALG 配置",
+        "bbox": [
+            142,
+            415,
+            497,
+            431
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            436,
+            383,
+            452
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "配置 ALG（Application LevelGateway，应用层网关）主要完成对应用层报文的解析和处理，可以选择开启H323、RSTP、IPSEC、SIP、L2TP和FTP协议的ALG功能等。",
+        "bbox": [
+            152,
+            466,
+            378,
+            551
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "配置完成后，单击<保存/应用>按钮，配置将被保存并生效。",
+        "bbox": [
+            152,
+            559,
+            381,
+            587
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ALG ",
+        "text_level": 1,
+        "bbox": [
+            403,
+            467,
+            438,
+            480
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "请选择如下ALG",
+        "bbox": [
+            423,
+            495,
+            517,
+            509
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "H323 ",
+        "bbox": [
+            445,
+            538,
+            544,
+            551
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "RTSP ",
+        "bbox": [
+            445,
+            560,
+            542,
+            573
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "? ",
+        "bbox": [
+            445,
+            582,
+            547,
+            595
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "SIP ",
+        "bbox": [
+            445,
+            605,
+            529,
+            617
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "sipPort15060 ",
+        "bbox": [
+            445,
+            627,
+            673,
+            643
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            445,
+            653,
+            673,
+            669
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "sipPort35062 ",
+        "bbox": [
+            445,
+            679,
+            673,
+            695
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "? ",
+        "bbox": [
+            445,
+            704,
+            541,
+            716
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "? ",
+        "bbox": [
+            445,
+            726,
+            532,
+            738
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            749,
+            758,
+            808,
+            772
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. DMZ主机配置 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            814,
+            275,
+            829
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→高级 NAT配置→DMZ主机配置",
+        "bbox": [
+            142,
+            837,
+            534,
+            853
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            860,
+            383,
+            875
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "4-8 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置主机在DMZ下的主机可以无限制访问互联网，解决计算机不能够正常运行互联网应用程序等问题。不过这会使主机面临安全风险，请谨慎使用。",
+            "配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            85,
+            381,
+            191
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "NAT--DMZ主机",
+        "text_level": 1,
+        "bbox": [
+            403,
+            85,
+            519,
+            99
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "路由器将所有来自广域网中不属于虚拟服务列表中配置的应用的Ip报文发给DMZ主机",
+        "bbox": [
+            421,
+            113,
+            890,
+            127
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "启用DMZ主机",
+        "bbox": [
+            411,
+            146,
+            514,
+            159
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "输入电脑IP地址，然后点击\"应用\"按钮激活DMZ主机",
+        "bbox": [
+            421,
+            178,
+            712,
+            191
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "清空IP地址输入框，然后点击\"应用\"按钮解除DMZ主机",
+        "bbox": [
+            423,
+            205,
+            726,
+            219
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "DMZ主机IP地址：",
+        "bbox": [
+            423,
+            243,
+            519,
+            258
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "192.168.1.18 ",
+        "bbox": [
+            574,
+            243,
+            657,
+            257
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            739,
+            275,
+            794,
+            288
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. 虚拟服务器配置",
+        "text_level": 1,
+        "bbox": [
+            142,
+            319,
+            290,
+            334
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→高级 NAT配置→虚拟服务器配置",
+        "text_level": 1,
+        "bbox": [
+            142,
+            342,
+            546,
+            358
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            144,
+            365,
+            383,
+            381
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 配置虚拟服务器，允许将WAN侧输入流(根据协议和端口识别)直接转发到LAN侧拥有私有地址的内部服务器。仅当外部端口需要转化为LAN侧服务器不同的端口时，内部端口才需设置。最多可配置32个条目。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            394,
+            381,
+            544
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "NAT--虚拟服务器设置",
+        "text_level": 1,
+        "bbox": [
+            401,
+            392,
+            524,
+            403
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "虚拟服务器允许将WAN侧输入流（根据协议和端口识别)直接转发到LAN侧拥有私有地址的内部服务器仅当外部端口需要转化为LAN侧服务器不同的端口时，内部端口才需设置。",
+        "bbox": [
+            416,
+            414,
+            826,
+            433
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "最多可配置32个条目.",
+        "bbox": [
+            416,
+            439,
+            507,
+            450
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/d53f104fbdd3e772b2db89572cccee1e8924f95d6e5957688002ebd90d3ba0c2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            403,
+            461,
+            890,
+            497
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "NAT--虚拟服务器设置",
+        "text_level": 1,
+        "bbox": [
+            403,
+            504,
+            537,
+            517
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "选择服务名并输入服务器的IP地址，然后点击\"保存/应用\"，为这项服务将IP包转发到指定的服务器。",
+        "bbox": [
+            418,
+            528,
+            863,
+            540
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "注：通常内部结束端口不能直接修改。其值等于外部结束端口-外部开始端口+内部开始端口。端口值取值范围1-65535",
+        "bbox": [
+            418,
+            550,
+            887,
+            571
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "选择WAN连接： 2\\_INTERNET\\_R\\_VID\\_201/eth0.201.3 -服务器名称：",
+        "bbox": [
+            403,
+            582,
+            699,
+            606
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f244f6d8d1c7167bfdcc5d67e301a3cd291ac3aa253c42450d2d230de0bfc29.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            408,
+            607,
+            754,
+            648
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/2796429d13785f65b79982ba980f7221c1791aab3ab62d16512122332f5104e1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            405,
+            655,
+            847,
+            872
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "保存/应用 返回",
+        "bbox": [
+            647,
+            879,
+            747,
+            894
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "4-9 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            77,
+            403,
+            94
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/582bab8d6c44d5765c1c69f609d5fb008584b5dca7860663dfec5387aeacce2b.jpg",
+        "table_caption": [
+            "表4-8 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>服务器名</td><td>选择一项服务,例如SMTP、POP、HTTP、FTP Server等,被选择服务对应的端口号将被显示在下表框</td></tr><tr><td>自定义服务器</td><td>输入一个新的服务名建立指定的用户服务类型</td></tr><tr><td>服务器IP地址</td><td>分配一个指定的地址到虚拟服务器</td></tr><tr><td>外部开始/结束端口</td><td>当选择了一种服务,端口号自动显示,也可以根据需要更改</td></tr><tr><td>协议</td><td>为服务选择正确的协议</td></tr><tr><td>内部开始/结束端口</td><td>当选择了一种服务,端口号自动显示,也可以根据需要更改。其中内部结束端口不能手动修改</td></tr></table>",
+        "bbox": [
+            144,
+            123,
+            905,
+            332
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.3.3 upnp配置 ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            367,
+            236,
+            384
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→upnp 配置→upnp 配置",
+        "bbox": [
+            142,
+            400,
+            473,
+            419
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            423,
+            383,
+            439
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "• 通过配置可以禁止一部分LAN UPnP配置侧 IP 使用 upnp 功能。• 配置完成后，单击 添加 按钮， 通过下方的配置，您可以禁止一部分lan侧IP使用upnp功能。",
+        "bbox": [
+            152,
+            451,
+            764,
+            495
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd2034213050fd78aae7907b58c33dce056778c606124443bd0b954cf23d7859.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            406,
+            513,
+            658,
+            582
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/566c6b510b1f246ce5c98a413353d67c073c5db113b48a1584cd2c50aa3a384b.jpg",
+        "image_caption": [
+            "删除 "
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            406,
+            628,
+            727,
+            695
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.3.4 IGMP配置 ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            769,
+            243,
+            788
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. IGMP SNOOPING ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            805,
+            314,
+            821
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→IGMP 配置→IGMP SNOOPING",
+        "bbox": [
+            142,
+            829,
+            537,
+            846
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            851,
+            383,
+            868
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "4-10 ",
+        "bbox": [
+            480,
+            931,
+            517,
+            944
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 启用或禁止 IGMP Snooping功能，使得用户可以通过路由器观看 IPTV 节目。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            85,
+            381,
+            163
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "IGMP Snooping 配置",
+        "text_level": 1,
+        "bbox": [
+            405,
+            87,
+            594,
+            107
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "这个页面允许你启用或者禁用IGMP Snooping功能。",
+        "bbox": [
+            428,
+            123,
+            769,
+            138
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "√启用IGMP Snooping ",
+        "bbox": [
+            408,
+            157,
+            568,
+            172
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "标准模式",
+            "阻塞模式"
+        ],
+        "bbox": [
+            410,
+            186,
+            497,
+            222
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            403,
+            224,
+            826,
+            238
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            805,
+            259,
+            873,
+            275
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            313,
+            401,
+            329
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/73d936940b99f469029454643bc3b3af2fce901744aa19e76c8da0533471b676.jpg",
+        "table_caption": [
+            "表4-9 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>标准模式</td><td>在标准模式下,如果没有组播转发条目,数据流将会洪泛</td></tr><tr><td>阻塞模式</td><td>在阻塞模式下,如果没有组播转发条目,数据流将会丢弃</td></tr></table>",
+        "bbox": [
+            144,
+            358,
+            905,
+            438
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2. IGMP 代理",
+        "text_level": 1,
+        "bbox": [
+            142,
+            464,
+            253,
+            478
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "页面向导：应用→IGMP配置→IGMP代理",
+        "bbox": [
+            142,
+            488,
+            477,
+            504
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            509,
+            383,
+            525
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "配置 IGMP 代理功能，使得用户可以通过路由器观看IPTV节目。",
+            "配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            539,
+            381,
+            617
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "IGMP服务器设定",
+        "text_level": 1,
+        "bbox": [
+            415,
+            540,
+            557,
+            556
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "启用服务器功能可以允许使用者在局端网络使用因特网服务器的多媒体服务",
+        "bbox": [
+            436,
+            569,
+            880,
+            584
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "IGMP配置 ",
+        "text_level": 1,
+        "bbox": [
+            415,
+            599,
+            502,
+            613
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "这个页面允许你针对特定WAN连接启用IGMP代理",
+        "bbox": [
+            435,
+            629,
+            731,
+            644
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/d798c23d9d5a70a4740b50db9d3e45940f909382ebac64b128e14a2cbb5c69ad.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>因特网连接</td><td>IGMP 服务器启用</td></tr><tr><td>1_INTERNET_R_VID_</td><td>☑</td></tr></table>",
+        "bbox": [
+            416,
+            659,
+            870,
+            712
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "保存/应用",
+        "bbox": [
+            675,
+            725,
+            734,
+            740
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.4 管理",
+        "text_level": 1,
+        "bbox": [
+            90,
+            790,
+            194,
+            810
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.4.1 用户管理",
+        "text_level": 1,
+        "bbox": [
+            89,
+            827,
+            233,
+            846
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "页面向导：管理→用户管理→用户管理",
+        "bbox": [
+            142,
+            863,
+            448,
+            879
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            884,
+            383,
+            900
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "4-11 ",
+        "bbox": [
+            482,
+            931,
+            514,
+            943
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 通过此页面，可以修改用户的密码。",
+            "• 配置完成后，单击<保存/应用>按钮，配置将被保存并生效。"
+        ],
+        "bbox": [
+            152,
+            85,
+            379,
+            149
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "访问控制--密码",
+        "text_level": 1,
+        "bbox": [
+            415,
+            86,
+            568,
+            103
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "本页面只允许修改密码。",
+        "bbox": [
+            436,
+            118,
+            598,
+            134
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "注意：如果修改成功，需要重新登录。",
+        "bbox": [
+            436,
+            160,
+            677,
+            176
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "注意：密码只能在16个字符以内，且不能包含空格。",
+        "bbox": [
+            436,
+            191,
+            766,
+            207
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "原用户名：",
+        "bbox": [
+            413,
+            227,
+            482,
+            243
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "admin ",
+        "bbox": [
+            563,
+            227,
+            611,
+            242
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "原密码：",
+        "bbox": [
+            413,
+            250,
+            467,
+            264
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            563,
+            252,
+            618,
+            262
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "新密码：",
+        "bbox": [
+            413,
+            271,
+            467,
+            285
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            563,
+            273,
+            616,
+            284
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "确认密码：",
+        "bbox": [
+            413,
+            292,
+            480,
+            306
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            563,
+            294,
+            616,
+            305
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            806,
+            327,
+            873,
+            342
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "4.4.2 设备管理",
+        "text_level": 1,
+        "bbox": [
+            90,
+            393,
+            233,
+            410
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1. 设备重启",
+        "text_level": 1,
+        "bbox": [
+            144,
+            428,
+            238,
+            444
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "页面向导：管理→设备管理→设备重启",
+        "bbox": [
+            142,
+            452,
+            448,
+            469
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            475,
+            383,
+            491
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "单击<重启>按钮，将完成路由器重启功能。",
+        "bbox": [
+            152,
+            502,
+            381,
+            530
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/d55281877a4e98553931b3eb6bd1fcebf7ef24dbed35aa3b4cc496ee7461c963.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>状态</td><td>网络</td><td>安全</td><td>应用</td><td>管理</td><td>帮助</td><td></td></tr><tr><td colspan=\"7\">点击如下按钮重启路由器。重启</td></tr></table>",
+        "bbox": [
+            400,
+            497,
+            897,
+            573
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "2. 恢复出厂设置 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            602,
+            273,
+            618
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "页面向导：管理→设备管理→恢复出厂设置",
+        "bbox": [
+            142,
+            626,
+            485,
+            643
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            648,
+            383,
+            664
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "单击<恢复出厂设置>按钮，将路由器配置恢复到出厂值。",
+        "bbox": [
+            152,
+            675,
+            381,
+            705
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/6aa97aa26de8f79f3e57447d7b1cc830758a3677e4c575a22744111b5e115ac5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>状态</td><td>网络</td><td>安全</td><td>应用</td><td>管理</td><td>帮助</td><td></td><td></td></tr><tr><td colspan=\"8\">恢复出厂默认设置</td></tr><tr><td colspan=\"8\">将路由器配置恢复到出厂值。</td></tr><tr><td colspan=\"8\">恢复出厂设置</td></tr></table>",
+        "bbox": [
+            398,
+            670,
+            897,
+            767
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "3. 更新备份配置 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            794,
+            273,
+            810
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "页面向导：管理→设备管理→更新备份配置",
+        "bbox": [
+            142,
+            818,
+            485,
+            835
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            840,
+            383,
+            856
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "4-12 ",
+        "bbox": [
+            482,
+            931,
+            515,
+            944
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/2774587af737016ac85797e8ddff008d492c59c344df8b292159147582fd4f4e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            77,
+            902,
+            240
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "4.5 状态 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            278,
+            194,
+            298
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "4.5.1 设备信息",
+        "text_level": 1,
+        "bbox": [
+            90,
+            315,
+            231,
+            332
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. 设备基本信息",
+        "text_level": 1,
+        "bbox": [
+            142,
+            350,
+            273,
+            366
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "页面向导：状态→设备信息→设备基本信息",
+        "bbox": [
+            142,
+            375,
+            484,
+            391
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            396,
+            383,
+            412
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "• 查看设备的基本信息，包括：设备型号、设备标志号、硬件版本、软件版本、bootloader版本、生产序列号、系统运行时间、软件编译时间和系统资源使用情况等。",
+        "bbox": [
+            152,
+            425,
+            379,
+            512
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/bedd291688a353590c22d70cc567eaab9f1d35c46bf8034737b4e8bc5b22789c.jpg",
+        "table_caption": [
+            "设备基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>设备型号:</td><td>CB304n</td></tr><tr><td>设备标志号:</td><td>BC9680-BC9680F7D6B8</td></tr><tr><td>硬件版本:</td><td>VER.A</td></tr><tr><td>软件版本:</td><td>V100R001</td></tr><tr><td>bootloader版本:</td><td>V2.2</td></tr><tr><td>生产序列号:</td><td>201402000001</td></tr><tr><td>系统运行时间:</td><td>0天:0小时:53分:54秒</td></tr><tr><td>软件编译时间:</td><td>2014-07-21 09:47:25</td></tr><tr><td>系统资源使用情况:</td><td>总内存大小61592 KB;空闲内存大小 31700 KB;内存空闲率 51%</td></tr></table>",
+        "bbox": [
+            413,
+            462,
+            885,
+            686
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "页面中关键项的含义如下表所示。",
+        "bbox": [
+            142,
+            730,
+            401,
+            746
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d360a222dc7578b903d23953286861c422eae260ad08d1f37c65f15d7cab4fb.jpg",
+        "table_caption": [
+            "表4-10 页面关键项描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>页面关键项</td><td>描述</td></tr><tr><td>设备型号</td><td>显示当前设备的型号</td></tr><tr><td>设备标志号</td><td>显示当前设备的设备标志号</td></tr><tr><td>硬件版本</td><td>显示当前设备的硬件版本</td></tr><tr><td>软件版本</td><td>显示设备当前运行软件的版本号<img src=\"images/e63ced0d54a966c3660136cebbead368ec83822e75e8f730c72cfea50c678e62.jpg\"/> 说明页面中的软件版本信息仅作参考,请以设备加载软件版本后的最终显示为准</td></tr><tr><td>bootloader版本</td><td>显示设备的bootloader程序版本号</td></tr><tr><td>生产序列号</td><td>显示设备的生产序列号</td></tr><tr><td>系统运行时间</td><td>显示设备自启动后持续运行的时间</td></tr><tr><td>软件编译时间</td><td>显示设备当前运行软件的编译时间</td></tr><tr><td>系统资源使用情况</td><td>显示设备系统资源使用信息,便于您判断设备运行是否正常</td></tr></table>",
+        "bbox": [
+            144,
+            775,
+            904,
+            879
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "4-13 ",
+        "bbox": [
+            482,
+            931,
+            515,
+            943
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            144,
+            75,
+            905,
+            301
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "4.5.2 网络侧信息",
+        "text_level": 1,
+        "bbox": [
+            90,
+            337,
+            252,
+            353
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1. IPV4 连接信息",
+        "text_level": 1,
+        "bbox": [
+            142,
+            372,
+            280,
+            387
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "页面向导：状态→网络侧信息→IPV4连接信息",
+        "bbox": [
+            142,
+            396,
+            509,
+            412
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            418,
+            383,
+            433
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "通过此页面可以查看网络侧已配置的IPv4的连接信息。",
+            "单击“刷新”按钮，将刷新WAN连接信息。"
+        ],
+        "bbox": [
+            152,
+            446,
+            379,
+            509
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7bff298b67a2994c8ca4160da7d98f7fd3dd1d96a5bb67eb354c7d79ad9139d.jpg",
+        "table_caption": [
+            "WAN连接信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>接口名</td><td>接口描述</td><td>类型</td><td>VlanMuxId</td><td>IGMP</td><td>NAT</td><td>防火墙</td><td>状态</td><td>DNS地址</td><td>IPv4地址</td></tr><tr><td>eth0_3</td><td>1_INTERNET_R_VID_</td><td>IPoE</td><td>禁用</td><td>启用</td><td>启用</td><td>启用</td><td>Connecting</td><td></td><td></td></tr></table>",
+        "bbox": [
+            405,
+            469,
+            890,
+            503
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/30bb12bf6f74d2dee29f07d1579fd27682a771d6b610db179a3ff068fc5a8ded.jpg",
+        "table_caption": [
+            "网络信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>默认网关</td><td></td></tr><tr><td>子网掩码</td><td></td></tr><tr><td>首选DNS服务器</td><td></td></tr><tr><td>备用DNS服务器</td><td></td></tr></table>",
+        "bbox": [
+            405,
+            549,
+            697,
+            613
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "刷新 ",
+        "bbox": [
+            410,
+            621,
+            433,
+            633
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "4.5.3 用户侧信息",
+        "text_level": 1,
+        "bbox": [
+            90,
+            683,
+            250,
+            700
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1. WLAN接口信息",
+        "text_level": 1,
+        "bbox": [
+            142,
+            717,
+            289,
+            733
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "页面向导：状态→用户侧信息→WLAN 接口信息",
+        "bbox": [
+            142,
+            742,
+            524,
+            758
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            142,
+            764,
+            383,
+            779
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "通过此页面可以查看用户侧已配置的WLAN接口的连接信息",
+        "bbox": [
+            152,
+            792,
+            369,
+            820
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/357b67638fa9369805d1b1512205bcd3a1822389861d4fc3ee6420ef3f4542c2.jpg",
+        "table_caption": [
+            "WLAN接口信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SSID名称</td><td>无线网络连接状态</td><td>当前信道</td><td>SSID加密认证方式</td></tr><tr><td>ROUTE_F7D6B8</td><td>启用</td><td>5</td><td>开放</td></tr></table>",
+        "bbox": [
+            406,
+            819,
+            890,
+            856
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "4-14 ",
+        "bbox": [
+            482,
+            931,
+            515,
+            943
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "2. 以太网接口信息",
+        "text_level": 1,
+        "bbox": [
+            142,
+            77,
+            290,
+            94
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "页面向导：状态→用户侧信息→以太网接口信息",
+        "bbox": [
+            142,
+            101,
+            519,
+            118
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "本页面为您提供如下主要功能：",
+        "bbox": [
+            144,
+            125,
+            381,
+            139
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "通过此页面可以查看以太网接口的连接信息",
+        "bbox": [
+            152,
+            150,
+            369,
+            180
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/5580364e3b7d105a50bd459d3a7e7e4b130ce392665b30b24942865fc93018ca.jpg",
+        "table_caption": [
+            "网关信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>MAC 地址</td><td>bc:96:80:f7:d6:78</td></tr></table>",
+        "bbox": [
+            405,
+            181,
+            890,
+            202
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/01bfb17a234c52ac68113eda93380dd4adc2f42451c456be1b734c8bd466a427.jpg",
+        "table_caption": [
+            "内网设备信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>IP 地址</td><td>剩余租借期</td><td>MAC 地址</td><td>设备类型</td></tr><tr><td>192.168.11.100</td><td>80046s</td><td>d4:97:0b:88:bb:7d</td><td>计算机</td></tr><tr><td>192.168.11.101</td><td>80658s</td><td>c4:6a:b7:51:9c:9f</td><td>计算机</td></tr><tr><td>192.168.11.106</td><td>84923s</td><td>88:32:9b:e9:29:ab</td><td>计算机</td></tr><tr><td>192.168.11.103</td><td>86307s</td><td>bc:3b:af:0c:71:4b</td><td>计算机</td></tr><tr><td>192.168.11.104</td><td>85216s</td><td>60:c5:47:61:07:6c</td><td>计算机</td></tr><tr><td>192.168.11.107</td><td>85499s</td><td>6c:c2:6b:48:3a:e3</td><td>计算机</td></tr><tr><td>192.168.11.108</td><td>86154s</td><td>6c:8b:2f:7f:3b:f9</td><td>计算机</td></tr><tr><td>192.168.11.110</td><td>86161s</td><td>60:fa:cd:07:a6:46</td><td>摄像头</td></tr><tr><td>192.168.11.111</td><td>86186s</td><td>bc:c6:db:d0:65:56</td><td>摄像头</td></tr><tr><td>192.168.11.127</td><td>0s</td><td>74:46:a0:aa:78:25</td><td>计算机</td></tr></table>",
+        "bbox": [
+            405,
+            238,
+            742,
+            431
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "4.6 帮助",
+        "text_level": 1,
+        "bbox": [
+            90,
+            481,
+            194,
+            501
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "单击一级导航<帮助>页签，可以查看设备的帮助信息。如 图 4-1 所示。",
+        "bbox": [
+            142,
+            519,
+            690,
+            537
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fba26c155bbf8e314966e42e3e96401faf797a9475e7d4286dcfd0256bbd869.jpg",
+        "image_caption": [
+            "图4-1 设备帮助信息"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            147,
+            571,
+            868,
+            815
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "4-15 ",
+        "bbox": [
+            482,
+            931,
+            515,
+            943
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            97,
+            129,
+            138
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "附录 – 故障排除 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            113,
+            359,
+            139
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "本手册仅介绍简单的设备故障处理方法，如仍不能排除，可通过 表 5-2获取售后服务。",
+        "bbox": [
+            142,
+            157,
+            811,
+            174
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c41d0ec854831d17a8c967a1ad7a1971c9aee71bcd269e9c7bc3fdd87dbd94e.jpg",
+        "table_caption": [
+            "表5-1 故障排除"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>常见问题</td><td>故障排除</td></tr><tr><td>插上电源后,所有指示灯不亮</td><td>请首先确认设备的电源适配器与电源插座连接正常,且设备电源开关已打开(即开关按钮已按下)。确认后如指示灯仍不亮,则可能电源适配器或设备已损坏。请联系当地运营商进行维修,切勿私自拆开设备</td></tr><tr><td>设备的Cable指示灯始终不亮</td><td>Cable指示灯若始终不亮表示Cable链路没有建立成功。请确认设备Cable口的同轴电缆是否插牢,同轴电缆另一端与入户接口是否连接正确。确认后如指示灯依然不亮,请与运营商联系,以确定是否为远端机房的EoC业务问题或运营商网络链路故障所致</td></tr><tr><td>搜索不到设备发出的无线信号或信号很弱</td><td>(1) 确认计算机的无线网卡是否正常运作(2) 确认是否关闭了本产品的SSID广播功能(3) 如无线网卡距离设备太远,请靠近再扫描一次(4) 确认附近是否有无线电话、微波炉或其他无线干扰源(5) 确认设备的无线端口是否已激活。如不能确定,请恢复出厂值后重新扫描 $^{<img src=\"images/c7f1e85ae6c9c386077e6a8e3552cd1ebce64bd8bb73e503634529e224c06ed1.jpg\"/>}$ 说明使用设备时应尽量远离无线电话和微波炉等产品,以消除频率干扰。而封闭空间、金属障碍物或混凝土墙壁等也会显著降低AP的覆盖范围</td></tr><tr><td>从无线网卡上可以发现无线信号但却无法建立无线连接</td><td>(1) 请确认计算机的无线网卡驱动程序是否已正确安装,在其它的无线环境中是否能正常使用。如果您的无线网卡曾经在其它环境中设置并使用过,请检查是否原先预设的profile参数有影响,可尝试将原有的无线设置清除后再重新连接本设备 $^{<img src=\"images/15acc45b4d0fcb7977d2392c36b22d46d1386c7b6814a9329d7b69c09544dd60.jpg\"/>}$ 说明关于计算机无线网卡的安装、设置和使用,可咨询您的无线网卡生产厂商或设备提供商(2) 请确认无线网卡已搜索到并选择了正确的设备以建立连接(3) 请检查无线网卡参数的设置是否与设备相一致,如:SSID名称,加密与否,加密类型和密钥 $^{<img src=\"images/cedf601ef7d7627f26febd3f9969f66bd88a7663caed71fc536503becc9b7d2b.jpg\"/>}$ 说明设备标贴上有该设备的缺省的无线网络名称、默认加密方式和密钥(4) 如您曾进行MAC/IP地址过滤设置,请确认“MAC/IP过滤”未屏蔽您的无线网卡</td></tr><tr><td>不能正常上网</td><td>先检查设备是否正常工作,再检查网线是否正常,确保其与设备之间的连接是可靠的如果设备工作正常,可能是您的计算机或者应用网络出现了问题。如果设备工作不正常,请根据具体的指示灯状态进行排查,或联系运营商解决</td></tr><tr><td>无法校验密码</td><td>设备同步、连接一切正常,但有时仍会出现无法校验密码的情况(1)注意帐号和密码要区分大小写,并注意帐号是否包含域名(2)虚拟拨号软件出现问题,或与您的操作系统里的某些软件有冲突。建议您最好重装拨号软件,或更换另外的软件尝试(3)网卡驱动程序出现问题(4)欠费,请及时交费</td></tr></table>",
+        "bbox": [
+            142,
+            202,
+            904,
+            903
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "5-1 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            144,
+            75,
+            902,
+            211
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/3341ecccf40703694bfcae091f5d5769a866403e0029e2054052c7235eb6600d.jpg",
+        "table_caption": [
+            "表5-2 获取售后服务"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>故障类型</td><td>描述</td><td>如何获取售后服务</td></tr><tr><td>硬件类故障</td><td>比如:出现设备不能正常通电、未插网线但以太网端口指示灯却常亮等问题</td><td>请联系当地授权服务中心予以确认后更换(各地区的H3C授权服务中心的联系方式可在H3C官方网站找到)</td></tr><tr><td>软件类问题</td><td>比如:出现设备功能不可用、异常等问题或配置咨询</td><td>请联系H3C技术支持服务热线:400-810-0504获取帮助</td></tr></table>",
+        "bbox": [
+            144,
+            259,
+            902,
+            379
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "page_number",
+        "text": "5-2 ",
+        "bbox": [
+            485,
+            931,
+            512,
+            944
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            97,
+            129,
+            138
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "附录 – 产品术语",
+        "text_level": 1,
+        "bbox": [
+            142,
+            113,
+            359,
+            139
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2208087e0a65020db708ca64e8ba6c47b4cfb5ef47071bd2b78ba932f289c7a.jpg",
+        "table_caption": [
+            "表6-1 术语表"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>术语缩写</td><td>英文全称</td><td>中文名称</td><td>含义</td></tr><tr><td>100Base-TX</td><td>100Base-TX</td><td>100Base-TX</td><td>100Mbit/s基带以太网规范,使用两对5类双绞线连接,可提供最大100Mbit/s的传输速率</td></tr><tr><td>10Base-T</td><td>10Base-T</td><td>10Base-T</td><td>10Mbit/s基带以太网规范,使用两对双绞线(3/4/5类双绞线)连接,其中一对用于发送数据,另一对用于接收数据,提供最大10Mbit/s传输速率</td></tr><tr><td>AP</td><td>Access Point</td><td>接入点</td><td>作为无线网络中重要的环节无线接入点、无线网关也就是无线AP(Access Point),它的作用类似于我们常用的有线网络中的集线器</td></tr><tr><td>DDNS</td><td>Dynamic Domain Name Service</td><td>动态域名服务</td><td>动态域名服务(Dynamic Domain Name Service),能实现固定域名到动态IP地址之间的解析</td></tr><tr><td>DHCP</td><td>Dynamic Host Configuration Protocol</td><td>动态主机配置协议</td><td>动态主机配置协议(Dynamic Host Configuration Protocol)为网络中的主机动态分配IP地址、子网掩码、网关等信息</td></tr><tr><td>DHCP Server</td><td>Dynamic Host Configuration Protocol Server</td><td>DHCP服务器</td><td>动态主机配置协议服务器(Dynamic Host Configuration Protocol Server)是一台运行了DHCP动态主机配置协议的设备,主要用于给DHCP客户端分配IP地址</td></tr><tr><td>DMZ</td><td>Demilitarized zone</td><td>隔离区</td><td>为了解决安装防火墙后外部网络不能访问内部网络服务器的问题,而设立的一个非安全系统与安全系统之间的缓冲区。通过这样一个DMZ区域,能更加有效地保护了内部网络,因为对攻击者来说,又多了一道关卡</td></tr><tr><td>DNS</td><td>Domain Name Service</td><td>域名服务</td><td>域名服务(Domain Name Service)将域名解析成IP地址。DNS信息按等级分布在整个因特网上的DNS服务器间,当我们访问一个网址时,DNS服务器查看发出请求的域名并搜寻它所对应的IP地址。如果该DNS服务器无法找到这个IP地址,就将请求传送给上级DNS服务器,继续搜寻IP地址。例如,www.yahoo.com这个域名所对应的IP地址为216.115.108.243</td></tr><tr><td>DoS</td><td>Denial of Service</td><td>拒绝服务</td><td>拒绝服务(Denial of Service)是一种利用合法的方式请求占用过多的服务资源,从而使其他用户无法得到服务响应的网络攻击行为</td></tr><tr><td>DSL</td><td>Digital Subscriber Line</td><td>数字用户线路</td><td>数字用户线(Digital Subscriber Line)这种技术使得数字数据和仿真语音信号都可以在现有的电话线路上进行传输。目前比较受家庭用户青睐的是ADSL接入方式</td></tr><tr><td>Firewall</td><td>Firewall</td><td>防火墙</td><td>防火墙(Firewall)技术保护您的计算机或局域网免受来自外网的恶意攻击或访问</td></tr><tr><td>FTP</td><td>File Transfer Protocol</td><td>文件传输协议</td><td>文件传输协议(File Transfer Protocol)是一种描述网络上的计算机之间如何传输文件的协议</td></tr><tr><td>HTTP</td><td>Hypertext Transfer Protocol</td><td>超文本传送协议</td><td>超文本传送协议(Hypertext Transfer Protocol)是一种主要用于传输网页的标准协议</td></tr><tr><td>Hub</td><td>Hub</td><td>集线器</td><td>共享式网络连接设备,工作在物理层,主要用于扩展局域网规模</td></tr><tr><td>ISP</td><td>Internet Service Provider</td><td>因特网服务提供商</td><td>因特网服务提供商(Internet Service Provider),提供因特网接入服务的提供商</td></tr><tr><td>LAN</td><td>Local Area Network</td><td>局域网</td><td>局域网(Local Area Network)一般指内部网,例如家庭网络,中小型企业的内部网络等</td></tr><tr><td>MAC address</td><td>Media Access Control address</td><td>介质访问控制地址</td><td>介质访问控制地址(Media Access Control address),MAC地址是由厂商指定给设备的永久物理地址,它由6对十六进制数字所构成。例如:00-0F-E2-80-65-25。每一个网络设备都拥有一个全球唯一的MAC地址</td></tr><tr><td>NAT</td><td>Network Address Translation</td><td>网络地址转换</td><td>网络地址转换(Network Address Translation),可以把局域网内的多台计算机通过NAT转换后共享一个或多个公网IP地址,接入Internet,这种方式同时也可以屏蔽局域网用户,起到网络安全的作用。通常共享上网的宽带设备都使用这个技术</td></tr><tr><td>Ping</td><td>Packet Internet Grope</td><td>因特网包探测器</td><td>Ping命令是用来测试本机与网络上的其它计算机能否进行通信的诊断工具。Ping命令将报文发送给指定的计算机,如果该计算机收到报文则会返回响应报文</td></tr><tr><td>PPP</td><td>Point-to-Point Protocol</td><td>点对点协议</td><td>点对点协议(Point-to-Point Protocol)是一种链路层通信协议</td></tr><tr><td>PPPoE</td><td>PPP over Ethernet</td><td>点对点以太网承载协议</td><td>点对点以太网承载协议(PPP over Ethernet)在以太网上承载PPP协议封装的报文,它是目前使用较多的业务形式</td></tr><tr><td>RJ-45</td><td>RJ-45</td><td>RJ-45</td><td>用于连接以太网交换机、集线器、设备等设备的标准插头。直连网线和交叉网线通常使用这种接头</td></tr><tr><td>Route</td><td>Route</td><td>路由</td><td>基于数据的目的地址和当前的网络条件,通过有效的路由选择能够到达目的网络或地址的出接口或网关,进行数据转发。具有路由功能的设备称作设备(router)</td></tr><tr><td>TCP</td><td>Transfer Control Protocol</td><td>传输控制协议</td><td>传输控制协议(Transfer Control Protocol)是一种面向连接的、可靠的传输层协议。</td></tr><tr><td>TCP/IP</td><td>Transmission Control Protocol/Internet Protocol</td><td>传输控制协议/网际协议</td><td>传输控制协议/网际协议(Transmission Control Protocol/Internet Protocol),网络通信的基本通信协议簇。TCP/IP定义了一组协议,不仅仅是TCP和IP</td></tr><tr><td>Telnet</td><td>Telnet</td><td>Telnet</td><td>一种用来访问远程主机的基于字符的交互程序。Telnet允许用户远程登录并对设备进行管理</td></tr><tr><td>UDP</td><td>User Datagram Protocol</td><td>用户数据报协议</td><td>用户数据报协议(User Datagram Protocol)是一种面向非连接的传输层协议</td></tr><tr><td>VLAN</td><td>Virtual Local Area Network</td><td>虚拟局域网</td><td>虚拟局域网是一种通过将局域网内的设备逻辑地而不是物理地划分成一个个网段从而实现虚拟工作组的技术</td></tr><tr><td>VID</td><td>VLAN ID</td><td>VLAN标识符</td><td>-</td></tr><tr><td>WAN</td><td>Wide Area Network</td><td>广域网</td><td>广域网(Wide Area Network)是覆盖地理范围相对较广的数据通信网络,如因特网</td></tr><tr><td>WLAN</td><td>Wireless Local Area Network</td><td>无线局域网</td><td>无线局域网是一种利用射频(Radio Frequency)技术进行数据传输的系统,用来弥补有线局域网络的不足,以达到网络延伸的目的</td></tr></table>",
+        "bbox": [
+            142,
+            176,
+            904,
+            879
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "page_number",
+        "text": "6-1 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            943
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            142,
+            74,
+            904,
+            918
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "page_number",
+        "text": "6-2 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            944
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            144,
+            75,
+            902,
+            196
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_number",
+        "text": "6-3 ",
+        "bbox": [
+            485,
+            931,
+            510,
+            944
+        ],
+        "page_idx": 33
+    }
+]

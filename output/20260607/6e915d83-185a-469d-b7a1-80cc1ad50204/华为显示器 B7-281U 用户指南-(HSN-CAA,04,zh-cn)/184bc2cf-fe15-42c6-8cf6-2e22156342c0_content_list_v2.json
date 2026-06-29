@@ -1,0 +1,3696 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "用户指南"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                668,
+                286,
+                907,
+                332
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "业"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                858,
+                902,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "HUAWEI "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                916,
+                902,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目 录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                43,
+                159,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关于本手册"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                91,
+                270,
+                115
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                126,
+                401,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开启和关闭显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                161,
+                349,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "调整显示器俯仰角度和高度"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                195,
+                455,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无线投屏（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                229,
+                658,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接无线网络（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                263,
+                793,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有线连接显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                299,
+                322,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "连接蓝牙键盘、鼠标（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                332,
+                793,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设置显示器 OSD 菜单"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                367,
+                401,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "常见问题"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                401,
+                240,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                436,
+                240,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                470,
+                240,
+                493
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "i "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                964,
+                956,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于本手册"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                275,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用设备前请仔细阅读本手册。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                349,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "手册中展示的组件可能未包含在设备内，您需要单独购买；手册中描述的功能可能需要与其他组件配合，才能使用；手册中的图形、界面可能和实际有差异，所有图示仅供参考，请以实际产品为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                135,
+                939,
+                199
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                494,
+                77
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e5461546fd1c11aaf22b7ec201b19f4d8cd3ee78f4bb479c798b94ff2594ad04.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                146,
+                123,
+                860,
+                824
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dc4cf71f367a3ff672f677ba640197e18bdcc660fefb00ef75f8b9970b29e37e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>1</td><td>Smart Bar显示器熄屏、睡眠时,单指单击Smart Bar唤醒显示器。显示器开机状态下,通过有线连接或无线投屏的方式外接其他设备,显示器显示外接设备画面,且未打开显示器OSD菜单时:单指在Smart Bar上滑动,可调节显示器的扬声器音量。双指在Smart Bar上滑动,可直接打开输入源切换界面,快捷切换输入源。单指单击Smart Bar,可打开显示器OSD菜单。显示器开机状态下,显示器打开OSD菜单或显示自身的系统画面时,通过操控Smart Bar,可调节显示器设置。单指在Smart Bar上滑动,切换选项。单指单击Smart Bar,确定选择。单指双击Smart Bar,返回或退出。仅HSN-CBA型号显示器支持无线投屏,在开机且无信号输入时,显示器显示自身的系统桌面。无线投屏时,单指双击Smart Bar可退出投屏。</td></tr><tr><td>2</td><td>扬声器声音从扬声器中发出。</td></tr><tr><td>3</td><td>麦克风位于显示器底座两侧。使用麦克风进行视频会议、语音通话、录音。当显示器通过USB-C转USB-A线缆连接至台式电脑、笔记本电脑(USB-A一端接入电脑),或通过显示器随附的USB-C转USB-C线缆连接至笔记本电脑等设备时,才能使用显示器的麦克风功能。</td></tr><tr><td>4*</td><td>Huawei Share感应区域部分华为手机的NFC感应区域与显示器的Huawei Share感应区域轻触,实现无线投屏。仅HSN-CBA型号显示器配置此部件。</td></tr><tr><td>5</td><td>USB-A(USB 3.2 Gen 1)接口可以以5V DC/1A对手机等设备充电。可接入有线键盘、鼠标等设备。通过HDMI线缆或MiniDP转DP线缆连接显示器和电脑时,若要将键盘和鼠标接入显示器反向控制电脑,还需要通过USB-C转USB-A线缆将显示器和电脑连接起来,线缆USB-A一端接入电脑。通过显示器随附的USB-C转USB-C线缆将显示器连接至笔记本电脑、手机等设备时,可将键盘和鼠标接入显示器反控外接设备。HSN-CBA型号显示器显示自身系统桌面时,接入键盘、鼠标可操作显示器。</td></tr><tr><td>6</td><td>USB-C接口可以对支持PD协议的笔记本电脑等移动设备以最大20V/3.25A进行充电。支持显示,通过显示器随附的USB-C转USB-C线缆,将显示器连接至计算机。</td></tr><tr><td>7</td><td>耳麦接口连接耳机。</td></tr><tr><td>8</td><td>电源键开启和关闭显示器。</td></tr><tr><td>9</td><td>USB-C电源接口连接电源适配器,给显示器供电。</td></tr><tr><td>10</td><td>MiniDP接口接入MiniDP接头线缆,将显示器连接至计算机等设备。</td></tr><tr><td>11</td><td>HDMI接口接入HDMI接头线缆,将显示器连接至计算机等设备。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                41,
+                941,
+                774
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ]
+            },
+            "bbox": [
+                766,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                41,
+                939,
+                638
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ]
+            },
+            "bbox": [
+                766,
+                20,
+                954,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                941,
+                965,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开启和关闭显示器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                408,
+                77
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/acb4a719a09f4da78334fe05e27b9389dcfbfb37d0ec7c7cc98b1654c69d27e1.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                290,
+                118,
+                709,
+                382
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 显示器关机、熄屏、睡眠时，短按电源键可开启显示器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 显示器开机时，长按电源键 3 秒以上，可将显示器关机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 显示器亮屏时，短按电源键，显示器进入熄屏状态。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 开机状态且无信号输入时，显示器自动进入睡眠状态。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                395,
+                589,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 HSN-CBA 型号显示器开启节能开关后，显示器开机状态且无信号输入时，系统会自动进入深度睡眠状态，关闭 WLAN、蓝牙等功能。节能模式开启方式：开机且有信号输入时，单指"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                495,
+                939,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "单击 Smart Bar，打开 OSD 菜单，选择 > ，开启节能模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                544,
+                781,
+                573
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "调整显示器俯仰角度和高度"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                584,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "双手扶住显示器面板，前后转动面板可调整显示器的俯仰角度，上下移动面板可调整显示器高度。显示器支持 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 ^ { \\circ } ( \\pm 2 ^ { \\circ } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "俯 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": " { / 1 8 } ^ { \\circ }  { \\textbf { ( \\pm 2 ^ { \\circ } ) } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "仰角度调节，升降 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 0 \\mathrm { { m m } \\left( \\pm 5 \\mathrm { { m m }  } }\\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "高度调节。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                934,
+                153
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "！ 在调整显示器俯仰角度和高度，或移动显示器位置时，请勿用力按压显示器屏幕，以免屏幕破损。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                158,
+                939,
+                199
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "无线投屏（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                914,
+                80
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无需连线，将手机、电脑设备屏幕快速投至显示器，获得跨屏体验。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                672,
+                128
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "手机投屏"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                142,
+                159,
+                160
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fbe928250b18f3f3f1298a16d712169734e88b220c6a3a3de6c2f4fa04c15e80.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                173,
+                805,
+                488
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 在手机通知面板中，打开 NFC、WLAN 和蓝牙功能。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 显示器开机状态下，且手机处于亮屏解锁状态，手机 NFC 感应区域轻触显示器底座中间的（） 区域，并保持至手机提示音响或振动后移开手机，然后根据界面提示操作。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 手机屏幕画面显示在显示器上，操作手机，显示器上同步手机屏幕画面。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                504,
+                910,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 部分具有 NFC 功能或无线投屏功能的华为手机支持此功能。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                618,
+                665,
+                637
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果手机版本比较低，手机投屏到显示器，可能需要手机和显示器连接相同的无线网络，请根据界面提示操作。为更好体验手机投屏功能，请您将手机升级为最新版本。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果您的手机无法通过碰一碰投屏，您可以在手机快捷开关栏中打开 ，手机搜索附近的设备，选择您的无线显示器，然后根据界面提示操作。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备首次连接显示器时，可能需要输入配对码，根据界面提示操作即可。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若显示器通过有线连接至其他设备，屏幕上显示外接设备的画面时，建议您双指在Smart Bar 上滑动，将输入源切为 ，显示器显示自身系统桌面后，再按上述操作投屏。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                646,
+                939,
+                841
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电脑投屏"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                49,
+                157,
+                67
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/605e9ad95ad610983f9daf69b3e4222f1ab259abbfc0e36218117da941f8b693.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                169,
+                80,
+                823,
+                294
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 将显示器和电脑开机。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 单击电脑桌面底部 ，单击 打开投影界面，选择将电脑连接到无线显示器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "如果界面未显示 图标，将快捷操作区域展开，即可找到此图标。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 电脑搜索附近的设备，选择您的无线显示器，然后根据界面提示操作。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 电脑屏幕画面显示在显示器上，操作电脑，显示器上同步显示电脑屏幕画面。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                313,
+                836,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 仅支持具有无线投影功能的 Windows 系统电脑。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                464,
+                569,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 若显示器通过有线连接至其他设备，屏幕上显示外接设备的画面时，建议您双指在Smart Bar 上滑动，将输入源切为 ，显示器显示自身系统桌面后，再按上述操作投屏。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                495,
+                937,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "上述手机投屏和电脑投屏，一般在设备未联网时即可进行。若要将其他设备的图片、音乐、视频等直接投屏到显示器上（DLNA 投屏），则需要设备连接到相同的无线网络。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                571,
+                937,
+                613
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "无线投屏（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ]
+            },
+            "bbox": [
+                591,
+                20,
+                957,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接无线网络（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                42,
+                929,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 将显示器切换到无信号输入状态，显示自身系统桌面。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                156,
+                581,
+                175
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若显示器处于无线投屏状态：在手机或电脑上断开连接，或者单指双击显示器的 SmartBar，即可退出无线投屏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若显示器通过有线连接至其他设备，屏幕上显示外接设备的画面时：双指在 Smart Bar 上滑动，将输入源切为 ，即可退出有线连接。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                181,
+                937,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 触摸 Smart Bar 选择 > ，按界面提示选择对应网络连接。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                300,
+                724,
+                322
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若您的显示器未外接鼠标：无线网络界面为安装智慧生活 APP 界面。您可以使用华为手机下载并安装智慧生活 APP，在 APP 中完成网络连接。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "若您的显示器已外接鼠标：点击 之后的界面为可连接的 WLAN 列表，点击对应WLAN 名称，完成连接；您也可以点击 WLAN 列表下的智慧生活配对，按界面提示，在华为手机中使用智慧生活 APP 连接网络。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                328,
+                937,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 首次使用智慧生活 APP，需要登录华为帐号。"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                462,
+                564,
+                482
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若 APP 未弹出发现显示器的弹框，请点击智慧生活 APP 顶部 >添加设备，APP将会自动扫描附近设备，您也可以选择手动添加或扫描显示器的配网二维码添加设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 智慧生活 APP 除了可以给显示器配网之外，在 APP 上点击显示器图标，进入设备控制界面后，可对显示器的一些功能进行设置，如修改显示器设备名称。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                498,
+                939,
+                594
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "有线连接显示器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                361,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i 部分组件或线缆未包含在设备内，请单独购买。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                109,
+                524,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "USB-C 转 USB-C 线缆连接 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                148,
+                349,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一线将笔记本电脑、手机等设备连接至显示器，在显示器大屏上轻松操作设备，且同时可对笔记本电脑等设备进行充电。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                174,
+                937,
+                215
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/26becc09056ccce5a90bfc9ba32d263cda9e57b1039992f8ac073e3aa23be5da.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                115,
+                228,
+                867,
+                521
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 使用显示器随附的 USB-C 转 USB-C 线缆一端接入显示器的 USB-C 接口，另一端接入笔记本电脑等设备的 USB-C 接口（需支持显示、数据传输和充电功能）。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 将显示器和笔记本电脑等设备开机，显示器屏幕上显示笔记本电脑等设备的屏幕画面，代表连线成功。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 将键盘和鼠标接入显示器的 USB-A 接口，即可在显示器上操作笔记本电脑等设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                537,
+                932,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若笔记本电脑等设备画面未自动显示在显示器上，选择 ，将输入源切换为 USB-C。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                649,
+                927,
+                678
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "HDMI 线缆连接 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                49,
+                223,
+                67
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/812147c85b9f18e4e371f6089a62911db28cd3ca01a9bde3ace9951a81e99e68.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                73,
+                80,
+                917,
+                565
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 HDMI 线缆一端接入电脑的 HDMI 接口，一端接入显示器的 HDMI 接口。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 根据需要，接入键盘、鼠标等设备。若要将键盘、鼠标等设备接入显示器使用，则需要通过USB-C 转 USB-A 线缆将显示器连接至电脑（USB-A 一端接入电脑）。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 将显示器和电脑开机后。稍等片刻，显示器屏幕上显示电脑的系统桌面，则表示连线成功。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                583,
+                912,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 部分型号显示器，首次开启可能会先进入显示器自身的系统桌面，根据界面指引，将输入源切换为 HDMI，即可进入电脑的系统桌面。再次开启自动进入电脑的系统桌面。"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                678,
+                939,
+                720
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "有线连接显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                932,
+                964,
+                952,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MiniDP 转 DP 线缆连接 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                49,
+                300,
+                67
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad56d9ac3d42b5a62444d030f72ffd526567adaa5b108adc8a59fa280683dce2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                115,
+                80,
+                902,
+                313
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 MiniDP 转 DP 线缆的 MiniDP 接头接入显示器，DP 接头接入台式电脑。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 根据需要，接入键盘、鼠标等设备。若要将键盘、鼠标等设备接入显示器使用，则需要通过USB-C 转 USB-A 线缆将显示器连接至台式电脑（USB-A 一端接入电脑）。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 将显示器和台式电脑开启后。稍等片刻，显示器屏幕上显示电脑的系统桌面，则表示连线成功。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                330,
+                939,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 部分型号显示器，首次开启可能会先进入显示器自身的系统桌面，根据界面指引，将输入源切换为 MiniDP，即可进入电脑的系统桌面。再次开启自动进入电脑的系统桌面。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                426,
+                939,
+                468
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "有线连接显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "连接蓝牙键盘、鼠标（仅 HSN-CBA 型号显示器支持）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                50,
+                41,
+                931,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HSN-CBA 型号显示器配置蓝牙，支持连接蓝牙键盘、鼠标。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                160,
+                626,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 显示器显示自身的系统桌面时，触摸 Smart Bar 选择 > ，显示器搜索附近的蓝牙设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                193,
+                942,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若显示器屏幕显示的是外接设备画面， 双指在 Smart Bar 上滑动，将输入源切为 即可回到显示器自身的系统桌面。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                244,
+                924,
+                302
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 打开键盘、鼠标的蓝牙开关，使其可被发现。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 在显示器上选择您的蓝牙设备，完成连接后，即可用蓝牙鼠标和键盘操作显示器，或者在下列场景中反向操作连接至显示器的外接设备："
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                311,
+                934,
+                376
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 手机无线投屏至显示器时（若手机系统版本较低，可能不支持蓝牙键鼠反向操作手机，请以设备实际支持情况为准）；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 手机、笔记本电脑等设备通过显示器随附的 USB-C 转 USB-C 线缆连接至显示器时；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "电脑通过 HDMI 线缆和 USB-C 转 USB-A 线缆连接至显示器时，或者通过 MiniDP 转DP 线缆和 USB-C 转 USB-A 线缆连接至显示器时。（ USB-C 转 USB-A 线缆的USB-A 一端需接入电脑）。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                382,
+                939,
+                518
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置显示器 OSD 菜单"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                494,
+                77
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 显示器开机状态下，通过有线连接或无线投屏的方式外接其他设备，显示器显示外接设备画面时，单指单击 Smart Bar，打开显示器的 OSD 菜单界面。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 根据界面显示的 Smart Bar 手势说明操作，设置 OSD 菜单。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 设置完成后，单指双击 Smart Bar 退出 OSD 菜单。或者稍等片刻，OSD 菜单会自动退出。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                932,
+                204
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OSD 菜单说明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                218,
+                211,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "不同型号的显示器，OSD 菜单存在差异，请以实际为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                241,
+                620,
+                261
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1833f56e39f0ddc2d5d035add02326011693f53db3b30f3eb8891149823c5187.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td><img src=\"images/248062e64aa502b747bf53bc48810b8161f4f6c9099215187483c978bb9e9438.jpg\"/></td><td>开启和关闭护眼模式。i 长期阅读时,建议开启护眼模式。护眼模式开启后,屏幕显示偏黄为正常现象。</td></tr><tr><td><img src=\"images/73591f25a3c58c75bffbe9f9b12438cd9e28bf773b8f0d818f43142285e5c289.jpg\"/></td><td>调节亮度。</td></tr><tr><td><img src=\"images/8e307938f3c45b77d3f2f5ae235bc25363df36ffdae0d3876d69496671f09eb8.jpg\"/></td><td>切换输入源。</td></tr><tr><td><img src=\"images/5a84e78d7d8121db109fc7e5971c8c70e1b72e3b4d1572925ad43c713b6fca09.jpg\"/></td><td>切换色域。</td></tr><tr><td><img src=\"images/ea9f5d158746d0458bbf999884c50940bbf554b266b12dfaf35d67e1dbd128fc.jpg\"/></td><td>可开启和关闭节能模式。i 仅HSN-CBA型号显示器支持节能模式。可调节扬声器、麦克风音量。可调节显示器显示。可切换显示器OSD菜单语言。可将显示器OSD菜单恢复出厂设置等。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                268,
+                939,
+                638
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "常见问题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                43,
+                236,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "无法开机"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                109,
+                161,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "检查电源线是否正确连接到显示器和电源插座。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                136,
+                489,
+                154
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "有线连接显示器，屏幕无显示"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                165,
+                341,
+                184
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请确认显示器与主机间线缆是否连接正常，可重新插拔尝试。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 建议使用显示器标配线缆或从正规渠道购买的线缆进行连接。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请确认主机显卡的输出分辨率是否与显示器的分辨率匹配。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                189,
+                626,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请确认主机显卡驱动已更新到最新版本，若驱动不是最新版本，请下载安装最新版本后再尝试。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                266,
+                927,
+                284
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "屏幕太亮或太暗 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                297,
+                218,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "打开显示器设置菜单，调节屏幕显示亮度和对比度。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                323,
+                529,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "屏幕颜色显示异常 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                353,
+                238,
+                370
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 检查 HDMI/DP 等信号线是否出现损坏，如插针弯曲。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 打开显示器设置菜单，调整色温。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                376,
+                574,
+                420
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "手机无线投屏到显示器，显示器连接键盘/鼠标操控失败 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                430,
+                568,
+                448
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若是华为手机，请将手机系统升级至最新的版本。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 您可以将键盘/鼠标直接连接到手机上进行操控。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 您可以使用 USB-C 转 USB-C 线缆有线连接手机和显示器，再使用键盘/鼠标操控。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                454,
+                850,
+                523
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器作为副屏显示有黑边"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                533,
+                319,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接笔记本电脑作为副屏显示时，在复制模式下是以主屏的显示比例为主，当主屏和副屏的分辨率不一致时，副屏上会有黑边，请在主机上选择扩展模式即可显示正常。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                558,
+                939,
+                600
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                939,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                165,
+                157,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有明文规定禁止使用无线设备的场所，请勿使用本设备，否则会干扰其它电子设备或导致其它危险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                191,
+                924,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "对医疗设备的影响"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                247,
+                238,
+                265
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 设备产生的无线电波可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少 15 厘米的距离。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                271,
+                939,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "听力保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                376,
+                157,
+                395
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "为了防止可能的听力损伤，请勿长时间使用高音量。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                404,
+                600,
+                439
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1927001365de5c63a7e630f10d561a4cb6bd3ed4ea15d2e0ae0e19503462981b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                68,
+                404,
+                139,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 当您使用耳机收听音乐或通话时，建议使用音乐或通话所需的最小音量，以免损伤听力。长时间接触高音量可能会导致永久性听力损伤。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                447,
+                937,
+                487
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "易燃易爆区域"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                502,
+                198,
+                520
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 在加油站（维修站）或靠近易燃物品、化学制剂等任何易燃易爆区域，请勿使用本设备，并遵守所有图形或文字的指示。在燃油或化学制剂存放和运输区或易爆场所内或周围，设备可能引起爆炸或起火。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将设备及其配件与易燃液体、气体或易爆物品放在同一箱子中存放或运输。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                526,
+                939,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "操作环境"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                631,
+                157,
+                648
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 插拔设备线缆前，请先停止使用设备并断开电源。在插拔线缆时请保持双手干燥。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请在温度 0℃～35℃ 范围内使用本设备，并在温度 -10℃～+45℃ 范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                653,
+                924,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                803,
+                667,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                828,
+                937,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                873,
+                939,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                921,
+                806,
+                939
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在设备上放置任何物体（如蜡烛、盛水容器等），若有异物或液体进入设备，请立刻停止使用并断开电源，拔出连接在设备上的所有线缆，并联系华为客户服务中心。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                40,
+                939,
+                127
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "儿童健康"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                143,
+                159,
+                160
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 本设备并非玩具，儿童应在成人监护下使用设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                166,
+                939,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "配件要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                248,
+                157,
+                265
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如需获取认可的配件，请与华为客户服务中心联系。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                271,
+                941,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电源安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                376,
+                157,
+                393
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 电源插头作为断开电源的装置。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 电源插座应安装在设备附近并应易于触及。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 若电源插头或电源线已损坏，请勿继续使用，以免发生触电或火灾。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿用湿手触碰电源线，或用拉电源线缆的方式拔出电源。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿用湿手触摸设备或电源，以免发生设备短路、故障或触电。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                399,
+                769,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• 请务必使用 CCC 认证并满足标准《GB 4943.1-2011 信息技术设备 安全 第 1 部分：通用要求》中“2.5 受限制电源”要求的充电器或电源给产品充电或供电。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                552,
+                921,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "维护和保养"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                608,
+                176,
+                626
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                632,
+                939,
+                873
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "环境保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                887,
+                157,
+                904
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请勿将本设备及其附件作为普通的生活垃圾处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• 请遵守本设备及其附件处理的本地法令，并支持回收行动。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                910,
+                606,
+                954
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "版权所有 © 华为 2022。保留一切权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                436,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法禁止此类限制的除外。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                135,
+                939,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "商标声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                237,
+                159,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bluetooth?字标及其徽标均为Bluetooth SIG,Inc.的注册商标，华为技术有限公司对此标记的任何使用都受到许可证限制，华为终端有限公司为华为技术有限公司的关联公司。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                263,
+                939,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HDMI、HDMI 高清晰度多媒体接口以及 HDMI 标志是 HDMI Licensing Administrator, Inc.在美国和其他国家的商标或注册商标。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                313,
+                934,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                362,
+                939,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "注意"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                418,
+                117,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                443,
+                939,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                537,
+                773,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第三方软件声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                571,
+                218,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "随本产品提供的第三方软件和应用程序归第三方所有，华为不拥有这些第三方软件和应用程序的知识产权，因此华为不对这些第三方软件和应用程序提供任何保证，华为既不会就这些软件和应用程序向您提供支持，也不对这些软件和应用程序的功能是否正常承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                596,
+                941,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第三方软件和应用程序的服务可能中断或终止，华为不保证任何内容或服务可在任何期间维持其可用性。第三方系通过华为可控制范围外的网络及传输工具传送内容或服务。在相关法律允许的范围内，华为明确表示不对任何通过本产品提供的任何内容或服务的中断或终止承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                668,
+                939,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对于您个人安装在本产品上的任何软件或上传、下载的任何文字、图片、视频或软件等第三方作品，华为不对其合法性、质量以及其他任何方面承担任何责任，对于您因个人安装软件或上传、下载前述第三方作品产生的任何后果，包括安装的软件与本产品不兼容等情况，由您自行承担一切相关风险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                739,
+                941,
+                827
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "责任限制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                841,
+                157,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                866,
+                939,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                42,
+                941,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                114,
+                939,
+                178
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "进出口管制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                192,
+                178,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                218,
+                939,
+                260
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "隐私保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                274,
+                157,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                300,
+                939,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                355,
+                939,
+                395
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "购买华为终端产品，请访问华为商城 https://www.vmall.com/"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                816,
+                660,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "更多信息请访问 https://consumer.huawei.com/cn/"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                838,
+                561,
+                858
+            ]
+        }
+    ]
+]

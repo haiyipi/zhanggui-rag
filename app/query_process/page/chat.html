@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>掌柜智库 - 智能问答</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f0f2f5;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* 顶栏 */
+        .topbar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .logo {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .status {
+            font-size: 12px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.2);
+        }
+
+        /* 对话区域 */
+        .chat-area {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+        }
+
+        .message {
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .message.user {
+            justify-content: flex-end;
+        }
+
+        .message-bubble {
+            max-width: 70%;
+            padding: 12px 16px;
+            border-radius: 18px;
+            line-height: 1.5;
+        }
+
+        .message.user .message-bubble {
+            background: #667eea;
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.assistant .message-bubble {
+            background: white;
+            color: #333;
+            border-bottom-left-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+        }
+
+        /* 输入区域 */
+        .composer {
+            background: white;
+            padding: 15px 20px;
+            border-top: 1px solid #e0e0e0;
+            display: flex;
+            gap: 10px;
+        }
+
+        .composer input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid #ddd;
+            border-radius: 24px;
+            outline: none;
+            font-size: 14px;
+        }
+
+        .composer input:focus {
+            border-color: #667eea;
+        }
+
+        .composer button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 24px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .composer button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* 进度条 */
+        .progress {
+            margin-top: 10px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .typing {
+            display: inline-block;
+            width: 20px;
+            text-align: center;
+        }
+
+        .typing span {
+            animation: blink 1.4s infinite;
+            animation-fill-mode: both;
+        }
+
+        .typing span:nth-child(2) { animation-delay: 0.2s; }
+        .typing span:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes blink {
+            0%, 60%, 100% { opacity: 0; }
+            30% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="topbar">
+        <div class="logo">📚 掌柜智库</div>
+        <div class="status" id="status">● 在线</div>
+    </div>
+
+    <div class="chat-area" id="chatArea"></div>
+
+    <div class="composer">
+        <input type="text" id="questionInput" placeholder="输入您的问题..." onkeypress="handleKeyPress(event)">
+        <button id="sendBtn" onclick="sendQuestion()">发送</button>
+    </div>
+
+    <script>
+        const API_BASE = 'http://127.0.0.1:8001';
+        let sessionId = localStorage.getItem('session_id') || generateSessionId();
+        let eventSource = null;
+        let currentAssistantMessage = null;
+
+        // 保存session_id
+        localStorage.setItem('session_id', sessionId);
+
+        function generateSessionId() {
+            return 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+        }
+
+        // 加载历史记录
+        async function loadHistory() {
+            try {
+                const response = await fetch(`${API_BASE}/history/${sessionId}?limit=20`);
+                if (response.ok) {
+                    const data = await response.json();
+                    for (const item of data.items) {
+                        addMessageToChat(item.role, item.text);
+                    }
+                }
+            } catch (error) {
+                console.error('加载历史失败:', error);
+            }
+        }
+
+        // 添加消息到聊天区域
+        function addMessageToChat(role, content) {
+            const chatArea = document.getElementById('chatArea');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${role}`;
+            messageDiv.innerHTML = `<div class="message-bubble">${formatContent(content)}</div>`;
+            chatArea.appendChild(messageDiv);
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+
+        function formatContent(content) {
+            return content.replace(/\n/g, '<br>');
+        }
+
+        // 发送问题
+        async function sendQuestion() {
+            const input = document.getElementById('questionInput');
+            const question = input.value.trim();
+
+            if (!question) return;
+
+            // 清空输入框
+            input.value = '';
+
+            // 添加用户消息
+            addMessageToChat('user', question);
+
+            // 禁用发送按钮
+            const sendBtn = document.getElementById('sendBtn');
+            sendBtn.disabled = true;
+
+            // 添加临时助手消息
+            const chatArea = document.getElementById('chatArea');
+            const assistantDiv = document.createElement('div');
+            assistantDiv.className = 'message assistant';
+            assistantDiv.id = 'tempMessage';
+            assistantDiv.innerHTML = `
+                <div class="message-bubble">
+                    <div class="typing">
+                        <span>●</span><span>●</span><span>●</span>
+                    </div>
+                </div>
+            `;
+            chatArea.appendChild(assistantDiv);
+            chatArea.scrollTop = chatArea.scrollHeight;
+
+            currentAssistantMessage = '';
+
+            try {
+                // 1. 提交查询
+                const submitResponse = await fetch(`${API_BASE}/query`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        query: question,
+                        session_id: sessionId,
+                        is_stream: true
+                    })
+                });
+
+                const data = await submitResponse.json();
+
+                // 2. 建立SSE连接
+                if (eventSource) {
+                    eventSource.close();
+                }
+
+                eventSource = new EventSource(`${API_BASE}/stream/${data.session_id}`);
+
+                let fullAnswer = '';
+
+                // 监听delta事件（流式增量）
+                eventSource.addEventListener('delta', (e) => {
+                    const deltaData = JSON.parse(e.data);
+                    fullAnswer += deltaData.delta;
+
+                    // 更新消息内容
+                    const tempMsg = document.getElementById('tempMessage');
+                    if (tempMsg) {
+                        tempMsg.querySelector('.message-bubble').innerHTML = formatContent(fullAnswer);
+                        chatArea.scrollTop = chatArea.scrollHeight;
+                    }
+                });
+
+                // 监听final事件（最终答案）
+                eventSource.addEventListener('final', (e) => {
+                    const finalData = JSON.parse(e.data);
+
+                    // 移除临时消息，添加正式消息
+                    const tempMsg = document.getElementById('tempMessage');
+                    if (tempMsg) {
+                        tempMsg.remove();
+                    }
+
+                    addMessageToChat('assistant', finalData.answer);
+
+                    eventSource.close();
+                    eventSource = null;
+                    sendBtn.disabled = false;
+                });
+
+                // 监听error事件
+                eventSource.addEventListener('error', (e) => {
+                    console.error('SSE错误:', e);
+                    const tempMsg = document.getElementById('tempMessage');
+                    if (tempMsg) {
+                        tempMsg.querySelector('.message-bubble').innerHTML = '抱歉，服务出现问题，请稍后重试。';
+                        setTimeout(() => {
+                            tempMsg.remove();
+                        }, 2000);
+                    }
+                    eventSource.close();
+                    eventSource = null;
+                    sendBtn.disabled = false;
+                });
+
+                // 监听连接打开
+                eventSource.onopen = () => {
+                    console.log('SSE连接已建立');
+                };
+
+            } catch (error) {
+                console.error('发送失败:', error);
+                const tempMsg = document.getElementById('tempMessage');
+                if (tempMsg) {
+                    tempMsg.querySelector('.message-bubble').innerHTML = '发送失败，请检查网络连接。';
+                    setTimeout(() => {
+                        tempMsg.remove();
+                    }, 2000);
+                }
+                sendBtn.disabled = false;
+            }
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendQuestion();
+            }
+        }
+
+        // 页面加载时加载历史
+        loadHistory();
+    </script>
+</body>
+</html>

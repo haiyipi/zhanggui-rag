@@ -1,0 +1,130 @@
+[
+  {
+    "title": "# 快速上手",
+    "content": "# 用户指南\n\n# 目 录\n\n# 关于本手册\n\n# 快速上手\n\n外观和接口介绍 2\n\n显示器的安装、拆卸 3\n\n显示器连接至计算机等设备 5\n\n调整显示器的俯仰角度和高度 6\n\n垂直旋转显示器 7\n\n# 显示设置（OSD）\n\n调整显示器的显示效果（亮度、色温等） 8\n\n护眼模式 10\n\n# 更多功能\n\n情景模式，增强游戏体验 12\n\n恢复出厂设置 12\n\n查看显示器的 S/N 号 13\n\n# 安全信息\n\n# 法律声明\n\n# 关于本手册\n\n使用设备前请仔细阅读本手册。\n\n手册中展示的组件可能未包含在设备内，您需要单独购买；手册中描述的功能可能需要与其他组件配合，才能使用；手册中的图形、界面可能和实际有差异，所有图示仅供参考，请以实际产品为准。\n\n# 快速上手\n\n外观和接口介绍  \n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/13f90575c90cafc7def0660af5cf5498ac4f2bed7f5b8428c9abae7c68ced0e5.jpg)\n\n<table><tr><td>序号</td><td>接口按键描述</td></tr><tr><td>1</td><td>五向遥杆按键·开启显示器:向上短按此键,显示器屏幕显示品牌Logo后,指示灯点亮,显示器开启。·关闭显示器:向上短按此键2秒以上,指示灯熄灭,显示器关闭。显示器开启状态下,向上短按此键,可打开显示器设置菜单:◆:面向屏幕时(下同),向屏幕前、后、左、右按五向摇杆按键,可移动切换选项。◆:向左按五向摇杆按键,可返回至上一级菜单或退出菜单。◆:向上或向右按五向摇杆按键,可确认选项。</td></tr><tr><td>2</td><td>五向摇杆按键保护套保护五向遥杆按键,防止首次组装中碰伤五向遥杆按键。可在组装完成后撕除保护套。i 仅部分型号配置五向遥杆按键保护套,请以实际产品为准。</td></tr><tr><td>3</td><td>电源接口接通显示器电源。</td></tr><tr><td>4</td><td>DP 接口通过 DP 线缆可将显示器连接至计算机等设备。i 仅部分型号配置 DP 接口,请以实际产品为准。</td></tr><tr><td>5</td><td>HDMI 接口通过 HDMI 线缆可将显示器连接至计算机等设备。</td></tr><tr><td>6</td><td>VGA 接口通过 VGA 线缆可将显示器连接至计算机等设备。i 仅部分型号配置 VGA 接口,请以实际产品为准。</td></tr></table>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 0,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_0"
+  },
+  {
+    "title": "# 安装显示器底座、支架",
+    "content": "# 显示器的安装、拆卸\n\n# 安装显示器底座、支架\n\n安装底座支架前，请确保显示器背部安装支架处无铁件等物件吸附，否则可能造成电路短路。\n\n• 部分型号显示器为圆形底座，请以实际产品为准。\n\n1 打开纸箱包装，将整机和缓冲泡沫一起取出，建议在桌面上摆放软质物料（如显示器自带的包装袋），然后将显示器屏幕面朝桌面、水平放置在桌面上。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/960394d511f1a6e385c34177121453d62b27741379b4773577e33535a0ce3969.jpg)\n\n<details>\n<summary>natural_image</summary>\n\nTechnical line drawing of a mechanical component before and after assembly (no text or symbols)\n</details>\n\n2 请在包装盒的标签上，确认您所购买的显示器配置，按照对应的步骤安装底座支架。\n\n若您购买的配置是 SSN-CAR/SSN-CARBZ/SSN-CARXZ/SSN-CAB/SSN-CABBZ ，从缓冲泡沫中取出底座后，将显示器立柱稍微向上抬起，然后将底座安装到立柱下端，听到咔哒声表示已安装好。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/18075a0eb6df89961c8dda10611d92c2add00d1629c4a2222c8c6488b9238d56.jpg)\n\n<details>\n<summary>natural_image</summary>\n\nIsometric line drawing of a mechanical assembly with a hand operating a component, showing no text or symbols.\n</details>\n\n若您购买的配置是 SSN-CBR/SSN-CBRBZ/SSN-CBRXZ/SSN-CBB/SSN-CBBBZ ，从缓冲泡沫中取出底座、支架后，先将支架底部的配合槽位对齐底座凸台，拧紧螺丝将底座和支架连接在一起，再将底座支架上端倾斜插入显示器背部的卡槽，然后向下按压，听到咔哒声表示已安装好。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/fbfcb15363ef0fbbfd4ec1736a3d118c88c112082fdb9684fb98d7bfbc80f613.jpg)\n\n<details>\n<summary>natural_image</summary>\n\nTechnical line drawing showing a mechanical assembly with a vertical rod and base, before and after assembly (no text or symbols)\n</details>\n\n3 双手托起组装好的显示器，立在平整的桌面上。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/a375b2ec0db1b9c9b9f2689602d5477054a736d0e11dddb6eb65f7acfd7a8239.jpg)\n\n<details>\n<summary>natural_image</summary>\n\nLine drawing of a flat-screen monitor with a stand (no text or symbols)\n</details>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 1,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_1"
+  },
+  {
+    "title": "# 拆卸显示器底座、支架",
+    "content": "# 拆卸显示器底座、支架\n\n• 若您购买的配置是 SSN-CAR/SSN-CARBZ/SSN-CARXZ/SSN-CAB/SSN-CABBZ ，将显示器平放在桌面上（显示器屏幕面朝桌面，桌面上建议摆放软质物料），一只手向内拨动底座的快拆拨片，同时另一只手握住立柱向外顶出底座，即可拆卸底座。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/2e1028d7bfc3986d4ab3efe6a07481123b28205dd58af4e70bec81f3cfcb3b4c.jpg)\n\n<details>\n<summary>natural_image</summary>\n\nTechnical illustration of a mechanical assembly showing a close-up of a component being inserted into a housing, with no visible text or symbols.\n</details>\n\n• 若您购买的配置是 SSN-CBR/SSN-CBRBZ/SSN-CBRXZ/SSN-CBB/SSN-CBBBZ ，将显示器平放在桌面上（显示器屏幕面朝桌面，桌面上建议摆放软质物料），向上推动显示器背部的快拆按钮同时将底座支架下端向上抬起，即可拆卸底座支架。旋转螺丝直至底座、支架分离。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/a2be91bb3e8a680f5f3c73c4a9a6a8c3ef1b9060f9e3e366d005cf4ef5a8375f.jpg)\n\n<details>\n<summary>text_image</summary>\n\nTechnical diagram illustrating the assembly of a device into a housing, with labeled components and an inset showing a component being inserted.\n</details>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 2,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_2"
+  },
+  {
+    "title": "# 调整显示器的俯仰角度和高度",
+    "content": "# 显示器连接至计算机等设备\n\n通过 HDMI/DP/VGA 线缆将显示器连接至计算机等设备，接通显示器电源，向上短按五向遥杆按键开机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/8956caf15b2b8160428cea36d78f1799264a5975ceb906f09baf29ab6686a975.jpg)\n\n<details>\n<summary>text_image</summary>\n\nHUAWEI\n</details>\n\n标配 HDMI 线缆，其他线缆需单独购买（建议通过官方渠道购买）。\n\n# 调整显示器的俯仰角度和高度\n\n请在包装盒的标签上，确认您所购买的显示器配置，仅部分型号配置支持高度调节。\n\n• 显示器为 SSN-CAR/SSN-CARBZ/SSN-CARXZ/SSN-CAB/SSN-CABBZ 配置（标准支架版）：支持 $3 ^ { \\circ } \\mathrm { ~  ~ { ~ \\left( ~ \\pm 2 ^ { \\circ } ~ \\right) ~ } ~ }$ 俯 $ { / 1 8 } ^ { \\circ }  { \\textbf { ( \\pm 2 ^ { \\circ } ) } }$ 仰角度调节，不支持高度调节。  \n• 显示器为 SSN-CBR/SSN-CBRBZ/SSN-CBRXZ/SSN-CBB/SSN-CBBBZ 配置（旋转升降支架版）：支持 $5 ^ { \\circ } \\quad ( \\pm 2 ^ { \\circ }$ ）俯 $ { / 1 8 } ^ { \\circ }  { \\textbf { ( \\pm 2 ^ { \\circ } ) } }$ 仰角度调节，支持升降 110 mm（±5mm）高度调节。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 3,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_3"
+  },
+  {
+    "title": "# 垂直旋转显示器",
+    "content": "# 操作方法：\n\n• 俯仰角度调节：双手扶住显示器面板，前后转动面板，可调节显示器的俯仰角度。  \n• 高度调节（仅部分型号支持）：一只手握住支架，另一只手握住显示器背面横柱上下移动，可调节显示器高度。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/c25f3b980ce602ba66efb4f32ed2a57c3f955edfa24ffcc5083ac15125f55608.jpg)\n\n<details>\n<summary>text_image</summary>\n\n18° (±2°)\n</details>\n\n# 垂直旋转显示器\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/a9bacb4f5dd8caf1bd5b1e49affb4f39f0c7b9ba5a50d69f57494fb43294461f.jpg)\n\n<details>\n<summary>text_image</summary>\n\n18°(±2°)\n90°(+2°/0°)\n</details>\n\n将显示器立起，屏幕高度调至最高、仰角调至最大，面对显示器屏幕，顺时针旋转 90°， 直到屏幕垂直放置。\n\n• 如果屏幕没有调到最高或者仰角没有调到最大，旋转屏幕时可能会刮到底座。\n\n• 此功能仅 SSN-CBR/SSN-CBRBZ/SSN-CBRXZ/SSN-CBB/SSN-CBBBZ 配置支持。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 4,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_4"
+  },
+  {
+    "title": "# 调整显示器的显示效果（亮度、色温等）-1",
+    "content": "# 显示设置（OSD）\n\n# 调整显示器的显示效果（亮度、色温等）\n\n显示器连接计算机开机后，您可以通过五向遥杆按键调整显示器的亮度、色温：\n\n1 显示器开机状态下，面向屏幕时，向上短按五向遥杆按键，打开显示器设置菜单。  \n2 向右操作五向遥杆按键，切换到菜单项。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/4946f8ee629e3a9c735ab643aa6dcdf4a926a3d6582edb0d147070bba9e6c955.jpg)\n\n<details>\n<summary>flowchart</summary>\n\n```mermaid\ngraph TD\n    A[\"亮度\"] --> B[\"关机\"]\n    C[\"返回\"] --> B\n    D[\"菜单\"] --> B\n    E[\"情景模式\"] --> B\n```\n</details>\n\n3 在设置菜单界面，通过向前、向右等方式操作五向摇杆按键，调节显示器的设置。\n\n亮度调节：选择显示 > 亮度，设置亮度值。建议您将亮度值设置为60\\~80之间，具体可根据您的使用习惯进行选择。\n\n色温调节：选择显示 > 色温，选择合适的显示效果。建议您选择冷色或中性色，具体可根据您的使用习惯进行选择。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/db3269f0f1c1fdab7d82e6443a3c157e2d97642ec3595c8c9ae77d1aa272a92a.jpg)\n\n<details>\n<summary>text_image</summary>\n\nHUAWEI\n情景模式\n显示\n输入源\n游戏辅助\n快捷键\n设置\n亮度\n对比度\n锐利度\n六色\n护眼\n色温\n80\nMOVE\nENTER\nBACK/EXIT\n</details>\n\n4 向上或向右操作五向遥杆按键，确认设置。\n\n更多显示设置项可参见下方表1。（注：不同型号、不同版本的显示器菜单选项存在差异，请以实际为准）\n\n表 3-1 显示器菜单选项",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 5,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_5"
+  },
+  {
+    "title": "# 调整显示器的显示效果（亮度、色温等）-2",
+    "content": "<table><tr><td>一级菜单</td><td>二级菜单</td><td>描述</td></tr><tr><td rowspan=\"2\">情景模式</td><td>P3 色彩</td><td>浏览 P3 广色域图片或喜好鲜艳色彩的人士,建议选择 P3 色彩。</td></tr><tr><td>sRGB 色彩</td><td>浏览计算机中的图片时,建议选择 sRGB 色彩。</td></tr><tr><td rowspan=\"4\"></td><td>HDR 色彩</td><td>调色模拟 HDR 视频色彩效果,建议观赏影视场景使用。</td></tr><tr><td>游戏</td><td>游戏效果增强,建议游戏场景使用。</td></tr><tr><td>电子书</td><td>模拟纸质书籍效果,建议阅读场景使用。开启电子书模式后,屏幕显示为黑白为正常现象。</td></tr><tr><td>用户</td><td>用户自定义显示效果。</td></tr><tr><td rowspan=\"8\">显示</td><td>亮度</td><td>可设置屏幕显示的亮度,设置范围为 0-100。</td></tr><tr><td>对比度</td><td>可设置屏幕显示的对比度,设置范围为 0-100。i 此功能仅在用户/sRGB 色彩/P3 色彩模式下且关闭护眼模式,才可使用。</td></tr><tr><td>锐利度</td><td>可设置屏幕锐利度,设置范围为 0-100。</td></tr><tr><td>六色</td><td>可单独设置红、绿、蓝、青、品红、黄的色调及饱和度,设置范围为 0-100。i 此功能仅在情景模式为用户时,才可使用。</td></tr><tr><td>护眼</td><td>长期阅读时,建议开启护眼模式,预防用眼疲劳,使眼睛更加舒服。开启护眼模式后,屏幕显示偏黄为正常现象。i 此功能仅在用户/sRGB 色彩/P3 色彩模式下才可使用,其余的情景模式下护眼模式默认为关。</td></tr><tr><td>色温</td><td>可设置为冷色、中性色、标准色、暖色模式的一种。或者在用户自定义选项中,对红、绿、蓝颜色分别设置,设置数值为0-100。i 此功能仅在用户/sRGB 色彩/P3 色彩模式下且关闭护眼模式,才可使用。</td></tr><tr><td>缩放</td><td>可选择满屏或等比缩放。</td></tr><tr><td>VGA 设置</td><td>可调节 VGA 信号的水平位置、垂直位置、时钟、相位。设置范围为 0-100。或者可使用自动调整功能,自动设置 VGA 信号的水平位置、垂直位置、时钟、相位。i 此功能仅在通过 VGA 接口连接时显示。</td></tr><tr><td rowspan=\"3\">输入源</td><td>HDMI</td><td rowspan=\"3\">连接其他设备时,根据连接的线缆,选择对应的输入源。i · 仅部分型号配置 DP 接口,请以实际产品为准。· 仅部分型号配置 VGA 接口,请以实际产品为准。</td></tr><tr><td>DP</td></tr><tr><td>VGA</td></tr><tr><td>游戏辅助</td><td>刷新率游戏准星</td><td>在游戏场景中,可以在此菜单中进行一些辅助设置。开启后,可选择在屏幕左上角或右上角显示刷新率。开启后,在屏幕上显示准星,并可将准星颜色设置为红色或绿色,也可对准星位置重置。</td></tr><tr><td rowspan=\"2\"></td><td>AMD FreeSync</td><td>可选择开启或关闭 AMD FreeSync 功能。开启后可防止画面撕裂,提高游戏体验。</td></tr><tr><td>响应时间</td><td>可选择开启或关闭响应时间。开启时,可选择标准、快、极快等响应时间。</td></tr><tr><td rowspan=\"2\">快捷键</td><td>上</td><td>OSD 快捷菜单上方的设置选项,默认为亮度,可设置为情景模式、响应时间、输入源、对比度等选项。</td></tr><tr><td>下</td><td>OSD 快捷菜单下方的设置选项,默认为情景模式,可设置为亮度、响应时间、输入源、对比度等选项。</td></tr><tr><td rowspan=\"6\">设置</td><td>语言</td><td>可设置为简体中文、美式英语等其他语种。</td></tr><tr><td>菜单显示设置</td><td>菜单透明度:可设置菜单的显示透明度,设置数值为1-8,数字越大透明度越高。菜单显示时间:可将菜单显示时间设置为 10-100 秒。</td></tr><tr><td>LED 电源按钮</td><td>待机模式时开:待机状态下,显示器的指示灯白色闪烁。待机模式时关:待机状态下,显示器的指示灯熄灭。</td></tr><tr><td>信息</td><td>可查看显示器的 SN 号、固件版本号、情景模式、分辨率、刷新率、输入源等信息。</td></tr><tr><td>ECO Mode</td><td>可选择开启或关闭节能模式。i 此功能默认关闭。开启节能模式后,会减少能耗,亮度等选项将无法设置。</td></tr><tr><td>恢复出厂设置</td><td>可选择是否将显示器菜单恢复出厂设置。</td></tr></table>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "# 调整显示器的显示效果（亮度、色温等）",
+    "chunk_index": 6,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_6"
+  },
+  {
+    "title": "# 护眼模式",
+    "content": "# 护眼模式\n\n长期阅读时，建议将屏幕色温选择为护眼模式，预防用眼疲劳，使眼睛更加舒服。开启护眼模式后，屏幕显示偏黄为正常现象。\n\n您可以按照如下操作，来开启或关闭护眼模式：\n\n1 显示器开机状态下，面向屏幕时，向上短按五向遥杆按键，打开显示器设置菜单。  \n2 向右操作五向遥杆按键，切换到菜单项。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/d2df175850d47f05afa0ca2d6c8999f30060b080bcd3971fa8c85ca833dec182.jpg)\n\n<details>\n<summary>flowchart</summary>\n\n```mermaid\ngraph TD\n    A[\"亮度\"] --> B[\"关机\"]\n    C[\"返回\"] --> B\n    D[\"菜单\"] --> B\n    E[\"情景模式\"] --> B\n```\n</details>\n\n3 在设置菜单界面，通过向前、向右等方式操作五向摇杆按键，选择到 显示 > 护眼 > 开（或关），然后向上短按五向遥杆按键确定选择，即可开启或关闭护眼。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/530160127b89bb92be6a1f4ca4c7f8ac8df4045084ad63ff4d76491d5f9cde7c.jpg)\n\n<details>\n<summary>text_image</summary>\n\nHUAWEI\n情景模式 ▶ 亮度 ▶ 开 ✓\n显示 ▶ 对比度 ▶ 关 □\n输入源 ▶ 锐利度 ▶\n游戏辅助 ▶ 六色 ▶\n快捷键 ▶ 护眼 ▶\n设置 ▶ 色温 ▶\nMOVE ENTER BACK/EXIT\n</details>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 7,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_7"
+  },
+  {
+    "title": "# 情景模式，增强游戏体验",
+    "content": "# 更多功能\n\n# 情景模式，增强游戏体验\n\n玩游戏时，您可以在显示器 OSD 菜单中，设置游戏辅助、情景模式等功能，增强游戏体验。\n\n1 显示器开机状态下，面向屏幕时，向上短按五向遥杆按键，打开显示器设置菜单。  \n2 向右操作五向遥杆按键，切换到菜单项。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/2c8fa31ca47ed92c206f842f3b613c181958bdc402217784ba7b2fc92fa4ac8e.jpg)\n\n<details>\n<summary>flowchart</summary>\n\n```mermaid\ngraph TD\n    A[\"亮度\"] --> B[\"关机\"]\n    C[\"菜单\"] --> B\n    D[\"情景模式\"] --> B\n    E[\"返回\"] --> B\n```\n</details>\n\n3 在设备菜单界面，通过向前、向右等方式操作五向摇杆按键，选择到游戏辅助，按需求设置刷新率、游戏准星、AMD FreeSync等功能。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/d4c0d1ffbeebf127603c352b34d3a8c9e1f164cade93cf5616d60942e2207699.jpg)\n\n<details>\n<summary>text_image</summary>\n\nHUAWEI\n情景模式 ▶\n显示 ▶\n输入源 ▶\n游戏辅助 ▶\n快捷键 ▶\n设置 ▶\n刷新率 ▶\n游戏准星 ▶\nAMD FreeSync ▶\n响应时间 ▶\nMOVE ENTER BACK/EXIT\n</details>\n\n刷新率：开启后，在屏幕上显示刷新率。  \n游戏准星：开启后，在屏幕上显示准星。  \nAMD FreeSync：开启后，可防止画面撕裂，提高游戏体验。仅在搭配支持 AMDFreeSync 功能的主机连接使用时方可开启。  \n响应时间：开启时，可选择标准、快、极快等响应时间。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 8,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_8"
+  },
+  {
+    "title": "# 恢复出厂设置",
+    "content": "# 恢复出厂设置\n\n将显示器恢复到出厂状态，将删除您的所有个性化设置。\n\n1 显示器开机状态下，面向屏幕时，向上短按五向遥杆按键，打开显示器设置菜单。  \n2 向右操作五向遥杆按键，切换到菜单项。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/8092bf4f96ad1b0e267046d09849c3690cc0b730fc79177973b5260c4fa77ca2.jpg)\n\n<details>\n<summary>flowchart</summary>\n\n```mermaid\ngraph TD\n    A[\"亮度\"] --> B[\"关机\"]\n    C[\"返回\"] --> B\n    D[\"菜单\"] --> B\n    E[\"情景模式\"] --> B\n```\n</details>\n\n3 在 OSD 设备菜单界面，通过向前、向右等方式操作五向摇杆按键，选择设置 > 恢复出厂设置，向上按五向摇杆按键确定，显示器将恢复到出厂状态。\n\n<table><tr><td colspan=\"3\">HUAWEI</td></tr><tr><td>情景模式</td><td>语言</td><td rowspan=\"7\"></td></tr><tr><td>显示</td><td>菜单显示设置</td></tr><tr><td>输入源</td><td>LED电源按钮</td></tr><tr><td>游戏辅助</td><td>信息</td></tr><tr><td>快捷键</td><td>ECO Mode</td></tr><tr><td>设置</td><td>恢复出厂设置</td></tr><tr><td></td><td></td></tr><tr><td>MOVE</td><td>ENTER</td><td>BACK/EXIT</td></tr></table>",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 9,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_9"
+  },
+  {
+    "title": "# 对医疗设备的影响",
+    "content": "# 查看显示器的 S/N 号\n\nS/N 号即产品序列号，是产品的身份证号码，又称机器码、认证码、注册申请码等。\n\n您可通过如下方式查看显示器的 S/N 号：\n\n• 方式一（包装盒标签）：您可以直接在包装盒的标签上查看 S/N 号。  \n• 方式二（机身铭牌）：您可以在机身铭牌中查看 S/N 号，铭牌位于显示器背面接口处。  \n• 方式三（ OSD 菜单）：显示器开机状态下，面向屏幕时，向上短按五向遥杆按键，打开显示器设置菜单，通过向前、向右操作五向遥杆按键，选择到设置 > 信息，即可查看显示器系列号。\n\n如遇到无法获取 S/N 号的情况，您可前往附近的华为客户服务中心获取帮助，商品的纸质及电子发票、电商渠道有效凭证等均可作为保修凭证。\n\n# 安全信息\n\n【警告】在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。\n\n# 电子设备\n\n有明文规定禁止使用无线设备的场所，请勿使用本设备，否则会干扰其它电子设备或导致其它危险。\n\n# 对医疗设备的影响\n\n• 在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。  \n• 设备产生的无线电波或含有磁铁可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。  \n• 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少 15 厘米的距离。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 10,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_10"
+  },
+  {
+    "title": "# 操作环境",
+    "content": "# 易燃易爆区域\n\n• 在加油站（维修站）或靠近易燃物品、化学制剂等任何易燃易爆区域，请勿使用本设备，并遵守所有图形或文字的指示。在燃油或化学制剂存放和运输区或易爆场所内或周围，设备可能引起爆炸或起火。  \n• 请勿将设备及其配件与易燃液体、气体或易爆物品放在同一箱子中存放或运输。\n\n# 操作环境\n\n• 请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。  \n• 插拔设备线缆前，请先停止使用设备并断开电源。在插拔线缆时请保持双手干燥。  \n• 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。  \n• 请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。\n\n• 请在介于 0℃～35℃ 的环境温度中使用本设备，在介于-10℃～+45℃ 的环境温度中存储本产品。当环境温度过高或过低时，可能会引起设备故障。\n\n• 请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。\n\n• 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。\n\n• 设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。\n\n• 请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。\n\n• 当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。\n\n• 请勿在设备上放置任何物体（如蜡烛、盛水容器等），若有异物或液体进入设备，请立刻停止使用并断开电源，拔出连接在设备上的所有线缆，并联系华为客户服务中心。\n\n【稳定性危险】本设备可能翻倒，造成严重人身伤害或死亡。采取诸如以下的简单的预防措施就能避免许多伤害，特别是对儿童的伤害：\n\n• 始终使用设备制造商建议的柜子或支架。  \n• 始终使用能安全支撑本设备的家具，始终确保本设备没有伸出该支撑家具的边缘。  \n• 请勿将本设备放在不稳定的位置，请勿将本设备放置在高的家具（例如橱柜或书柜） 上。  \n• 始终规划好连接到本设备上的电线和电缆， 这样它们就不会被绊或拉。  \n• 请勿将本设备置于可能铺在本设备和支撑家具之间的织物或其他材料上。  \n• 始终教育儿童攀爬家具到达本设备或其控制装置的危险。  \n• 在本设备或放置本设备的家具顶部，请勿放置可能引诱儿童攀爬的物品，如玩具和遥控器。  \n• 如果设备需要保留并更换位置， 也应考虑上述注意事项。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 11,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_11"
+  },
+  {
+    "title": "# 维护和保养",
+    "content": "# 儿童健康\n\n• 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。  \n• 本设备并非玩具，儿童应在成人监护下使用设备。\n\n# 配件要求\n\n• 使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。  \n• 只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如需获取认可的配件，请与华为客户服务中心联系。\n\n# 电源安全\n\n• 电源插头作为断开电源的装置。  \n• 电源插座应安装在设备附近并应易于触及。  \n• 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。  \n• 若电源插头或电源线已损坏，请勿继续使用，以免发生触电或火灾。  \n• 请勿用湿手触碰电源线，或用拉电源线缆的方式拔出电源。  \n• 请勿用湿手触摸设备或电源，以免发生设备短路、故障或触电。\n\n# 维护和保养\n\n• 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。  \n• 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。  \n• 请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。  \n• 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。  \n• 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。  \n• 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。  \n• 请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。\n\n• 如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 12,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_12"
+  },
+  {
+    "title": "# 环境保护",
+    "content": "# 环境保护\n\n• 请勿将本设备及其附件作为普通的生活垃圾处理。\n\n• 请遵守本设备及其附件处理的本地法令，并支持回收行动。\n\nֶ̗˗దࠏྭ᠏ᄊՐሦԣե᧚ֶ̗˗దࠏྭ᠏ᄊՐሦԣե᧚ \n\n<table><tr><td rowspan=\"2\">部件名称</td><td colspan=\"10\">有害物质</td></tr><tr><td>铅(Pb)</td><td>汞(Hg)</td><td>镉(Cd)</td><td>六价铬(Cr(VI))</td><td>多溴联苯(PBB)</td><td>多溴二苯醚(PBDE)</td><td>邻苯二甲酸二(2-乙基)己酯(DEHP)</td><td>邻苯二甲酸丁基苄酯(BBP)</td><td>邻苯二甲酸二正丁酯(DBP)</td><td>邻苯二甲酸二异丁酯(DIBP)</td></tr><tr><td>电路板</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>屏幕</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>电源适配器</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>附件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td colspan=\"11\">本表格依据SJ/T 11364的规定编制。○:表示该有害物质在该部件所有均质材料中的含量均不超出电器电子产品有害物质限制使用国家标准要求。×:表示该有害物质至少在该部件的某一均质材料中含量超出电器电子产品有害物质限制使用国家标准要求,且由于技术性或经济性等因素的局限,法律法规不规定其限量要求或放宽其限量要求的技术应用。因型号不同,产品可能不包括以上部分部件,请以产品实际销售配置为准。</td></tr></table>\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/华为显示器B3-241H用户指南-(SSN-24BZ,VGA,04,zh-cn)/47adac4f54051637f15b7d3f76b1a92dad48d548d7df14ab66704bcddec5a597.jpg)\n\nవಖគЯ஝ߚ᛫ᇨֶ̗ԣᬄ͈ښ൤࣢Ύၹ࿄গʾᄊဗδΎၹరᬍ˞\u0001\u0012\u0011\u0001ࣲǍ\n\n౽̏ᦊ͈˷ԻᑟదဗδΎၹరᬍಖគἻХဗδΎၹరᬍ̿ಖគЯ஝ߚ˞юǍ",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 13,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_13"
+  },
+  {
+    "title": "# 注意",
+    "content": "# 法律声明\n\n版权所有 © 2025 华为终端有限公司。保留一切权利。\n\n本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法律禁止此类限制的除外。\n\n# 商标声明\n\n# HDmI\n\nHIGH-DEFINITION MULTIMEDIA INTERFACE\n\nHDMI、HDMI High-Definition Multimedia Interface 等词汇、HDMI 商业外观及 HDMI 标识均为 HDMI Licensing Administrator, Inc. 的商标或注册商标。\n\n在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。\n\n# 开源声明\n\n请访问 https://consumer.huawei.com/en/support/content/en-us15892133/ 查看开源软件声明的详细信息。\n\n# 注意\n\n本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。\n\n华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 14,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_14"
+  },
+  {
+    "title": "# 隐私保护",
+    "content": "# 责任限制\n\n本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。\n\n在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。\n\n在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。\n\n# 进出口管制\n\n若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。\n\n# 隐私保护\n\n为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。\n\n本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。\n\n购买华为终端产品，请访问华为商城 https://www.vmall.com/\n\n更多信息请访问 https://consumer.huawei.com/cn/",
+    "file_title": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 15,
+    "chunk_id": "华为显示器 B3-241H 用户指南-(SSN-24BZ,VGA,04,zh-cn)_15"
+  }
+]

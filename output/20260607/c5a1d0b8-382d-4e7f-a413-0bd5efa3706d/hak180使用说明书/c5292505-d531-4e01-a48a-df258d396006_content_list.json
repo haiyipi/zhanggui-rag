@@ -1,0 +1,8263 @@
+[
+    {
+        "type": "text",
+        "text": "使用说明书",
+        "text_level": 1,
+        "bbox": [
+            71,
+            155,
+            411,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAK 180 ",
+        "bbox": [
+            71,
+            344,
+            269,
+            379
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/33c4f26a806f1c7db5e9aaad8cbdf0ee4840ef065b55aa8d7599ed3776c574b4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            584,
+            358,
+            830,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "brother ",
+        "bbox": [
+            707,
+            30,
+            949,
+            78
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "在使用本设备之前，请务必阅读产品安全手册。",
+        "bbox": [
+            50,
+            921,
+            423,
+            939
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "建议您阅读本 “ 使用说明书 “ 并将它放在方便的地方以供将来参考。",
+        "bbox": [
+            50,
+            944,
+            580,
+            962
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "简介",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            142,
+            135
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重要提示",
+        "text_level": 1,
+        "bbox": [
+            78,
+            160,
+            174,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 本文档的内容以及本产品的规格可能会有变化，恕不另行通知。",
+            " 严禁未经授权擅自复制或重制本文档的任何部分或全部内容。",
+            " Brother 保留对本说明书中包含的规格和材料进行更改而不进行通知的权利，并且对于依赖提供的材料（包括但不限于印刷以及与发布有关的其他错误）所导致的任何损害 （包括间接损害）概不负责。",
+            " 请注意，对于使用本产品或通过本产品制作的内容造成的任何损坏或利润损失，或者故障、维修或耗材导致的数据消失或更改，或者第三方提出的任何索赔，我们不承担任何责任。",
+            " 对于保养、调整或维修事宜，请联系 Brother 呼叫中心或您当地的 Brother 经销商。",
+            " 如果本设备工作不正常或出现任何功能异常，请关闭本设备，拔下所有电源线，然后联系 Brother 呼叫中心或您当地的 Brother 经销商。",
+            " 在使用设备之前，请务必阅读设备随附的所有文档，以获得有关安全和正确操作的信息。",
+            " ©2021 Brother Industries, Ltd. 保留所有权利。"
+        ],
+        "bbox": [
+            83,
+            194,
+            931,
+            436
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "i ",
+        "bbox": [
+            926,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "bbox": [
+            83,
+            110,
+            160,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 常规信息 1",
+        "text_level": 1,
+        "bbox": [
+            99,
+            163,
+            937,
+            182
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.1 提示定义 ..",
+            "1.2 产品简介 ..........."
+        ],
+        "bbox": [
+            183,
+            191,
+            934,
+            222
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Brother 设备简介 2 ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            239,
+            937,
+            258
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 设备 .. .2",
+        "bbox": [
+            181,
+            267,
+            936,
+            283
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.1.1 前视图.. .2",
+            "2.1.2 后视图.. ..3"
+        ],
+        "bbox": [
+            210,
+            283,
+            934,
+            312
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 操作面板和 LED 指示灯...... 4",
+        "bbox": [
+            181,
+            313,
+            934,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 使用本设备之前 6",
+        "text_level": 1,
+        "bbox": [
+            98,
+            345,
+            937,
+            364
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.1 打开设备包装并检查组件. .6",
+            "3.2 去除保护材料..",
+            "3.3 初始设置. ..9 "
+        ],
+        "bbox": [
+            181,
+            373,
+            936,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.3.1 连接设备并安装进纸托板和烫金膜盒. .9 ",
+            "3.3.2 选择液晶显示屏语言 （仅第一次开机时）.. .11"
+        ],
+        "bbox": [
+            210,
+            418,
+            934,
+            449
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 安装烫金膜盒. ..12",
+        "bbox": [
+            181,
+            450,
+            934,
+            464
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.4.1 装入全幅烫金膜盒. .12 ",
+            "3.4.2 装入半幅烫金膜盒... ..14 ",
+            "3.4.3 取出烫金膜盒支架和烫金膜盒组件. ..16 "
+        ],
+        "bbox": [
+            210,
+            465,
+            934,
+            510
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 介质规格 19",
+        "text_level": 1,
+        "bbox": [
+            98,
+            527,
+            937,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.1 可接受的介质. ..19",
+            "4.2 不适用的介质. ..20",
+            "4.3 其他规格 ....... .21"
+        ],
+        "bbox": [
+            181,
+            555,
+            934,
+            601
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.3.1 进纸托板容量.. .21 ",
+            "4.3.2 避免卡纸的上边距要求 . .21"
+        ],
+        "bbox": [
+            210,
+            602,
+            934,
+            631
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5 使用设备 22",
+        "text_level": 1,
+        "bbox": [
+            98,
+            648,
+            937,
+            667
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.1 转印 .... ..22 ",
+            "5.2 将烫金膜转印到双面纸张上. .23 ",
+            "5.3 装入介质 ...... ..23 "
+        ],
+        "bbox": [
+            181,
+            677,
+            934,
+            722
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.3.1 装入标准尺寸介质..... .24",
+            "5.3.2 装入非标准尺寸介质..... ..26"
+        ],
+        "bbox": [
+            210,
+            722,
+            934,
+            751
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6 更改设置 27 ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            770,
+            937,
+            788
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "6.1 访问主菜单.. .27",
+            "6.2 菜单项.. ..28 ",
+            "6.3 提高转印质量. ..29"
+        ],
+        "bbox": [
+            181,
+            797,
+            934,
+            843
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "6.3.1 调整转印温度.. .29 ",
+            "6.3.2 更改送纸速度.. ..30 "
+        ],
+        "bbox": [
+            210,
+            844,
+            934,
+            873
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.4 节省烫金膜模式.. ..31",
+        "bbox": [
+            181,
+            875,
+            934,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "6.4.1 仅将烫金膜转印到纸张右上方 （顶部） .32",
+            "6.4.2 仅将烫金膜转印到纸张的下半部分 （跳过） ..33"
+        ],
+        "bbox": [
+            210,
+            889,
+            934,
+            918
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "ii ",
+        "bbox": [
+            924,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "6.4.3 仅将烫金膜转印到纸张中间部分 （中间）. .34",
+            "6.4.4 关闭节省烫金膜模式. ..35"
+        ],
+        "bbox": [
+            207,
+            110,
+            937,
+            141
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.5 收藏 .... ..36",
+        "bbox": [
+            181,
+            141,
+            936,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "6.5.1 将收藏设置分配给操作面板按键. ..36",
+            "6.5.2 调出收藏. ..36 ",
+            "6.5.3 覆盖或删除收藏 ..37 "
+        ],
+        "bbox": [
+            207,
+            156,
+            936,
+            202
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.6 重置设置 . ..38",
+        "bbox": [
+            181,
+            203,
+            936,
+            217
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.7 更改介质送入压力............. ..39 ",
+        "bbox": [
+            181,
+            218,
+            936,
+            232
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7 日常维护 40",
+        "text_level": 1,
+        "bbox": [
+            99,
+            249,
+            936,
+            268
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "7.1 清洁设备的外部 .. ..40",
+            "7.2 清洁分离辊... ..41 "
+        ],
+        "bbox": [
+            181,
+            277,
+            936,
+            308
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 故障排除 42 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            325,
+            936,
+            343
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "8.1 概述 . ..42",
+            "8.2 确定问题 . ..42"
+        ],
+        "bbox": [
+            181,
+            353,
+            936,
+            383
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "8.2.1 一般设备操作.. .42",
+            "8.2.2 打印质量问题. ..43",
+            "8.2.3 介质送入问题. .44"
+        ],
+        "bbox": [
+            209,
+            384,
+            936,
+            429
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8.3 卡纸 ..... ...45",
+        "bbox": [
+            181,
+            430,
+            936,
+            444
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "8.3.1 如果卡纸导致 “ 无进纸 ” 错误. ..45",
+            "8.3.2 如果卡纸发生在设备内部. ..46",
+            "8.3.3 如果纸张卡纸和烫金膜卡纸同时发生. ..48"
+        ],
+        "bbox": [
+            209,
+            445,
+            936,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9 规格 50 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            507,
+            936,
+            525
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "9.1 一般规格 . ..50",
+            "9.2 打印介质规格. ..52",
+            "9.3 设备规格 ....... ..52",
+            "9.4 耗材 ......... ...52 "
+        ],
+        "bbox": [
+            181,
+            535,
+            936,
+            596
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10 错误消息 53 ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            613,
+            936,
+            631
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11 附录 54 ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            651,
+            936,
+            670
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.1 Brother 帮助和客户支持.. .54",
+        "bbox": [
+            181,
+            679,
+            936,
+            694
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "11.1.1 FAQ （常见问题解答） ..54",
+            "11.1.2 Brother 联系信息 . ..54"
+        ],
+        "bbox": [
+            209,
+            696,
+            936,
+            725
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.2 法规 .. ..55",
+        "bbox": [
+            181,
+            727,
+            936,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "11.2.1 开放源代码许可备注. ..55",
+            "11.2.2 客户创作的设计侵犯版权. ..55",
+            "11.2.3 不保证 HAK 180 的商业使用可获得利润 . ..55"
+        ],
+        "bbox": [
+            209,
+            741,
+            936,
+            786
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "iii ",
+        "bbox": [
+            919,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 常规信息",
+        "text_level": 1,
+        "bbox": [
+            117,
+            63,
+            343,
+            100
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感谢您购买 Brother HAK 180！阅读使用说明书将帮助您充分利用设备。",
+        "bbox": [
+            78,
+            151,
+            643,
+            168
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1 提示定义",
+        "text_level": 1,
+        "bbox": [
+            78,
+            194,
+            269,
+            220
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这份使用说明书中，使用了以下符号：",
+        "bbox": [
+            78,
+            232,
+            395,
+            251
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c77ba804b50750f56cfbfbbf3b8960a9a49834406a7c8713b54c7c1f0c19127.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>警告</td><td>“警告”表示可能导致人员死亡或严重受伤的潜在危险情况。</td></tr><tr><td>重要事项</td><td>“重要事项”表示可能导致财产损失或产品功能丧失的潜在危险情况。</td></tr><tr><td>注释</td><td>提示图标指示有用的提示和补充信息。</td></tr><tr><td>粗体</td><td>粗体字表示设备的操作面板上的按键。</td></tr><tr><td>斜体</td><td>斜体字强调应当注意的要点或提示您参考相关主题。</td></tr><tr><td>括号中的文字</td><td>括号中的文字表示在设备液晶显示屏上显示的消息。</td></tr></table>",
+        "bbox": [
+            78,
+            265,
+            937,
+            456
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 产品简介",
+        "text_level": 1,
+        "bbox": [
+            78,
+            481,
+            269,
+            506
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HAK 180 是一款烫金机，它采用热定影技术将烫金膜转印到许多不同类型且已预先打印的介质上。该烫金机不需要安装额外的驱动程序或软件即可使用，与全幅和半幅烫金膜盒都兼容，并且颜色丰富。",
+        "bbox": [
+            76,
+            518,
+            933,
+            555
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有关支持的介质详细信息，请参见第 52 页上的打印介质规格。",
+        "bbox": [
+            76,
+            560,
+            575,
+            578
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            924,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 Brother 设备简介",
+        "text_level": 1,
+        "bbox": [
+            114,
+            62,
+            490,
+            100
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 设备",
+        "text_level": 1,
+        "bbox": [
+            76,
+            151,
+            210,
+            177
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 前视图",
+        "text_level": 1,
+        "bbox": [
+            78,
+            201,
+            220,
+            222
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/149746fd4b33f383e9dc157c140e612b05def3e44d3e635bf25908f24ebf5646.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            205,
+            249,
+            812,
+            570
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 进纸托板",
+        "bbox": [
+            78,
+            587,
+            179,
+            603
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将介质装入进纸托板中。",
+        "bbox": [
+            101,
+            606,
+            294,
+            622
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 可伸缩进纸托板翼板",
+        "bbox": [
+            78,
+            627,
+            269,
+            645
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调整长度以适合介质尺寸。",
+        "bbox": [
+            101,
+            646,
+            312,
+            664
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 导纸板",
+        "bbox": [
+            78,
+            668,
+            160,
+            684
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调整宽度以适合介质尺寸。",
+        "bbox": [
+            101,
+            687,
+            312,
+            703
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 进纸调节器舱盖 ",
+        "bbox": [
+            78,
+            708,
+            233,
+            725
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调整进纸调节器。",
+        "bbox": [
+            101,
+            727,
+            238,
+            744
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 前盖",
+        "bbox": [
+            78,
+            749,
+            143,
+            765
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "打开可使用烫金膜盒支架和烫金膜盒组件。",
+        "bbox": [
+            101,
+            768,
+            437,
+            784
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 操作面板",
+        "bbox": [
+            78,
+            789,
+            178,
+            807
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用操作面板按键打开和关闭设备、开始和结束烫金膜转印以及更改设置。",
+        "bbox": [
+            101,
+            808,
+            689,
+            826
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7 前盖把手",
+        "bbox": [
+            78,
+            831,
+            178,
+            846
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用于打开前盖。",
+        "bbox": [
+            101,
+            850,
+            220,
+            865
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8 出纸托板",
+        "bbox": [
+            78,
+            870,
+            178,
+            887
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从此托板输出已完成的介质。",
+        "bbox": [
+            101,
+            889,
+            328,
+            906
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "aside_text",
+        "text": "2 ",
+        "bbox": [
+            955,
+            174,
+            975,
+            191
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            924,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9 可伸缩出纸托板翼板",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            269,
+            127
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "调整长度以适合介质尺寸。",
+        "bbox": [
+            101,
+            129,
+            310,
+            146
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10 出纸槽",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            161,
+            167
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "设备从此处输出已完成的介质。",
+        "bbox": [
+            101,
+            170,
+            346,
+            187
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11烫金膜盒支架和烫金膜盒组件",
+        "text_level": 1,
+        "bbox": [
+            78,
+            191,
+            339,
+            208
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12 烫金膜盒支架",
+        "text_level": 1,
+        "bbox": [
+            78,
+            213,
+            215,
+            230
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13 烫金膜盒 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            234,
+            179,
+            251
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14 烫金膜盒支架盖 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            255,
+            232,
+            273
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 后视图",
+        "text_level": 1,
+        "bbox": [
+            78,
+            298,
+            220,
+            318
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7457a9ca651ca36d13be964bf727139d865b09abaceea726c020499e846c2e45.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            292,
+            343,
+            727,
+            506
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 分离辊舱盖",
+        "text_level": 1,
+        "bbox": [
+            78,
+            521,
+            197,
+            537
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "打开可访问分离辊。",
+        "bbox": [
+            101,
+            540,
+            256,
+            556
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 分离辊",
+        "text_level": 1,
+        "bbox": [
+            78,
+            562,
+            161,
+            579
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 电源线接口",
+        "text_level": 1,
+        "bbox": [
+            78,
+            583,
+            194,
+            600
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将电源线连接到电源线接口。",
+        "bbox": [
+            101,
+            603,
+            328,
+            621
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            632,
+            187,
+            650
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "请务必使用随机附带的电源线。",
+        "bbox": [
+            101,
+            651,
+            346,
+            669
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Brother 设备简介",
+        "bbox": [
+            78,
+            64,
+            192,
+            78
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "aside_text",
+        "text": "2 ",
+        "bbox": [
+            955,
+            174,
+            973,
+            191
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            924,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 操作面板和 LED 指示灯",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            462,
+            136
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f26f414beb5c028099de4f3562359dd7751d324febd9b22b9809cd411ac0a9b0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            214,
+            168,
+            803,
+            331
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 G （打开 / 关闭电源）",
+            "2 ★1 (Favorite1) （收藏 1） / ★2 (Favorite2) （收藏 2）"
+        ],
+        "bbox": [
+            78,
+            360,
+            571,
+            421
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "保存收藏，或者调出已保存的收藏 （有关详细信息，请参见第 36 页上的收藏）。",
+        "bbox": [
+            101,
+            424,
+            740,
+            441
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 (Temperature) （温度）",
+        "bbox": [
+            80,
+            451,
+            344,
+            475
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "更改转印温度 （有关详细信息，请参见第 29 页上的调整转印温度）。",
+        "bbox": [
+            101,
+            479,
+            650,
+            498
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Y (Menu) （菜单）",
+        "bbox": [
+            80,
+            507,
+            282,
+            531
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "显示主菜单。",
+        "bbox": [
+            102,
+            536,
+            202,
+            551
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 (OK) （确定）",
+        "bbox": [
+            80,
+            560,
+            254,
+            584
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "接受设置或数值。",
+        "bbox": [
+            102,
+            591,
+            238,
+            607
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 (Stop/Exit) （停止 / 退出）",
+        "bbox": [
+            80,
+            616,
+            372,
+            641
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "取消烫金膜转印。",
+        "bbox": [
+            102,
+            645,
+            238,
+            660
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 (Start) （启动）",
+        "bbox": [
+            80,
+            672,
+            285,
+            696
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "开始烫金膜转印。",
+        "bbox": [
+            102,
+            702,
+            238,
+            718
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ▼ ▲ ",
+        "bbox": [
+            80,
+            725,
+            145,
+            737
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "导航主菜单，以及选择和更改设置。",
+        "bbox": [
+            102,
+            744,
+            382,
+            760
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9 ↑ (Clear/Back) （清除 / 返回）",
+        "bbox": [
+            80,
+            769,
+            377,
+            793
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "清除您在主菜单中输入的数值，或者返回到上一个菜单屏幕。",
+        "bbox": [
+            101,
+            797,
+            581,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10 液晶显示屏 ",
+        "bbox": [
+            80,
+            818,
+            196,
+            835
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11 (Foil Save) （节省烫金膜）",
+        "bbox": [
+            80,
+            844,
+            367,
+            865
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "配置节省 ( 烫金膜 ) 模式 （有关详细信息，请参见第 31 页上的节省烫金膜模式）。",
+        "bbox": [
+            99,
+            872,
+            751,
+            889
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Brother 设备简介",
+        "bbox": [
+            78,
+            64,
+            192,
+            78
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "aside_text",
+        "text": "2 ",
+        "bbox": [
+            957,
+            174,
+            973,
+            191
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            924,
+            940,
+            936,
+            951
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "12 LED 指示灯",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            200,
+            127
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "查看 LED 指示灯以了解设备状态。",
+        "bbox": [
+            101,
+            131,
+            374,
+            148
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e6d09549ea47fbe5d7268c63ff452f4e7306948aa4e73e595d63dcad5d608e4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            383,
+            162,
+            681,
+            350
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 Foil Save （节省烫金膜）",
+        "bbox": [
+            99,
+            365,
+            328,
+            383
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "亮起：正在以节省烫金膜模式转印烫金膜。",
+        "bbox": [
+            101,
+            387,
+            431,
+            403
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "熄灭：正在以标准模式转印烫金膜。",
+        "bbox": [
+            101,
+            406,
+            377,
+            422
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/48c4b814b876ac56b09c0ee1b4d08e3964000e9e81dcc4dcf3b8d6e11621ef9a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            429,
+            109,
+            453
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            437,
+            151,
+            453
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有关如何启用或禁用节省烫金膜模式的详细信息，请参见第 31 页上的节省烫金膜模式。",
+        "bbox": [
+            101,
+            455,
+            794,
+            472
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2 Cover Lock （盖锁定）",
+        "bbox": [
+            101,
+            493,
+            312,
+            508
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "亮起：在烫金膜转印期间或者当设备内部的温度很高时，将会锁住前盖。",
+        "bbox": [
+            99,
+            513,
+            666,
+            530
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "熄灭：前盖处于解锁状态。",
+        "bbox": [
+            101,
+            532,
+            305,
+            549
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 Error （错误）",
+        "bbox": [
+            101,
+            570,
+            240,
+            587
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "亮起：发生错误。（有关错误的详细信息，请参见第 53 页上的错误消息。）",
+        "bbox": [
+            99,
+            591,
+            691,
+            607
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "熄灭：设备正常工作。",
+        "bbox": [
+            101,
+            612,
+            269,
+            627
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff33f6fa263261c2ba1030436d9e51a79270cf068ab2fb0c7ce409374eeb0392.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            654,
+            109,
+            679
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            662,
+            151,
+            678
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当超过一分钟未操作设备或者未装入介质时，液晶显示屏背光灯将会熄灭。要点亮背光灯，请按设备操作面板上的任何按键或装入介质。",
+        "bbox": [
+            99,
+            681,
+            933,
+            713
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Brother 设备简介",
+        "bbox": [
+            78,
+            64,
+            192,
+            77
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "aside_text",
+        "text": "2 ",
+        "bbox": [
+            955,
+            174,
+            973,
+            191
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            924,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 使用本设备之前",
+        "text_level": 1,
+        "bbox": [
+            114,
+            62,
+            460,
+            102
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 打开设备包装并检查组件",
+        "text_level": 1,
+        "bbox": [
+            76,
+            151,
+            477,
+            177
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "包装盒中提供的组件：",
+        "bbox": [
+            78,
+            189,
+            253,
+            208
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1a200433714141a3aa885da37e28ce55b4f6dc32d12bb20b233749c20219a93.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            151,
+            237,
+            836,
+            465
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 烫金机",
+            "2 进纸托板",
+            "3 烫金膜盒支架 （预安装）",
+            "4 产品安全手册 / 快速安装指南",
+            "5 电源线"
+        ],
+        "bbox": [
+            78,
+            496,
+            336,
+            601
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/26d240d3be966803154a9465219cc53abf384e1b0e355c470dea56c99cffc841.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            608,
+            112,
+            632
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            615,
+            151,
+            632
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在使用本设备之前，请务必阅读产品安全手册。",
+        "bbox": [
+            101,
+            634,
+            473,
+            651
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            924,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2 去除保护材料",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            328,
+            136
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "从包装盒中取出设备。",
+            "b 去除贴在出纸托板上的胶带。"
+        ],
+        "bbox": [
+            78,
+            146,
+            343,
+            194
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6848daf72018055e0f00a1ef141c044b431c1e6248516ed3c3cb66950b0a133.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            287,
+            220,
+            715,
+            369
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "c 去除进纸托板槽的保护材料，如图中所示。",
+        "bbox": [
+            78,
+            387,
+            450,
+            408
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b997c1c116a98e7685d4985664d6caf65e28acded2afcce8989fbaf75a8fe2f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            385,
+            425,
+            630,
+            600
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "d 打开前盖。",
+        "bbox": [
+            78,
+            625,
+            200,
+            645
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d641c48b48f0541a30fd8a8b8aedf9ae5f9828c01026c376dee70edb3e80370.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            411,
+            669,
+            604,
+            817
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            924,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "e 去除设备的固定胶带 1 和保护材料 2。",
+        "bbox": [
+            78,
+            108,
+            429,
+            127
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4129b4bed43c9f88ff0658e26e989ee802991ff0fde0ce612d7936c3e85e0642.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            287,
+            136,
+            718,
+            316
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            955,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            924,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3 初始设置 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            269,
+            135
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 连接设备并安装进纸托板和烫金膜盒 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            160,
+            519,
+            181
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "a 将附带提供的电源线连接到电源线接口 1 ，然后将电源线插头插入到 220 V-240 V 电源插座 2。确保电源线插头完全插入到电源插座中。",
+        "bbox": [
+            78,
+            200,
+            879,
+            235
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/cca7fe5a607e778b64371e14625d5b8191d308701e293ab268e52b14f05c2f44.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            330,
+            251,
+            687,
+            403
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "bbox": [
+            80,
+            427,
+            187,
+            446
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "请务必使用随机附带的电源线。",
+        "bbox": [
+            102,
+            449,
+            346,
+            465
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "b 安装进纸托板。",
+        "bbox": [
+            78,
+            482,
+            235,
+            502
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce37ab7866218e98da2d07bd86d741ec41e7ddef74fdbd4433812ae1355f7224.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            289,
+            513,
+            727,
+            700
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "c 打开前盖。",
+        "bbox": [
+            78,
+            718,
+            199,
+            739
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c13e2cb4c1d8873edc3bd68765aafda15877b7c06ff1e4581bdfa42069abbbd5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            411,
+            750,
+            606,
+            912
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            924,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "d 提起烫金膜盒支架 1 的下半部分，然后将整个烫金膜盒支架 2 向上提起，以将它从设备中取出。",
+        "bbox": [
+            78,
+            108,
+            883,
+            127
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d2d530ccbc69f838eb5671f9c8eb891fc4fe9f7ba886733700aa89d2de71312.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            141,
+            604,
+            321
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "e 将烫金膜盒装入烫金膜盒支架中。有关详细信息，请参见：",
+        "bbox": [
+            78,
+            346,
+            379,
+            381
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 第 12 页上的装入全幅烫金膜盒",
+            " 第 14 页上的装入半幅烫金膜盒"
+        ],
+        "bbox": [
+            120,
+            387,
+            392,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "f 将烫金膜盒支架和烫金膜盒组件装入设备中。",
+            "g 用力向下合上前盖，并使其锁定到位。如果前盖未完全关闭，设备将不会工作。"
+        ],
+        "bbox": [
+            78,
+            441,
+            738,
+            489
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 选择液晶显示屏语言 （仅第一次开机时）",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            558,
+            131
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第一次打开设备时，必须选择液晶显示屏语言。",
+        "bbox": [
+            78,
+            144,
+            450,
+            162
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a 按 （打开 / 关闭电源）以打开设备。",
+        "bbox": [
+            78,
+            175,
+            441,
+            202
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[ 请等待 ] 会短时间显示在液晶显示屏上。",
+        "bbox": [
+            114,
+            203,
+            439,
+            220
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "b 当 [ 选择语言 ] 显示在液晶显示屏上时，按 OK (OK) （确定）。",
+        "bbox": [
+            78,
+            235,
+            616,
+            260
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "默认语言会显示在液晶显示屏上。",
+        "bbox": [
+            116,
+            262,
+            379,
+            279
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "c 按 ▼ 或 ▲ 选择所需的语言，然后按 OK (OK) （确定）。",
+        "bbox": [
+            78,
+            287,
+            571,
+            313
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            916,
+            939,
+            933,
+            951
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            957,
+            217,
+            973,
+            234
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4 安装烫金膜盒 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            328,
+            135
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "要安装烫金膜盒 （“ 全幅 ” 或 “ 半幅 ”），请将它装入到烫金膜盒支架中，然后将整个烫金膜盒支架和烫金膜盒组件安装到设备中。",
+        "bbox": [
+            76,
+            148,
+            924,
+            184
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 装入全幅烫金膜盒 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            208,
+            336,
+            229
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "打开烫金膜盒支架盖。",
+        "bbox": [
+            78,
+            246,
+            290,
+            265
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8887571e0147c51c5d1823aefa13f21fdb40e1fa219374740806099ac26cd9c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            356,
+            279,
+            656,
+            454
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "b 将烫金膜盒的烫金膜缠绕面放入烫金膜盒支架中。确保烫金膜盒的圆角部分 1 对准烫金膜盒支架盖上的卡槽 2。",
+        "bbox": [
+            78,
+            477,
+            921,
+            513
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/06cace7c819d2cade972b1d6c67608cd82f9d816dbba66193f6e080d01a255ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            225,
+            531,
+            790,
+            769
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "12 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "c 将烫金膜盒的框架面插入烫金膜盒支架中。确保：",
+        "bbox": [
+            78,
+            108,
+            504,
+            127
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 烫金膜盒框架面上的蓝色标记 1 对准烫金膜盒支架上的蓝色标记 2。",
+            " 烫金膜盒上的箭头标记 3 对准烫金膜盒支架上的卡槽 4。"
+        ],
+        "bbox": [
+            119,
+            132,
+            686,
+            175
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/371af77934faa691eb5401bf32a034ee2349624fde5b23033ef3f7fb993c06d0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            240,
+            189,
+            774,
+            429
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "d 向下轻推烫金膜盒，直到它锁定到位。",
+        "bbox": [
+            78,
+            441,
+            416,
+            460
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a9c5100cd3aaa7503b341a0f91d74b79424678b04446732a1410eb851d65770.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            336,
+            472,
+            679,
+            663
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "e 合上烫金膜盒支架盖，直到它锁定到位。",
+        "bbox": [
+            78,
+            682,
+            433,
+            701
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4bb023eb86edb360f1a4f48a0ac8f739b84bf56973105a563ec54084217437f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            344,
+            710,
+            671,
+            884
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "13 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "f 如果烫金膜松弛，请顺时针转动主轴 1 以消除松弛。",
+        "bbox": [
+            78,
+            108,
+            532,
+            127
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe3ddde4cb2a8bafd92385593be2db12a72303ce1e2e058f2c7030202d069770.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            287,
+            137,
+            733,
+            321
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 装入半幅烫金膜盒 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            353,
+            334,
+            373
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5d2a08e3eae84c7b70a965d57f5e7f31eb5b0f949c2a568d7273b18c8b722ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            388,
+            112,
+            412
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            394,
+            151,
+            411
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 对于半幅烫金膜盒，可以将烫金膜居中对齐或左对齐。",
+            "• 不支持右对齐。",
+            "• 出厂时，烫金膜为左对齐 （面 “2”）。"
+        ],
+        "bbox": [
+            86,
+            413,
+            527,
+            477
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b14d03f7f02a087587646c10b4bce1eff488e517e8b2a9b55b636bdf5b7ce2b0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            346,
+            494,
+            676,
+            656
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "a 去除固定胶带 1 和保护材料 2。",
+        "bbox": [
+            78,
+            679,
+            375,
+            701
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/153172203f4d2018aed0fe345480a9546b4d91adccab5baa02a3f7945141f289.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            713,
+            648,
+            856
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "14 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "b 如有必要，请将烫金膜放置在中间：",
+        "bbox": [
+            78,
+            108,
+            397,
+            127
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a) 将烫金膜盒框架面上的杆 1 移到右侧，直到它锁定到位。",
+            "b) 将烫金膜缠绕面 2 移到中间，直到它锁定到位。"
+        ],
+        "bbox": [
+            112,
+            127,
+            596,
+            162
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd6abb91c42b0447ca99741f013bd699de6581c2505f3a1a0df935ed365111f8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            372,
+            177,
+            661,
+            317
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "c 将烫金膜盒装入到烫金膜盒支架中，如第 12 页上的装入全幅烫金膜盒一节中所述。",
+        "bbox": [
+            78,
+            340,
+            772,
+            360
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/927e634ef0a1c1a91e775da0b2316d49304a476454a153cc022e6898f4b7e5cd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            225,
+            377,
+            790,
+            613
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "15 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3.4.3 取出烫金膜盒支架和烫金膜盒组件",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            496,
+            131
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/faceae8ed968e979723f973baccc54cb6e199838e7410ed80c9babfb2c55aad2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            106,
+            150,
+            135,
+            172
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "警告",
+        "text_level": 1,
+        "bbox": [
+            143,
+            149,
+            197,
+            172
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "设备的内部零件温度将会很烫。请等待设备冷却后再触摸他们。",
+        "bbox": [
+            91,
+            184,
+            589,
+            201
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 确保 Cover Lock （盖锁定） LED 指示灯熄灭。",
+            "b 打开前盖。"
+        ],
+        "bbox": [
+            80,
+            234,
+            488,
+            282
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdf05e8c95e03093c4948fd39f477442d1eb2bd21b958bcaaa6e80f704c668d0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            411,
+            293,
+            606,
+            455
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "c 提起烫金膜盒支架和烫金膜盒组件的下半部分 1，然后将整个烫金膜盒支架和烫金膜盒组件 2 向上提起，以将它从设备中取出。",
+        "bbox": [
+            78,
+            475,
+            926,
+            511
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/aafde9bdbc798943acacb339f6adf8d944d2c5c9c7c068bfe6985940f1f48c0e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            524,
+            606,
+            705
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "16 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "d 解锁烫金膜盒支架，如图中所示。",
+        "bbox": [
+            78,
+            108,
+            379,
+            127
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee2a0b78cfd90dc041124a0d441516dae62d8bdc9aa08ab9477f77d84a7a4c96.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            348,
+            139,
+            679,
+            320
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "e 将烫金膜盒的两端向上提起，以将烫金膜盒从烫金膜盒支架中取出。",
+        "bbox": [
+            78,
+            339,
+            648,
+            358
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/79ce450e6aea349ca598a0bec0630bd9d316bf19f13ae04674ceafa67d575992.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            336,
+            370,
+            676,
+            603
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "f 缠绕烫金膜以拉紧。",
+        "bbox": [
+            78,
+            622,
+            272,
+            643
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad01265bec645df703269a4a801dabaebccc66524d54a01338e5decf464be6d0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            336,
+            653,
+            674,
+            832
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b9ae82313cbeec27dc89e953be6b0b22c3c2342061ad4a82acd05971f70ff51.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            111,
+            112,
+            135
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            118,
+            151,
+            134
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "不使用烫金膜盒时，请按如下所示存放烫金膜盒：",
+        "bbox": [
+            101,
+            137,
+            491,
+            154
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "• 存放在原包装盒中。否则灰尘会落到烫金膜盒上，从而导致转印效果不佳。",
+        "bbox": [
+            99,
+            162,
+            702,
+            179
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad1cc7ff918ea4e87f88bd9c03e96b8025040c6e01eb156f4e802ed6554b481.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            281,
+            197,
+            727,
+            522
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 烫金膜盒的烫金膜缠绕面",
+            "2 烫金膜盒的框架面"
+        ],
+        "bbox": [
+            114,
+            537,
+            341,
+            578
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 存放在远离温度高和湿度高的环境。",
+            "• 存放在远离火和过热的位置。"
+        ],
+        "bbox": [
+            101,
+            584,
+            397,
+            625
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "使用本设备之前",
+        "bbox": [
+            78,
+            64,
+            184,
+            78
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "18 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "aside_text",
+        "text": "3 ",
+        "bbox": [
+            960,
+            217,
+            973,
+            232
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4 介质规格",
+        "text_level": 1,
+        "bbox": [
+            114,
+            62,
+            346,
+            102
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.1 可接受的介质",
+        "text_level": 1,
+        "bbox": [
+            76,
+            151,
+            331,
+            177
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fafe8614508e096b5ac336bdab7d78dac9700d79e74319ba121feb74e58539f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 使用长度介于 297 mm 和 500 mm 之间的广告纸时，请确保它的宽度不超过 210 mm。"
+        ],
+        "table_body": "<table><tr><td>长度:</td><td>90 mm 到 500  $mm^1$ </td></tr><tr><td>宽度:</td><td>55 mm 到 225 mm</td></tr><tr><td>重量</td><td>90  $g/m^2$  到 350  $g/m^2$ </td></tr><tr><td>纸张的最大总厚度</td><td>不超过 5 mm</td></tr></table>",
+        "bbox": [
+            78,
+            200,
+            936,
+            294
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            332,
+            189,
+            351
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "不要混合装入纸张质量或尺寸不同的介质。",
+        "bbox": [
+            101,
+            353,
+            437,
+            370
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "19 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "aside_text",
+        "text": "4 ",
+        "bbox": [
+            957,
+            260,
+            975,
+            278
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.2 不适用的介质",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            328,
+            135
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "设备可能无法送入下列介质并成功地将烫金膜转印到它们上面。",
+        "bbox": [
+            78,
+            148,
+            575,
+            165
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 带有碳膜的介质 ",
+            " 用墨水打印的介质 ",
+            " 未完全干透的介质",
+            " 以铅笔书写的介质",
+            " 厚度不均匀的介质，如信封",
+            " 有大褶皱或卷曲值超过 5 mm 的介质",
+            " 使用描图纸的介质",
+            " 使用涂层纸的介质",
+            " 照片 （相纸）",
+            " 在穿孔纸张上打印的介质",
+            " 带有照片、便笺或贴纸的介质",
+            " 使用无碳纸的介质",
+            " 使用活页纸张或已打孔纸张的介质",
+            " 带有回形针或钉书钉的介质 ",
+            " 含有织物或金属的纸张 ",
+            " 光面或反光的介质",
+            " 超过建议厚度的介质",
+            " 折叠 （含有许多层）的介质",
+            " 贴有胶带的介质 ",
+            " 纸板或纺织品"
+        ],
+        "bbox": [
+            84,
+            170,
+            395,
+            681
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " 打印在不规则形状纸张 （非正方形或长方形）上的介质",
+        "bbox": [
+            84,
+            417,
+            542,
+            434
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            81,
+            693,
+            187,
+            712
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "使用含磨木浆的纸张时，与使用不含磨木浆的纸张相比，分离辊的使用寿命可能会缩短。",
+        "bbox": [
+            101,
+            713,
+            795,
+            730
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "header",
+        "text": "介质规格",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "20 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "aside_text",
+        "text": "4 ",
+        "bbox": [
+            957,
+            260,
+            975,
+            277
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.3 其他规格",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            269,
+            135
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 进纸托板容量",
+        "text_level": 1,
+        "bbox": [
+            76,
+            160,
+            290,
+            181
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "进纸托板中可以装入的最多页数由纸张尺寸和重量确定。",
+        "bbox": [
+            76,
+            194,
+            522,
+            212
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dca8a83c98958be5df3e6189a33deb7be05536268b31598d5215b4a97ee74ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">纸张尺寸</td><td colspan=\"7\">纸张重量 (g/m2)</td></tr><tr><td>90</td><td>104</td><td>127</td><td>157</td><td>209</td><td>256</td><td>350</td></tr><tr><td rowspan=\"2\">最多页数</td><td>A4, LTR</td><td>44</td><td>38</td><td>31</td><td>25</td><td>19</td><td>16</td><td>12</td></tr><tr><td>LGL</td><td>36</td><td>31</td><td>26</td><td>21</td><td>16</td><td>13</td><td>10</td></tr></table>",
+        "bbox": [
+            78,
+            227,
+            937,
+            317
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 避免卡纸的上边距要求",
+        "text_level": 1,
+        "bbox": [
+            76,
+            341,
+            382,
+            363
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "为了避免卡纸，请确保介质的上边距：",
+        "bbox": [
+            78,
+            375,
+            377,
+            393
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 长度至少达到 5 mm。",
+            " 不含墨粉打印内容。"
+        ],
+        "bbox": [
+            83,
+            400,
+            272,
+            441
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bc8f98a90fadb85451d2d225f20892b1903afc97e3d27eb7a8111c670e000b0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            481,
+            614,
+            639
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 上边距",
+            "2 进纸方向"
+        ],
+        "bbox": [
+            114,
+            669,
+            215,
+            710
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            721,
+            187,
+            740
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "如果纸张上边距的长度不到 5 mm，则可能会出现卡纸的情况。",
+        "bbox": [
+            101,
+            741,
+            594,
+            759
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "header",
+        "text": "介质规格",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "aside_text",
+        "text": "4 ",
+        "bbox": [
+            957,
+            259,
+            975,
+            278
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "5 使用设备",
+        "text_level": 1,
+        "bbox": [
+            116,
+            63,
+            343,
+            100
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "在使用设备之前，确保您已经：",
+        "bbox": [
+            78,
+            151,
+            326,
+            168
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 准备好设备 （请参见第 6 页上的使用本设备之前）。",
+            " 安装了要使用的烫金膜盒 （请参见第 12 页上的安装烫金膜盒）。如果烫金膜盒中没有烫金膜，请不要开始转印。",
+            " 准备好已预先印刷的介质，您要使用设备在这些介质上转印烫金膜。"
+        ],
+        "bbox": [
+            83,
+            174,
+            929,
+            258
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            270,
+            189,
+            288
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 确保要使用的介质可接受。有关详细信息，请参见第 19 页上的介质规格。",
+            "• 建议只使用已用 Brother 单色激光打印机打印的介质。"
+        ],
+        "bbox": [
+            84,
+            289,
+            686,
+            332
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.1 转印 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            364,
+            210,
+            389
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            407,
+            189,
+            425
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "• 在纸张顶部留出 5 mm 的页边距。为了避免卡纸，确保上边距中没有墨粉打印内容。",
+        "bbox": [
+            84,
+            427,
+            761,
+            445
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/b87df73bd4e06dc6cba3089a3430cb61ee76b238eb1d3ffcab63166e9a92b171.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            366,
+            483,
+            614,
+            640
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 上边距",
+            "2 进纸方向"
+        ],
+        "bbox": [
+            114,
+            656,
+            215,
+            700
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 使用半幅烫金膜盒时，请确保不转印烫金膜的区域中不含墨粉打印内容以避免卡纸。",
+            "• 使用左对齐半幅烫金膜盒时，不能将烫金膜转印到小于 A5 的纸张上。",
+            "• 如果烫金膜盒中没有烫金膜，请不要开始转印作业。"
+        ],
+        "bbox": [
+            86,
+            705,
+            759,
+            770
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "a 按 （打开 / 关闭电源）以打开设备。",
+        "bbox": [
+            78,
+            794,
+            426,
+            818
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "等待到液晶显示屏消息从 [ 请等待 ] 更改为 [ 准备就绪 ]。 ",
+        "bbox": [
+            114,
+            821,
+            558,
+            839
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 使用激光打印机打印您要转印烫金膜的纸张。",
+            "c 将纸张装入进纸托板中 （有关详细信息，请参见第 23 页上的装入介质）。"
+        ],
+        "bbox": [
+            78,
+            850,
+            700,
+            898
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "正确装入纸张后，液晶显示屏消息会更改为 [ 介质设置 ?]。",
+        "bbox": [
+            114,
+            898,
+            576,
+            915
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "22 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "aside_text",
+        "text": "5 ",
+        "bbox": [
+            957,
+            303,
+            975,
+            320
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "d 按 (Start) （启动）。",
+        "bbox": [
+            78,
+            113,
+            334,
+            136
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会显示 [ 正在处理 ] 。",
+        "bbox": [
+            114,
+            139,
+            392,
+            156
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff6b45983877f84c5c703e46367a2b877814af03136f411721e30192dd5e83b3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            164,
+            112,
+            188
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            172,
+            151,
+            188
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "烫金膜转印完成后，液晶显示屏消息更改为 [ 准备就绪 ]。要继续转印，请返回到步骤 2。",
+        "bbox": [
+            101,
+            189,
+            800,
+            208
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "e 如果您已完成转印，请按 （打开 / 关闭电源）以关闭设备。",
+        "bbox": [
+            78,
+            230,
+            606,
+            255
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会显示 [ 正在关机 ] ，然后设备关闭。",
+        "bbox": [
+            114,
+            256,
+            517,
+            274
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.2 将烫金膜转印到双面纸张上",
+        "text_level": 1,
+        "bbox": [
+            78,
+            300,
+            504,
+            325
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "使用激光打印机打印纸张的正面。",
+            "b 使用设备将烫金膜转印到纸张正面的已打印内容上。",
+            "c 打印已转印烫金膜的纸张的反面。",
+            "d 将烫金膜转印到纸张反面的已打印内容上。"
+        ],
+        "bbox": [
+            78,
+            337,
+            522,
+            450
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.3 装入介质 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            473,
+            269,
+            498
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "进纸托板可以容纳总厚度不超过 5 mm 的多页纸张并会逐一送入每张纸。使用 90 ${ \\mathfrak { g } } / { \\mathfrak { m } } ^ { 2 }$ 到 $3 5 0 ~ { \\mathfrak { g } } / { \\mathfrak { m } } ^ { 2 }$ 介质，并且始终先呈扇形展开纸张再将它们装入到进纸托板中。",
+        "bbox": [
+            76,
+            512,
+            937,
+            550
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            80,
+            558,
+            189,
+            578
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 确保介质已完全干透。",
+            "• 请勿在进纸时抽拉纸张。"
+        ],
+        "bbox": [
+            86,
+            579,
+            294,
+            618
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "header",
+        "text": "使用设备",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "23 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "aside_text",
+        "text": "5 ",
+        "bbox": [
+            957,
+            303,
+            975,
+            320
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 装入标准尺寸介质",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            334,
+            131
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "设备与以下标准尺寸介质兼容：",
+        "bbox": [
+            78,
+            144,
+            326,
+            162
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " A4 ",
+            " A5 ",
+            " JISB5 ",
+            " LTR/LGL "
+        ],
+        "bbox": [
+            84,
+            165,
+            179,
+            250
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "a 将可伸缩进纸托板翼板 1 和可伸缩纸张支撑翼板 2 从设备拉出。细心调整放置可伸缩纸张支撑翼板的位置。如果可伸缩纸张支撑翼板比介质尺寸略长，则当设备弹出装入的纸张时，可能不能保持它们原来的顺序。",
+        "bbox": [
+            78,
+            265,
+            931,
+            321
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/7de06c671617e396d0df03e6e866b6a5360e113a304554d95396052d461dd5e5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            383,
+            332,
+            633,
+            565
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "b 调整导纸板 1 以适合介质宽度。",
+        "bbox": [
+            78,
+            582,
+            372,
+            603
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/61298e438cca706434a1e6b9c36afbc31b7a29b4ce8971ab8e93c6b2848bc847.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            385,
+            612,
+            633,
+            845
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "header",
+        "text": "使用设备",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "24 ",
+        "bbox": [
+            916,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "aside_text",
+        "text": "5 ",
+        "bbox": [
+            957,
+            303,
+            973,
+            320
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "使用设备",
+        "bbox": [
+            78,
+            64,
+            142,
+            78
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "c 沿长边或短边呈扇形展开纸张多次。",
+        "bbox": [
+            78,
+            108,
+            398,
+            127
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/01b42087b404d0e40203caa01f546f605ae2adf168bfb1a4aea2481a14e9d220.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            140,
+            647,
+            308
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "d 使纸张边缘对齐。",
+        "bbox": [
+            78,
+            332,
+            253,
+            351
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/4668827e019a469c8c99be96b3851649daa88435334503921c22d4f8048b3bcf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            413,
+            374,
+            573,
+            526
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "e 将纸张以正面朝下、顶边先进入的方式放入进纸托板的导纸板之间，直到感觉顶边触到设备的内部为止。小心、缓慢地送入薄纸，避免边缘折叠。",
+        "bbox": [
+            78,
+            551,
+            910,
+            589
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc3d3851aede6a4db8c69f2ece43923473efb9187074cd93dfeb67d6b2d86b9f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            357,
+            600,
+            617,
+            845
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "aside_text",
+        "text": "5 ",
+        "bbox": [
+            960,
+            303,
+            973,
+            320
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 装入非标准尺寸介质",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            359,
+            131
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "a 调整导纸板 1 以适合介质宽度。",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            372,
+            170
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/e32f2b2fef2f9e459628ccde5cda42763fd45db96eb84c0f23ac92bf3f051d29.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            385,
+            184,
+            630,
+            418
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "b 将纸张以正面朝下、顶边先进入的方式放入进纸托板的导纸板之间，直到感觉顶边触到设备的内部为止。",
+        "text_level": 1,
+        "bbox": [
+            78,
+            436,
+            929,
+            456
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/1aad27e9d796f79fb1ce29e1c6905bf3c840d5ba3b5fb4577461c602642d1eeb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            357,
+            460,
+            656,
+            748
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/40edffc1ba51db8fa174cbbd840ddff8490e4a7ac6adff8763f1a2a16185cafd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            756,
+            109,
+            779
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            764,
+            151,
+            781
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 设备将一直转印烫金膜，直到进纸托板中的纸张用完。",
+            "如果您在烫金膜转印期间装入另外的纸张，设备可能无法正确对齐它们并且可能无法成功地将烫金膜转印到这些新增加的纸张上。",
+            "• 仅当液晶显示屏上显示 [ 准备就绪 ]时，才装入另外的纸张。",
+            "• 如果纸张比可伸缩进纸托板翼板长，请托住纸张以确保设备正确送入纸张。"
+        ],
+        "bbox": [
+            86,
+            783,
+            933,
+            881
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "使用设备",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "26 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "aside_text",
+        "text": "5 ",
+        "bbox": [
+            957,
+            303,
+            973,
+            320
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            62,
+            151,
+            100
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "更改设置 ",
+        "text_level": 1,
+        "bbox": [
+            191,
+            65,
+            343,
+            98
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "使用主菜单来更改设备的设置以及重置设备的设置和操作历史记录。",
+        "bbox": [
+            76,
+            151,
+            612,
+            170
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "6.1 访问主菜单 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            193,
+            299,
+            218
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cca85b0fb78855c6223bacd37196b819b2e3adbb12eb1b35ec9eca32908c106.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            232,
+            112,
+            256
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            239,
+            151,
+            256
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "有关主菜单项的详细信息，请参见第 28 页上的菜单项。",
+        "bbox": [
+            101,
+            258,
+            544,
+            275
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 按 Y (Menu) （菜单）。",
+            "b 按 ▼ 或 ▲ 选择 [ 菜单 ]，然后按 OK (OK) （确定）。菜单设置将会出现。"
+        ],
+        "bbox": [
+            80,
+            292,
+            542,
+            356
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "要访问子菜单，请使用 ▼ 或 ▲。",
+        "bbox": [
+            116,
+            358,
+            375,
+            374
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "c 要更改设置值，请按 ▼ 或 ▲ 进行选择，然后按 (OK) （确定）。",
+            "d 按 (Stop/Exit) （停止 / 退出）。"
+        ],
+        "bbox": [
+            80,
+            392,
+            661,
+            456
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/723c9593361d3ac32a18a23e949a1f6f20ed77a29f470f3e91b8359def36a76b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            465,
+            112,
+            489
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            472,
+            151,
+            488
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 要退出主菜单，请按 (Stop/Exit) （停止 / 退出）。",
+            "• 要返回到上一个菜单屏幕，请按 ↑ (Clear/Back) （清除 / 返回）。",
+            "• 在保持不操作大约 30 秒之后，设备会退出主菜单。"
+        ],
+        "bbox": [
+            86,
+            494,
+            643,
+            577
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "page_number",
+        "text": "27 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b029ba2b4d77f960cf6aacdf493e74401e00cd42bef73e4e760e88f9cb4bd7c.jpg",
+        "table_caption": [
+            "6.2 菜单项 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">菜单/子菜单</td><td>概述</td><td>设置值</td></tr><tr><td colspan=\"2\">语言</td><td>更改液晶显示屏语言。</td><td>请参见第11页上的选择液晶显示屏语言(仅第一次开机时)。</td></tr><tr><td colspan=\"2\">自动关机</td><td>设置在不操作一段时间之后自动关闭设备的时间量。</td><td>■关■1小时■2小时■4小时■8小时</td></tr><tr><td colspan=\"2\">温度</td><td>请参见第29页上的调整转印温度。</td><td>(-)低到高(+)有五个温度设置值可用。</td></tr><tr><td colspan=\"2\">打印速度</td><td>请参见第30页上的更改送纸速度。</td><td>■15 ppm■7.0 ppm这些设置值在纸张尺寸为A4时适用。</td></tr><tr><td rowspan=\"4\">节省烫金膜模式</td><td>关</td><td rowspan=\"4\">请参见第31页上的节省烫金膜模式。</td><td rowspan=\"4\">请参见第31页上的节省烫金膜模式。</td></tr><tr><td>上</td></tr><tr><td>跳过</td></tr><tr><td>中间</td></tr><tr><td rowspan=\"2\">重置</td><td>设备重置</td><td>将主菜单设置恢复为默认设置。</td><td>-</td></tr><tr><td>出厂重置</td><td>将所有设备设置恢复为默认设置。</td><td>-</td></tr><tr><td rowspan=\"4\">设备信息</td><td>序列号</td><td>显示序列号。</td><td>-</td></tr><tr><td>版本</td><td>显示固件版本。</td><td>-</td></tr><tr><td>页码计数器</td><td>显示已转印纸张总页数。</td><td>-</td></tr><tr><td>卡纸计数器</td><td>显示卡纸总页数。</td><td>-</td></tr></table>",
+        "bbox": [
+            78,
+            158,
+            936,
+            693
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            80,
+            64,
+            140,
+            77
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            960,
+            348,
+            973,
+            364
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "6.3 提高转印质量",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            328,
+            135
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "6.3.1 调整转印温度",
+        "text_level": 1,
+        "bbox": [
+            78,
+            160,
+            290,
+            181
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "如果烫金膜很容易脱落或打印缺失，请提高设备的转印温度。",
+        "bbox": [
+            76,
+            194,
+            558,
+            212
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "a 按 (Temperature) （温度）。",
+        "bbox": [
+            78,
+            226,
+            390,
+            250
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现转印温度更改屏幕。",
+        "bbox": [
+            114,
+            251,
+            433,
+            268
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/29332d2f3e15a7c182e2ac9b4469ebebe8299d01e4800dc90adb382fcc18a1ff.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            80,
+            274,
+            112,
+            300
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            282,
+            151,
+            298
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "还可以按如下所示操作：按 YI (Menu) （菜单），然后按 ▼ 或 ▲ 选择 [ 温度 ]，然后按 (OK) （确定）。",
+        "bbox": [
+            99,
+            303,
+            937,
+            346
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "b 按 ▼ 或 ▲ 调整温度，然后按 (OK) （确定）。",
+        "bbox": [
+            78,
+            367,
+            517,
+            389
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "有五个转印温度设置值。默认值是中间值。",
+        "bbox": [
+            114,
+            392,
+            450,
+            408
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Tempⓡᓜ ",
+        "bbox": [
+            406,
+            425,
+            449,
+            441
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bd3c9ae9e335f7914bfa5c374c935ca2ddd32c612df17f613592ccb27391a31.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            437,
+            441,
+            553,
+            460
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "▲：以 [+] 方向提高温度。",
+            "▼：以 [-] 方向降低温度。"
+        ],
+        "bbox": [
+            116,
+            481,
+            318,
+            516
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "c 按 (Stop/Exit) （停止 / 退出）。",
+        "bbox": [
+            78,
+            527,
+            419,
+            551
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "page_number",
+        "text": "29 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "6.3.2 更改送纸速度",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            290,
+            131
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "如果烫金膜很容易脱落或打印缺失，请降低设备的送纸速度。",
+        "bbox": [
+            76,
+            144,
+            558,
+            162
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "a 按 YI (Menu) （菜单）。",
+        "bbox": [
+            78,
+            175,
+            330,
+            201
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "b 按 ▼ 或 ▲ 选择 [ 打印速度 ]，然后按 OK (OK) （确定）。",
+        "bbox": [
+            78,
+            216,
+            576,
+            241
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "c 按 ▼ 或 ▲ 更改送纸速度，然后按 OK (OK) （确定）。",
+        "bbox": [
+            78,
+            256,
+            553,
+            283
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/770700fa495546c5f61f8d1a161439793ae4c1abebbac9a31124264d153f4990.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            78,
+            289,
+            153,
+            313
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "对于 A4 纸张尺寸，选择 7.0 ppm 或 15 ppm。",
+        "bbox": [
+            101,
+            316,
+            465,
+            334
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "d 按 (Stop/Exit) （停止 / 退出）。",
+        "bbox": [
+            78,
+            349,
+            419,
+            375
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_number",
+        "text": "30 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6.4 节省烫金膜模式",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            359,
+            136
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "使用节省烫金膜模式，仅将烫金膜转印到纸张的特定区域。",
+        "bbox": [
+            76,
+            148,
+            540,
+            165
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "可以选择三个节省烫金膜模式设置之一。",
+        "bbox": [
+            78,
+            170,
+            395,
+            188
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/9708738af1ff1a14f31a6180dd123de830c117165c38f265f863e7fb0463c54b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>上</td><td>跳过</td><td>中间</td></tr><tr><td><img src=\"images/05ffdff6348a16e189976d346c503913638e03e672fff2fcef8ddf15c64ce691.jpg\"/></td><td><img src=\"images/a37a8ff14bcbdad49d99575892b524ecea7fd1ffa9e3c24300ed485c1989692d.jpg\"/></td><td><img src=\"images/caa1cb0cb3680b965b7a6868d8b0107447c11cf6155414ad1d6e08e9f99b841e.jpg\"/></td></tr><tr><td>指定要转印到纸张的烫金膜长度,让其余区域保留为空白。</td><td>指定从纸张顶边算起要保留为空白的区域,仅在此区域以外转印烫金膜。此模式下不可使用半幅烫金膜盒。</td><td>指定从纸张顶边算起要保留为空白的区域,然后指定要转印的烫金膜长度。此模式下不可使用半幅烫金膜盒。</td></tr></table>",
+        "bbox": [
+            78,
+            203,
+            937,
+            473
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/01ec8a692bfd4e406e586bc4582e0b5826b9c5e407b31a379d2337716ca17678.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            479,
+            112,
+            503
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            487,
+            151,
+            503
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 为了避免在使用节省烫金膜模式时打印缺失或模糊，请确保设备不会转印烫金膜的区域 （空白区域）不含墨粉打印内容。",
+            "• 使用节省烫金膜模式时，不能将烫金膜印到小于 A5 的纸张上。"
+        ],
+        "bbox": [
+            86,
+            505,
+            919,
+            562
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/7703dd724e89f181814ce6e5c7ad467b16313f616afc08133251a53f322444db.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">进纸尺寸</td><td>节省烫金膜模式:关</td><td>宽度:55 mm 到 225 mm长度:90 mm 到 500 mm</td></tr><tr><td>节省烫金膜模式:开</td><td>宽度:55 mm 到 225 mm长度:210 mm 到 500 mm</td></tr></table>",
+        "bbox": [
+            102,
+            579,
+            687,
+            670
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "page_number",
+        "text": "31 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            365
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "6.4.1 仅将烫金膜转印到纸张右上方 （顶部）",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            535,
+            131
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "指定要转印到纸张的烫金膜长度，让其余区域保留为空白。",
+        "bbox": [
+            76,
+            144,
+            539,
+            162
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/d20aad13231a45de4de114865c24e7c0d07ec5de7671bf3416cebff5d434debb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            416,
+            184,
+            602,
+            363
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 进纸方向",
+            "2 5 mm 页边距不含任何墨粉打印内容",
+            "3 转印区域"
+        ],
+        "bbox": [
+            114,
+            384,
+            429,
+            446
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "（烫金膜将只转印到此区域）",
+        "bbox": [
+            143,
+            449,
+            362,
+            465
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "4 空白区域",
+        "bbox": [
+            114,
+            470,
+            215,
+            487
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "（此区域不得包含任何墨粉打印内容）",
+        "bbox": [
+            143,
+            489,
+            434,
+            506
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "a 按 (Foil Save) （节省烫金膜）。",
+        "bbox": [
+            78,
+            520,
+            413,
+            543
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现节省烫金膜模式设置屏幕。",
+        "bbox": [
+            114,
+            545,
+            486,
+            562
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7ea64cbf6755111f60554b3d58b6faa8f3e785fb3878c7157f36b3ac6ec15f9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            80,
+            568,
+            109,
+            592
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            575,
+            151,
+            592
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "还可以按如下所示操作：按 Y (Menu) （菜单），然后按 ▼ 或 ▲ 选择 [ 节省烫金膜模式 ]，然后按OK (OK) （确定）。",
+        "bbox": [
+            99,
+            598,
+            908,
+            648
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 按 ▼ 或 ▲ 选择 [ 上 ]，然后按 OK (OK) （确定）。",
+            "c 按 ▼ 或 ▲ 选择从纸张顶边算起的要转印烫金膜的长度 （介于 50 mm 和 170 mm 之间），然后按(OK) （确定）。",
+            "d 要退出节省烫金膜模式，请按 (Stop/Exit) （停止 / 退出），然后装入介质。",
+            "e 按 (Start) （启动）。"
+        ],
+        "bbox": [
+            78,
+            665,
+            890,
+            812
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "page_number",
+        "text": "32 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.4.2 仅将烫金膜转印到纸张的下半部分 （跳过）",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            580,
+            131
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "指定从纸张顶边算起要保留为空白的区域，仅在此区域以外转印烫金膜。此模式下不可使用半幅烫金膜盒。",
+        "bbox": [
+            76,
+            144,
+            918,
+            162
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6393841350c2aa110170b0d182019a0a9ed0bf267c5393e94b94b4609e0f899.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            416,
+            181,
+            602,
+            360
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 进纸方向",
+            "2 空白区域 （跳过）"
+        ],
+        "bbox": [
+            114,
+            379,
+            282,
+            420
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "（此区域不得包含任何墨粉打印内容）",
+        "bbox": [
+            143,
+            421,
+            434,
+            437
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "3 转印区域",
+        "bbox": [
+            114,
+            443,
+            217,
+            459
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "（烫金膜将只转印到此区域）",
+        "bbox": [
+            143,
+            460,
+            362,
+            477
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "a 按 (Foil Save) （节省烫金膜）。",
+        "bbox": [
+            78,
+            492,
+            413,
+            515
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现节省烫金膜模式设置屏幕。",
+        "bbox": [
+            114,
+            517,
+            486,
+            534
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/51d2f8477e29bdd33018f958a104d2ff974503e7ed3400ab0ef11a7c643e7cdf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            80,
+            540,
+            109,
+            564
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            546,
+            151,
+            564
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "还可以按如下所示操作：按 Y (Menu)（菜单），然后按 ▼ 或 ▲ 选择 [ 节省烫金膜模式 ]，然后按OK (OK) （确定）。",
+        "bbox": [
+            99,
+            570,
+            908,
+            620
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 按 ▼ 或 ▲ 选择 [ 跳过 ]，然后按 OK (OK) （确定）。",
+            "c 按 ▼ 或 ▲ 选择从纸张顶边算起的空白区域的长度 （介于 100 mm 和 1200 mm 之间），然后按COK (OK) （确定）。",
+            "d 要退出节省烫金膜模式，请按 (Stop/Exit) （停止 / 退出），然后装入介质。",
+            "e 按 (Start) （启动）。"
+        ],
+        "bbox": [
+            78,
+            637,
+            874,
+            784
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "page_number",
+        "text": "33 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.4.3 仅将烫金膜转印到纸张中间部分 （中间）",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            558,
+            131
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "指定从纸张顶边算起要保留为空白的区域，然后指定要转印的烫金膜长度。此模式下不可使用半幅烫金膜盒。",
+        "bbox": [
+            76,
+            144,
+            910,
+            179
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/39af0718a21d2021b3126f0acae015518228cba254ed39ea86869bfc98fb40a7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            416,
+            197,
+            602,
+            375
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 进纸方向",
+            "2 空白区域 （跳过）"
+        ],
+        "bbox": [
+            114,
+            394,
+            282,
+            435
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "（此区域不得包含任何墨粉打印内容）",
+        "bbox": [
+            143,
+            437,
+            434,
+            454
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "3 转印区域",
+        "bbox": [
+            114,
+            458,
+            217,
+            475
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "（烫金膜将只转印到此区域）",
+        "bbox": [
+            143,
+            477,
+            362,
+            494
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "按 (Foil Save) （节省烫金膜）。",
+        "bbox": [
+            78,
+            507,
+            413,
+            532
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现节省烫金膜模式设置屏幕。",
+        "bbox": [
+            114,
+            532,
+            486,
+            549
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1ea7213350aa1efcbc82fd54c051cd8d442a9741fa2739b7e79a197fc441a2b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            80,
+            556,
+            109,
+            579
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            563,
+            151,
+            579
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "还可以按如下所示操作：按 YI (Menu)（菜单），然后按 ▼ 或 ▲ 选择 [ 节省烫金膜模式 ]，然后按OK (OK) （确定）。",
+        "bbox": [
+            99,
+            584,
+            908,
+            635
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 按 ▼ 或 ▲ 选择 [ 中间 ]，然后按 OK (OK) （确定）。",
+            "c 按 ▼ 或 ▲ 选择从纸张顶边算起的空白区域的长度 （介于 100 mm 和 1200 mm 之间），然后按(OK) （确定）。",
+            "d 按 ▼ 或 ▲ 选择跳过纸张上半部分后要转印的烫金膜长度 （介于 30 mm 和 1100 mm 之间），然后按OK (OK) （确定）。",
+            "e 要退出节省烫金膜模式，请按 (Stop/Exit) （停止 / 退出），然后装入介质。",
+            "f 按 (Start) （启动）。"
+        ],
+        "bbox": [
+            78,
+            651,
+            919,
+            864
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "page_number",
+        "text": "34 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "6.4.4 关闭节省烫金膜模式",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            359,
+            131
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "按 (Foil Save) （节省烫金膜）。",
+        "bbox": [
+            78,
+            153,
+            413,
+            177
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现节省烫金膜模式设置屏幕。",
+        "bbox": [
+            120,
+            178,
+            491,
+            194
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/32db9c2e1c5922d48c3917cc7012f88822448f564efc5da5d5251ee50a743122.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            203,
+            112,
+            227
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            210,
+            151,
+            227
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "还可以按如下所示操作：按 YI (Menu)（菜单），然后按 ▼ 或 ▲ 选择 [ 节省烫金膜模式 ]，然后按OK (OK) （确定）。",
+        "bbox": [
+            99,
+            232,
+            910,
+            284
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 按 ▼ 或 ▲ 选择 [ 关 ]，然后按 OK (OK) （确定）。",
+            "c 按 (Stop/Exit) （停止 / 退出）。"
+        ],
+        "bbox": [
+            78,
+            305,
+            524,
+            365
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "6.5 收藏",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            212,
+            135
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "保存常用的转印设置以快速访问。可以指定下列设置：",
+        "bbox": [
+            78,
+            148,
+            503,
+            165
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 转印温度",
+            " 送纸速度",
+            " 节省烫金膜模式设置"
+        ],
+        "bbox": [
+            84,
+            170,
+            267,
+            237
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6.5.1 将收藏设置分配给操作面板按键",
+        "text_level": 1,
+        "bbox": [
+            78,
+            264,
+            473,
+            284
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "a 按 ★1 (Favorite1) （收藏 1）或 ★2 (Favorite2) （收藏 2）。",
+        "bbox": [
+            78,
+            306,
+            630,
+            330
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "液晶显示屏上会出现 [ 立即注册 ?] ",
+        "bbox": [
+            114,
+            332,
+            395,
+            349
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/f05f575c2740e5481d359d25429e54503842c79af497d9d8689d56426a6ec30b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            356,
+            112,
+            381
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            364,
+            151,
+            379
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "如果有任何收藏设置已分配给您按下的收藏按键，则液晶显示屏会根据您按下的按键显示 [ 收藏 #01] 或[ 收藏 #02]。",
+        "bbox": [
+            99,
+            382,
+            929,
+            418
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "b 按 ▲。",
+            "c 设置转印温度。"
+        ],
+        "bbox": [
+            80,
+            435,
+            235,
+            484
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "有关详细信息，请参见 第 29 页上的调整转印温度。",
+        "bbox": [
+            114,
+            484,
+            526,
+            501
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "d 设置送纸速度。",
+        "bbox": [
+            80,
+            513,
+            235,
+            531
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "有关详细信息，请参见 第 30 页上的更改送纸速度。",
+        "bbox": [
+            114,
+            531,
+            526,
+            548
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "e 设置 “ 节省烫金膜模式” 设置。",
+        "bbox": [
+            80,
+            560,
+            354,
+            579
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "有关详细信息，请参见 第 31 页上的节省烫金膜模式。",
+        "bbox": [
+            114,
+            579,
+            544,
+            596
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6.5.2 调出收藏 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            622,
+            243,
+            643
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "a 按 ★1 (Favorite1) （收藏 1）或 ★2 (Favorite2) （收藏 2）。",
+        "bbox": [
+            78,
+            664,
+            630,
+            688
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "便会调出收藏。根据您按下的按键，液晶显示屏上会出现 [ 收藏 #01] 或 [ 收藏 #02] 。",
+        "bbox": [
+            114,
+            689,
+            803,
+            708
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/70cba2db19af1aae1aab6482e75f2edfd60fc519c9f4ce37902259fe00aa2af1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            713,
+            112,
+            739
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            722,
+            151,
+            737
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "如果未将任何收藏设置分配给您按下的收藏按键，则将会出现 [ 立即注册 ?] 。",
+        "bbox": [
+            101,
+            740,
+            723,
+            759
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "b 确保介质已正确装入，然后按 (Start) （启动）。",
+        "bbox": [
+            78,
+            781,
+            547,
+            803
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "烫金膜转印便会开始。",
+        "bbox": [
+            114,
+            806,
+            289,
+            824
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "page_number",
+        "text": "36 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6.5.3 覆盖或删除收藏 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            313,
+            131
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 当 [ 准备就绪 ] 或 [ 介质设置 ?] 出现在液晶显示屏上时，按 ▲。 [ 选择收藏 ] 会出现在液晶显示屏上。 ",
+            "b 按 ★1 (Favorite1) （收藏 1）或 ★2 (Favorite2)（收藏 2）以覆盖或删除已分配给此按键的设置。您按下的收藏按键的编号和 [▲ 更改 ▼ 清除 ] 会出现在液晶显示屏上。",
+            "c 要覆盖收藏：按 ▲。收藏覆盖屏幕将会出现。分配新的收藏。要删除收藏：按 ▼。 [ 删除此数据 ?] 将会此出现。按 ▲ 以删除收藏。",
+            "d 按 (Stop/Exit) （停止 / 退出）。"
+        ],
+        "bbox": [
+            78,
+            149,
+            910,
+            360
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "page_number",
+        "text": "37 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "6.6 重置设置 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            269,
+            135
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "您可以使用设备的操作面板来将主菜单设置和设备设置重置为其默认设置。",
+        "bbox": [
+            76,
+            148,
+            666,
+            165
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 按 Y (Menu) （菜单）。",
+            "b 按 ▼ 或 ▲ 选择 [ 重置 ]，然后按 OK (OK) （确定）。",
+            "c 按 ▼ 或 ▲ 选择 [ 设备重置 ] 或 [ 出厂重置 ]，然后按 (OK) （确定）。"
+        ],
+        "bbox": [
+            78,
+            174,
+            696,
+            253
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": " 设备重置：将主菜单设置重置为其默认设置。",
+        "bbox": [
+            107,
+            253,
+            480,
+            269
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": " 出厂重置：将所有设备设置重置为其默认设置。",
+        "bbox": [
+            107,
+            273,
+            496,
+            289
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "按 ▲。",
+        "bbox": [
+            78,
+            301,
+            168,
+            321
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "[ 是否重新启动?] 会出现在液晶显示屏上。",
+        "bbox": [
+            114,
+            320,
+            450,
+            337
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "e 按 ▲。",
+        "bbox": [
+            78,
+            349,
+            168,
+            369
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "设备会重新启动，并且设置将会重置。",
+        "bbox": [
+            114,
+            368,
+            415,
+            384
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bd6d218902b2162c3465e8e77028dfc7eb534040074be9571353c560a40cf20.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            80,
+            391,
+            112,
+            415
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            398,
+            151,
+            415
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "要返回到上一个菜单屏幕，请按 ↑ (Clear/Back) （清除 / 返回）。",
+        "bbox": [
+            101,
+            421,
+            643,
+            444
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "page_number",
+        "text": "38 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "6.7 更改介质送入压力",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            388,
+            136
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "当您使用粗糙的纸张，设备可能会一次送入多张纸，从而导致错误。如果出现这种情况，请使用进纸调节器降低介质送入压力。",
+        "bbox": [
+            76,
+            148,
+            928,
+            182
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/de25f440023be48d21f8149b5204e67408e6d4d5aeff70c7ed28b0667fd82b75.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            188,
+            112,
+            212
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            194,
+            151,
+            212
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 请确保以相同的方式调整两颗螺丝钉，以避免不均匀送纸。",
+            "• 如果需要，使用一字螺丝刀来调整进纸调节器螺丝钉。"
+        ],
+        "bbox": [
+            86,
+            215,
+            563,
+            255
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "打开进纸调节器舱盖 1 并逆时针转动进纸调节器螺丝钉 2，如图中所示。",
+        "bbox": [
+            76,
+            294,
+            665,
+            313
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b843098a7752e3fa8a0d69f2c371a3f46fdfb76e5d40f71b52e3799db8a9f23.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            277,
+            332,
+            740,
+            494
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "header",
+        "text": "更改设置 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "page_number",
+        "text": "39 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "aside_text",
+        "text": "6 ",
+        "bbox": [
+            957,
+            346,
+            973,
+            364
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "7 日常维护",
+        "text_level": 1,
+        "bbox": [
+            116,
+            65,
+            343,
+            100
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "7.1 清洁设备的外部",
+        "text_level": 1,
+        "bbox": [
+            76,
+            151,
+            359,
+            177
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "a 使用柔软的无绒干抹布擦去操作面板上的灰尘。",
+        "bbox": [
+            78,
+            188,
+            488,
+            208
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e212170facdf007e35ee5fc67d020d2f5bf830f8c5a1d8b27fc39b672184559.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            385,
+            220,
+            606,
+            381
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "b 将可伸缩出纸托板翼板拉出到设备外。",
+        "bbox": [
+            78,
+            403,
+            416,
+            422
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/627a9f78d006f1c7db01d081321fc2efda06e35cffc225fe1c7dae2f008a05a8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            385,
+            431,
+            630,
+            622
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "c 使用柔软的无绒干抹布擦拭出纸托板内侧和可伸缩出纸托板翼板以去除灰尘。",
+        "bbox": [
+            78,
+            644,
+            720,
+            665
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f21029b15c5fe98121c925832b3f1c9345b35222a5738ab9779aade0bc5e59e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            334,
+            672,
+            630,
+            863
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "d 将可伸缩出纸托板翼板牢固地插回设备中。",
+        "bbox": [
+            78,
+            884,
+            450,
+            903
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "page_number",
+        "text": "40 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "aside_text",
+        "text": "7 ",
+        "bbox": [
+            957,
+            389,
+            973,
+            406
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "7.2 清洁分离辊 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            299,
+            135
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "关闭设备并拔下电源线。",
+            "b 取出进纸托板，如图中所示。"
+        ],
+        "bbox": [
+            78,
+            146,
+            343,
+            194
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/d87a96a7db339f485f21d82931e1ae1b2f12d1b9ed952cd169e50e939a37c8d6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            289,
+            207,
+            727,
+            393
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "c 打开设备背面的分离辊舱盖 1，使用柔软的湿抹布清洁分离辊 2。",
+        "bbox": [
+            78,
+            413,
+            640,
+            432
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c484e6f23912f73801fa06b5904744fae3c84ed383248934f57f993443c1d31.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            289,
+            444,
+            727,
+            606
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "d 关闭分离辊舱盖。",
+            "e 重新安装进纸托板。"
+        ],
+        "bbox": [
+            78,
+            625,
+            271,
+            674
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "header",
+        "text": "日常维护",
+        "bbox": [
+            80,
+            63,
+            142,
+            77
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            939,
+            933,
+            951
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "aside_text",
+        "text": "7 ",
+        "bbox": [
+            957,
+            389,
+            973,
+            406
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            62,
+            151,
+            100
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "故障排除 ",
+        "text_level": 1,
+        "bbox": [
+            191,
+            65,
+            343,
+            98
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "8.1 概述",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            210,
+            177
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "本章阐述如何解决您在使用 Brother 设备过程中可能会遇到的常见问题。",
+        "bbox": [
+            78,
+            189,
+            645,
+            208
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "8.2 确定问题",
+        "text_level": 1,
+        "bbox": [
+            78,
+            232,
+            269,
+            259
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "确保已检查下列内容：",
+        "bbox": [
+            78,
+            270,
+            253,
+            288
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            " 已正确连接电源线，且设备已开机。",
+            " 已去除所有包装材料。",
+            " 前盖和分离辊舱盖已正确盖好。"
+        ],
+        "bbox": [
+            83,
+            294,
+            383,
+            360
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "8.2.1 一般设备操作",
+        "text_level": 1,
+        "bbox": [
+            78,
+            387,
+            290,
+            407
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ca3cb3990089b7ea60dc05c4a4f46aa3780cbdaf8c86bcc32cb56a419257f02.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>问题</td><td>原因</td><td>操作</td></tr><tr><td>电源意外中断。</td><td>■ 电源线未正确连接。■ 设备需要养护。</td><td>■ 检查电源线已正确连接。■ 如果此操作不能解决问题,请联系您当地的 Brother 经销商。</td></tr><tr><td>前盖未完全盖好。</td><td>烫金膜盒支架和烫金膜盒组件未正确安装。</td><td>请参见第9页上的连接设备并安装进纸托板和烫金膜盒,然后重新装入烫金膜盒支架和烫金膜盒组件。</td></tr><tr><td rowspan=\"3\">前盖未打开。</td><td>前盖已锁定,因为设备内部的温度非常高。</td><td>等待到设备冷却下来。</td></tr><tr><td>前盖已锁定,因为设备正在转印。</td><td>等待到设备完成烫金膜转印。</td></tr><tr><td>前盖锁定时设备已关闭。</td><td>■ 再次打开电源。■ 如果前盖仍然锁定,请等待到设备冷却下来。</td></tr></table>",
+        "bbox": [
+            78,
+            431,
+            937,
+            684
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "page_number",
+        "text": "42 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            957,
+            431,
+            973,
+            450
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "8.2.2 打印质量问题",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            290,
+            131
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "table",
+        "img_path": "images/668915e26ca7d68d706565af00949c00b67f0b1875ad077accfc77083a39a606.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>问题</td><td>原因</td><td>操作</td></tr><tr><td rowspan=\"5\">烫金膜不转印。<img src=\"images/23cff064f8fd4b56ae45feabe4cd313369db3c55d1a6e374c486871ca8111a84.jpg\"/></td><td>转印温度太低。</td><td>提高转印温度。请参见第29页上的调整转印温度。</td></tr><tr><td>纸张是使用非墨粉方法打印的。</td><td>使用含有墨粉打印内容的纸张。</td></tr><tr><td>纸张污脏。</td><td>使用干净的纸张。</td></tr><tr><td>设备内部的热转印辊污脏。</td><td>请联系您当地的Brother经销商。</td></tr><tr><td>定影单元寿命将尽。</td><td>请联系您当地的Brother经销商。</td></tr><tr><td>打印内容脱落。<img src=\"images/9564327f587115471edb0ca62d55f53fc1c8de062e64f49dcff333a46a7c3c1f.jpg\"/></td><td>墨粉稳固效果差。</td><td>使用激光打印机重新打印纸张。</td></tr><tr><td rowspan=\"2\">转印区域模糊。<img src=\"images/0ffbe2de5e0a76781d7b4e4bfc1bf4563ff3cd9902b0c4819668f5467ac9462f.jpg\"/></td><td>转印温度太高。</td><td>降低转印温度。请参见第29页上的调整转印温度。</td></tr><tr><td>设备的内部温度太高。</td><td>等待设备冷却下来,然后重试。</td></tr><tr><td rowspan=\"3\">打印的文本不清晰。<img src=\"images/a25e37a5e61f036f03029db6c83d95d1cecbe30a94a6bf87c8265c7c3806fd40.jpg\"/></td><td>转印温度太高。</td><td>降低转印温度。请参见第29页上的调整转印温度。</td></tr><tr><td>设备的内部温度太高。</td><td>等待设备冷却下来,然后重试。</td></tr><tr><td>文本太小。</td><td>使用14pt或更大的字体。</td></tr><tr><td>烫金膜转印到整张纸上。</td><td>使用了不受支持的介质类型。</td><td>仅使用受支持的介质类型。</td></tr><tr><td>转印的烫金膜脱落。</td><td>转印温度太低。</td><td>提高转印温度。请参见第29页上的调整转印温度。</td></tr><tr><td>未转印任何内容。</td><td>纸张的正反面检测错误。</td><td>正确装入介质。</td></tr></table>",
+        "bbox": [
+            76,
+            153,
+            937,
+            808
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            450
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f30bb3c43c278ec1e98c6fb77add02172a7ccb30289651e3a43a89f831d5261.jpg",
+        "table_caption": [
+            "8.2.3 介质送入问题"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>问题</td><td>原因</td><td>操作</td></tr><tr><td rowspan=\"5\">纸张不送入。</td><td>纸张太厚。</td><td>不要使用重量超过 $350\\ g/m^{2}$ 的介质。</td></tr><tr><td>未正确装入纸张。</td><td>调整纸张顶边的位置,然后重试。</td></tr><tr><td>纸张卷曲。</td><td>压平纸张,然后重试。</td></tr><tr><td>分离辊污脏。</td><td>清洁分离辊。请参见第41页上的清洁分离辊。</td></tr><tr><td>同时装入了不同尺寸的纸张。</td><td>■一次装入一种纸张。■分批装入纸张,每批只包含尺寸类似的纸张。</td></tr><tr><td rowspan=\"2\">纸张有褶皱。</td><td>未正确装入纸张。</td><td>使用导纸板展平纸张。</td></tr><tr><td>纸张太薄。</td><td>不要使用重量不到 $90\\ g/m^{2}$ 的介质。</td></tr><tr><td rowspan=\"5\">发生多张进纸。这可能导致打印内容缺失或卡纸。</td><td>不支持同时转印到多张纸上。</td><td>一次装入一张纸。</td></tr><tr><td>在可伸缩进纸托板翼板上装入的纸张太多。</td><td>在可伸缩进纸托板翼板上装入少一些纸张。</td></tr><tr><td>分离辊污脏。</td><td>清洁分离辊。请参见第41页上的清洁分离辊。</td></tr><tr><td>同时装入了不同尺寸的纸张。</td><td>■一次装入一种纸张。■分批装入纸张,每批只包含尺寸类似的纸张。</td></tr><tr><td>-</td><td>使用进纸调节器降低介质送入压力。请参见第39页上的更改介质送入压力。</td></tr></table>",
+        "bbox": [
+            78,
+            153,
+            937,
+            592
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            450
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "8.3 卡纸 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            210,
+            135
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "8.3.1 如果卡纸导致 “ 无进纸 ” 错误",
+        "text_level": 1,
+        "bbox": [
+            76,
+            160,
+            450,
+            181
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "如果卡纸发生在介质送入到设备中之前，[无进纸] 会出现在液晶显示屏上。请按照以下步骤操作来清除卡纸：",
+        "bbox": [
+            76,
+            194,
+            929,
+            212
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "如果送入多张纸，请将它们取出来。",
+            "b 用双手轻轻地将卡住的纸张拉出到设备外。"
+        ],
+        "bbox": [
+            78,
+            224,
+            450,
+            273
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/e83a5fd4f2ad2adb17936f9dbbf59458c2009363d852f1e79fc023d1c7f56c1e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            380,
+            284,
+            614,
+            489
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "page_number",
+        "text": "45 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            450
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "8.3.2 如果卡纸发生在设备内部",
+        "text_level": 1,
+        "bbox": [
+            78,
+            111,
+            405,
+            131
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "如果卡纸发生在设备内部， [ 内部卡纸 ] 会出现在液晶显示屏上。请按照以下步骤操作来清除卡纸：",
+        "bbox": [
+            76,
+            144,
+            854,
+            162
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/77c12a227979e4646cb4932b1c91248561cc61a9954016ab3e11155a4d133af9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            106,
+            175,
+            137,
+            197
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "警告",
+        "text_level": 1,
+        "bbox": [
+            143,
+            174,
+            199,
+            196
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "设备的内部零件温度将会很烫。请等待设备冷却后再触摸他们。",
+        "bbox": [
+            91,
+            208,
+            589,
+            226
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 确保 Cover Lock （盖锁定） LED 指示灯熄灭。",
+            "b 打开前盖。"
+        ],
+        "bbox": [
+            78,
+            258,
+            488,
+            307
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbe27e21a8fa04a68acb6bd13487379ab10694ae3b9ea3010de3ae7db894e92e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            411,
+            318,
+            606,
+            479
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "c 用双手轻轻地将卡住的纸张拉出到设备外。",
+        "bbox": [
+            78,
+            500,
+            450,
+            518
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dc03c766f9b40dfabd5417b23ad11d873f2a78a83d6c3e238e95c3bd1e715ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            403,
+            532,
+            606,
+            718
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "page_number",
+        "text": "46 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            957,
+            432,
+            973,
+            450
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/df33597d8f436435a5efab0ea0021a4be5fc42fcf0545b975512758d6bf8f204.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            111,
+            112,
+            134
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            118,
+            151,
+            134
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• 用双手将卡住的纸张向下拉，使得您可以更轻松地将它取出来。",
+            "• 如果纸张的边缘卡住并导致您无法将纸张向下拉，请按箭头所示方向拉纸张的边缘，然后用双手轻轻地将纸张拉出来。"
+        ],
+        "bbox": [
+            84,
+            137,
+            933,
+            193
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/69ace193a80757ee17980f512e5c3dbdc1a871f170c4e366a8e8406713582a9c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            295,
+            205,
+            718,
+            391
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "page_number",
+        "text": "47 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            449
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "8.3.3 如果纸张卡纸和烫金膜卡纸同时发生",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            517,
+            131
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "如果纸张没有 5 mm 的页边距，则它可能会缠绕在烫金膜侧，或者烫金膜可能会松弛。",
+        "bbox": [
+            76,
+            144,
+            756,
+            162
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "如果出现这种情况，请取出纸张并使用下面的步骤消除烫金膜松弛的情况：",
+        "bbox": [
+            78,
+            169,
+            666,
+            187
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "A 警告",
+        "text_level": 1,
+        "bbox": [
+            107,
+            210,
+            200,
+            232
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "设备的内部零件温度将会很烫。请等待设备冷却后再触摸他们。",
+        "bbox": [
+            91,
+            244,
+            589,
+            260
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a 确保 Cover Lock （盖锁定） LED 指示灯熄灭。",
+            "b 打开前盖。"
+        ],
+        "bbox": [
+            78,
+            294,
+            488,
+            343
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a16ec1d840d0be83322530db3af0df60a8fd78d29706c8e4303ac21e1770a1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            411,
+            353,
+            606,
+            515
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "c 提起烫金膜盒支架和烫金膜盒组件的下半部分 1，然后将整个烫金膜盒支架和烫金膜盒 2 向上提起，以将它从设备中取出。",
+        "bbox": [
+            78,
+            536,
+            913,
+            570
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/391a5982bf9329937a7ece9c63a0aef850e40b232d52b8da6e507e63b1fcf2ea.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            367,
+            584,
+            604,
+            765
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "header",
+        "text": "故障排除 ",
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "page_number",
+        "text": "48 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            450
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "故障排除 ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            64,
+            142,
+            77
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "d 打开烫金膜盒支架盖。",
+        "bbox": [
+            78,
+            108,
+            290,
+            127
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/b01146c0d7ca5b197033ff4739960695336ebe1cb422c133a18c0224690ed883.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            356,
+            141,
+            658,
+            351
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "e 取出卡住的纸张。",
+            "f 顺时针转动主轴 1 以消除松弛。"
+        ],
+        "bbox": [
+            78,
+            374,
+            370,
+            422
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/30c50fa85533021386bdbcaf7200fb87c2f933d3810370731c272010741f2ab0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            287,
+            432,
+            730,
+            615
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "page_number",
+        "text": "49 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "aside_text",
+        "text": "8 ",
+        "bbox": [
+            960,
+            432,
+            973,
+            449
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "9 规格",
+        "text_level": 1,
+        "bbox": [
+            114,
+            62,
+            269,
+            101
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "table",
+        "img_path": "images/4efc12c7defaac752bf2394497b3d79590440183da01867f34433b2cda0f83b0.jpg",
+        "table_caption": [
+            "9.1 一般规格"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">转印技术</td><td>定影单元</td></tr><tr><td colspan=\"2\">液晶显示屏 (LCD)</td><td>20 个字符 x 2 行</td></tr><tr><td colspan=\"2\">电源</td><td>220 V-240 VAC 50 Hz / 60 Hz</td></tr><tr><td rowspan=\"3\">功耗</td><td>烫金膜转印</td><td>约 340 W</td></tr><tr><td>准备就绪</td><td>约 7 W</td></tr><tr><td>断电时</td><td>约 0.04 W</td></tr><tr><td colspan=\"2\" rowspan=\"4\">尺寸</td><td><img src=\"images/9f43d57f86eac269b4ba17830b90b57d6c66ee34c0c4a35510c2856929aa9da1.jpg\"/></td></tr><tr><td><img src=\"images/6f84cad88825dcc0dc8a314b715bb967898ff0f657b7417590527a8adb6de255.jpg\"/></td></tr><tr><td><img src=\"images/18696459faa804b208e29ce36819711132dabe105726823bc9e41b109e615fde.jpg\"/></td></tr><tr><td><img src=\"images/d9244d06eb9c1f8421f275a739f9d15ef2171d35133d3debe829a2002f2ae83c.jpg\"/></td></tr><tr><td colspan=\"2\" rowspan=\"2\">重量(含耗材)</td><td>16.3 kg(包括全幅烫金膜盒)</td></tr><tr><td>16.1 kg(包括半幅烫金膜盒)</td></tr><tr><td rowspan=\"2\">温度</td><td>工作时</td><td>10°C到32°C</td></tr><tr><td>贮藏时</td><td>0°C到40°C</td></tr><tr><td rowspan=\"2\">湿度</td><td>工作时</td><td>20%到80%(无冷凝)</td></tr><tr><td>贮藏时</td><td>10%到95%(无冷凝)</td></tr></table>",
+        "bbox": [
+            78,
+            200,
+            936,
+            345
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "page_number",
+        "text": "50 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            78,
+            110,
+            937,
+            922
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "header",
+        "text": "规格",
+        "bbox": [
+            80,
+            64,
+            112,
+            78
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "aside_text",
+        "text": "9 ",
+        "bbox": [
+            960,
+            475,
+            973,
+            492
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "9.2 打印介质规格",
+        "text_level": 1,
+        "bbox": [
+            76,
+            110,
+            328,
+            136
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "table",
+        "img_path": "images/c547d228e8523ce3027693450de28d38d199f05bfb392dae74c425195889f060.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>介质尺寸</td><td>宽度:55 mm 到 225 mm长度:90 mm 到 500 mm</td></tr><tr><td>介质重量</td><td>90 g/m2 到 350 g/m2</td></tr><tr><td>介质类型</td><td>普通纸、薄纸、再生纸、厚纸、特种纸</td></tr></table>",
+        "bbox": [
+            78,
+            158,
+            937,
+            275
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "9.3 设备规格",
+        "text_level": 1,
+        "bbox": [
+            76,
+            298,
+            269,
+            324
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "table",
+        "img_path": "images/be811795b7b044a31a509dffe1715574587299aadca0ed6af4ad491602551892.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\* 更换频率因所用介质类型不同而有所不同。如果您未能完成转印，则表示定影单元寿命已尽。如需更换定影单元，请联系 Brother 经销商。"
+        ],
+        "table_body": "<table><tr><td>纸张输入 (A4)</td><td>44 张纸 ( $90 \\, g/m^{2}$ )12 张纸 ( $350 \\, g/m^{2}$ )</td></tr><tr><td>纸张输出</td><td>44 张纸,正面朝下 ( $90 \\, g/m^{2}$ )12 张纸,正面朝下 ( $350 \\, g/m^{2}$ )</td></tr><tr><td>最大转印速度 (A4)</td><td>最高 15 ppm</td></tr><tr><td>进纸尺寸</td><td>宽度:55 mm 到 225 mm长度:90 mm 到 500 mm</td></tr><tr><td>进纸尺寸(节省烫金膜模式)</td><td>宽度:55 mm 到 225 mm长度:210 mm 到 500 mm</td></tr><tr><td>转印区域</td><td>宽度:最大 215.9 mm长度:最大 500 mm</td></tr><tr><td>半幅烫金膜位置</td><td>■ 中心■ 左</td></tr><tr><td>双面转印</td><td>手动</td></tr><tr><td>定影单元寿命</td><td>约 80,000 页 *</td></tr></table>",
+        "bbox": [
+            78,
+            346,
+            937,
+            692
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "9.4 耗材 ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            756,
+            210,
+            781
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "当需要更换耗材 （例如烫金膜盒）时，设备的操作面板上会出现错误消息。有关设备耗材的更多信息，请访问 www.brother.com/original/index.html 或联系您当地的 Brother 经销商。",
+        "bbox": [
+            76,
+            794,
+            933,
+            827
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/26a5b64152b9aed9658fb784663c98bcd9afb50acfccdfdef1f63cf13c8d1e19.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            81,
+            836,
+            112,
+            860
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "注释 ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            844,
+            151,
+            860
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "“ 耗材型号名称 ” 会因国家和地区而异。",
+        "bbox": [
+            101,
+            863,
+            408,
+            879
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "header",
+        "text": "规格",
+        "bbox": [
+            78,
+            64,
+            112,
+            77
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            916,
+            940,
+            934,
+            951
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "aside_text",
+        "text": "9 ",
+        "bbox": [
+            957,
+            475,
+            973,
+            493
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            62,
+            166,
+            101
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "错误消息 ",
+        "text_level": 1,
+        "bbox": [
+            191,
+            65,
+            343,
+            100
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "任何一种完善的办公产品都有可能出现错误并且都必须更换耗材。如果出现这种情况，设备会识别错误并显示相应的消息。",
+        "bbox": [
+            76,
+            151,
+            928,
+            186
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "表格中显示了最常见的错误消息。 ",
+        "bbox": [
+            78,
+            191,
+            341,
+            208
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "您可以自行纠正大部分错误并清除日常维护信息。如果需要更多帮助， Brother 技术服务支持网站",
+        "bbox": [
+            76,
+            213,
+            849,
+            230
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "(www.95105369.com) 将为您提供最新的常见问题解答与产品使用技巧。",
+        "bbox": [
+            78,
+            232,
+            648,
+            249
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "table",
+        "img_path": "images/249a5d6983265a406bc6ac81e38c149ad5b4633c03d43cb254b67a564ad708e4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>错误消息</td><td>原因</td><td>操作</td></tr><tr><td>无法打印 ##其中“##”是两位数的识别号。</td><td>■盖锁定无法释放或已被锁定。如果您在尝试释放盖锁定时触摸前盖把手,则可能会出现这种情况。■机械/硬件故障。</td><td>打开/关闭电源。如果此操作不能解决问题,请联系您当地的Brother经销商。</td></tr><tr><td rowspan=\"2\">纸张尺寸不正确</td><td>节省烫金膜模式设置和所装入介质的尺寸不匹配。</td><td>1.按<img src=\"images/bea0797780c985c875fe52ccc8c125f80d35e0951c272ee4b5eab75773042ffb.jpg\"/>(Stop/Exit)(停止/退出)。2.确保节省烫金膜模式设置与所装入介质的尺寸匹配(请参见第31页上的节省烫金膜模式)。</td></tr><tr><td>连续送入多种纸张宽度。</td><td>1.按<img src=\"images/a7d7372d0418be3050b40d5307b23abb802d1535b9b52b99daf0e7c64b022df5.jpg\"/>(Stop/Exit)(停止/退出)。2.装入更多宽度相同的纸张。</td></tr><tr><td>更换烫金膜盒</td><td>烫金膜盒中无烫金膜。</td><td>■Cover Lock(盖锁定)LED指示灯熄灭时,换用新的烫金膜盒。■如果任何介质保留在设备内部,请取出(请参见第45页上的卡纸)。</td></tr><tr><td>无烫金膜</td><td>烫金膜盒未正确装入。</td><td>■检查烫金膜盒是否正确装入。■检查烫金膜盒是否正确锁定在烫金膜盒支架中。■检查烫金膜盒的耗材型号是否适合设备。</td></tr></table>",
+        "bbox": [
+            78,
+            265,
+            937,
+            718
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "page_number",
+        "text": "53 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "aside_text",
+        "text": "10 ",
+        "bbox": [
+            950,
+            518,
+            980,
+            536
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "11 附录",
+        "text_level": 1,
+        "bbox": [
+            101,
+            62,
+            269,
+            100
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "11.1 Brother 帮助和客户支持",
+        "text_level": 1,
+        "bbox": [
+            78,
+            151,
+            473,
+            177
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "0 重要事项",
+        "text_level": 1,
+        "bbox": [
+            81,
+            194,
+            189,
+            213
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "要获得技术帮助，请联系 Brother 呼叫中心或您当地的 Brother 经销商。",
+        "bbox": [
+            101,
+            215,
+            665,
+            232
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "11.1.1 FAQ （常见问题解答）",
+        "text_level": 1,
+        "bbox": [
+            78,
+            268,
+            377,
+            289
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Brother技术服务支持网站是一站式资源中心，可满足所有设备的需要。请访问 www.95105369.com 以阅读FAQ 和故障排除技巧，了解如何充分利用 Brother 产品。",
+        "bbox": [
+            76,
+            302,
+            929,
+            337
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "11.1.2 Brother 联系信息",
+        "text_level": 1,
+        "bbox": [
+            78,
+            364,
+            333,
+            384
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "请访问 www.brother.cn/，以了解您当地的 Brother 办事处的联系信息。",
+        "bbox": [
+            78,
+            398,
+            635,
+            416
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            950,
+            562,
+            978,
+            579
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "page_number",
+        "text": "54 ",
+        "bbox": [
+            916,
+            939,
+            936,
+            951
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "11.2 法规",
+        "text_level": 1,
+        "bbox": [
+            78,
+            110,
+            210,
+            135
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "11.2.1 开放源代码许可备注",
+        "text_level": 1,
+        "bbox": [
+            78,
+            160,
+            359,
+            181
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "本产品包含开放源代码软件。",
+        "bbox": [
+            78,
+            194,
+            307,
+            212
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "转至 Brother 技术服务支持网站 (support.brother.com) 所需型号主页的说明书下载部分，以查看 “ 开放源代码许可备注和版权信息 ”。",
+        "bbox": [
+            76,
+            218,
+            924,
+            254
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "11.2.2 客户创作的设计侵犯版权",
+        "text_level": 1,
+        "bbox": [
+            78,
+            279,
+            405,
+            301
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "使用本产品时，客户应采取充分的预防措施，以免侵犯 Brother 和第三方的版权和其他权利。",
+        "bbox": [
+            76,
+            313,
+            808,
+            331
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "即使第三方声称客户使用本产品创作的设计侵犯了版权或其他权利， Brother 也不承担任何责任。",
+        "bbox": [
+            78,
+            337,
+            841,
+            356
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "11.2.3 不保证 HAK 180 的商业使用可获得利润",
+        "text_level": 1,
+        "bbox": [
+            78,
+            382,
+            558,
+            403
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Brother 不保证因客户使用本产品或通过本产品创作的任何内容，或通过交付或分发此类印刷品而产生任何销售利润或其他附带影响，如业务绩效、品牌和形象提升， Brother 也不保证不会发生任何类型的损害。",
+        "bbox": [
+            76,
+            416,
+            921,
+            451
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "header",
+        "text": "附录",
+        "bbox": [
+            78,
+            64,
+            112,
+            77
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            950,
+            562,
+            978,
+            579
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "page_number",
+        "text": "55 ",
+        "bbox": [
+            916,
+            939,
+            934,
+            951
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "brother ",
+        "text_level": 1,
+        "bbox": [
+            375,
+            360,
+            622,
+            411
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "B日",
+        "bbox": [
+            106,
+            808,
+            214,
+            916
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "Brother Earth ",
+        "bbox": [
+            196,
+            878,
+            281,
+            916
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "www.brotherearth.com ",
+        "bbox": [
+            127,
+            921,
+            258,
+            932
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "SCHN ",
+        "bbox": [
+            885,
+            870,
+            936,
+            884
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "版本 D",
+        "bbox": [
+            883,
+            891,
+            936,
+            905
+        ],
+        "page_idx": 59
+    }
+]

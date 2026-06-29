@@ -1,0 +1,3477 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "用户指南"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                670,
+                285,
+                907,
+                331
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                848,
+                905,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "HUAWEI "
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                913,
+                905,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                43,
+                159,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关于本手册"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                91,
+                270,
+                115
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                126,
+                401,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安装显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                160,
+                268,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接至计算机等设备，使用麦克风"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                195,
+                618,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用五向摇杆按键开关机、设置 OSD 菜单"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                229,
+                643,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器 OSD 菜单选项"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                263,
+                401,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用SoundBar显示灯效、调节音量"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                298,
+                581,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "常见问题"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                332,
+                240,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                367,
+                240,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                401,
+                240,
+                424
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "i "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                964,
+                956,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关于本手册"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                275,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用设备前请仔细阅读本手册。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                349,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "手册中展示的组件可能未包含在设备内，您需要单独购买；手册中描述的功能可能需要与其他组件配合，才能使用；手册中的图形、界面可能和实际有差异，所有图示仅供参考，请以实际产品为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                135,
+                939,
+                199
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                942,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                494,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i 不同型号的显示器，配置不同，请以实际为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                109,
+                527,
+                129
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a561d2e694d7a033bffc834b6b7fd72fd72da84df90809c2643fd3ca7f834f10.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                82,
+                142,
+                905,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ab88d62077c587ad86580766ad7be44a7a3822c74bdd30f2c7635f7bddd28d0d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>1*</td><td>麦克风使用麦克风进行视频会议、语音通话或录音。i 仅XWU-CAA型号显示器配置此部件。若是通过DP或HDMI线缆将显示器连接至计算机等设备,还需要连接随附的USB-C转USB-A线缆才能使用麦克风;若是使用随附的USB-C转USB-C线缆将显示器连接至计算机设备,可直接使用麦克风。具体连接方式请参考章节显示器连接至计算机等设备,使用麦克风。</td></tr><tr><td>2</td><td>五向摇杆按键向上短按此键开机,长按3秒以上关机。开机状态下,向上短按调出OSD菜单,向屏幕前、后、左、右短按可以设置OSD菜单。开机状态且无OSD菜单显示时,向屏幕前按键5秒以上,即可锁定或解锁此键。更多内容,请参考章节使用五向摇杆按键开关机、设置OSD菜单。</td></tr><tr><td>3*</td><td>SoundBar显示灯效。内置扬声器,播放声音。可使用触控区域快速调节音量。更多内容,请参考章节使用SoundBar显示灯效、调节音量。仅XWU-CAA型号显示器配置此部件。XWU-CBA型号显示器此位置为标准支架。</td></tr><tr><td>4</td><td>USB-C电源接口连接电源适配器,给显示器供电。</td></tr><tr><td>5</td><td>HDMI接口连接HDMI输入设备,如计算机。</td></tr><tr><td>6</td><td>DP接口连接DP输入设备,如计算机。</td></tr><tr><td>7*</td><td>USB-C接口可以对支持PD 5V 2A的设备充电。支持显示,通过随附的USB-C转USB-C线缆,将显示器连接至手机、笔记本电脑等设备。仅XWU-CAA型号显示器配置此部件。</td></tr><tr><td>8*</td><td>耳麦接口连接耳机。仅XWU-CAA型号显示器配置此部件。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                39,
+                939,
+                947
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器外观和接口介绍 "
+                    }
+                ]
+            },
+            "bbox": [
+                766,
+                20,
+                954,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                965,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安装显示器"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                275,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                152,
+                146,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XWU-CAA: "
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                211,
+                231,
+                229
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5064bd044d206f6629b72786dee25e8a806bdba8e8c17d114fc36438712dcd5f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                141,
+                235,
+                356,
+                331
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5d20de1282e869519c04c050cad57e9a9b67d029ef0a75ee494d06d9cd8308f6.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                340,
+                349,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XWU-CBA: "
+                    }
+                ]
+            },
+            "bbox": [
+                453,
+                210,
+                579,
+                227
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/09ea20590493d5531544d03b3cb93878fc679060ac1bb32dcef4f0d555a9ea95.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                234,
+                715,
+                330
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ac39b54ac93278eac10082daa17dc4a03fa18179224f93cde0bb8a8fe56f0b32.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                724,
+                177,
+                897,
+                300
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d3ae60c8aa5d58fd77baa2c8d5d70346c802d276c2aa88ef8d290925b98e85ef.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                342,
+                737,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                451,
+                149,
+                474
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b3c8c81be7dd7996544c9366ae67f51fe293d996dd14779f86bd310506f8893f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                468,
+                494,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                615,
+                453,
+                636,
+                475
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/525e3cbeff679190fca3b55fab3e112a969dfc9487042a6e5bbad3046d480ba0.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                685,
+                521,
+                831,
+                646
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 打开纸箱包装，根据缓冲泡沫上的箭头指示水平放置纸箱（箭头朝上）。将整机和缓冲泡沫一起取出，保持水平放置。从缓冲泡沫中取出底座支架。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "i XWU-CBA 型号显示器，需要先将底座和支架通过螺丝连接在一起。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 将底座支架上端倾斜插入显示器背部的卡槽，然后向下按压，听到咔哒声表示已安装好。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 将组装好的显示器用双手托起，立在平整的桌面上。托起过程中，请勿用手按压屏幕，以免屏幕破损。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                682,
+                932,
+                821
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "拆除显示器底座支架"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                834,
+                258,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若要拆除底座支架，请断开显示器电源，将显示器面板朝下，轻放在原包装中的曲面缓冲泡沫上，向上推动显示器背部的快拆按钮，同时将底座支架下端向上抬起即可。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                860,
+                932,
+                902
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                965,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c7bb1ec5c77b8a78850ca5f27a9aeb90df431550e57194a43f72f3f748cc2161.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                278,
+                52,
+                710,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安装底座支架前请确保显示器背部安装支架处无铁件等物体吸附，否则可能造成电路短路。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                267,
+                910,
+                288
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安装显示器"
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                20,
+                954,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接至计算机等设备，使用麦克风"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                843,
+                77
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/544c9c7dc34f8f31946a6bc5da3c43faf33a1c67b6bca45b9344963a87b75284.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                87,
+                117,
+                480,
+                305
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/787aabeb4b4c56c35af25b870f97388837fc28cd8d1809a724fb56e50453b74a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                480,
+                135,
+                897,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "打开显示器背面底部的接口保护盖，可以看到显示器的接口。您可以根据您的线缆类型，将显示器连接至计算机等设备。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                323,
+                939,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i．在接口下方贴有显示器的铭牌，在铭牌上可以查看设备的 S/N 号等信息。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                372,
+                776,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 连线成功后，建议将线缆整理好，装回显示器接口保护盖，以免灰尘等进入接口。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                401,
+                847,
+                418
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 您可根据需要调整显示器的俯仰角度及高度。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                429,
+                526,
+                445
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DP 线缆或 HDMI 线缆连接 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                467,
+                326,
+                483
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3e8b84b33d55bc57245b7684e3d5c53277f211f19ed8630a459406ff1b12f3f5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                105,
+                525,
+                811,
+                743
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 将 DP 线缆或 HDMI 线缆一端接入显示器的 DP 接口或 HDMI 接口，另一端接入计算机的 DP 接口或 HDMI 接口。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                778,
+                917,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在此连接状态下, 如需使用 XWU-CAA 型号显示器的麦克风, 还需要通过随附的 USB-C 转 USB-A 线缆, USB-C 接口插入显示器、USB-A 接口插入计算机, 将显示器连接至计算机（若连接后, 无法录入声音, 请在外接设备系统中, 检查是否已将显示器麦克风设置为声音输入设备。）。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                821,
+                939,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 将显示器和计算机的电源线等其他线缆连接好后开机，显示器屏幕上显示计算机的屏幕画面，代表连线成功。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                45,
+                919,
+                83
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "USB-C 转 USB-C 线缆连接（仅 XWU-CAA 型号显示器支持）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                98,
+                665,
+                117
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f8f6ab74a3499ee66009fd5ebc87f1a1902eb569ef64504c751bc1f62273a652.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                109,
+                170,
+                880,
+                381
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 建议您使用随附的 USB-C 转 USB-C 线缆，否则部分功能可能无法使用。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                439,
+                803,
+                463
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 外接设备（如笔记本电脑、手机、平板等）的 USB-C 接口需要为全功能接口，即需要支持显示、数据传输和充电功能。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 在此连接状态下：可对外接设备进行充电；部分应用可直接使用显示器的麦克风，具体请以实际应用为准（若所有应用都无法使用显示器麦克风，请在外接设备系统中，检查是否已将显示器麦克风设置为声音输入设备）。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                479,
+                939,
+                595
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 将 USB-C 转 USB-C 线缆一端接入显示器的 USB-C 接口，另一端接入外接设备的全功能 USB-C 接口。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 将显示器的电源线连接好后开机，显示器屏幕上显示外接设备的屏幕画面，代表连线成功。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                609,
+                934,
+                678
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接至计算机等设备，使用麦克风"
+                    }
+                ]
+            },
+            "bbox": [
+                616,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "使用五向摇杆按键开关机、设置 OSD 菜单"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                885,
+                77
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f2d6a8b1a7b04d3f64151b450bba93b3cff2388835c91b9e31c600af4cae27f3.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                247,
+                115,
+                759,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器的五向摇杆按键可以作为电源键、OSD 菜单设置键使用，简单快捷设置显示器。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                403,
+                847,
+                420
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开启与关闭显示器："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                436,
+                245,
+                454
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 开机：向上短按此键，显示器屏幕显示品牌 Logo 后，指示灯呈呼吸效果，显示器开启。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                460,
+                870,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器工作时，指示灯不亮；显示器无信号输入时，进入待机状态，指示灯呈呼吸效果。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                483,
+                902,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "· 关机：向上长按此键 3 秒以上，指示灯熄灭，显示器关机。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                512,
+                610,
+                531
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "设置显示器 OSD 菜单:"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                546,
+                285,
+                565
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 显示器开机后，面向屏幕时，向上短按五向摇杆按键，打开显示器 OSD 设置菜单。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 在 OSD 设置菜单界面，根据界面指示的手势操作五向摇杆按键，调节显示器的设置。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                576,
+                858,
+                621
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ffca580e529eeffdc1595b560604dac42b4104d339b361f438dd568f29b5a2cf.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                634,
+                129,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "：面向屏幕时（下同），向屏幕前、后、左、右按五向摇杆按键，可移动切换选项。"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                653,
+                878,
+                671
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/757984895a1b218b335bf197bf9748c52498f9510ca41a79d7919e27f2ed9a7d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                683,
+                129,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "：向左按五向摇杆按键，可返回至上一级菜单或退出 OSD 菜单。"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                702,
+                717,
+                720
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6fb2d75ce157449758806937282c09e252cdc7b32233ca5968f30bb9801d0383.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                731,
+                129,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "：向上或向右按五向遥感按键，可确认选项。"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                750,
+                534,
+                768
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "锁定/解锁按键："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                784,
+                211,
+                801
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 锁定按键功能：在显示器处于开机状态，且 OSD 菜单未打开时，面向屏幕，向屏幕前拨动此键直至界面上出现按键锁定的提示，即可锁定按键功能。锁定后，无法按压此键开关机，也无法设置 OSD 菜单。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 解锁按键：在显示器处于开机状态，向屏幕前拨动此键直至界面上出现按键解锁的提示，即可解锁按键。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                807,
+                939,
+                917
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器 OSD 菜单选项"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                494,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i 不同型号、不同版本的显示器，OSD 菜单选项存在差异，请以实际为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                109,
+                761,
+                129
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4c0af2f31f2879a3424bdace10a24ece5424bc0020144ca1effed4c77e302b4d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>一级菜单</td><td>二级菜单</td><td>描述</td></tr><tr><td rowspan=\"4\"><img src=\"images/d2ded1ba5688635709d0d26e77d475a81197f66547d2d3aa054a4fd4fcd3f6dd.jpg\"/>Gamingvision</td><td>游戏辅助</td><td>在游戏场景中,可以在此菜单中进行一些辅助设置。暗阶增强:游戏等场景中,通过调整显示器伽玛曲线以增强图像中的暗黑色调,使暗黑场景和对象更容易识别。刷新率:开启后,显示屏幕刷新率。游戏准星:开启后,在屏幕上显示准星。</td></tr><tr><td>情景模式</td><td>可根据实际场景,选择合适的情景模式。浏览风景照片时,建议选择风景模式。观看精彩影片时,建议影院模式。浏览计算机中的图片时,建议选择SRGB模式。玩实时策略(RTS)类游戏时,建议选择RTS模式。玩第一人称射击类游戏时,建议选择FPS模式。玩多人在线战术竞技(MOBA)游戏时,建议选择MOBA模式。若要调整更多项目,可在用户模式中调整。浏览P3图片时,建议选择P3模式。</td></tr><tr><td>灯效</td><td>可将SoundBar灯效设置为常亮、呼吸等模式,并支持调整灯效的颜色、速度等。</td></tr><tr><td>灯效亮度</td><td>可设置SoundBar灯效亮度,等级零至等级四,等级越高,灯效越亮。</td></tr><tr><td rowspan=\"4\"><img src=\"images/c2fe80b560b03fe48de0cad6c8ddc4015c66fbf51f84e229da7c44bb794ca703.jpg\"/>颜色</td><td>亮度</td><td>设置范围为0-100。</td></tr><tr><td>对比度</td><td>设置范围为0-100。</td></tr><tr><td>色温</td><td>可设置为标准、冷色、暖色模式的一种。或者在用户选项中,对红、绿、蓝颜色分别设置,设置数值为0-100。</td></tr><tr><td>低蓝光</td><td>可开启或关闭低蓝光模式。i长期阅读时,建议将屏幕色温选择为低蓝光模式,预防用眼疲劳,使眼睛更加舒服。开启低蓝光模式后,屏幕显示偏黄为正常现象。</td></tr><tr><td><img src=\"images/a2fb169943fd9c5f4eb04369d268b839252ae60b04f5bae51652ad31d24aa778.jpg\"/>图像</td><td>OD缩放</td><td>使用驱动加速技术加快响应时间。可设置0-4等级,等级越高,响应越快。可设置为满屏、等比缩放或原画模式。</td></tr><tr><td rowspan=\"3\">信号源</td><td>USB-C</td><td rowspan=\"3\">连接其他设备时,根据连接线缆,选择对应的信号源。</td></tr><tr><td>HDMI</td></tr><tr><td>DP</td></tr><tr><td rowspan=\"10\">系统设置</td><td>音量</td><td>可将扬声器音量设置为0-100。</td></tr><tr><td>音效</td><td>根据使用场景,选择适合的音效模式。i 音效设置仅对显示器自带的扬声器生效,连接耳机等外接设备时不支持切换音效。</td></tr><tr><td>麦克风</td><td>将麦克风开启或静音。</td></tr><tr><td>语言</td><td>OSD菜单语言可设置为简体中文、美式英语、日语等其他语种。</td></tr><tr><td>透明度</td><td>可将OSD菜单透明度设置为0-100。</td></tr><tr><td>菜单显示时间</td><td>可将OSD菜单显示时间设置为10-100。</td></tr><tr><td>快捷键</td><td>面向屏幕时,上、下、左、右,分别对应向屏幕后、前、左、右方向按五向摇杆按键。快捷键功能是指向四个方向按五向摇杆按键时,可快捷直达OSD菜单中某个功能的菜单界面,快速完成设置。比如,可将上快捷键设置为信号源,将下快捷键设置为灯效,将左快捷键设置为低蓝光,将右快捷键设置为游戏辅助。</td></tr><tr><td>按键锁</td><td>按键锁功能默认关闭,关闭状态下可按五向摇杆按键对显示器进行设置等。按键锁功能开启后,五向摇杆按键锁定。如要解锁,在显示器处于开机状态,且OSD菜单未打开时,面向屏幕,向屏幕前按五向摇杆按键直至界面上出现提示,即可解锁按键功能。</td></tr><tr><td>信息</td><td>显示设备型号等信息。</td></tr><tr><td>ECO ModeDP Ver.</td><td>选择开启或关闭节能模式。此功能默认关闭,打开后会减少能耗。开启节能模式后,亮度、对比度、情景模式等选项将无法设置;若您在连接的计算机中开启HDR功能,节能功能默认关闭,且无法开启。DP 协议版本,有 DP 1.2 和 DP 1.4 两种版本可以选择。显示器模式默认选择 DP 1.4 版本协议,若您的外接设备 DP 接口协议版本过低,无法显示外接设备系统画面,请您切换至 DP 1.2 版本协议后尝试。</td></tr><tr><td></td><td>重置</td><td>选择是否将显示器 OSD 菜单恢复出厂设置。</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                137,
+                939,
+                940
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9 "
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                965,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                38,
+                939,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器 OSD 菜单选项"
+                    }
+                ]
+            },
+            "bbox": [
+                766,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                38,
+                939,
+                193
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器 OSD 菜单选项"
+                    }
+                ]
+            },
+            "bbox": [
+                766,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11 "
+                    }
+                ]
+            },
+            "bbox": [
+                932,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "使用 SoundBar 显示灯效、调节音量"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                786,
+                77
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "仅 XWU-CAA 型号显示器配置此部件。XWU-CBA 型号显示器此位置为标准支架。"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                109,
+                870,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- SoundBar 有常亮、呼吸等多种灯效，您可以在 OSD 菜单中设置 SoundBar 灯效。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                139,
+                848,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- SoundBar 内置扬声器，将显示器连接至主机后，可使用 SoundBar 播放声音。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                165,
+                808,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若无法播放声音，请在显示器连接主机后，在主机设置中将音频输出设备设置为显示器。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                187,
+                904,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 使用SoundBar触控区域，快速设置音量。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                217,
+                478,
+                235
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1f86c133d371315a158a7d77b16d8e927904eed0173733a0338ed1b4dc71e19d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                243,
+                431,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "单指单击与单指左右滑动"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                438,
+                244,
+                665,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器开机状态下，单指单击 SoundBar 触控区域，打开扬声器音量设置界面。此时，单指单击或单指左右滑动 SoundBar 触控区域，可以调节音量大小。"
+                    }
+                ]
+            },
+            "bbox": [
+                436,
+                268,
+                934,
+                332
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4499602bd9e4a8c918f7a1c36ad1efa9f3cdc99ab2fa9a742f77412d0b1df331.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                378,
+                431,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "单指双击"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                438,
+                376,
+                522,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器开机状态下，单指双击SoundBar触控区域，可以开启或关闭扬声器。"
+                    }
+                ]
+            },
+            "bbox": [
+                438,
+                399,
+                932,
+                439
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "常见问题"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                42,
+                236,
+                77
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一 显示器 SoundBar 播放时无声音"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                109,
+                400,
+                128
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 请确认显示器与主机间线缆是否连接正常，可重新插拔尝试。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 请确认主机设置中的音频输出设备是否为显示器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 请确认主机端和显示器端的声音是否都已打开。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 请确认主机端显卡和音频驱动是否安装正确，且已更新到最新版本。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                137,
+                640,
+                239
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二 显示器自带麦克风无法录音"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                247,
+                344,
+                266
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 请确认显示器 USB-C 端口的线缆与主机间是否连接正常，可重新插拔尝试。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 请确认主机设置中的音频输入设备是否为显示器。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 显示器开机后，向上短按五向摇杆按键，打开显示器 OSD 设置菜单，依次选择系统设置 > 麦克风，确认显示器麦克风已打开。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                275,
+                937,
+                367
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三 显示器黑屏，无显示"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                374,
+                285,
+                392
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 请确认显示器与主机间线缆是否连接正常，可重新插拔尝试。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 建议使用显示器标配线缆或从正规渠道购买的线缆进行连接。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 请确认主机显卡的输出分辨率是否与显示器的分辨率匹配。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 如有备用显示器，请先使用备用显示器连接主机，下载安装最新的显卡驱动后再尝试。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                401,
+                860,
+                504
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四 显示器作为副屏显示有黑边"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                512,
+                344,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示器连接笔记本电脑作为副屏显示时，在复制模式下是以主屏的显示比例为主，当主屏和副屏的分辨率不一致时，副屏上会有黑边，请在主机上选择扩展模式即可显示正常。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                538,
+                939,
+                579
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                939,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                165,
+                157,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "有明文规定禁止使用无线设备的场所，请勿使用本设备，否则会干扰其它电子设备或导致其它危险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                191,
+                924,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "对医疗设备的影响"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                247,
+                238,
+                265
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "· 在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "· 设备产生的无线电波可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少15厘米的距离。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                271,
+                939,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "听力保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                378,
+                157,
+                395
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "为了防止可能的听力损伤，请勿长时间使用高音量。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                404,
+                600,
+                439
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/883cdd62eedd783e3948ed854aa1e7f59218b67d71576414ae741690b3f5beba.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                68,
+                404,
+                139,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 当您使用耳机收听音乐或通话时，建议使用音乐或通话所需的最小音量，以免损伤听力。长时间接触高音量可能会导致永久性听力损伤。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                447,
+                937,
+                487
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "易燃易爆区域"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                502,
+                198,
+                520
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 在加油站（维修站）或靠近易燃物品、化学制剂等任何易燃易爆区域，请勿使用本设备，并遵守所有图形或文字的指示。在燃油或化学制剂存放和运输区或易爆场所内或周围，设备可能引起爆炸或起火。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿将设备及其配件与易燃液体、气体或易爆物品放在同一箱子中存放或运输。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                526,
+                939,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "操作环境"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                631,
+                157,
+                648
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 插拔设备线缆前，请先停止使用设备并断开电源。在插拔线缆时请保持双手干燥。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请在温度  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "0^{\\circ} \\mathrm{C} \\sim 35^{\\circ} \\mathrm{C}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 范围内使用本设备，并在温度  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "-10^{\\circ} \\mathrm{C} \\sim +45^{\\circ} \\mathrm{C}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                653,
+                924,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                803,
+                667,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                828,
+                937,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                873,
+                939,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                921,
+                806,
+                939
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿在设备上放置任何物体（如蜡烛、盛水容器等），若有异物或液体进入设备，请立刻停止使用并断开电源，拔出连接在设备上的所有线缆，并联系华为客户服务中心。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                40,
+                939,
+                127
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "儿童健康"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                142,
+                159,
+                160
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "· 本设备并非玩具，儿童应在成人监护下使用设备。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                166,
+                939,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "配件要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                247,
+                157,
+                266
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如需获取认可的配件，请与华为客户服务中心联系。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                271,
+                941,
+                361
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电源安全"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                375,
+                157,
+                393
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 电源插头作为断开电源的装置。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 电源插座应安装在设备附近并应易于触及。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 若电源插头或电源线已损坏，请勿继续使用，以免发生触电或火灾。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿用湿手触碰电源线，或用拉电源线缆的方式拔出电源。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿用湿手触摸设备或电源，以免发生设备短路、故障或触电。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                399,
+                769,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 请务必使用 CCC 认证并满足标准《 GB 4943.1-2011 信息技术设备 安全 第 1 部分：通用要求》中“2.5 受限制电源”要求的充电器或电源给产品充电或供电。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                552,
+                921,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "维护和保养"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                608,
+                178,
+                626
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "· 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                632,
+                939,
+                873
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "环境保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                68,
+                887,
+                157,
+                904
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请勿将本设备及其附件作为普通的生活垃圾处理。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- 请遵守本设备及其附件处理的本地法令，并支持回收行动。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                910,
+                608,
+                954
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "安全信息"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                20,
+                956,
+                36
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "法律声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                52,
+                42,
+                231,
+                76
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "版权所有 © 华为 2022。保留一切权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                109,
+                435,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法禁止此类限制的除外。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                135,
+                939,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "商标声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                237,
+                157,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HDMI、HDMI 高清晰度多媒体接口以及 HDMI 标志是 HDMI Licensing Administrator, Inc. 在美国和其他国家的商标或注册商标。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                263,
+                934,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                311,
+                937,
+                354
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "注意"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                367,
+                117,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                392,
+                937,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                487,
+                771,
+                505
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "责任限制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                520,
+                157,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                546,
+                937,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                595,
+                939,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                665,
+                939,
+                730
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "进出口管制"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                745,
+                176,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                771,
+                939,
+                812
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "隐私保护"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                827,
+                157,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                853,
+                937,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                907,
+                939,
+                948
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16 "
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                964,
+                954,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "购买华为终端产品，请访问华为商城 https://www.vmall.com/"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                816,
+                660,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "更多信息请访问 https://consumer.huawei.com/cn/"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                838,
+                561,
+                858
+            ]
+        }
+    ]
+]

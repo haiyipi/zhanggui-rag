@@ -1,0 +1,1532 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.749,
+                0.122,
+                0.899,
+                0.154
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.491,
+                0.345,
+                0.896,
+                0.372
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.759,
+                0.396,
+                0.896,
+                0.421
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.09,
+                0.828,
+                0.297,
+                0.843
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.093,
+                0.849,
+                0.266,
+                0.862
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.885,
+                0.292,
+                0.898
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.747,
+                0.121,
+                0.901,
+                0.157
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.756,
+                0.393,
+                0.9,
+                0.425
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.489,
+                0.344,
+                0.898,
+                0.374
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.829,
+                0.297,
+                0.842
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.847,
+                0.267,
+                0.864
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.885,
+                0.291,
+                0.9
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.078,
+                0.798,
+                0.094
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.101,
+                0.908,
+                0.135
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.142,
+                0.907,
+                0.252
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.258,
+                0.907,
+                0.331
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.077,
+                0.802,
+                0.095
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.102,
+                0.905,
+                0.116
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.12,
+                0.229,
+                0.135
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.157,
+                0.334,
+                0.177
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.343,
+                0.154,
+                0.495,
+                0.178
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.514,
+                0.154,
+                0.541,
+                0.165
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.561,
+                0.158,
+                0.632,
+                0.176
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.64,
+                0.14,
+                0.907,
+                0.177
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.18,
+                0.9,
+                0.196
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.196,
+                0.909,
+                0.215
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.217,
+                0.905,
+                0.231
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.235,
+                0.23,
+                0.251
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.26,
+                0.906,
+                0.274
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.277,
+                0.904,
+                0.291
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.297,
+                0.904,
+                0.31
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.315,
+                0.3,
+                0.33
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.461,
+                0.081,
+                0.54,
+                0.104
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.094,
+                0.129,
+                0.903,
+                0.145
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.128,
+                0.152,
+                0.903,
+                0.167
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.129,
+                0.174,
+                0.903,
+                0.189
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.128,
+                0.152,
+                0.903,
+                0.189
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.163,
+                0.196,
+                0.903,
+                0.211
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.163,
+                0.218,
+                0.903,
+                0.234
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.163,
+                0.241,
+                0.903,
+                0.256
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.163,
+                0.196,
+                0.903,
+                0.256
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.949,
+                0.504,
+                0.959
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.126,
+                0.15,
+                0.211,
+                0.169
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.129,
+                0.174,
+                0.393,
+                0.189
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.459,
+                0.078,
+                0.544,
+                0.108
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.093,
+                0.129,
+                0.395,
+                0.145
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.892,
+                0.134,
+                0.899,
+                0.139
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.196,
+                0.314,
+                0.212
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.164,
+                0.219,
+                0.38,
+                0.233
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.164,
+                0.241,
+                0.476,
+                0.257
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.888,
+                0.243,
+                0.903,
+                0.254
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.494,
+                0.949,
+                0.505,
+                0.961
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.062,
+                0.611,
+                0.085
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.103,
+                0.196,
+                0.123
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.14,
+                0.906,
+                0.175
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.147,
+                0.19,
+                0.186,
+                0.213
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.189,
+                0.199,
+                0.225,
+                0.213
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.225,
+                0.562,
+                0.24
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.283,
+                0.484,
+                0.303
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.321,
+                0.906,
+                0.356
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.143,
+                0.363,
+                0.431,
+                0.379
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.149,
+                0.392,
+                0.809,
+                0.585
+            ],
+            "angle": 0,
+            "content": "```mermaid\ngraph LR\n    A[\"Host A\"] -->|WIFI| B[\"LA2608\"]\n    C[\"Host B\"] -->|WIFI| B\n    D[\"Host C\"] -->|WIFI| B\n    B -->|3G/4G| E[\"Internet\"]\n    E --> F[\"AC\"]\n```",
+            "sub_type": "flowchart"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.627,
+                0.262,
+                0.643
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.143,
+                0.66,
+                0.439,
+                0.676
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.144,
+                0.685,
+                0.312,
+                0.696
+            ],
+            "angle": 0,
+            "content": "<LA2608>system-view"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.146,
+                0.701,
+                0.414,
+                0.713
+            ],
+            "angle": 0,
+            "content": "[LA2608]dialer-rule 1 ip permit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.717,
+                0.307,
+                0.733
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.146,
+                0.748,
+                0.187,
+                0.771
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.189,
+                0.757,
+                0.226,
+                0.772
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.782,
+                0.905,
+                0.817
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.144,
+                0.851,
+                0.647,
+                0.93
+            ],
+            "angle": 0,
+            "content": "[LA2608]interface Cellular-Ethernet2/0\n[LA2608-Cellular-Ethernet2/0]ip address cellular-allocated\n[LA2608-Cellular-Ethernet2/0]dialer enable-circular\n[LA2608-Cellular-Ethernet2/0]dialer-group 1\n[LA2608-Cellular-Ethernet2/0]dialer timer idle 0"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.506,
+                0.949,
+                0.515,
+                0.959
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.628,
+                0.263,
+                0.643
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.717,
+                0.311,
+                0.736
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.226,
+                0.565,
+                0.24
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.142,
+                0.905,
+                0.156
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.16,
+                0.689,
+                0.174
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.322,
+                0.905,
+                0.336
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.34,
+                0.852,
+                0.354
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.784,
+                0.904,
+                0.798
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.802,
+                0.403,
+                0.816
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.505,
+                0.949,
+                0.518,
+                0.962
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.091,
+                0.059,
+                0.614,
+                0.088
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.102,
+                0.2,
+                0.124
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.186,
+                0.198,
+                0.229,
+                0.216
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.186,
+                0.755,
+                0.231,
+                0.775
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.093,
+                0.283,
+                0.484,
+                0.304
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.365,
+                0.43,
+                0.378
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.661,
+                0.44,
+                0.678
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.052,
+                0.628,
+                0.115
+            ],
+            "angle": 0,
+            "content": "[LA2608-Cellular-Ethernet2/0]dialer timer autodial 5\n[LA2608-Cellular-Ethernet2/0]dialer number *99# autodial\n[LA2608-Cellular-Ethernet2/0]nat outbound\n[LA2608-Cellular-Ethernet2/0]quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.118,
+                0.343,
+                0.134
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.142,
+                0.312,
+                0.154
+            ],
+            "angle": 0,
+            "content": "[LA2608]dns resolve"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.159,
+                0.297,
+                0.174
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.144,
+                0.182,
+                0.661,
+                0.195
+            ],
+            "angle": 0,
+            "content": "[LA2608]ip route-static 0.0.0.0 0.0.0.0 Cellular-Ethernet2/0"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.198,
+                0.446,
+                0.214
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.222,
+                0.431,
+                0.235
+            ],
+            "angle": 0,
+            "content": "[LA2608] wlan ac ip 60.191.99.143"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.249,
+                0.353,
+                0.266
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.147,
+                0.291,
+                0.188,
+                0.314
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.189,
+                0.299,
+                0.226,
+                0.314
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.143,
+                0.325,
+                0.56,
+                0.34
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.375,
+                0.313,
+                0.39
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.144,
+                0.399,
+                0.278,
+                0.444
+            ],
+            "angle": 0,
+            "content": "<AC>system-view\n[AC]vlan 2\n[AC-vlan2] quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.448,
+                0.501,
+                0.463
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.472,
+                0.422,
+                0.517
+            ],
+            "angle": 0,
+            "content": "[AC]interface WLAN-ESS 1\n[AC-WLAN-ESS1]port access vlan 2\n[AC-WLAN-ESS1]quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.522,
+                0.385,
+                0.537
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.545,
+                0.466,
+                0.64
+            ],
+            "angle": 0,
+            "content": "[AC]wlan service-template 1 clear\n[AC-wlan-st-1]ssid ssidh3c\n[AC-wlan-st-1]bind WLAN-ESS 1\n[AC-wlan-st-1]service-template enable\nPlease wait... Done.\n[AC-wlan-st-1]quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.645,
+                0.33,
+                0.66
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.668,
+                0.516,
+                0.797
+            ],
+            "angle": 0,
+            "content": "[AC]wlan auto-ap enable\n[AC]wlan ap 2608 model LA2608 id 1\n[AC-wlan-ap-2608]serial-id auto\n[AC-wlan-ap-2608]radio 1\n[AC-wlan-ap-2608-radio-1]service-template 1\n[AC-wlan-ap-2608-radio-1]radio enable\n[AC-wlan-ap-2608-radio-1]quit\n[AC-wlan-ap-2608]quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.801,
+                0.377,
+                0.817
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.825,
+                0.636,
+                0.92
+            ],
+            "angle": 0,
+            "content": "[AC]interface Vlan-interface 1\n[AC-Vlan-interface1]ip address 60.191.99.143 255.255.0.0\n[AC-Vlan-interface1]quit\n[AC]interface Vlan-interface 2\n[AC-Vlan-interface2]ip address 10.249.136.1 255.255.252.0\n[AC-Vlan-interface2]quit"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.924,
+                0.484,
+                0.94
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.506,
+                0.949,
+                0.517,
+                0.96
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.158,
+                0.299,
+                0.176
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.375,
+                0.315,
+                0.392
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.324,
+                0.563,
+                0.341
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.118,
+                0.345,
+                0.136
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.645,
+                0.331,
+                0.661
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.504,
+                0.948,
+                0.519,
+                0.963
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.186,
+                0.298,
+                0.231,
+                0.317
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.095,
+                0.25,
+                0.352,
+                0.265
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.199,
+                0.447,
+                0.215
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.448,
+                0.504,
+                0.465
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.142,
+                0.923,
+                0.486,
+                0.941
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.522,
+                0.387,
+                0.539
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.143,
+                0.8,
+                0.379,
+                0.819
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.145,
+                0.052,
+                0.534,
+                0.149
+            ],
+            "angle": 0,
+            "content": "[AC]dhcp enable\n[AC]dhcp server ip-pool vlan2\n[AC-dhcp-pool-vlan1]network 10.249.136.0 22\n[AC-dhcp-pool-vlan1]gateway-list 10.249.136.1\n[AC-dhcp-pool-vlan1]dns-list 218.201.96.130\n[AC-dhcp-pool-vlan1]quit"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.092,
+                0.163,
+                0.469,
+                0.181
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.142,
+                0.196,
+                0.909,
+                0.23
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.143,
+                0.238,
+                0.672,
+                0.368
+            ],
+            "angle": 0,
+            "content": "<Sysname> display wlan ap all\nTotal Number of APs configured : 1\nTotal Number of configured APs connected : 1\nTotal Number of auto APs connected : 0\nAP Profiles\nState : I = Idle, J = Join, JA = JoinAck, IL = ImageLoad\nC = Config, R = Run, KU = KeyUpdate, KC = KeyCfm\nM = Master, B = Backup"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.144,
+                0.376,
+                0.835,
+                0.448
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>AP Name</td><td>State Model</td><td>Serial-ID</td></tr><tr><td>ap1</td><td>R/M LA2608</td><td>036286A054000033</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.506,
+                0.949,
+                0.517,
+                0.96
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.196,
+                0.906,
+                0.212
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.215,
+                0.318,
+                0.231
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.504,
+                0.948,
+                0.519,
+                0.962
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.095,
+                0.164,
+                0.467,
+                0.179
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

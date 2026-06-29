@@ -1,0 +1,19 @@
+2026-06-04 18:49:43.664 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 18:55:12.703 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 18:56:52.323 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 18:57:42.340 | ERROR    | app.clients.minio_utils:<module>:46 - MinIO客户端初始化失败，错误信息：HTTPConnectionPool(host='47.94.86.115', port=9000): Max retries exceeded with url: /knowledge-base-files?location= (Caused by NewConnectionError("HTTPConnection(host='47.94.86.115', port=9000): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-06-04 18:57:43.254 | INFO     | app.query_process.agent.main_graph:create_import_graph:55 - 创建导入流程图
+2026-06-04 18:57:43.314 | INFO     | app.query_process.agent.main_graph:create_import_graph:106 - 导入流程图创建成功
+2026-06-04 19:02:47.147 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 19:03:18.095 | INFO     | app.query_process.agent.main_graph:create_query_graph:27 - 创建检索流程图（骨架版）
+2026-06-04 19:03:18.097 | INFO     | app.query_process.agent.main_graph:create_query_graph:51 - 检索流程图创建成功（骨架版）
+2026-06-04 19:03:18.100 | INFO     | __main__:<module>:244 - 启动查询服务...
+2026-06-04 19:03:18.554 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 19:03:49.352 | INFO     | app.query_process.agent.main_graph:create_query_graph:27 - 创建检索流程图（骨架版）
+2026-06-04 19:03:49.354 | INFO     | app.query_process.agent.main_graph:create_query_graph:51 - 检索流程图创建成功（骨架版）
+2026-06-04 19:06:32.720 | ERROR    | app.query_process.api.query_service:get_history:228 - 查询历史失败: 47.94.86.115:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。 (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6a215c1ad8f455a16c9b807f, topology_type: Unknown, servers: [<ServerDescription ('47.94.86.115', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('47.94.86.115:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。 (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2026-06-04 19:07:03.110 | ERROR    | app.query_process.api.query_service:get_history:228 - 查询历史失败: 47.94.86.115:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。 (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6a215c38d8f455a16c9b8080, topology_type: Unknown, servers: [<ServerDescription ('47.94.86.115', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('47.94.86.115:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。 (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2026-06-04 19:15:16.615 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 19:15:39.725 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-04 19:16:10.661 | INFO     | app.query_process.agent.main_graph:create_query_graph:27 - 创建检索流程图（骨架版）
+2026-06-04 19:16:10.663 | INFO     | app.query_process.agent.main_graph:create_query_graph:51 - 检索流程图创建成功（骨架版）

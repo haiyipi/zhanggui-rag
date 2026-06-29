@@ -1,0 +1,348 @@
+2026-06-09 00:01:14.347 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 00:01:14.950 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 00:01:14.950 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['烫金机']
+2026-06-09 00:01:14.952 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 00:01:14.953 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 00:01:14.953 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: 烫金机的温度应该如何设置？...
+2026-06-09 00:01:14.954 | INFO     | app.lm.embedding_utils:generate_embeddings:37 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:01:14.954 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:19 - 开始初始化 BGE-M3 模型...
+2026-06-09 00:01:19.782 | ERROR    | app.lm.embedding_utils:generate_embeddings:66 - BGE-M3 向量生成失败: 403 Forbidden: None.
+Cannot access content at: https://hf-mirror.com/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/imgs%2F.DS_Store.
+Make sure your token has the correct permissions.
+2026-06-09 00:01:19.783 | ERROR    | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:83 - 向量检索失败: 403 Forbidden: None.
+Cannot access content at: https://hf-mirror.com/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/imgs%2F.DS_Store.
+Make sure your token has the correct permissions.
+2026-06-09 00:01:20.096 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 00:01:20.097 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 00:01:20.097 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: 烫金机的温度应该如何设置？...
+2026-06-09 00:01:23.084 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 377 字符
+2026-06-09 00:01:23.085 | INFO     | app.lm.embedding_utils:generate_embeddings:37 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:01:23.085 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:19 - 开始初始化 BGE-M3 模型...
+2026-06-09 00:01:28.764 | ERROR    | app.lm.embedding_utils:generate_embeddings:66 - BGE-M3 向量生成失败: 403 Forbidden: None.
+Cannot access content at: https://hf-mirror.com/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/imgs%2F.DS_Store.
+Make sure your token has the correct permissions.
+2026-06-09 00:01:28.764 | ERROR    | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:99 - HyDE检索失败: 403 Forbidden: None.
+Cannot access content at: https://hf-mirror.com/api/resolve-cache/models/BAAI/bge-m3/5617a9f61b028005a4858fdac845db406aefb181/imgs%2F.DS_Store.
+Make sure your token has the correct permissions.
+2026-06-09 00:01:29.068 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 00:01:29.069 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 00:01:29.070 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 00:01:29.070 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 00:01:29.071 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 00:01:29.071 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=0, HyDE检索=0, 联网搜索=0
+2026-06-09 00:01:29.071 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 00:01:29.072 | WARNING  | app.query_process.agent.nodes.node_rerank:node_rerank:38 - 无待重排文档或查询为空: docs=0, query=True
+2026-06-09 00:01:29.072 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 00:01:29.074 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 00:03:45.516 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-09 00:03:51.807 | INFO     | app.query_process.agent.main_graph:create_query_graph:56 - 创建检索流程图
+2026-06-09 00:03:51.824 | INFO     | app.query_process.agent.main_graph:create_query_graph:104 - 检索流程图创建成功
+2026-06-09 00:04:02.269 | INFO     | __main__:query:99 - [session_1780934640678] 收到查询: "烫金机温度怎么设置"
+2026-06-09 00:04:02.274 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 00:04:02.275 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=True
+2026-06-09 00:04:03.026 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=True
+2026-06-09 00:04:03.836 | INFO     | app.clients.milvus_utils:get_milvus_client:27 - Milvus客户端连接成功
+2026-06-09 00:04:03.876 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 00:04:03.876 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['烫金机']
+2026-06-09 00:04:03.878 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 00:04:03.879 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 00:04:03.880 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: 烫金机的温度应该如何设置？...
+2026-06-09 00:04:03.880 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:04:03.880 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:21 - 加载本地 BGE-M3 模型: D:/ai_models/modelscope_cache/BAAI/bge-m3
+2026-06-09 00:04:05.585 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:28 - BGE-M3 模型加载成功
+2026-06-09 00:04:05.997 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 00:04:05.998 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["烫金机"]
+2026-06-09 00:04:06.052 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 00:04:06.052 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 0 个相关切片
+2026-06-09 00:04:06.053 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 00:04:06.053 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 00:04:06.053 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: 烫金机的温度应该如何设置？...
+2026-06-09 00:04:06.055 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=False
+2026-06-09 00:04:06.056 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=False
+2026-06-09 00:04:09.068 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 353 字符
+2026-06-09 00:04:09.068 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:04:10.097 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 00:04:10.097 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["烫金机"]
+2026-06-09 00:04:10.103 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 00:04:10.103 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 0 个相关切片
+2026-06-09 00:04:10.104 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 00:04:10.104 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 00:04:10.105 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 00:04:10.107 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 00:04:10.108 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 00:04:10.108 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=0, HyDE检索=0, 联网搜索=0
+2026-06-09 00:04:10.109 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 00:04:10.110 | WARNING  | app.query_process.agent.nodes.node_rerank:node_rerank:38 - 无待重排文档或查询为空: docs=0, query=True
+2026-06-09 00:04:10.110 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 00:04:10.112 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 00:05:20.559 | INFO     | __main__:query:99 - [session_1780934640678] 收到查询: HAK 180 烫金机温度怎么设置"
+2026-06-09 00:05:20.562 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 00:05:21.560 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 00:05:21.561 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['HAK 180 烫金机']
+2026-06-09 00:05:21.563 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 00:05:21.564 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 00:05:21.564 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: HAK 180 烫金机的温度应该如何设置？...
+2026-06-09 00:05:21.564 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:05:21.826 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 00:05:21.826 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 00:05:21.845 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 00:05:21.845 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 5 个相关切片
+2026-06-09 00:05:21.845 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 00:05:21.846 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 00:05:21.846 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: HAK 180 烫金机的温度应该如何设置？...
+2026-06-09 00:05:25.061 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 335 字符
+2026-06-09 00:05:25.061 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 00:05:26.137 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 00:05:26.137 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 00:05:26.143 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 00:05:26.143 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 5 个相关切片
+2026-06-09 00:05:26.143 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 00:05:26.143 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 00:05:26.144 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 00:05:26.145 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 00:05:26.146 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 00:05:26.146 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=5, HyDE检索=5, 联网搜索=0
+2026-06-09 00:05:26.146 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:58 - RRF输出: 5 个文档
+2026-06-09 00:05:26.146 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:61 - >>> 节点执行完成: node_rrf
+2026-06-09 00:05:26.147 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 00:05:26.148 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:43 - 开始重排序: 5 个文档
+2026-06-09 00:07:53.112 | ERROR    | app.query_process.agent.nodes.node_rerank:step_rerank_docs:117 - Rerank失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models/BAAI/bge-reranker-large (Caused by ConnectTimeoutError(<HTTPSConnection(host='huggingface.co', port=443) at 0x228b6663260>, 'Connection to huggingface.co timed out. (connect timeout=None)'))"), '(Request ID: 4b095db8-0892-4911-a453-dfbebc3f7e3d)')
+2026-06-09 00:07:53.112 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:52 - 重排序完成: 输入5 -> 输出5
+2026-06-09 00:07:53.113 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:55 - >>> 节点执行完成: node_rerank
+2026-06-09 00:07:53.113 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 00:07:54.988 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 16:25:32.358 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-09 16:25:55.394 | INFO     | app.query_process.agent.main_graph:create_query_graph:56 - 创建检索流程图
+2026-06-09 16:25:55.456 | INFO     | app.query_process.agent.main_graph:create_query_graph:104 - 检索流程图创建成功
+2026-06-09 16:25:59.857 | INFO     | __main__:query:99 - [session_1780993557281] 收到查询: HAK 180 烫金机温度怎么设置"
+2026-06-09 16:25:59.863 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 16:25:59.865 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=True
+2026-06-09 16:26:00.718 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=True
+2026-06-09 16:26:01.662 | INFO     | app.clients.milvus_utils:get_milvus_client:27 - Milvus客户端连接成功
+2026-06-09 16:26:01.703 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 16:26:01.703 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['HAK 180 烫金机']
+2026-06-09 16:26:01.705 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 16:26:01.707 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 16:26:01.707 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: HAK 180 烫金机的温度应该如何设置？...
+2026-06-09 16:26:01.708 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 16:26:01.708 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:21 - 加载本地 BGE-M3 模型: D:/ai_models/modelscope_cache/BAAI/bge-m3
+2026-06-09 16:26:04.230 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:28 - BGE-M3 模型加载成功
+2026-06-09 16:26:04.651 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 16:26:04.651 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 16:26:04.673 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 16:26:04.673 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 5 个相关切片
+2026-06-09 16:26:04.674 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 16:26:04.675 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 16:26:04.675 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: HAK 180 烫金机的温度应该如何设置？...
+2026-06-09 16:26:04.675 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=False
+2026-06-09 16:26:04.676 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=False
+2026-06-09 16:26:08.093 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 364 字符
+2026-06-09 16:26:08.093 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 16:26:09.128 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 16:26:09.128 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 16:26:09.133 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 16:26:09.133 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 5 个相关切片
+2026-06-09 16:26:09.134 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 16:26:09.135 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 16:26:09.136 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 16:26:09.138 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 16:26:09.139 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 16:26:09.140 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=5, HyDE检索=5, 联网搜索=0
+2026-06-09 16:26:09.140 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:58 - RRF输出: 5 个文档
+2026-06-09 16:26:09.141 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:61 - >>> 节点执行完成: node_rrf
+2026-06-09 16:26:09.141 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 16:26:09.141 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:43 - 开始重排序: 5 个文档
+2026-06-09 16:26:09.149 | INFO     | app.lm.reranker_utils:get_reranker_model:30 - 正在以离线模式加载 Reranker 模型: BAAI/bge-reranker-large
+2026-06-09 16:26:09.149 | INFO     | app.lm.reranker_utils:get_reranker_model:31 - 设备: cpu, FP16: False
+2026-06-09 16:28:36.244 | ERROR    | app.lm.reranker_utils:get_reranker_model:41 - Reranker 模型加载失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models/BAAI/bge-reranker-large (Caused by ConnectTimeoutError(<HTTPSConnection(host='huggingface.co', port=443) at 0x20131c39fd0>, 'Connection to huggingface.co timed out. (connect timeout=None)'))"), '(Request ID: d60565c0-3fa3-4398-a66b-78cdbce25c24)')
+2026-06-09 16:28:36.244 | ERROR    | app.query_process.agent.nodes.node_rerank:step_rerank_docs:117 - Rerank失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/models/BAAI/bge-reranker-large (Caused by ConnectTimeoutError(<HTTPSConnection(host='huggingface.co', port=443) at 0x20131c39fd0>, 'Connection to huggingface.co timed out. (connect timeout=None)'))"), '(Request ID: d60565c0-3fa3-4398-a66b-78cdbce25c24)')
+2026-06-09 16:28:36.244 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:52 - 重排序完成: 输入5 -> 输出5
+2026-06-09 16:28:36.245 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:55 - >>> 节点执行完成: node_rerank
+2026-06-09 16:28:36.245 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 16:28:38.148 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 17:13:39.641 | INFO     | app.core.logger:<module>:83 - 日志系统初始化成功
+2026-06-09 17:14:00.479 | INFO     | app.query_process.agent.main_graph:create_query_graph:56 - 创建检索流程图
+2026-06-09 17:14:00.531 | INFO     | app.query_process.agent.main_graph:create_query_graph:104 - 检索流程图创建成功
+2026-06-09 17:14:28.620 | INFO     | __main__:query:99 - [session_1780996464609] 收到查询: HAK 180 烫金机温度怎么设置"
+2026-06-09 17:14:28.626 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 17:14:28.628 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=True
+2026-06-09 17:14:29.461 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=True
+2026-06-09 17:14:30.590 | INFO     | app.clients.milvus_utils:get_milvus_client:27 - Milvus客户端连接成功
+2026-06-09 17:14:30.630 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 17:14:30.630 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['HAK 180 烫金机']
+2026-06-09 17:14:30.632 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 17:14:30.634 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 17:14:30.634 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: HAK 180 烫金机的温度应如何设置？...
+2026-06-09 17:14:30.634 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:14:30.634 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:21 - 加载本地 BGE-M3 模型: D:/ai_models/modelscope_cache/BAAI/bge-m3
+2026-06-09 17:14:33.085 | INFO     | app.lm.embedding_utils:get_bge_m3_ef:28 - BGE-M3 模型加载成功
+2026-06-09 17:14:33.508 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:14:33.508 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 17:14:33.520 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:14:33.520 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 5 个相关切片
+2026-06-09 17:14:33.521 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 17:14:33.522 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 17:14:33.522 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: HAK 180 烫金机的温度应如何设置？...
+2026-06-09 17:14:33.522 | INFO     | app.lm.lm_utils:get_llm_client:44 - [LLM客户端] 开始初始化新实例：模型=qwen-flash，JSON模式=False
+2026-06-09 17:14:33.524 | INFO     | app.lm.lm_utils:get_llm_client:71 - [LLM客户端] 实例初始化成功并缓存：模型=qwen-flash，JSON模式=False
+2026-06-09 17:14:35.946 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 348 字符
+2026-06-09 17:14:35.946 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:14:36.830 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:14:36.830 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 17:14:36.836 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:14:36.836 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 5 个相关切片
+2026-06-09 17:14:36.836 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 17:14:36.837 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 17:14:36.838 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 17:14:36.840 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 17:14:36.841 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 17:14:36.841 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=5, HyDE检索=5, 联网搜索=0
+2026-06-09 17:14:36.842 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:58 - RRF输出: 5 个文档
+2026-06-09 17:14:36.842 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:61 - >>> 节点执行完成: node_rrf
+2026-06-09 17:14:36.842 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 17:14:36.843 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:43 - 开始重排序: 5 个文档
+2026-06-09 17:14:36.849 | INFO     | app.lm.reranker_utils:get_reranker_model:30 - 正在以离线模式加载 Reranker 模型: D:/ai_models/modelscope_cache/BAAI/bge-reranker-large
+2026-06-09 17:14:36.849 | INFO     | app.lm.reranker_utils:get_reranker_model:31 - 设备: cpu, FP16: False
+2026-06-09 17:14:37.878 | INFO     | app.lm.reranker_utils:get_reranker_model:39 - Reranker 模型加载成功
+2026-06-09 17:14:46.282 | INFO     | app.query_process.agent.nodes.node_rerank:step_rerank_docs:110 - Rerank完成，最高分: -1.8516
+2026-06-09 17:14:46.282 | INFO     | app.query_process.agent.nodes.node_rerank:step_dynamic_topk:168 - 断崖截断 @ index 0: -1.8516 -> -2.8152
+2026-06-09 17:14:46.282 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:52 - 重排序完成: 输入5 -> 输出1
+2026-06-09 17:14:46.283 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:55 - >>> 节点执行完成: node_rerank
+2026-06-09 17:14:46.283 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 17:14:47.676 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 17:19:07.833 | INFO     | __main__:query:99 - [session_1780996745676] 收到查询: 烫金机温度设置多少合适？
+2026-06-09 17:19:07.836 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 17:19:08.530 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 17:19:08.530 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['烫金机']
+2026-06-09 17:19:08.531 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 17:19:08.533 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 17:19:08.533 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: 烫金机的温度设置多少才合适？...
+2026-06-09 17:19:08.533 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:19:08.819 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:19:08.819 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["烫金机"]
+2026-06-09 17:19:08.829 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 17:19:08.829 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 0 个相关切片
+2026-06-09 17:19:08.830 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 17:19:08.830 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 17:19:08.831 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: 烫金机的温度设置多少才合适？...
+2026-06-09 17:19:11.759 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 322 字符
+2026-06-09 17:19:11.759 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:19:12.864 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:19:12.864 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["烫金机"]
+2026-06-09 17:19:12.869 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 17:19:12.870 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 0 个相关切片
+2026-06-09 17:19:12.870 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 17:19:12.871 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 17:19:12.872 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 17:19:12.872 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 17:19:12.873 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 17:19:12.873 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=0, HyDE检索=0, 联网搜索=0
+2026-06-09 17:19:12.873 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 17:19:12.874 | WARNING  | app.query_process.agent.nodes.node_rerank:node_rerank:38 - 无待重排文档或查询为空: docs=0, query=True
+2026-06-09 17:19:12.874 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 17:19:12.876 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 17:20:22.538 | INFO     | __main__:query:99 - [session_1780996745676] 收到查询: HAK 180 烫金机温度设置多少合适？
+2026-06-09 17:20:22.541 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 17:20:23.263 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 17:20:23.263 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['HAK 180 烫金机']
+2026-06-09 17:20:23.265 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 17:20:23.266 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 17:20:23.266 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: HAK 180 烫金机的温度应设置为多少才合适？...
+2026-06-09 17:20:23.266 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:20:23.566 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:20:23.566 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 17:20:23.577 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:20:23.577 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 5 个相关切片
+2026-06-09 17:20:23.577 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 17:20:23.578 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 17:20:23.578 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: HAK 180 烫金机的温度应设置为多少才合适？...
+2026-06-09 17:20:27.474 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 289 字符
+2026-06-09 17:20:27.475 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:20:28.370 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:20:28.370 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["HAK 180 烫金机"]
+2026-06-09 17:20:28.375 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:20:28.375 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 5 个相关切片
+2026-06-09 17:20:28.375 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 17:20:28.376 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 17:20:28.377 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 17:20:28.377 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 17:20:28.378 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 17:20:28.378 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=5, HyDE检索=5, 联网搜索=0
+2026-06-09 17:20:28.378 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:58 - RRF输出: 5 个文档
+2026-06-09 17:20:28.379 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:61 - >>> 节点执行完成: node_rrf
+2026-06-09 17:20:28.379 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 17:20:28.379 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:43 - 开始重排序: 5 个文档
+2026-06-09 17:20:37.290 | INFO     | app.query_process.agent.nodes.node_rerank:step_rerank_docs:110 - Rerank完成，最高分: -3.3713
+2026-06-09 17:20:37.290 | INFO     | app.query_process.agent.nodes.node_rerank:step_dynamic_topk:168 - 断崖截断 @ index 0: -3.3713 -> -4.0252
+2026-06-09 17:20:37.290 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:52 - 重排序完成: 输入5 -> 输出1
+2026-06-09 17:20:37.291 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:55 - >>> 节点执行完成: node_rerank
+2026-06-09 17:20:37.291 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 17:20:38.731 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 17:31:39.234 | INFO     | __main__:query:99 - [session_1780996745676] 收到查询: 华为显示器 B3-271Q 最高亮度是多少
+2026-06-09 17:31:39.237 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 17:31:39.928 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 17:31:39.928 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['华为显示器 B3-271Q']
+2026-06-09 17:31:39.930 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 17:31:39.931 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 17:31:39.931 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: 华为显示器 B3-271Q 的最高亮度是多少？...
+2026-06-09 17:31:39.932 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:31:40.225 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:31:40.225 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["华为显示器 B3-271Q"]
+2026-06-09 17:31:40.233 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 17:31:40.234 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 0 个相关切片
+2026-06-09 17:31:40.234 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 17:31:40.235 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 17:31:40.235 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: 华为显示器 B3-271Q 的最高亮度是多少？...
+2026-06-09 17:31:43.155 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 389 字符
+2026-06-09 17:31:43.155 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:31:44.133 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:31:44.133 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["华为显示器 B3-271Q"]
+2026-06-09 17:31:44.138 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到0条结果
+2026-06-09 17:31:44.139 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 0 个相关切片
+2026-06-09 17:31:44.139 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 17:31:44.139 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 17:31:44.140 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 17:31:44.141 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 17:31:44.142 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 17:31:44.142 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=0, HyDE检索=0, 联网搜索=0
+2026-06-09 17:31:44.143 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 17:31:44.143 | WARNING  | app.query_process.agent.nodes.node_rerank:node_rerank:38 - 无待重排文档或查询为空: docs=0, query=True
+2026-06-09 17:31:44.143 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 17:31:44.145 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output
+2026-06-09 17:35:29.208 | INFO     | __main__:query:99 - [session_1780996745676] 收到查询: hak180第一步操作是什么
+2026-06-09 17:35:29.211 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:29 - >>> 开始执行节点: node_item_name_confirm
+2026-06-09 17:35:29.919 | WARNING  | app.query_process.agent.nodes.node_item_name_confirm:step_confirm_items:131 - 集合 kb_item_names 不存在
+2026-06-09 17:35:29.919 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:54 - 确认商品: ['HAK 180']
+2026-06-09 17:35:29.921 | INFO     | app.query_process.agent.nodes.node_item_name_confirm:node_item_name_confirm:74 - >>> 节点执行完成: node_item_name_confirm
+2026-06-09 17:35:29.922 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:24 - >>> 开始执行节点: node_search_embedding
+2026-06-09 17:35:29.922 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:38 - 向量化查询: HAK 180烫金机的第一步操作是什么？...
+2026-06-09 17:35:29.923 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:35:30.191 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:35:30.191 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:48 - 过滤条件: item_name in ["HAK 180"]
+2026-06-09 17:35:30.200 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:35:30.200 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:80 - 检索到 5 个相关切片
+2026-06-09 17:35:30.201 | INFO     | app.query_process.agent.nodes.node_search_embedding:node_search_embedding:87 - >>> 节点执行完成: node_search_embedding
+2026-06-09 17:35:30.201 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:28 - >>> 开始执行节点: node_search_embedding_hyde
+2026-06-09 17:35:30.202 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:43 - 生成假设性文档: HAK 180烫金机的第一步操作是什么？...
+2026-06-09 17:35:34.464 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:52 - 假设性文档长度: 336 字符
+2026-06-09 17:35:34.464 | INFO     | app.lm.embedding_utils:generate_embeddings:39 - 开始为 1 条文本生成 BGE-M3 向量...
+2026-06-09 17:35:35.391 | INFO     | app.lm.embedding_utils:generate_embeddings:60 - 成功生成 1 条向量（稠密维度: 1024）
+2026-06-09 17:35:35.391 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:64 - 过滤条件: item_name in ["HAK 180"]
+2026-06-09 17:35:35.396 | INFO     | app.clients.milvus_utils:hybrid_search:192 - Milvus混合搜索完成，集合[kb_chunks]共检索到5条结果
+2026-06-09 17:35:35.396 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:96 - HyDE检索到 5 个相关切片
+2026-06-09 17:35:35.396 | INFO     | app.query_process.agent.nodes.node_search_embedding_hyde:node_search_embedding_hyde:104 - >>> 节点执行完成: node_search_embedding_hyde
+2026-06-09 17:35:35.397 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:20 - >>> 开始执行节点: node_web_search_mcp
+2026-06-09 17:35:35.398 | ERROR    | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:46 - 联网搜索失败: Cannot run the event loop while another loop is running
+2026-06-09 17:35:35.398 | INFO     | app.query_process.agent.nodes.node_web_search_mcp:node_web_search_mcp:50 - >>> 节点执行完成: node_web_search_mcp
+2026-06-09 17:35:35.399 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:23 - >>> 开始执行节点: node_rrf
+2026-06-09 17:35:35.399 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:32 - RRF输入: 向量检索=5, HyDE检索=5, 联网搜索=0
+2026-06-09 17:35:35.400 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:58 - RRF输出: 7 个文档
+2026-06-09 17:35:35.400 | INFO     | app.query_process.agent.nodes.node_rrf:node_rrf:61 - >>> 节点执行完成: node_rrf
+2026-06-09 17:35:35.401 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:29 - >>> 开始执行节点: node_rerank
+2026-06-09 17:35:35.401 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:43 - 开始重排序: 7 个文档
+2026-06-09 17:35:46.407 | INFO     | app.query_process.agent.nodes.node_rerank:step_rerank_docs:110 - Rerank完成，最高分: 3.9310
+2026-06-09 17:35:46.408 | INFO     | app.query_process.agent.nodes.node_rerank:step_dynamic_topk:168 - 断崖截断 @ index 0: 3.9310 -> 2.9714
+2026-06-09 17:35:46.408 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:52 - 重排序完成: 输入7 -> 输出1
+2026-06-09 17:35:46.408 | INFO     | app.query_process.agent.nodes.node_rerank:node_rerank:55 - >>> 节点执行完成: node_rerank
+2026-06-09 17:35:46.409 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:26 - >>> 开始执行节点: node_answer_output
+2026-06-09 17:35:47.468 | INFO     | app.query_process.agent.nodes.node_answer_output:node_answer_output:59 - >>> 节点执行完成: node_answer_output

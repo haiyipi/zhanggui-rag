@@ -1,0 +1,2322 @@
+[
+    {
+        "type": "text",
+        "text": "用户手册",
+        "text_level": 1,
+        "bbox": [
+            636,
+            162,
+            880,
+            209
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "业",
+        "bbox": [
+            774,
+            818,
+            875,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "HUAWEI ",
+        "bbox": [
+            776,
+            874,
+            875,
+            891
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "bbox": [
+            129,
+            72,
+            184,
+            93
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 了解计算机...",
+        "text_level": 1,
+        "bbox": [
+            127,
+            108,
+            828,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 外观介绍 ..",
+        "bbox": [
+            127,
+            142,
+            880,
+            161
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 键盘 . ",
+        "bbox": [
+            127,
+            176,
+            880,
+            194
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 快捷键功能介绍 .. . 3 ",
+        "bbox": [
+            127,
+            207,
+            880,
+            224
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 快捷键与功能键切换 .. . 3 ",
+        "bbox": [
+            127,
+            236,
+            880,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 给计算机充电 .",
+        "bbox": [
+            127,
+            264,
+            880,
+            282
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 使用电源适配器为计算机充电 4",
+        "bbox": [
+            127,
+            296,
+            880,
+            313
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 充电注意事项 .. . 4",
+        "bbox": [
+            127,
+            325,
+            880,
+            340
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 开启和关闭计算机 ..",
+        "bbox": [
+            127,
+            353,
+            880,
+            370
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 BIOS设置.. 6 ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            387,
+            828,
+            404
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 进入BIOS设置界面的方法 . . 6",
+        "bbox": [
+            127,
+            420,
+            880,
+            438
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 查看 BIOS 版本信息、EC 版本信息 . . 6",
+        "bbox": [
+            127,
+            454,
+            880,
+            471
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 恢复 BIOS 默认设置 . . 6 ",
+        "bbox": [
+            127,
+            486,
+            880,
+            504
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 设置 BIOS 密码 . 6",
+        "bbox": [
+            127,
+            521,
+            880,
+            538
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 BIOS 管理员密码和 BIOS 用户密码（EC 版本为 2.19 及以上的产品适用） . 6",
+        "bbox": [
+            127,
+            553,
+            880,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 BIOS 管理员密码和 BIOS 开机密码（EC 版本低于 2.19 的产品适用） 8",
+        "bbox": [
+            127,
+            581,
+            880,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 配件 .. 9",
+        "text_level": 1,
+        "bbox": [
+            127,
+            611,
+            828,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 蓝牙鼠标（可选配件）",
+        "bbox": [
+            127,
+            643,
+            880,
+            661
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 了解蓝牙鼠标 . . 9 ",
+        "bbox": [
+            127,
+            676,
+            880,
+            692
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 安装电池 ... . 9 ",
+        "bbox": [
+            127,
+            703,
+            880,
+            719
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 蓝牙鼠标与计算机配对 .. .. 10 ",
+        "bbox": [
+            127,
+            731,
+            880,
+            745
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 HUAWEI MINI RJ45 转 RJ45 转接线 . . 10",
+        "bbox": [
+            127,
+            760,
+            880,
+            777
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 安全信息 . 11",
+        "text_level": 1,
+        "bbox": [
+            127,
+            793,
+            828,
+            811
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 电子设备 .. 11",
+        "bbox": [
+            127,
+            827,
+            880,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.2 对医疗设备的影响 . . 11",
+        "bbox": [
+            127,
+            859,
+            880,
+            877
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.3 听力保护 .. 11",
+        "bbox": [
+            127,
+            894,
+            880,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.4 易燃易爆区域 . . 11",
+            "4.5 交通安全 .. . 11",
+            "4.6 操作环境 . . 12",
+            "4.7 儿童健康 .. . 12",
+            "4.8 配件要求 .. . 12",
+            "4.9 充电器安全 .. . 13",
+            "4.10 电池安全 .. . 13",
+            "4.11 维护和保养 .. . 14",
+            "4.12 环境保护 .. . 14",
+            "5 个人信息和数据安全. . 15",
+            "6 法律声明 . . 16",
+            "6.1 商标声明 . . 16",
+            "6.2 注意 . . 16",
+            "6.3 第三方软件声明 . . 16",
+            "6.4 责任限制 .. . 17",
+            "6.5 进出口管制 .. . 17",
+            "6.6 隐私保护 . 17"
+        ],
+        "bbox": [
+            126,
+            68,
+            884,
+            625
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 了解计算机",
+        "text_level": 1,
+        "bbox": [
+            147,
+            92,
+            347,
+            114
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 外观介绍",
+        "text_level": 1,
+        "bbox": [
+            147,
+            144,
+            282,
+            163
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0 计算机的配置不同，接口会存在差异，请以实际为准。",
+        "bbox": [
+            144,
+            185,
+            537,
+            201
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc107e26fd3b5f1fec4118d406b6c22f2be56472c6541915cbc7b5bc039ab1d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            263,
+            230,
+            732,
+            800
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            494,
+            928,
+            502,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d03185d5debba83889249de15fd7c6b5ab40aac8702e5a7b0405cd921693fa49.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>1</td><td>指纹式电源键录入指纹后,您只需使用已录入指纹的手指按一下电源键,即可同时实现开机、解锁,无需输入密码,快捷安全。</td></tr><tr><td>2</td><td>隐藏式摄像头按下按钮可以弹出摄像头,与相机等应用程序配合使用时,可以进行拍照或视频交流,再次按下按钮可以收起摄像头。</td></tr><tr><td>3</td><td>摄像头指示灯了解摄像头使用状态。摄像头开启时,指示灯白色常亮。</td></tr><tr><td>4</td><td>触摸板类似鼠标的功能,更方便的操控计算机。</td></tr><tr><td>5</td><td>USB-C 接口连接电源适配器给计算机充电。连接手机、U盘等外接设备传输数据。</td></tr><tr><td>6</td><td>耳机接口连接耳机。</td></tr><tr><td>7</td><td>HDMI 接口高清晰度多媒体接口,连接显示设备。</td></tr><tr><td>8</td><td>充电指示灯充电时,显示电池充电状态:白色闪烁表示正在充电。白色常亮表示电池充满电,停止充电。</td></tr><tr><td>9</td><td>Mini RJ45 接口连接 HUAWEI Mini RJ45 转 RJ45 转接线。</td></tr><tr><td>10</td><td>USB-A (USB 3.2 Gen 1) 接口连接手机、U盘等外接设备传输数据。</td></tr><tr><td>11</td><td>麦克风使用麦克风进行视频会议、语音通话或录音。</td></tr></table>",
+        "bbox": [
+            147,
+            74,
+            853,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            492,
+            928,
+            504,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 键盘 ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            87,
+            240,
+            104
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "i 不同机型，键盘按键不同，请以实际为准。",
+        "bbox": [
+            146,
+            125,
+            460,
+            140
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 快捷键功能介绍",
+        "text_level": 1,
+        "bbox": [
+            147,
+            161,
+            336,
+            176
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "计算机键盘的 F1、F2 等键默认为快捷键（热键）模式，可用于轻松执行常见任务。",
+        "bbox": [
+            144,
+            200,
+            798,
+            217
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b8c833e2438accf86873ae6943b713f8c93ce2836969833d5e5a8e9942f3be5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td><img src=\"images/c14716a7a8e1f3cc92d56b2eddbfe7445f3f92c8a0c86372297bd4f8542c8da2.jpg\"/></td><td>降低屏幕亮度</td></tr><tr><td><img src=\"images/bcd7715a30dacb64382401a36ab7cd8f79c95d7df33d0706e2ef48e712a42990.jpg\"/></td><td>增强屏幕亮度</td></tr><tr><td><img src=\"images/84c171cc78c736d75877105626326497f451d1a11c5b802a8243749e5adb05f3.jpg\"/></td><td>开启或关闭键盘背光,调节键盘背光亮度i 如果此按键上无一图标,则不支持背光。</td></tr><tr><td><img src=\"images/c23ab0eb5f75912210b4c23356c8bd6fafe2a555239df32dd54a76a2191f952c.jpg\"/></td><td>开启或关闭静音</td></tr><tr><td><img src=\"images/5f48d007bf7c56a99b0a0d01a5b337e639435e6d1129c11aa0882b9eed3fc47e.jpg\"/></td><td>减小音量</td></tr><tr><td><img src=\"images/e902019c1c6bcb3934b3451c78dc0b678449b2eb9f46ae28651ad5ee4897a241.jpg\"/></td><td>增大音量</td></tr><tr><td><img src=\"images/c2507e0a7eb1415e5a6574b941fa0b92fcdb9a24a8ed7a38150b1b05b46d3963.jpg\"/></td><td>开启或关闭麦克风</td></tr><tr><td><img src=\"images/a0f9a47cdb986d1aaa468d196d6d8d88ebc92893e328d568faaeb180c825d11c.jpg\"/></td><td>切换投影屏幕模式</td></tr><tr><td><img src=\"images/9d2f46d8d1e69603f985f8f0fe0a9d363d899270a7db2c7ff2a300b5c5bb0ade.jpg\"/></td><td>开启或关闭无线网络</td></tr></table>",
+        "bbox": [
+            147,
+            226,
+            850,
+            706
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 快捷键与功能键切换",
+        "text_level": 1,
+        "bbox": [
+            147,
+            728,
+            371,
+            745
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在功能键模式下，运行不同的软件时，F1、F2 等键被定义不同的功能。",
+        "bbox": [
+            144,
+            760,
+            700,
+            776
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "若要将 F1、F2 等键作为功能键使用，您可以：",
+        "bbox": [
+            144,
+            790,
+            517,
+            806
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按下 Fn 键，当 Fn 键指示灯亮起，表示已将 F1、F2 等键锁定为功能键模式。只需再次按 Fn 键，当 Fn 键指示灯熄灭，即可返回快捷键（热键）模式。",
+        "bbox": [
+            144,
+            821,
+            848,
+            859
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            492,
+            928,
+            504,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3 给计算机充电",
+        "text_level": 1,
+        "bbox": [
+            147,
+            81,
+            321,
+            98
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当电池电量过低时，计算机会弹出低电提示，请及时为计算机充电，以免影响到您的使用。",
+        "bbox": [
+            144,
+            112,
+            823,
+            150
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 使用电源适配器为计算机充电",
+        "text_level": 1,
+        "bbox": [
+            146,
+            178,
+            442,
+            194
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算机内置（不可拆卸）可充电电池。连接电源适配器和充电线缆可对计算机充电。计算机处于关机或睡眠状态时，充电速度更快。",
+        "bbox": [
+            144,
+            207,
+            840,
+            247
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6ffd9fc2f5c6bebab323f853173e35ebcd451bca12aae4c2ef9c06c5dc5fcbe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Line drawing of a laptop with a mouse pointer indicating left-side motion (no text or symbols)",
+        "sub_type": "natural_image",
+        "bbox": [
+            191,
+            267,
+            815,
+            545
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 充电注意事项",
+        "text_level": 1,
+        "bbox": [
+            147,
+            586,
+            319,
+            602
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请在适宜的温度范围内和通风良好的阴凉区域为计算机充电，在高温环境下充电可能会损坏计算机。",
+            "计算机充电时间会随温度条件和电池使用状况而变化。",
+            "计算机长时间工作和充电时，可能会表面发热，这属于正常现象。感觉发烫时，请关闭部分功能并停止充电。",
+            "电池属于易损耗品，如发现待机时间大幅度减少，请勿自行更换，请前往附近的华为客户服务中心更换原装电池。"
+        ],
+        "bbox": [
+            141,
+            619,
+            845,
+            801
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4 开启和关闭计算机",
+        "text_level": 1,
+        "bbox": [
+            147,
+            823,
+            361,
+            840
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首次开机时，请先连接电源适配器，计算机自动开机。等待屏幕亮起后，进入开机设置界面。",
+        "bbox": [
+            144,
+            862,
+            840,
+            900
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            492,
+            928,
+            502,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "再次开机时，按下电源键，至键盘灯亮起后松开。",
+        "bbox": [
+            144,
+            80,
+            529,
+            96
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "强制关机：长按电源键 10 秒以上，可强制关机。强制关机会导致未保存的数据失，请谨慎使用。",
+        "bbox": [
+            144,
+            110,
+            833,
+            149
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            492,
+            928,
+            505,
+            939
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2 BIOS 设置 ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            85,
+            339,
+            106
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1 进入 BIOS 设置界面的方法",
+        "text_level": 1,
+        "bbox": [
+            144,
+            138,
+            452,
+            157
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "开机或重启时，长按或连续点按 F2 键进入 BIOS 设置界面，然后根据界面提示对 BIOS进行设置。",
+        "bbox": [
+            144,
+            176,
+            845,
+            218
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 查看 BIOS 版本信息、EC 版本信息",
+        "text_level": 1,
+        "bbox": [
+            144,
+            249,
+            527,
+            267
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "开机或重启时，长按或连续点按 F2 键，进入 BIOS 设置界面，在“BIOS 版本”（BIOS Version）、“EC 版本”（EC Version）中可以看到 BIOS 版本信息和 EC 版本信息。",
+        "bbox": [
+            144,
+            288,
+            781,
+            305
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            144,
+            309,
+            833,
+            347
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 恢复 BIOS 默认设置 ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            380,
+            391,
+            399
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "恢复 BIOS 默认设置，可以将 BIOS 各接口配置还原到原始状态，例如将 BIOS 语言还原到默认语言。但此操作不影响您已配置的 BIOS 密码。",
+        "bbox": [
+            144,
+            420,
+            840,
+            458
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "操作方法：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            472,
+            231,
+            488
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "开机或重启时，长按或连续点按 F2 键进入 BIOS 设置界面，按 F9 键调出“恢复出厂设置”（Load Defaults）窗口，然后选择“是”（Yes），按 F10 键保存并退出。",
+        "bbox": [
+            144,
+            503,
+            850,
+            541
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4 设置 BIOS 密码",
+        "text_level": 1,
+        "bbox": [
+            144,
+            567,
+            349,
+            585
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "开机或重启时，长按或连续点按 F2 键，进入 BIOS 设置界面，根据不同的 BIOS 版本，您可以设置两种 BIOS 密码：",
+        "bbox": [
+            144,
+            611,
+            820,
+            649
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一种：BIOS 管理员密码和 BIOS 用户密码（EC 版本为 2.19 及以上的产品适用）。",
+        "bbox": [
+            144,
+            654,
+            826,
+            671
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二种：BIOS 管理员密码和 BIOS 开机密码（EC 版本低于 2.19 的产品适用）。",
+        "bbox": [
+            144,
+            675,
+            793,
+            692
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同的 BIOS 版本，设置的密码作用有差异，您可以根据实际情况，按需求设置。",
+        "bbox": [
+            144,
+            695,
+            781,
+            713
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 BIOS 管理员密码和 BIOS 用户密码（EC 版本为 2.19 及以上的产品适用）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            747,
+            806,
+            764
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BIOS 密码的作用：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            794,
+            300,
+            809
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BIOS 管理员密码：可以作为启动密码登录系统；可以作为配置密码登录 BIOS 设置界面，登录后，可以修改 BIOS 任意配置。BIOS 管理员密码权限大于 BIOS 用户密码。",
+        "bbox": [
+            144,
+            823,
+            826,
+            861
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BIOS 用户密码：可以作为启动密码登录系统；可以作为配置密码登录 BIOS 设置界面，",
+        "bbox": [
+            144,
+            875,
+            831,
+            891
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            492,
+            928,
+            505,
+            939
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但是登录后，只能查看 BIOS 相关配置，不可以修改 BIOS 除用户密码外的其他配置。",
+        "bbox": [
+            144,
+            80,
+            821,
+            96
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "启动密码：在 BIOS 中开启“启动时检查菜单密码”（Boot Password Enable）选项后，计算机开机进入系统或 BIOS 设置页面前，会有界面提示您 “输入启动密码”，此时输入 BIOS 管理员密码或 BIOS 用户密码都可以进入。即 BIOS 管理员密码或 BIOS用户密码都是启动密码。",
+        "bbox": [
+            144,
+            110,
+            840,
+            191
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "配置密码：配置 BIOS 管理员密码和 BIOS 用户密码密码后，在进入 BIOS 设置界面时，会有界面提示您“输入配置密码”，此时，可以输入BIOS 管理员密码或 BIOS 用户密码，但输入不同的密码，获得的权限不同：",
+        "bbox": [
+            144,
+            205,
+            843,
+            266
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "输入 BIOS 管理员密码：可以修改 BIOS 任意配置。",
+            "输入 BIOS 用户密码：只能查看 BIOS 相关配置，不可以修改 BIOS 除用户密码外的其他配置。",
+            "0 华为计算机没有设置出厂 BIOS 管理员密码和 BIOS 用户密码，也没有任何形式的通用密码，一旦设置，请妥善保管。BIOS 用户密码可以通过 BIOS 管理员密码清除重置。BIOS 管理员密码和BIOS 用户密码一旦都丢失，只能更换主板，才能进入系统。"
+        ],
+        "bbox": [
+            144,
+            277,
+            836,
+            412
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "配置 BIOS 管理员密码、BIOS 用户密码：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            423,
+            482,
+            441
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在开机时长按或连续点按 F2 进入 BIOS 设置界面。",
+            "2. 选择“BIOS 配置管理员密码”，按 Enter 键确认。按界面提示输入并确认密码，例如：123，按 Enter 键确认。配置了管理员密码后，每次进入 BIOS 界面都需要输入配置密码。",
+            "3. 选择“BIOS 配置用户密码”，按 Enter 键确认。按界面提示输入并确认密码，例如：456，按 Enter 键确认。",
+            "4. 若您需要开启 BIOS 启动密码，请检查“启动时检查菜单密码”选项是否打开（此选项默认打开）。若显示关闭，按 Enter 键确认选项后，按界面提示打开。",
+            "5. 按 F10 键保存退出。",
+            "6. 计算机进入系统时，会提示您输入启动密码，此时输入“BIOS 管理员密码”（例如123）或“BIOS 用户密码”（例如 456）中的任意一个，都可以进入系统。“BIOS管理员密码”或“BIOS 用户密码”都是计算机启动密码。"
+        ],
+        "bbox": [
+            144,
+            453,
+            845,
+            751
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "修改 BIOS 管理员密码、BIOS 用户密码：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            773,
+            482,
+            790
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. 在开机时长按或连续点按 F2 键，出现提示界面，让您输入启动密码，输入 BIOS 管理员密码（例如 123）或 BIOS 用户密码（例如 456）都可以，按 Enter 键确认。",
+        "bbox": [
+            146,
+            807,
+            845,
+            846
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. 提示您输入配置密码：",
+        "bbox": [
+            146,
+            855,
+            352,
+            871
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "若您输入的是 BIOS 管理员密码（例如 123），进入 BIOS 设置界面后：选择“BIOS 配置管理员密码”，按 Enter 键确认，按界面提示可以修改密码（若您设置新密码为空，将清空管理员密码）；选择“BIOS 配置用户密码”，按 Enter 键，按界面提示可以修改密码；选择“启动时检查菜单密码”，按 Enter 键，选择“关闭”，再次按 Enter 键确认选项，关闭此选项后，开机时不需要再输入启动密码。",
+        "bbox": [
+            146,
+            881,
+            801,
+            897
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "7 ",
+        "bbox": [
+            492,
+            928,
+            502,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            179,
+            80,
+            843,
+            161
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "若您输入的是 BIOS 用户密码（例如 456），在 BIOS 设置界面，您只能修改BIOS 用户密码，无法修改 BIOS 管理员密码，以及无法关闭启动密码。",
+        "bbox": [
+            144,
+            175,
+            805,
+            212
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. 修改后按 F10 键保存并退出。",
+        "bbox": [
+            144,
+            236,
+            416,
+            252
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 BIOS 管理员密码和 BIOS 开机密码（EC 版本低于 2.19 的产品适用）",
+        "text_level": 1,
+        "bbox": [
+            144,
+            281,
+            771,
+            296
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BIOS 密码作用：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            326,
+            280,
+            340
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "BIOS 管理员密码（即 BIOS 配置密码）：进入 BIOS 设置界面时，需要输入的BIOS 配置密码，登录后，可以修改 BIOS 任意配置。但是无法作为开机密码登录系统。",
+            "BIOS 开机密码：计算机开机进入系统或 BIOS 界面需要输入的密码。但不能作为BIOS 配置密码登录 BIOS 设置界面。",
+            "0 华为计算机没有设置出厂 BIOS 管理员密码和 BIOS 开机密码，也没有任何形式的通用密码，一旦设置，请妥善保管。BIOS 开机密码一旦丢失，只能更换主板，才能进入系统。"
+        ],
+        "bbox": [
+            144,
+            356,
+            840,
+            514
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "配置 BIOS 管理员密码、BIOS 开机密码：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            526,
+            482,
+            542
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在开机时长按或连续点按 F2 进入 BIOS 设置界面。",
+            "2. 在“安全设置”（Security Setting）栏下，点击“BIOS 配置管理员密码”（SETUPAdministrator Password）或“BIOS 开机密码”（POST Password），按 Enter键确认，按界面提示输入并确认密码后，按 Enter 键确认。",
+            "3. 按 F10 键保存并退出。"
+        ],
+        "bbox": [
+            144,
+            560,
+            845,
+            675
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "修改 BIOS 管理员密码、BIOS 开机密码：",
+        "text_level": 1,
+        "bbox": [
+            144,
+            698,
+            482,
+            714
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 在开机时长按或连续点按 F2 进入 BIOS 设置界面。",
+            "2. 在“安全设置”（Security Setting）栏下，点击“BIOS 配置管理员密码”（SETUPAdministrator Password）或“BIOS 开机密码”（POST Password），按 Enter键确认，按界面提示输入旧密码并确认新密码后，按 Enter 键确认（若您设置新密码为空，将清空管理员密码或开机密码）。",
+            "3. 修改后按 F10 键保存并退出。"
+        ],
+        "bbox": [
+            144,
+            732,
+            847,
+            869
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            492,
+            928,
+            502,
+            938
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 配件",
+        "text_level": 1,
+        "bbox": [
+            147,
+            85,
+            253,
+            106
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1 蓝牙鼠标（可选配件）",
+        "text_level": 1,
+        "bbox": [
+            146,
+            144,
+            389,
+            163
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "华为蓝牙鼠标可通过蓝牙连接计算机。首次使用蓝牙鼠标，需要完成蓝牙鼠标与计算机的配对。",
+        "bbox": [
+            144,
+            185,
+            840,
+            222
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 了解蓝牙鼠标",
+        "text_level": 1,
+        "bbox": [
+            146,
+            256,
+            319,
+            273
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "i 蓝牙鼠标为可选配件，您可单独购买。",
+        "bbox": [
+            146,
+            294,
+            426,
+            309
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/2064772f1134d1c9de246d0a04494b799f3a0c0bdd99251d0ba3ae73ad99d0f4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "1\n2\n3\n4",
+        "sub_type": "text_image",
+        "bbox": [
+            225,
+            319,
+            448,
+            467
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb275ec63e6e78b9c850248d601259016a08c2d75f9bf8ce0fb108bba2b96548.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Diagram of a device with labeled ports and connection points, showing two ports with numbered labels 5 and 6.",
+        "sub_type": "text_image",
+        "bbox": [
+            524,
+            319,
+            744,
+            467
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/55762c2a9ed4673dc7ee57289ee0113b64efcde74d07060cadc9a6593d7e39f2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>1</td><td>左键</td><td>2</td><td>滚轮+中键</td></tr><tr><td>3</td><td>右键</td><td>4</td><td>LED 指示灯i指示灯为红色闪烁时,表示电池电量低,请注意更换电池。</td></tr><tr><td>5</td><td>传感器</td><td>6</td><td>电源/蓝牙配对开关</td></tr></table>",
+        "bbox": [
+            147,
+            485,
+            850,
+            612
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 安装电池",
+        "text_level": 1,
+        "bbox": [
+            146,
+            644,
+            284,
+            660
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如下图所示，沿鼠标尾部标志打开上壳，按电池仓正负极(＋－)的标志安装一节 AA 电池，合上上壳，即可安装完成。",
+        "bbox": [
+            144,
+            682,
+            823,
+            720
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f9fd946fd9dad3369b52d65698ca0e3bee58d1d50554b5a21ab20cf16e9009.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Line drawing of a computer mouse case with three sequential steps showing internal components (no text or symbols)",
+        "sub_type": "natural_image",
+        "bbox": [
+            196,
+            736,
+            801,
+            819
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            492,
+            928,
+            505,
+            939
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 蓝牙鼠标与计算机配对",
+        "text_level": 1,
+        "bbox": [
+            146,
+            87,
+            389,
+            104
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5560ac2282306e71a432d807912fb9cf7face297e0d674473b5df312392e2111.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "```mermaid\ngraph LR\n    A[\"Laptop with Mouse\"] -->|Bluetooth Signal| B[\"Bluetooth icon\"]\n    B --> C[\"ON/OFF Off Signal\"]\n    style A fill:#f9f,stroke:#333\n    style B fill:#ccf,stroke:#333\n    style C fill:#cfc,stroke:#333\n```",
+        "sub_type": "flowchart",
+        "bbox": [
+            206,
+            135,
+            801,
+            271
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 按照图示将蓝牙鼠标底部开关拨至 处并保持 3 秒，指示灯闪烁后松开，鼠标进入配对状态。",
+            "2. 点击桌面底部任务栏的 图标，进入控制中心，选择 蓝牙，在其他设备列表中选择Huawei Mouse，稍等即可完成配对。"
+        ],
+        "bbox": [
+            144,
+            300,
+            848,
+            391
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2 HUAWEI Mini RJ45 转 RJ45 转接线",
+        "text_level": 1,
+        "bbox": [
+            144,
+            419,
+            554,
+            437
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "通过 HUAWEI Mini RJ45 转 RJ45 转接线，把您的计算机连接到有线网络。 RJ45 接口连接网线，迷你 RJ45 接口连接计算机。",
+        "bbox": [
+            144,
+            452,
+            848,
+            490
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6590bf444dd891f7e770918cbdf3fd56ad7f6ab7d1c098aba6e39f89a6cad1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Mini RJ45\nRJ45",
+        "sub_type": "text_image",
+        "bbox": [
+            406,
+            513,
+            588,
+            802
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            490,
+            928,
+            509,
+            939
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 安全信息",
+        "text_level": 1,
+        "bbox": [
+            144,
+            85,
+            319,
+            106
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。",
+        "bbox": [
+            144,
+            125,
+            848,
+            163
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1 电子设备",
+        "text_level": 1,
+        "bbox": [
+            144,
+            191,
+            280,
+            207
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "有明文规定禁止使用无线设备的场所，请勿使用本设备，否则会干扰其它电子设备或导致其它危险。",
+        "bbox": [
+            144,
+            229,
+            848,
+            268
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2 对医疗设备的影响",
+        "text_level": 1,
+        "bbox": [
+            144,
+            294,
+            359,
+            311
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "在明文规定禁止使用无线设备的医疗和保健场所，请遵守该场所的规定，并关闭设备。",
+            "设备产生的无线电波可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。",
+            "在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少 15 厘米的距离。"
+        ],
+        "bbox": [
+            141,
+            328,
+            845,
+            498
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3 听力保护",
+        "text_level": 1,
+        "bbox": [
+            144,
+            522,
+            280,
+            540
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "为了防止可能的听力损伤，请勿长时间使用高音量。",
+            "当您使用耳机收听音乐或通话时，建议使用音乐或通话所需的最小音量，以免损伤听力。长时间接触高音量可能会导致永久性听力损伤。",
+            "驾车时接触高音量可能会分散注意力，从而导致事故。"
+        ],
+        "bbox": [
+            141,
+            554,
+            843,
+            672
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.4 易燃易爆区域",
+        "text_level": 1,
+        "bbox": [
+            144,
+            695,
+            322,
+            713
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "在加油站（维修站）或靠近易燃物品、化学制剂等任何易燃易爆区域，请勿使用本设备，并遵守所有图形或文字的指示。在燃油或化学制剂存放和运输区或易爆场所内或周围，设备可能引起爆炸或起火。",
+            "请勿将设备及其配件与易燃液体、气体或易爆物品放在同一箱子中存放或运输。"
+        ],
+        "bbox": [
+            141,
+            731,
+            843,
+            827
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.5 交通安全",
+        "text_level": 1,
+        "bbox": [
+            144,
+            852,
+            280,
+            869
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "遵守所在地区或国家的相关规定，驾车时请勿使用本设备。",
+        "bbox": [
+            146,
+            891,
+            633,
+            908
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "11 ",
+        "bbox": [
+            490,
+            928,
+            507,
+            938
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "谨记安全驾驶是您的首要职责，请勿从事会分散注意力的活动。",
+            "汽车的电子设备可能因设备的无线电干扰而出现故障。请联系制造商咨询详细信息。",
+            "请勿将设备放在汽车安全气囊上方或安全气囊展开后能够触及的区域内。否则当安全气囊膨胀时，设备就会受到很强的外力推动而对车内人员造成严重伤害。",
+            "无线设备可能干扰飞机的飞行系统，请遵守航空公司的相关规定，在禁止使用无线设备的地方，请勿使用该设备。"
+        ],
+        "bbox": [
+            146,
+            80,
+            840,
+            231
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.6 操作环境",
+        "text_level": 1,
+        "bbox": [
+            144,
+            257,
+            282,
+            275
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请勿在多灰、潮湿、肮脏或靠近磁场的地方使用设备，以免引起设备内部电路故障。",
+            "请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。",
+            "请在温度 $0 ^ { \\circ } C \\sim 3 5 ^ { \\circ } C$ 范围内使用本设备，并在温度 - $- 1 0 ^ { \\circ } C \\sim + 4 5 ^ { \\circ } C$ 范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。",
+            "请勿将设备放置在阳光直射的地方，如汽车仪表盘或窗台处。",
+            "请避免设备及其配件雨淋或受潮，否则可能导致火灾或触电危险。",
+            "请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。",
+            "设备在运行一段时间后，设备温度会升高。如果设备温度过高，请勿长时间接触，否则可能导致低温烫伤，引起皮肤红肿或色素沉淀。",
+            "请勿让儿童或宠物吞咬设备或其配件，以免对其造成伤害或导致设备故障或爆炸。",
+            "当不断重复同一动作时（例如玩游戏），您的手、臂、腕、肩、颈或其他身体部位可能会偶尔感觉不适。如果您感觉到不适，请停止使用并咨询医师。"
+        ],
+        "bbox": [
+            146,
+            296,
+            845,
+            644
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.7 儿童健康",
+        "text_level": 1,
+        "bbox": [
+            144,
+            669,
+            282,
+            688
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。",
+            "本设备并非玩具，儿童应在成人监护下使用设备。"
+        ],
+        "bbox": [
+            146,
+            709,
+            828,
+            777
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.8 配件要求",
+        "text_level": 1,
+        "bbox": [
+            144,
+            796,
+            282,
+            815
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "使用未经认可或不兼容的电源、充电器或电池，可能引发火灾、爆炸或其他危险。",
+            "只能使用设备制造商认可且与此型号设备配套的配件。如果使用其他类型的配件，可能违反本设备的保修条款以及本设备所处国家的相关规定，并可能导致安全事故。如"
+        ],
+        "bbox": [
+            146,
+            831,
+            840,
+            899
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            490,
+            928,
+            507,
+            939
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "需获取认可的配件，请与华为客户服务中心联系。",
+        "bbox": [
+            181,
+            80,
+            564,
+            96
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.9 充电器安全",
+        "text_level": 1,
+        "bbox": [
+            144,
+            116,
+            302,
+            134
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "设备充电时，电源插座应安装在设备附近并应易于触及。",
+            "当充电完毕或者不充电时，请断开充电器与设备的连接并从电源插座上拔掉充电器。",
+            "请勿摔落或碰撞充电器。充电器外壳受损时请联系华为客户服务中心进行更换。",
+            "若电源插头或电源线已损坏，请勿继续使用，以免发生触电或火灾。",
+            "请勿用湿手触碰电源线，或用拉电源线缆的方式拔出充电器。",
+            "请勿用湿手触摸设备或充电器，以免发生设备短路、故障或触电。",
+            "请务必使用 CCC 认证并满足标准《GB 4943.1-2011 信息技术设备 安全 第 1 部分：通用要求》中“2.5 受限制电源”要求的充电器或电源给产品充电或供电。",
+            "若设备需要连接 USB 端口，请确认 USB 端口具备 USB-IF 标识且其性能符合USB-IF 的相关规范。"
+        ],
+        "bbox": [
+            141,
+            144,
+            838,
+            426
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.10 电池安全",
+        "text_level": 1,
+        "bbox": [
+            144,
+            442,
+            290,
+            460
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请勿将金属物导体与电池两极对接，或接触电池的端点，以免导致电池短路，以及因电池过热而引起的烧伤等身体伤害。",
+            "请勿将电池暴露在高温处或发热设备的周围，如日照、取暖器、微波炉、烤箱或热水器等。电池过热可能引起爆炸。",
+            "请勿拆解或改装电池、插入异物、或浸入水或其它液体中，以免引起电池漏液、过热、起火或爆炸。",
+            "如果电池漏液，请勿使皮肤或眼睛接触到漏出的液体。若接触到皮肤或眼睛上，请立即用清水冲洗，并到医院进行医疗处理。",
+            "如果电池在使用或保存过程中有变色、变形、异常发热等异常现象，请停止使用并更换新电池。",
+            "请勿把电池扔到火里，否则会导致电池起火和爆炸。",
+            "请按当地规定处理电池，不可将电池作为生活垃圾处理。若电池处置不当可能会导致电池爆炸。",
+            "请勿让儿童或宠物吞咬电池 ，以免对其造成伤害或导致电池爆炸。",
+            "请勿跌落、挤压或穿刺电池。避免让电池遭受外部大的压力，从而导致电池内部短路和过热。"
+        ],
+        "bbox": [
+            141,
+            471,
+            847,
+            891
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            490,
+            928,
+            507,
+            939
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请勿使用已经损坏的电池。",
+            "当设备的待机时间明显比正常时间短时，请更换电池。",
+            "本设备采用不可拆卸的内置电池，切勿自行更换电池，以免导致设备无法正常运行或电池损坏。为了您的人身安全和保障产品正常运作，强烈建议您到华为客户服务中心更换本设备电池。"
+        ],
+        "bbox": [
+            146,
+            80,
+            840,
+            201
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.11 维护和保养",
+        "text_level": 1,
+        "bbox": [
+            144,
+            226,
+            310,
+            244
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。",
+            "请勿在温度过高或过低区域放置设备及其配件，否则可能导致设备故障、着火或爆炸。",
+            "请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。",
+            "清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。",
+            "请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。",
+            "请勿将磁条卡（例如银行卡、电话卡等）长期接触本设备，否则可能导致磁条卡被磁场损坏。",
+            "请勿擅自拆卸或改装设备及配件，否则该设备及配件将不在本公司保修范围之内，设备发生故障时请联系华为客户服务中心。",
+            "如果设备碰撞硬物或设备受到外界的强烈撞击造成破碎，切勿触摸或试图移除破碎的部分，请立即停止使用并及时联系华为客户服务中心。"
+        ],
+        "bbox": [
+            141,
+            262,
+            845,
+            671
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.12 环境保护",
+        "text_level": 1,
+        "bbox": [
+            144,
+            694,
+            290,
+            712
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请勿将本设备及其附件作为普通的生活垃圾处理。",
+            "请遵守本设备及其附件处理的本地法令，并支持回收行动。"
+        ],
+        "bbox": [
+            146,
+            733,
+            633,
+            781
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            490,
+            928,
+            507,
+            938
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5 个人信息和数据安全",
+        "text_level": 1,
+        "bbox": [
+            147,
+            85,
+            440,
+            106
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "在使用设备的一些功能和第三方应用时，可能会因为操作不正确或其他原因导致您的个人信息或数据泄露或丢失，建议按以下方式加强保护您的个人信息。",
+        "bbox": [
+            144,
+            128,
+            843,
+            168
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "请将设备放置于安全区域，防止未经授权人员使用您的设备。",
+            "设置设备屏幕锁定，并牢记您设定的密码或解锁图案。",
+            "建议不要阅读来自陌生人的信息或邮件，以免设备遭受病毒感染。",
+            "在使用设备上网时，请勿浏览存在安全隐患的网站，以免个人信息被盗。",
+            "在使用无线共享、蓝牙等业务时，请设定密码，防止未授权访问。不需要使用这些业务时，建议及时关闭。",
+            "安装设备安全软件，并定期进行安全检查。",
+            "获取第三方应用时，应保证获取方式的安全性。获取的第三方应用程序应进行病毒扫描。",
+            "请及时安装或升级华为或授权的第三方应用程序供应商发布的安全性软件或补丁。",
+            "使用非授权第三方软件升级设备的固件和系统，可能存在设备无法使用或者泄漏您个人信息等安全风险。建议您使用在线升级或者将设备送至您附近的华为客户服务中心升级。",
+            "如果您使用了需要定位信息的应用程序，这些应用程序可以传输定位信息，第三方可能会共享这些定位信息。",
+            "设备可能会将检测、诊断等信息反馈给第三方应用程序供应商，这些信息将用于帮助第三方应用供应商改善产品和服务。"
+        ],
+        "bbox": [
+            141,
+            176,
+            845,
+            637
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            490,
+            928,
+            507,
+            939
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6 法律声明",
+        "text_level": 1,
+        "bbox": [
+            146,
+            85,
+            307,
+            106
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "版权所有 © 华为 2022。保留一切权利。",
+        "bbox": [
+            144,
+            125,
+            473,
+            142
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本手册描述的产品中，可能包含华为及其可能存在的许可人享有版权的软件。除非获得相关权利人的许可，否则，任何人不能以任何形式对前述软件进行复制、分发、修改、摘录、反编译、反汇编、解密、反向工程、出租、转让、分许可等侵犯软件版权的行为，但是适用法禁止此类限制的除外。",
+        "bbox": [
+            144,
+            157,
+            840,
+            238
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.1 商标声明",
+        "text_level": 1,
+        "bbox": [
+            144,
+            257,
+            282,
+            275
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bluetooth?字标及其徽标均为Bluetooth SIG,Inc.的注册商标，华为技术有限公司对此标记的任何使用都受到许可证限制，华为终端有限公司为华为技术有限公司的关联公司。",
+        "bbox": [
+            144,
+            290,
+            833,
+            350
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "HDMI、HDMI 高清晰度多媒体接口以及 HDMI 标志是 HDMI Licensing",
+        "bbox": [
+            144,
+            364,
+            732,
+            381
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Administrator, Inc.在美国和其他国家的商标或注册商标。",
+        "bbox": [
+            144,
+            385,
+            596,
+            402
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本产品操作系统由第三方供应商提供，第三方供应商会对操作系统进行版本更新升级、错误修正，并保证应用软件的兼容性。",
+        "bbox": [
+            144,
+            416,
+            840,
+            454
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。",
+        "bbox": [
+            144,
+            467,
+            821,
+            505
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.2 注意",
+        "text_level": 1,
+        "bbox": [
+            144,
+            526,
+            240,
+            543
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本手册描述的产品及其附件的某些特性和功能，取决于当地网络的设计和性能，以及您安装的软件。某些特性和功能可能由于当地网络运营商或网络服务供应商不支持，或者由于当地网络的设置，或者您安装的软件不支持而无法实现。因此，本手册中的描述可能与您购买的产品或其附件并非完全一一对应。",
+        "bbox": [
+            144,
+            559,
+            840,
+            638
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "华为保留随时修改本手册中任何信息的权利，无需提前通知且不承担任何责任。",
+        "bbox": [
+            144,
+            654,
+            757,
+            671
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.3 第三方软件声明",
+        "text_level": 1,
+        "bbox": [
+            144,
+            695,
+            342,
+            714
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "随本产品提供的第三方软件和应用程序归第三方所有，华为不拥有这些第三方软件和应用程序的知识产权，因此华为不对这些第三方软件和应用程序提供任何保证，华为既不会就这些软件和应用程序向您提供支持，也不对这些软件和应用程序的功能是否正常承担任何责任。",
+        "bbox": [
+            144,
+            735,
+            840,
+            815
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "第三方软件和应用程序的服务可能中断或终止，华为不保证任何内容或服务可在任何期间维持其可用性。第三方系通过华为可控制范围外的网络及传输工具传送内容或服务。在相关法律允许的范围内，华为明确表示不对任何通过本产品提供的任何内容或服务的中断或终止承担任何责任。",
+        "bbox": [
+            144,
+            830,
+            840,
+            910
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            490,
+            928,
+            507,
+            939
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "对于您个人安装在本产品上的任何软件或上传、下载的任何文字、图片、视频或软件等第三方作品，华为不对其合法性、质量以及其他任何方面承担任何责任，对于您因个人安装软件或上传、下载前述第三方作品产生的任何后果，包括安装的软件与本产品不兼容等情况，由您自行承担一切相关风险。",
+        "bbox": [
+            144,
+            80,
+            840,
+            161
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.4 责任限制",
+        "text_level": 1,
+        "bbox": [
+            144,
+            187,
+            282,
+            205
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "本手册中的内容均“按照现状”提供，除非适用法律要求，华为对本手册中的所有内容不提供任何明示或暗示的保证，包括但不限于适销性或者适用于某一特定目的的保证。",
+        "bbox": [
+            144,
+            226,
+            840,
+            264
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在适用法律允许的范围内，华为在任何情况下，都不对因使用本手册相关内容及本手册描述的产品而产生的任何特殊的、附带的、间接的、继发性的损害进行赔偿，也不对任何利润、数据、商誉或预期节约的损失进行赔偿。",
+        "bbox": [
+            144,
+            277,
+            840,
+            338
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在相关法律允许的范围内，在任何情况下，华为对您因为使用本手册描述的产品而遭受的损失的最大责任（除在涉及人身伤害的情况中根据适用的法律规定的损害赔偿外）以您购买本产品所支付的价款为限。",
+        "bbox": [
+            144,
+            351,
+            840,
+            410
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.5 进出口管制",
+        "text_level": 1,
+        "bbox": [
+            144,
+            437,
+            302,
+            454
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "若需将本手册描述的产品（包括但不限于产品中的软件及技术数据等）出口、再出口或者进口，您应遵守适用的进出口管制法律法规。",
+        "bbox": [
+            144,
+            476,
+            838,
+            514
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.6 隐私保护",
+        "text_level": 1,
+        "bbox": [
+            144,
+            534,
+            282,
+            551
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "为了解我们如何保护您的个人信息，请访问",
+        "bbox": [
+            144,
+            567,
+            487,
+            583
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。",
+        "bbox": [
+            144,
+            598,
+            702,
+            615
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。",
+        "bbox": [
+            144,
+            628,
+            838,
+            687
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "17 ",
+        "bbox": [
+            490,
+            928,
+            507,
+            938
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "购买华为终端产品，请访问华为商城 https://www.vmall.com/",
+        "bbox": [
+            141,
+            794,
+            640,
+            811
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "更多信息请访问 https://consumer.huawei.com/cn/",
+        "bbox": [
+            142,
+            831,
+            566,
+            847
+        ],
+        "page_idx": 20
+    }
+]

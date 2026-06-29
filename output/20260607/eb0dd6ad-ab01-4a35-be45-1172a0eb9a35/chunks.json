@@ -1,0 +1,530 @@
+[
+  {
+    "title": "# 外观介绍",
+    "content": "# 用户指南\n\n# 目 录\n\n# 产品介绍\n\n外观介绍 1\n\n操作面板 2\n\n# 首次安装与配网\n\n首次安装打印机 4\n\n给打印机配置网络 5\n\n# 更多设备连接打印机\n\n配网后，更多手机/平板/电脑共享连接打印机 18\n\n无可用 WLAN 时，手机/平板/电脑连接打印机 23\n\n# 装纸\n\n# 打印\n\n打印手机/平板中的文件 34\n\n打印电脑中的文件 37\n\n# 扫描\n\n将原稿扫描至手机/平板中 40\n\n将原稿扫描至电脑中 41\n\n# 复印\n\n直接在打印机上进行单面复印、双面复印、身份证复印 45\n\n从手机/平板端进行单面复印、双面复印、N 合一复印 48\n\n从电脑端进行单面复印、双面复印、N 合一复印 50\n\n# 开关机与休眠\n\n# 更多操作\n\n更换粉盒 56\n\n更换硒鼓 57\n\n恢复出厂设置 59\n\n重置网络 60\n\n取消打印任务 61\n\n升级打印机固件 62\n\n查看打印机 S/N 号 63\n\n# 常见故障代码处理\n\n# 安全信息\n\n# 法律声明\n\n# 产品介绍\n\n# 外观介绍\n\n![打印机控制面板布局及功能说明图示](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a124e7965f1af167be41b71b7758e7ab86ad5272b6d955b6cbe48fca382474e8.jpg)\n\n![打印机外观图，展示挡纸板位置及使用说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/6c87b3f8f394e4fc79f13c4092d78ad7c1f1dc9aad43c8970303a30bb7d72f4c.jpg)\n\n<table><tr><td>1</td><td>挡纸板通过挡纸板接住打印出来的纸张。i 首次安装打印机时,挡纸板合入在打印机中,打印、复印时请拉出。</td></tr><tr><td>2</td><td>前盖打开前盖,可以直接更换粉盒。</td></tr><tr><td>3</td><td>纸盒装入纸张。</td></tr><tr><td>4</td><td>左/右扣手位方便搬动打印机。</td></tr><tr><td>5</td><td>上盖按钮按压上盖按钮,打开打印机上盖,可以更换硒鼓或排查故障。上盖打开时,打印机停止工作。i 打开和关闭上盖时,请小心操作,注意不要夹伤手。</td></tr><tr><td>6</td><td>操作面板按操作面板上的功能键,可进行网络配置、复印等操作。i 关于打印机操作面板上指示灯如何显示设备状态,以及按键功能的详细信息,具体请查阅《操作面板》章节。</td></tr><tr><td>7</td><td>扫描区将原稿放入扫描区进行扫描或复印。</td></tr><tr><td>8</td><td>扫描盖板打开盖板,放入待扫描或复印的原稿。</td></tr><tr><td>9</td><td>后盖打开后盖,可以排查卡纸等故障问题。</td></tr><tr><td>10</td><td>电源开关开启或关闭打印机。</td></tr><tr><td>11</td><td>电源接口连接电源线给打印机供电。</td></tr><tr><td>12</td><td>纸盒防尘盖用于纸盒后端防尘。i 首次安装打印机时,纸盒防尘盖合入在打印机里,装纸后纸盒防尘盖可被顶出。</td></tr><tr><td>13</td><td>USB-B(USB 2.0)接口连接电脑传输数据。</td></tr><tr><td>14*</td><td>LAN口(网口)插入网线连接网络。i 仅部分型号支持 LAN口(网口),请以实际为准。</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 0,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_0"
+  },
+  {
+    "title": "# 操作面板",
+    "content": "# 操作面板\n\n![操作面板介绍：包括LAN口连接说明及Huawei Share感应区使用方法。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/6d7d7c4a2cd9a1e765e333b9f13b3fab467a3e57853d3b91cc4aa1d8454b7c54.jpg)\n\n<table><tr><td>1</td><td>Huawei Share 感应区域部分华为手机的 NFC 感应区域与打印机的 Huawei Share 感应区域轻触,实现一碰联网、一碰打印功能。</td></tr><tr><td>2</td><td>缺纸指示灯缺纸时会显示红灯,请在纸盒中装入纸张。</td></tr><tr><td>3</td><td>缺墨指示灯缺墨时会显示红灯,请更换粉盒。建议您前往华为官方渠道购买打印机适配的原装粉盒,如使用非原装粉盒,打印机的打印质量和性能可能达不到原来的设计标准。</td></tr><tr><td>4</td><td>卡纸指示灯卡纸时会显示红灯,请您检查卡纸位置,小心拿出被卡纸张。</td></tr><tr><td>5</td><td>网络状态键长按3秒以上可重置网络。按键上的灯可以显示打印机当前网络状态:唤醒状态下,未亮灯表示未联网。白色闪烁表示配网中。白色常亮表示已联网。蓝色闪烁表示有设备正在通过直连打印连接打印机,触按确认连接。</td></tr><tr><td>6</td><td>ID复印键触按进入ID(身份证)复印模式。</td></tr><tr><td>7</td><td>双面复印键触按进入双面复印模式。</td></tr><tr><td>8</td><td>数字键显示目前选择的复印份数。显示错误代码,具体请查阅《常见故障代码处理》章节。</td></tr><tr><td>9</td><td>加/减键触按加键⊕/减键⊖调整要复印的份数。i复印份数较多时,长按加键⊕可以直接+10份。</td></tr><tr><td>10</td><td>取消键触按取消当前操作。</td></tr><tr><td>11</td><td>开始键触按开始复印。长按开始键▶3秒,听到“滴”声松开,开始键▶白色闪烁,打印机即可自动打印信息页,可查看打印机基本信息(包含S/N号、固件版本等)。按键上的灯可以显示打印机当前工作状态:白色常亮表示待机状态。白色闪烁表示工作状态。红色闪烁表示故障。</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 1,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_1"
+  },
+  {
+    "title": "# 首次安装打印机",
+    "content": "# 首次安装与配网\n\n# 首次安装打印机\n\n0 若安装前室内外温差较大，建议您将打印机在室内环境静置 2-4 小时后再使用，避免由于温度突变导致打印机光学玻璃结雾影响画像打印质量。\n\n1 移除胶带：移除外包装袋和所有橙色胶带。\n\n• 打印机背后、纸盒内也贴有胶带，请注意全部移除。  \n• 打印机粉盒上的胶带，需打开打印机前盖后移除。\n\n![移除打印机外包装及所有橙色胶带，包括背后、纸盒内和粉盒上的胶带。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/94cf1baec558ac6814b0a3e8cc86e00de699860d3c634e5e8231c8dcd7f294fd.jpg)\n\n![移除打印机内部胶带并打开前盖的步骤示意图](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/ed1ead807f6b2e2d72f010cca84cdb877db22f3103a733a4d3c3eeb45fd7eb69.jpg)\n\n![打印机放置要求：阴凉通风、靠近路由器、水平稳固，背后预留至少10厘米空间。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/ce0fb7f68ed03a3a9a4a5c6c76457388cacabeee30018a2af89e565f08ad591e.jpg)\n\n2 放置位置和预留空间：将打印机放在阴凉通风处，尽量靠近路由器，水平稳固放置，以确保可稳定接收 WLAN 信号。打印机背后需预留 10 厘米以上空间。\n\n如果预留空间不足，纸盒防尘盖可能无法被正常顶出，造成纸张卷曲、卡纸，无法正常打印。\n\n![打印机放置要求：通风近路由，背后留10厘米空间，避免纸张问题。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/76704304f24d35a3a5fd54e6cd185cf542b924027991f2d4d4ad1a29fd469bfe.jpg)\n\n![纸张装入方法及注意事项：平整放入纸张，调整挡板固定，确保不超过厚度上限。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/173e74557695f597075c3141033d95ce7d3bd190f6576edb60ee87d4d5a204e4.jpg)\n\n3 装入纸张：将纸盒完全拉出，捏住纸盒后端固定手柄向后拉，平整放入纸张；捏住后端和左边挡板调整，以固定纸张；将纸盒装回打印机。\n\n• 纸张厚度请勿超出装纸上限刻度线。\n\n• 将挡板拉到最大位置，可刚好放入 A4 纸。如果纸张小于 A4 纸大小，需要捏住卡板调节固定纸张。  \n• 支持的纸张类型以及装纸详细操作，请查阅《装纸》章节。\n\n![装纸指导：调整挡板适应A4或更小尺寸纸张，注意厚度不超过上限。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/3195941c89e4d8e3af5ec5988d36af96af2115556f9876736024055db3e60a83.jpg)\n\n4 开机：将电源线接入打印机背后的电源接口，打开电源开关。打印机开始预热，稍等片刻，待开始键 白灯常亮，打印机就绪。\n\n![打印机开机步骤及网络配置提示，包括电源连接、开关开启及局域网共享设置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/27e0780fe155b8708db2e1738b9000948f49bca27f1e2b14d1c8b79a13b7d915.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 2,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_2"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 给打印机配置网络\n\n场景：将打印机共享至局域网，使局域网内的用户均可连接到该打印机。若您只是个人直接打印，则无须配置网络，可参考章节《无可用 WLAN 时，手机/平板/电脑连接打印机》连接打印机。\n\n在配置共享打印机前，请将打印机通过有线或无线方式，连接至家庭或企业的路由器网络中。配网连接后，不仅可便捷的使用打印、扫描、复印功能，也便于同网络下的其他手机、平板、电脑，共享打印机。\n\n# 操作前，请注意：\n\n• 打印机支持 2.4GHz WLAN，不支持 5GHz WLAN，不支持机场、酒店等场所的 Portal 热点（即需要网页认证的 WLAN 热点）。若无可用网络，请跳过此章节，参阅章节《无可用 WLAN时，手机/平板/电脑连接打印机》连接打印机。  \n• 当打印机连接手机/平板/电脑使用时，手机/平板/电脑系统版本不同，操作有所差异，请以实际情况为准。  \n• 若连接配网过程中未发现打印机或连接失败，请长按网络状态键 3 秒以上，网络状态键 白色闪烁后，再次配置。\n\n# 具体操作：\n\n打印机支持多种连接方式，请根据打印机支持的连接方式和您的设备类型，选择合适的连接方式为打印机配网。\n\n<table><tr><td>设备</td><td>连接方式</td><td>配网方法</td><td>备注</td></tr><tr><td rowspan=\"3\">1部手机/平板1部路由器</td><td>靠近发现打印机,配网</td><td rowspan=\"3\">在弹出的连接打印机窗口中,按提示操作,输入路由器WLAN名称和密码。</td><td>仅支持HarmonyOS手机/平板</td></tr><tr><td>一碰连接打印机,配网</td><td>仅支持部分HarmonyOS 2及以上版本且支持NFC功能的手机</td></tr><tr><td>通过华为智慧生活App添加打印机,配网</td><td>支持HarmonyOS/Android/iOS手机/平板</td></tr><tr><td rowspan=\"6\">1部电脑1部路由器</td><td>通过智慧生活靠近发现打印机,配网</td><td rowspan=\"6\">若无路由器,可使用手机热点代替路由器WLAN。但是手机热点一旦取消,打印机网络配置失效,管理员可重新配置。</td><td>仅支持鸿蒙电脑</td></tr><tr><td>靠近华为电脑管家靠近发现打印机,配网</td><td>仅支持部分华为Windows系统电脑</td></tr><tr><td>通过USB线缆连接打印机,配网</td><td>支持Windows/macOS/Linux/UOS/KOS/中科方德系统电脑</td></tr><tr><td>连接打印机热点,配网</td><td>仅支持Windows系统电脑</td></tr><tr><td>通过网线连接打印机,配网</td><td>支持Windows/macOS/Linux/UOS/KOS/中科方德系统电脑</td></tr><tr><td>通过华为电脑管家添加打印机,配网</td><td>仅支持部分华为Windows系统电脑</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 3,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_3"
+  },
+  {
+    "title": "# 方式一：靠近发现打印机，配网（仅支持 HarmonyOS 手机/平板）-1",
+    "content": "# 手机/平板为打印机配网（推荐家庭和个人）\n\n对于家庭和个人，推荐您通过手机/平板为打印机配网，不仅配置简单，配网后还可通过华为智慧生活 App 将打印机共享给更多手机/平板使用，并可通过局域网将打印机共享给电脑。\n\n# 方式一：靠近发现打印机，配网（仅支持 HarmonyOS 手机/平板）\n\n1 将手机/平板连接路由器 WLAN，并开启蓝牙。\n\n![靠近发现并连接打印机：展示如何通过HarmonyOS设备使用蓝牙和WLAN配对打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/458703f948dc337f00212ce6aaa33dc258765581b35ca8d3e45c61a0b111b386.jpg)\n\n![在应用市场搜索“华为智慧生活”应用并下载安装，准备连接打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/57734403fb71406714a6607df12efa6f9ed4215af2ceecc8dd32f4e91b6b0811.jpg)\n\n![通过应用市场搜索或扫码下载安装最新版华为智慧生活App，并根据提示更新。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/9c86a05aab482d793405105ac02f718708fdf6d91c44e1ae17de542c80769e2c.jpg)\n\n2 在应用市场搜索“华为智慧生活”或扫码，下载安装最新版本华为智慧生活 App。\n\n0 若您的设备已经安装了华为智慧生活 App，请直接打开：如果弹出新版本的更新提示窗口，请根据界面指引完成更新。如果未弹出新版本的更新提示窗口，点击我的 > 设置 > 检查应用更新，若检测到有新版本，请进行更新。\n\n![打开华为智慧生活App，靠近打印机触发连接提示，按指引完成配网。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/7560a344778a29eb28ee093cd5b21108ae1865208d4ad22e60937e10d28f49f2.jpg)\n\n3 将手机/平板靠近打印机 30 厘米内，在手机上自动弹出连接打印机的窗口，点击连接。确认打印机要连接的路由器 WLAN 名称和密码，点击下一步，根据界面指引完成打印机配网。\n\n![手机靠近打印机自动弹出连接窗口，按指引完成配网后可使用及共享打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b081da127ea39bfc0c807d3ba26b40f55a50ec7b99517bf766c4da5f0c22d23a.jpg)\n\n4 配网成功后，为打印机配网的手机/平板可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多手机、平板或电脑使用。\n\n方式二：一碰连接打印机，配网（仅支持部分 HarmonyOS 2 及以上版本且支持 NFC 功能的手机）\n\n1 将手机连接路由器 WLAN，并开启蓝牙和 NFC，在设置中登录华为账号。\n\n![一碰连接打印机配网步骤：手机连WLAN，开蓝牙和NFC，登录华为账号，下载或更新华为智慧生活App。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/ae0b55bcfe6b59130d3324234fd127ba39fc0c476f86c30179f7653fb2434d49.jpg)\n\n2 在应用市场搜索“华为智慧生活”或扫码，下载安装最新版本华为智慧生活 App。\n\n0 若您的设备已经安装了华为智慧生活 App，请直接打开：如果弹出新版本的更新提示窗口，请根据界面指引完成更新。如果未弹出新版本的更新提示窗口，点击我的 > 设置 > 检查应用更新，若检测到有新版本，请进行更新。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 4,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_4"
+  },
+  {
+    "title": "# 方式一：靠近发现打印机，配网（仅支持 HarmonyOS 手机/平板）-2",
+    "content": "![通过华为智慧生活App更新并使用NFC连接打印机至指定WLAN网络。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/1c1ae4c8488e08c30bb96e2bf67639388515b4a054095c2bd94d7932f5d79b48.jpg)\n\n3 手机处于亮屏解锁状态，将手机 NFC 区域轻触打印机 Huawei Share 感应区 ，手机端弹出打印机的连接窗口，点击连接。确认打印机要连接的路由器 WLAN 名称和密码，点击确定，根据界面指引完成打印机配网。\n\n![通过手机NFC触碰打印机完成配网，并可将打印机共享给更多设备使用。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/fe001e10bf9e2c9527e3142d4934bf3852b07017cb65181169fdde952b17f02f.jpg)\n\n4 配网成功后，为打印机配网的手机可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多手机、平板或电脑使用。\n\n方式三：通过华为智慧生活 App 添加打印机，配网（推荐，支持 HarmonyOS/Android/iOS 手机/平板）\n\n1 将手机/平板连接路由器 WLAN，并开启蓝牙和位置信息，下图以 HarmonyOS 手机为例。\n\n![通过华为智慧生活App添加打印机，需先连接WLAN、开启蓝牙和位置信息，再下载或更新App。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/71994cff53c14dd6b18571921bfb266ec0ac5ae3ffa1a80bf1b59b1b20a4e048.jpg)\n\n2 在应用市场搜索“华为智慧生活”或扫码，下载安装最新版本华为智慧生活 App。\n\n0 若您的设备已经安装了华为智慧生活 App，请直接打开：如果弹出新版本的更新提示窗口，请根据界面指引完成更新。如果未弹出新版本的更新提示窗口，点击我的 > 设置 > 检查应用更新，若检测到有新版本，请进行更新。\n\n![打开华为智慧生活App，按指引登录账号并添加设备。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/d9a73b6c5aca292264d9123c9069644aadbc229cfc06a7dad53e9c0e043a6144.jpg)\n\n3 打开华为智慧生活 App，根据界面指引操作，点击登录，注册或登录华为账号，点击 ，选择添加设备。\n\n![通过华为智慧生活App扫描并连接打印机，选择相应WLAN进行配网。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/0dda74b9f7ad1254efc7b4ea29b942037c1db5a6db5bd965909328ba73551064.jpg)\n\n4 待华为智慧生活 App 扫描到打印机后，点击连接；确认打印机要连接路由器的 WLAN 名称和密码，点击下一步，根据界面指引完成打印机配网。\n\n![通过华为智慧生活App扫描并连接打印机，输入WLAN密码完成配网，使手机/平板可使用打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c99d77aff0c22a5da29490b1eaed83948b311c21312baac1aff74ca4769db748.jpg)\n\n5 配网成功后，为打印机配网的手机/平板可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多手机、平板或电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "# 方式一：靠近发现打印机，配网（仅支持 HarmonyOS 手机/平板）",
+    "chunk_index": 5,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_5"
+  },
+  {
+    "title": "# 方式二：通过华为电脑管家靠近发现打印机，配网（仅支持部分华为 Windows 系统电脑）",
+    "content": "# 通过电脑为打印机配网（推荐企业和团队）\n\n对于企业和团队，我们推荐您通过电脑为打印机配网。当通过华为打印客户端配网时，无需登录个人华为账号。配网后，可通过局域网的方式，将打印机共享给更多电脑使用。\n\n# 方式一：通过智慧生活靠近发现打印机，配网（仅支持鸿蒙电脑）\n\n1 电脑连接路由器 WLAN，开启蓝牙并登录华为账号，并确认已安装智慧生活。  \n2 电脑靠近打印机 Huawei Share 感应区 1 米内，电脑上自动弹出连接打印机的弹窗，点击连接。\n\n若未弹框，打开智慧生活，点击 > 添加设备，待扫描到打印机后，点击连接。\n\n若未发现打印机，长按打印机网络状态键 3 秒以上，网络状态键 白色闪烁，打印机进入待配网状态。\n\n3 确认打印机要连接的路由器的 WLAN 名称和密码，根据界面指引完成打印机配网。  \n4 配网成功后，为打印机配网的鸿蒙电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给其他鸿蒙电脑使用。\n\n# 方式二：通过华为电脑管家靠近发现打印机，配网（仅支持部分华为 Windows 系统电脑）\n\n0 此方式仅支持系统 SKU 为 C233、C300、C243、C235、C245、C500、C292 的部分华为 Windows 系统电脑。系统 SKU 查看方式：同时按下 + R 键打开运行窗口，输入 msinfo32，点击确定，进入系统信息窗口，在右侧项目列表中，可以查看当前计算机的系统 SKU。\n\n• 此操作需要电脑可以访问互联网。\n\n1 电脑端连接路由器 WLAN，并确保蓝牙开启。打开华为电脑管家，登录华为账号。  \n2 电脑靠近打印机约 1 米内，将自动发现打印机，并弹出连接打印机的窗口，点击连接，按界面提示完成配网。\n\n您也可以使用随附的 USB 线缆连接电脑和打印机，电脑端自动弹出连接窗口，点击连接。\n\n![电脑靠近打印机自动发现并连接，或使用USB线缆连接进行配网。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/1a20cb136b496214c8d95b30f430e97a28d2d911e7acf6acf798fc9b92ed4801.jpg)\n\n3 配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 6,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_6"
+  },
+  {
+    "title": "# 方式三：通过 USB 线缆连接打印机，配网（推荐，支持 Windows/macOS/Linux/UOS/KOS/中科方德电脑）",
+    "content": "# 方式三：通过 USB 线缆连接打印机，配网（推荐，支持 Windows/macOS/Linux/UOS/KOS/中科方德电脑）\n\n配网时，需使用随附的 USB 线缆连接打印机，配网更稳定（配网后，可移除线缆）。\n\n1 电脑连接路由器 WLAN，或使用网线连接路由器。  \n2 使用随附的 USB 线缆连接电脑和打印机。\n\n![使用USB线缆连接电脑和打印机，通过官网下载对应驱动程序。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/7a44cf646be75682f6eb1803e50748a87dd536b562f0dd27fce11bd3bb419bf9.jpg)\n\n3 打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），找到驱动列表版块，根据电脑系统版本和处理器型号，下载名为“华为打印（激光）\\_XXX”的客户端安装程序压缩包。\n\n0 右键单击桌面的 电脑图标，点击属性，可查看电脑的系统版本和处理器信息。如果不能按此方式查询，可查阅电脑使用指南或咨询电脑的客户服务热线。  \n• 若您的电脑无法访问互联网，可提前下载华为打印客户端至 U 盘中，再将客户端复制到待配网的电脑中。\n\n![根据电脑系统版本和处理器信息，解压并安装华为打印客户端的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b3946f24d54a4b7b70790721fcc64237a016c14ee6d3a29345cb0169bf52b186.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 7,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_7"
+  },
+  {
+    "title": "# Windows/Linux 系统电脑",
+    "content": "# 4 根据电脑系统，按如下步骤操作：\n\n0 处理器和系统版本不同，界面和操作存在差异，请以实际为准。\n\n# Windows/Linux 系统电脑\n\na 将下载的压缩包解压至电脑文件夹，双击华为打印客户端安装程序。\n\n• Windows 系统电脑：安装包解压后，双击文件类型为 exe 的文件，例如PixLab\\_Series for Windows v1.156.exe，打开华为打印客户端安装程序。\n\nLinux 系统电脑：安装包解压后，双击文件类型为 .sh 的文件，例如 install.sh，选择在终端中运行，在终端窗口中输入电脑登录帐户密码后，打开华为打印客户端安装程序。\n\nLinux 系统电脑操作以 Ubuntu 系统为例，RedHat 系统界面可能略有不同，请以实际情况为准。\n\nb 在选择连接打印机方式界面中，勾选同意华为打印用户协议，选择通过 USB 连接。\n\n![在Ubuntu系统中，选择USB连接方式并同意华为打印用户协议，准备输入WLAN名称和密码。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/cab48a74553c596734b385d9d3f2dbfd9e9547461399126a08ad6dc8a88e18c7.jpg)\n\nc 确认打印机要连接路由器的 WLAN 名称和密码，点击下一步。\n\n![输入WLAN名称和密码连接打印机，安装成功后点击完成。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/d1e086801fa50ce8bff89c7ca8fa0150e268dc6f0e665dd3de345be209bab6ff.jpg)\n\nd 待界面提示安装成功后，点击完成。此时电脑桌面上将出现华为打印客户端。\n\n![安装成功后点击完成，桌面上出现华为打印客户端图标。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/8f1ad0b0e57ee6b0718d076b48306865d26dc497464c4296deedb2c6a85933f1.jpg)\n\n![华为打印客户端图标出现在电脑桌面，表示已成功安装并可进行打印机配网。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/de6219ce6b47bb48c510f87f2904337060257110b373089047184f0c8987bd06.jpg)\n\ne 配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 8,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_8"
+  },
+  {
+    "title": "# UOS 系统电脑",
+    "content": "# macOS 系统电脑\n\na 双击文件类型为应用程序的文件，例如华为 PixLab 系列或 HUAWEI PixLab Series，打开华为打印客户端安装程序。  \nb 在选择连接打印机方式界面中，勾选同意华为打印用户协议，选择通过 USB 连接。  \nc 确认打印机要连接路由器的 WLAN 名称和密码，点击下一步。  \nd 待打印机连接无线网络后，在弹出的华为打印机客户端安装器引导窗口中，点击继续。  \ne 在软件许可协议界面，点击继续，在弹窗中点击同意。  \nf 根据界面指引操作，在安装界面，点击安装，在弹窗中输入用户密码，点击安装软件。  \ng 稍等片刻，界面提示安装成功后，电脑与打印机完成连接。   \nh 此时，您可以打印电脑中的文件，或打开华为打印客户端进行复印。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。\n\n# UOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。\n\nb 点击任务栏启动器图标，在应用菜单中点击打印管理器。\n\nc 点击 ，系统会自动查找打印机。选择已连接的华为打印机（如 HUAWEI PixLab B5xxx），点击下一步，系统搜索驱动后，点击安装驱动。\n\n![通过任务栏启动器打开打印管理器，自动查找并选择华为打印机安装驱动，测试打印页确认配置成功。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/7659dc3318cb6cef364b07aec45055c557224fb1c368dc91093136f414a3061e.jpg)\n\nd 驱动安装后，点击打印测试页，能正常打印表示配置成功。  \ne 点击开始菜单，找到华为打印客户端，点击打开。在客户端界面，点击右上角 ，选择设备设置 > 网络设置，确认打印机要连接的路由器 WLAN 名称和密码，下滑页面底部点击保存，即可完成打印机配网。  \nf 配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 9,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_9"
+  },
+  {
+    "title": "# • KOS 系统电脑",
+    "content": "# • KOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中点击设置 > 设备。  \nc 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。\n\n![设置华为打印机并测试打印，完成后通过客户端确认网络配置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c7856d60654a0d6672c4c6ba756903c324efd2dc32789cf896cb39ba4dc555d6.jpg)\n\nd 安装完成后，点击打印测试页，能正常打印表示配置成功。  \ne 点击开始菜单，找到华为打印客户端，点击打开。在客户端界面，点击右上角 ，选择设备设置 > 网络设置，确认打印机要连接的路由器 WLAN 名称和密码，下滑页面底部点击保存，即可完成打印机配网。  \nf 配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 10,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_10"
+  },
+  {
+    "title": "# 中科方德系统电脑-1",
+    "content": "# 中科方德系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中搜索打印机设置，点击打开打印机设置界面。  \nc 点击+ 添加，系统会自动查找打印机。  \nd 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。\n\ne 安装完成后，点击打印测试页，能正常打印表示配置成功。\n\nf 点击开始菜单，找到华为打印客户端，点击打开。在客户端界面，点击右上角 ，选择设备设置 > 网络设置，确认打印机要连接的路由器 WLAN 名称和密码，下滑页面底部点击保存，即可完成打印机配网。  \ng 配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。\n\n方式四：连接打印机热点，配网（仅支持 Windows 系统电脑）\n\n当无法找到 USB 线缆时，可连接打印机热点，为打印机配网。\n\n1 电脑连接路由器 WLAN。\n\n0 请务必勾选 WLAN 名称下方的自动连接选框，以免影响后续为打印机配网。\n\n2 打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），找到驱动列表板块，根据电脑系统版本，下载名为“华为打印（激光）\\_XXX”的客户端安装程序压缩包。\n\n若您的电脑无法访问互联网，可提前下载华为打印客户端至 U 盘中，再将客户端复制到待配网的电脑中。\n\n![下载并解压华为打印客户端，运行exe文件开始安装程序。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/93280b0dfaca5e7158cf2a21a6152ca5e2a3936c8adc3ea9d2c1d74b85d3087f.jpg)\n\n3 将下载的压缩包解压至电脑文件夹，双击文件类型为 exe 的文件，例如 PixLab\\_Series forWindows v1.156.exe，打开华为打印客户端安装程序。  \n4 在选择连接打印机方式界面中，阅读并勾选同意华为打印用户协议，选择通过打印机热点连接。\n\n![通过打印机热点连接，长按开始键打印信息页获取热点名称及密码。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/8f25f05e0fa791431fbe398241659fac19763d6ab8e2eda0d5e65a95ac3e7de6.jpg)\n\n5 在打印机操作面板上长按开始键 3 秒，听到“滴”声松开，打印信息页。在信息页中查看打印机热点名称（即网络标识名称，含有 DIRECT 字样）及密码。\n\n打印机重启后，热点名称和密码会变更。\n\n![长按打印机开始键打印信息页，获取热点名称与密码，并在电脑上连接该热点。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a9274e606298f7d63569e51405c5c02a3f9da7d246c0f513222c454de4404a23.jpg)\n\n6 电脑连接打印机热点（以 Windows 11 系统为例）：点击任务栏右侧 WLAN 图标 ，在弹窗中选择 WLAN 图标后面的更多图标 ，打开网络连接列表，选择打印机热点名称，输入密码时选择改用安全密钥进行连接，输入信息页中的热点密码，完成连接。\n\n7 连接热点后，在华为打印客户端安装界面，点击下一步。\n\n![连接打印机热点并输入密码，通过华为打印客户端继续安装步骤。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e004ded2c04e25a8c370547a380444feb8190923196d694b9514fa8f83a8b744.jpg)\n\n8 确认打印机连接的路由器 WLAN 名称和密码，点击下一步。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "# 中科方德系统电脑",
+    "chunk_index": 11,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_11"
+  },
+  {
+    "title": "# 中科方德系统电脑-2",
+    "content": "若找不到该路由器 WLAN，请先断开电脑与打印机的热点连接，将电脑连上该路由器的WLAN（连接时请务必勾选自动连接），再重新连接打印机热点，并配置网络。\n\n![输入路由器WLAN名称和密码，连接后配置打印机网络，直至安装成功。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/2bbb92738f58c9a69c5f160cc1ebd0401e3c3fda81cf08077d22a4045c0c86ea.jpg)\n\n9 待界面提示安装成功后，点击完成。此时电脑桌面上将出现华为打印客户端。\n\n![安装成功后点击完成，桌面上出现华为打印客户端图标，表示打印机已成功配网并可使用。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/3f60ab53a6e3a03cb918f689937f95defecea58452d56e58313beeaafad3993c.jpg)\n\n10配网成功后，为打印机配网的电脑可以使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。\n\n方式五：通过网线连接打印机，配网（支持 Windows/macOS/Linux/UOS/KOS/中科方德系统电脑）\n\n配网和使用时，打印机均需连接网线。\n\n1 用网线连接打印机与路由器，此时，打印机网络状态键 白色闪烁或熄灭，为正常现象。\n\n![连接打印机与路由器后，长按开始键打印信息页，检查IPv4地址确认网络连接。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/eaaf4b68bfa607696b05f74aafb3881a521f1816d2973b5ef6007bbe5972b56f.jpg)\n\n2 长按打印机开始键 3 秒，听到“滴”声松开，打印出信息页。在信息页中查看有线网络，若已成功分配 IPv4 地址（如 192.168.8.129），表示已连接成功。\n\n若您的路由器开启了防火墙、白名单（MAC 地址物理隔离）等功能，打印机可能无法自动获取 IP 地址，将导致配网失败。请您关闭相关功能，或将打印机 MAC 地址加入路由器白名单后重试。\n\n3 完成连接后，同一网络中的电脑可以共享使用打印机，具体请参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。\n\n方式六：通过华为电脑管家添加打印机，配网（仅支持部分华为 Windows 系统电脑）\n\n• 此方式仅支持系统 SKU 为 C233、C300、C243、C235、C245、C500、C292 的华为  \nWindows 系统电脑。系统 SKU 查看方式：同时按下 + R 键打开运行窗口，输入msinfo32，点击确定，进入系统信息窗口，在右侧项目列表中，可以查看当前计算机的系统 SKU。  \n• 此操作需要电脑可以访问互联网。\n\n1 打开电脑浏览器，访问华为电脑管家官网（https://consumer.huawei.com/cn/support/pc-manager/），下载安装最新版本的华为电脑管家。  \n2 打开华为电脑管家，登录华为账号，点击 我的设备 > 添加打印机（或添加设备），根据界面提示操作，在扫描结果中找到需要连接的华为打印机，点击连接。\n\n![通过华为电脑管家添加并连接华为打印机，配置网络后下载相应插件。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/f90c1106f0b1d582faf43765dde6278e40fa7ce21e4710e6ead11cf2aae63550.jpg)\n\n3 确认打印机要连接的路由器 WLAN 名称和密码，点击确定。配网完成后，点击完成。此时，打印机将出现在华为电脑管家的 我的设备页面。  \n4 在 我的设备中点击华为打印机卡片，将自动下载插件。下载完成后，点击打印机卡片，即可使用打印机。您也可以参考章节《配网后，更多手机/平板/电脑共享连接打印机》，将打印机共享给更多电脑使用。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "# 中科方德系统电脑",
+    "chunk_index": 12,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_12"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 更多设备连接打印机\n\n# 配网后，更多手机/平板/电脑共享连接打印机\n\n场景：打印机已配置网络，用户连接共享打印机。若已连接打印机，可参考打印、扫描、复印章节直接操作。\n\n操作前，请注意：\n\n确认华为打印机已完成配网。若未配网，请参阅章节《给打印机配置网络》操作。\n\n# 具体操作：\n\n打印机完成配网后，为打印机配网的设备为管理员设备，管理员设备可以直接使用打印机。家庭或企业中更多手机/平板/电脑，可按照如下任一方式，共享连接打印机。\n\n<table><tr><td>设备</td><td>连接方式</td><td>备注</td></tr><tr><td>1 部手机/平板</td><td>通过华为智慧生活 App 共享连接打印机</td><td>支持 HarmonyOS/Android/iOS 手机/平板</td></tr><tr><td rowspan=\"3\">1 部电脑</td><td>通过智慧生活共享连接打印机</td><td>仅支持鸿蒙电脑</td></tr><tr><td>通过华为打印客户端共享连接打印机</td><td>支持 Windows/macOS/Linux/UOS/KOS/中科方德系统电脑</td></tr><tr><td>通过华为电脑管家共享连接打印机</td><td>仅支持部分华为 Windows 系统电脑</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 13,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_13"
+  },
+  {
+    "title": "# 通过华为智慧生活 App 共享连接打印机（支持 HarmonyOS/Android/iOS 手机/平板）",
+    "content": "# 更多手机/平板共享连接打印机\n\n当打印机通过手机/平板完成配网后，其他手机/平板可以通过华为智慧生活 App 共享连接打印机。\n\ni 打印机通过电脑配网，若手机需要共享使用打印机，建议参阅章节章节《打开文件，直接打印》。\n\n# 通过华为智慧生活 App 共享连接打印机（支持 HarmonyOS/Android/iOS 手机/平板）\n\n1 打开管理员手机/平板（为打印机配网的设备）中的华为智慧生活 App，长按打印机卡片，点击共享设备，通过扫码共享、华为账号共享或共享给微信好友的方式，将打印机共享给其他成员。\n\n![通过华为智慧生活App共享打印机给其他成员，并指导其接受共享。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/ff796e71f433f315a6a02586c61d5465e19cd4350431a2f162278ab99bc9ab8e.jpg)\n\n2 其他成员使用另一台手机/平板接受管理员分享，根据界面指引下载安装华为智慧生活 App，登录个人华为账号并接受共享。\n\n![其他成员通过华为智慧生活App接受共享，登录账号后即可使用打印机功能。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/0566f9dc2fbfdb26728d800e873802c7b358f881570d70476ac744c8af1df2f5.jpg)  \n是否接受共享设备?\n\n取消\n\n3 完成共享连接后，在其他成员设备的华为智慧生活 App 中直接打开华为打印机卡片，即可使用打印、复印、扫描功能。  \n相同华为账号下的其他设备，无需再次共享，直接下载安装智慧生活 App，登录已连接打印机的华为账号即可。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 14,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_14"
+  },
+  {
+    "title": "# 操作前，请注意：",
+    "content": "# 更多电脑共享连接打印机\n\n打印机配网后，可以通过智慧生活、华为打印客户端或华为电脑管家，共享连接打印机。\n\n# 方式一：通过智慧生活共享连接打印机（仅支持鸿蒙电脑）\n\n1 打开管理员电脑（即为打印机配网的设备）的智慧生活，在首页长按打印机卡片，点击共享设备 > 通过华为账号共享，输入其他成员的华为账号后，按界面提示完成共享。  \n2 其他成员使用另一台电脑，下载安装智慧生活，登录个人华为账号，点击我的，打开右上角我的消息，在系统通知中确认接受共享打印机。  \n3 接受共享后，在智慧生活首页即可查看打印机卡片。  \n0 相同华为账号下的其他鸿蒙电脑，无需再次共享，直接打开智慧生活，即可找到打印机卡片。\n\n# 方式二：通过华为打印客户端共享连接打印机（支持 Windows/macOS/Linux/UOS/KOS/中科方德系统电脑）\n\n# 操作前，请注意：\n\n• 确认华为打印机已完成配网。   \n• 电脑连接和打印机相同的路由器 WLAN，或有线连接相同的路由器，使电脑和打印机处于同一局域网中。\n\n![华为PixLab B5打印机在中科方德系统下的驱动安装前准备及步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/750ef6ff3bfd3ab546a09dc5da461baf8cc8956c7e13237f005f755cbea2e89c.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 15,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_15"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 具体操作：\n\n1 打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），找到驱动列表版块，根据电脑系统版本和处理器型号，下载名为“华为打印（激光）\\_XXX”的客户端安装程序压缩包。\n\n0 右键单击桌面的 电脑图标，点击属性，可查看电脑的系统版本和处理器信息。如果不能按此方式查询，可查阅电脑使用指南或咨询电脑的客户服务热线。  \n• 若您的电脑无法访问互联网，可提前下载华为打印客户端至 U 盘中，再将客户端复制到待配网的电脑中。\n\n![根据电脑系统版本和处理器信息，解压并安装华为打印客户端的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/1efaabdd7847e39eacc4f61b4fdfaa73be92f9c20302894b9beaaefe88bedc5d.jpg)\n\n2 根据电脑系统，按如下步骤操作：\n\n0 处理器和系统版本不同，界面和操作存在差异，请以实际为准。\n\nWindows/Linux 系统电脑\n\na 将下载的压缩包解压至电脑文件夹，双击华为打印客户端安装程序。\n\n• Windows 系统电脑：安装包解压后，双击文件类型为 exe 的文件，例如PixLab\\_Series for Windows v1.156.exe，打开华为打印客户端安装程序。  \nLinux 系统电脑：安装包解压后，双击文件类型为 .sh 的文件，例如 install.sh，选择在终端中运行，在终端窗口中输入帐户密码后，打开华为打印客户端安装程序。\n\nLinux 系统电脑操作以 Ubuntu 系统为例，RedHat 系统界面可能略有不同，请以实际情况为准。\n\nb 在选择连接打印机方式界面中，阅读并勾选同意华为打印应用用户协议，选择通过局域网搜索连接。\n\n![在Ubuntu系统中，通过局域网搜索并连接华为打印机，同意用户协议后等待驱动安装。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/04fe8d553daf73fed58e96eda92ad02c1fe78f6a0fa59db1b271d28f068947ca.jpg)\n\nc 待华为打印客户端扫描到打印机后，点击连接，耐心等待电脑安装打印机驱动。\n\n0 打印机名称后面的四位数字为打印机 S/N 号后四位，在打印机背面可查看 S/N号。\n\n• 若出现 00 和 01，分别代表打印机 ipv4 和 ipv6 两个地址，任选一个即可。\n\n![安装打印机驱动时，选择对应名称（含S/N后四位）及IP地址，完成安装后通过华为打印客户端使用。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/fe3a945ec17eb3ff8b5f316566011a6e8d053e06480bd53124d2b5107c030881.jpg)\n\nd 待界面提示安装成功后，点击完成。此时电脑桌面上将出现华为打印客户端。打开客户端，即可使用已连接的华为打印机。\n\n![安装华为打印客户端后，打开客户端并使用已连接的华为打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/fdba071e1ab015d3eb8aaf527bafcf956556228c19d7cea9ac4eff298eb97862.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 16,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_16"
+  },
+  {
+    "title": "# • UOS 系统电脑",
+    "content": "# macOS 系统电脑\n\na 双击文件类型为应用程序的文件，例如华为 PixLab 系列或 HUAWEI PixLab Series，打开华为打印客户端安装程序。  \nb 在选择连接打印机方式界面中，勾选同意华为打印用户协议，选择通过局域网搜索连接。  \nc 待系统搜索到需要连接的打印机后，选择此打印机后，点击下一步。  \nd 在弹出华为打印机客户端安装器引导窗口中，点击继续。  \ne 在软件许可协议界面，点击继续，在弹窗中点击同意。  \nf 根据界面指引操作，在安装界面，点击安装，在弹窗中输入用户密码，点击安装软件。  \ng 稍等片刻，界面提示安装成功后，电脑与打印机完成连接。   \nh 此时，您可以打印电脑中的文件，或打开华为打印客户端进行复印。\n\n# • UOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。  \nb 点击任务栏启动器图标，在应用菜单中点击打印管理器。  \nc 点击 ，系统会自动查找打印机。选择已连接的华为打印机（如 HUAWEI PixLab B5xxx），点击下一步，系统搜索驱动后，点击安装驱动。\n\n![在应用菜单中启动打印管理器，自动查找并选择华为打印机，安装驱动后打印测试页确认配置成功。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/eeac28f5176adcc5cbefd5ace7ed52115bde0ab6e4f8ed752ad7f339322b503b.jpg)\n\nd 驱动安装后，点击打印测试页，能正常打印表示配置成功。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 17,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_17"
+  },
+  {
+    "title": "# 中科方德系统电脑",
+    "content": "# • KOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中点击设置 > 设备。  \nc 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。\n\n![华为打印机设置步骤：开始菜单中选择设备，连接打印机并安装驱动，完成后打印测试页验证。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/fa0331abb92cb2297fb1f7be80b379ee5a9de408a4b585234dfc8a2fa4945df3.jpg)\n\nd 安装完成后，点击打印测试页，能正常打印表示配置成功。\n\n# 中科方德系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中搜索打印机设置，点击打开。  \nc 点击添加，系统会自动查找打印机。  \nd 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。  \ne 安装完成后，点击打印测试页，能正常打印表示配置成功。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 18,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_18"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 方式三：通过华为电脑管家共享连接打印机（仅支持部分华为 Windows 系统电脑）\n\n# 操作前，请注意：\n\n• 确认华为打印机已完成配网。   \n• 电脑连接和打印机相同的路由器 WLAN，或有线连接相同的路由器，使电脑和打印机处于同一局域网中，且电脑可以访问互联网。\n\n• 此方式仅支持系统 SKU 为 C233、C300、C243、C235、C245、C500、C292 的华为\n\nWindows 系统电脑。系统 SKU 查看方式：同时按下 + R 键打开运行窗口，输入msinfo32，点击确定，进入系统信息窗口，在右侧项目列表中，可以查看当前计算机的系统SKU。\n\n# 具体操作：\n\n1 打开电脑浏览器，访问华为电脑管家官网（https://consumer.huawei.com/cn/support/pc-manager/），下载安装最新版本的华为电脑管家。  \n2 打开华为电脑管家，登录华为账号。点击 我的设备 > 添加打印机（或添加设备），根据界面提示操作，在扫描结果中找到需要连接的华为打印机，点击连接。\n\n若您已通过手机/平板连接了打印机，在华为电脑管家中，登录同一个华为账号，点击我的设备，即可出现已连接的华为打印机卡片，无需再次添加。\n\n![通过手机/平板连接华为打印机后，使用同一华为账号在电脑上自动识别并下载插件以完成连接。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b497fe32e166d8fb9484be551901615892cb36dfe3aa0492733291bc996b5f73.jpg)\n\n3 连接完成后，在 我的设备中点击华为打印机卡片，将自动下载插件。下载完成后，即可使用打印机。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 19,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_19"
+  },
+  {
+    "title": "# 无可用 WLAN 时，手机/平板/电脑连接打印机",
+    "content": "# 无可用 WLAN 时，手机/平板/电脑连接打印机\n\n场景：无须配置网络，直接连接打印机。\n\n打印机支持 2.4GHz WLAN，不支持 5GHz WLAN，不支持机场、酒店等场所的 Portal 热点（即需要网页认证的 WLAN 热点）。若打印机所处环境无可用网络，请通过通过连接打印机热点或 USB 线缆连接的方式，将手机/平板/电脑连接至打印机。\n\n<table><tr><td>设备</td><td>连接方式</td><td>备注</td></tr><tr><td>1部手机/平板</td><td>连接打印机热点</td><td>·支持HarmonyOS/Android/iOS手机/平板·连接后,仅支持打印功能,不支持扫描功能</td></tr><tr><td rowspan=\"2\">1部电脑</td><td>通过USB线缆连接打印机</td><td>·需使用随附的USB线缆连接打印机,连接更稳定·支持鸿蒙电脑、Windows/macOS/Linux/UOS/KOS/中科方德系统电脑</td></tr><tr><td>连接打印机热点</td><td>·当无法找到USB线缆时,可通过打印机热点连接·支持鸿蒙电脑、Windows/macOS/Linux系统电脑</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 20,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_20"
+  },
+  {
+    "title": "# 手机/平板连接打印机热点（支持 HarmonyOS/Android/iOS 手机/平板）",
+    "content": "# 手机/平板连接打印机热点（支持 HarmonyOS/Android/iOS 手机/平板）\n\n无可用 WLAN、打印机未配网时，手机/平板可以连接打印机热点，直连打印手机/平板中的文件。\n\n• 连接后，仅支持打印功能，不支持扫描功能。\n\n• 连接打印机热点后，若提示当前 WLAN 不可上网，是否继续使用此 WLAN，请点击使用。\n\n• 不同品牌手机/平板打开打印的方式可能不同，若无法找到打印入口，请咨询手机/平板供应商。\n\n• 方式一：通过按键确认连接打印机热点（支持 HarmonyOS、Android 手机/平板）\n\n1 手机/平板开启 WLAN 开关，打开待打印文件，点击分享 > 打印 ，在设备列表中选择以“DIRECT-HUAWEI”开头的打印机（例如 DIRECT-HUAWEI PixLab B5-xxxx，xxxx 为打印机 S/N 号后四位，在打印机背面可查看 S/N 号），点击连接打印机。\n\n若列表中无法搜索到打印机，请先在设置中搜索“WLAN 直连”并打开，在设备列表中选择以“DIRECT-HUAWEI”开头的打印机（例如 DIRECT-HUAWEI PixLab B5-xxxx，xxxx 为打印机 S/N 号后四位，在打印机背面可查看 S/N 号），点击连接打印机。\n\n2 此时打印机面板的网络状态键 蓝色闪烁，点击网络状态键 确认连接（仅首次连接会蓝灯闪烁，需轻按面板确认）。  \n3 按界面提示完成打印设置后，点击开始打印即可。\n\n• 方式二：通过手动输入密码连接打印机热点（支持 HarmonyOS、Android、iOS 手机/平板）\n\n1 请在手机/平板中下载待打印文件。后续操作需要连接打印机热点，无法访问互联网。  \n2 打印机上长按开始键 3 秒，听到“滴”声松开，开始键 白色闪烁，自动打印信息页。在信息页中可以查看打印机热点名称（即网络标识）和密码。\n\n为安全性考虑，打印机重启后，打印机热点名称（网络标识）和密码会变更。\n\n![按开始键3秒打印信息页，查看变更后的打印机热点名称和密码。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/bd4d4ebaa4394a096e6d607cf2b63b7d1dea0418711f06c1c09e7e3d8fa304c8.jpg)  \n打印机热点  \n网络标识 DIRECT-XX-HUAWEIPixLabB5密码\n\n![通过手机/平板连接HUAWEI PixLab B5打印机热点，输入密码完成无线连接并选择打印机打印文件。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a2ae1c90495a1daa84e98d0e31331528c4277caf16ee121782213b838ee74cbb.jpg)\n\n3 手机/平板打开连接无线网络界面，选择打印机热点名称（网络标识），并输入密码，完成连接。  \n4 连接后，打开待打印文件，选择打印，在打印机列表中选择以“HUAWEI”开头的打印机（例如 HUAWEI PixLab B5-xxxx，xxxx 为打印机 S/N 号后四位，在打印机背面可查看 S/N号；请不要选择以“DIRECT-HUAWEI”开头的打印机，否则可能会提示连接失败，无法打印）。  \n5 在手机/平板中完成打印设置后，开始打印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 21,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_21"
+  },
+  {
+    "title": "# 通过 USB 线缆连接打印机-1",
+    "content": "# 电脑连接打印机\n\n无可用 WLAN 时，推荐电脑通过 USB 连接打印机，连接更稳定。若无法找到 USB 线缆，也可以通过打印机热点连接。\n\n# 通过 USB 线缆连接打印机\n\n• 方式一：安装华为打印客户端，配置打印机（推荐，可体验打印机完整功能）\n\n支持 Windows/macOS/Linux/UOS/KOS/中科方德系统电脑。\n\n1 提前下载华为打印客户端至 U 盘中，再将客户端复制到待连接的电脑中。\n\n具体操作：准备一个联网的电脑，打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），找到驱动列表版块，根据电脑系统版本和处理器型号，下载名为“华为打印（激光）\\_XXX”的客户端安装程序压缩包。\n\n右键单击桌面的 电脑图标，点击属性，可查看电脑的系统版本和处理器信息。如果不能按此方式查询，可查阅电脑使用指南或咨询电脑的客户服务热线。\n\n![查询电脑信息并使用USB线连接打印机步骤说明](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/838729831d14ee269a9fad6740a60111ae905446ba4f5d7d4d6c439dfed6a0de.jpg)\n\n2 使用随附的 USB 线缆连接电脑和打印机。\n\n![使用USB线连接电脑与打印机，并根据系统类型安装华为打印客户端。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/281e63904f492f3c3211cbe1f513467d599ae6d01fc285c8c15a00e88f37f43d.jpg)\n\n3 根据电脑系统，按如下步骤操作：\n\n处理器和系统版本不同，界面和操作存在差异，请以实际为准。\n\nWindows/Linux 系统电脑\n\na 将压缩包解压至电脑文件夹，双击华为打印客户端安装程序。\n\n• Windows 系统电脑：安装包解压后，双击文件类型为 exe 的文件，例如PixLab\\_Series for Windows v1.156.exe，打开华为打印客户端安装程序。  \nLinux 系统电脑：安装包解压后，双击文件类型为 .sh 的文件，例如 install.sh，选择在终端中运行，在终端窗口中输入电脑登录帐户密码后，打开华为打印客户端安装程序。\n\nLinux 电脑操作以 Ubuntu 系统为例，RedHat 系统界面可能略有不同，请以实际情况为准。\n\nb 在选择连接打印机方式界面中，阅读并勾选同意华为打印用户协议，选择通过 USB 连接。\n\n![在Ubuntu系统中，通过USB连接打印机时，同意华为打印用户协议并跳过网络配置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b535d57feac9500d2473d6b47b54efc5e9c78ee4ebccdebaa3eab4b1c14b36be.jpg)\n\nc 在打印机网络配置界面，点击跳过。\n\n![在打印机网络配置界面点击跳过后，等待安装成功提示并点击完成。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/14536d8991ef8fd473f2a1ab0eeebb168e6c9a61aaed59057142becfb859bd2a.jpg)\n\nd 待界面提示安装成功后，点击完成。此时电脑桌面上将出现华为打印客户端。\n\n![安装成功后点击完成，桌面上出现华为打印客户端图标，表示电脑与打印机已成功连接。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/0526514aa5eb6d2b15145e4ecefdceb668d35613e15e049a16f42c0875ab18d7.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 22,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_22"
+  },
+  {
+    "title": "# • macOS 系统电脑",
+    "content": "![华为打印客户端在电脑桌面显示，表示电脑与打印机已成功连接，可进行打印或扫描操作。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/70634e45cbd29ef78f0cfdcbdd01693a6b97c67f459c9ffce2741ae1a960d22e.jpg)\n\ne 此时，电脑与打印机完成连接，您可以打印电脑中的文件、或扫描文件至电脑中。\n\n# • macOS 系统电脑\n\na 双击文件类型为应用程序的文件，例如华为 PixLab 系列或 HUAWEI PixLabSeries，打开华为打印客户端安装程序。  \nb 在选择连接打印机方式界面中，勾选同意华为打印用户协议，选择通过 USB 连接。  \nc 在打印机网络配置界面，点击跳过。  \nd 在弹出华为打印机客户端安装器引导窗口，点击继续。  \ne 在软件许可协议界面，点击继续，在弹窗中点击同意。  \nf 根据界面指引操作，在安装界面，点击安装，在弹窗中输入用户密码，点击安装软件。  \ng 稍等片刻，界面提示安装成功后，电脑与打印机完成连接。   \nh 此时，您可以打印电脑中的文件，或打开华为打印客户端进行复印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "# 通过 USB 线缆连接打印机",
+    "chunk_index": 23,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_23"
+  },
+  {
+    "title": "# • KOS 系统电脑",
+    "content": "# • UOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。  \nb 点击任务栏启动器图标，在应用菜单中点击打印管理器。  \nc 点击 ，系统会自动查找打印机。选择已连接的华为打印机（如 HUAWEI PixLabB5 xxx），点击下一步，系统搜索驱动后，点击安装驱动。\n\n![安装华为打印机驱动步骤：启动打印管理器、查找并选择打印机、安装驱动、打印测试页确认。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/5b13ddc2561a4bedcb3ebb57037381bb372e54b625b24897304110e17ebc617b.jpg)\n\nd 驱动安装后，点击打印测试页，能正常打印表示安装成功。此时，打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、复印、扫描。\n\n# • KOS 系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击 .deb 安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中点击设置 > 设备。  \nc 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。\n\n![设置界面选择已连接的华为打印机并配置相关信息](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c20d30cc7726573b8935afc9653b6c77a90a4d69b37ae8737cc273b195b19c8c.jpg)\n\n![设置打印机名称等信息，点击应用后，驱动安装完成，点击打印测试页。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b833404f97fc3a2a7684fc8d379ece3b2a70f0c501e158592ae19cc81dd05628.jpg)\n\n![驱动安装成功后，通过华为打印客户端查看打印机状态及执行打印、复印、扫描操作的界面示意图。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c7e4672eaa5c9216a4da1816fdd7e2f5de55267d3d68e2a1200f47b8b24993d8.jpg)\n\nd 驱动安装后，点击打印测试页，能正常打印表示安装成功。此时，打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、复印、扫描。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 24,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_24"
+  },
+  {
+    "title": "# • 方式二：在电脑系统设置中添加打印机（可使用打印功能，不支持复印功能，仅部分电脑支持扫描功能）",
+    "content": "# 中科方德系统电脑\n\na 右键点击待解压的安装包，选择解压到某一文件夹中。解压后，打开解压的文件夹，双击安装包，按界面提示完成安装。  \nb 点击任务栏开始菜单图标，在开始菜单中搜索打印机设置，点击打开。  \nc 点击添加，系统会自动查找打印机。  \nd 选择已连接的华为打印机（如 HUAWEI PixLab B5 xxx），点击前进。系统自动搜索打印机驱动程序，设置打印机名称等信息后，点击应用。  \ne 驱动安装后，点击打印测试页，能正常打印表示安装成功。此时，打开华为打印客户端，可以快速查看打印机当前状态，或进行打印、复印、扫描。\n\n# • 方式二：在电脑系统设置中添加打印机（可使用打印功能，不支持复印功能，仅部分电脑支持扫描功能）\n\n支持鸿蒙电脑、Windows/macOS/Linux/UOS/KOS/中科方德系统电脑。\n\n1 使用随附的 USB 线缆连接电脑和打印机。\n\n若电脑无 USB-A 接口，请在电脑端连接扩展坞、USB-A 转 USB-C 线缆等后，再使用打印机随附的 USB 线缆连接电脑和打印机。\n\n![使用USB线连接电脑与打印机，并通过系统设置添加华为打印机。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c5ad9e834e36dbea7cba4d42c544f0fbf7cd5f5cd917b645c00922cadd26e6cc.jpg)\n\n2 进入电脑的系统设置中添加华为打印机。比如：\n\n• Windows 11 电脑，点击 ，选择 设置 > 蓝牙和其他设备 > 打印机和扫描仪，根据界面提示添加华为打印机。  \n• 鸿蒙电脑，点击设置 > 打印机和扫描仪 > 添加打印机和扫描仪，根据界面提示添加华为打 印机。\n\n3 打开文件，选择华为打印机进行打印。\n\n电脑连接打印机热点（支持鸿蒙电脑、Windows/macOS/Linux 系统电脑）\n\n打印机重启后，热点网络标识和密码会变更。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 25,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_25"
+  },
+  {
+    "title": "# • Windows/macOS/Linux 系统电脑",
+    "content": "# • 鸿蒙电脑\n\n1 请在电脑中下载待打印文件。后续操作需要连接打印机热点，无法访问互联网。  \n2 打印机上长按开始键 3 秒，打印信息页，信息页中可以查看打印机热点网络标识和密码。  \n3 在电脑中打开连接无线网络界面，选择打印机热点网络标识名称，并输入密码，完成连接。  \n4 打开待打印文件，选择打印，在打印机列表中选择以“HUAWEI”开头的打印机（例如HUAWEI PixLab B5-xxxx，xxxx 为打印机 S/N 号后四位，在打印机背面可查看 S/N 号）。若在列表中未发现打印机，请先在设置中添加打印机，具体操作：点击设置 > 打印机和扫描仪 > 添加打印机和扫描仪，点击华为打印机进行添加。  \n5 在电脑中完成打印设置后，开始打印。  \n6 如需扫描，在设置 > 打印机和扫描仪中，点击已添加打印机下方的打开扫描仪，设置扫描参数后，点击开始扫描。扫描完成后，根据界面提示可将扫描文件进行保存或者继续扫描。\n\n# • Windows/macOS/Linux 系统电脑\n\n1 提前下载华为打印客户端至 U 盘中，再将客户端复制到待连接的电脑中。  \n具体操作：准备一个联网的电脑，打开电脑浏览器，访问打印机服务支持官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），找到驱动列表版块，根据电脑系统版本和处理器型号，下载名为“华为打印（激光）\\_XXX”的客户端安装程序压缩包至 U 盘中。将 U 盘插入到待连接的电脑中，将客户端复制到电脑中。\n\n右键单击桌面的 电脑图标，点击属性，可查看电脑的系统版本和处理器信息。如果不能按此方式查询，可查阅电脑使用指南或咨询电脑的客户服务热线。\n\n![查询电脑系统版本与处理器信息，并介绍如何打印获取打印机热点名称及密码的方法。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/6dc29ed95e951a21c44aa4cccb9d1d649c14da931cf4dc4a6e3893a65a9ab183.jpg)\n\n2 长按打印机开始键 3 秒，打印系统信息页，在信息页中查看打印机热点名称（即网络标识名称，含有 DIRECT 字样）及密码。\n\n打印机重启后，热点名称和密码会变更。\n\n![长按开始键打印系统信息页，获取热点名称与密码，用于连接打印机热点。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/faca01beb8252f78b2b435916e269648796d385e980955fc48e175b389fbdb32.jpg)\n\n3 连接打印机热点（以 Windows 11 系统为例）：点击电脑任务栏右侧 WLAN 图标 ，在弹窗中选择 WLAN 图标后面的更多图标 > ，打开网络连接列表，选择打印机热点名称，输入密码时选择改用安全密钥进行连接，输入打印机热点密码，完成连接。\n\n4 根据电脑系统，按如下步骤操作：\n\n处理器和系统版本不同，操作存在差异，请以实际为准。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 26,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_26"
+  },
+  {
+    "title": "# Windows/Linux 系统电脑",
+    "content": "# Windows/Linux 系统电脑\n\na 将下载的压缩包解压至电脑文件夹，双击华为打印客户端安装程序。\n\nWindows 系统电脑：安装包解压后，双击文件类型为 exe 的文件，例如PixLab\\_Series for Windows v1.156.exe，打开华为打印客户端安装程序。\n\nLinux 系统电脑：安装包解压后，双击文件类型为 .sh 的文件，例如 install.sh，选择在终端中运行，在终端窗口中输入电脑登录帐户密码后，打开华为打印客户端安装程序。\n\nLinux 电脑操作以 Ubuntu 系统为例，RedHat 系统界面可能略有不同，请以实际情况为准。\n\nb 在选择连接打印机方式界面中，阅读并勾选同意华为打印用户协议，选择通过局域网搜索连接。\n\n![在Linux系统中，通过局域网搜索并连接华为打印机，同意用户协议后，等待驱动安装。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4b99264d3b65f5fe4a2d7d94bd5e14ac3169da2c012d08ed4cd966788e8b197f.jpg)\n\nc 待华为打印客户端扫描到打印机后，点击连接，耐心等待电脑安装打印机驱动。\n\n打印机名称后面的四位数字为打印机 S/N 号后四位，在打印机背面可查看 S/N 号。\n\n![使用华为打印客户端扫描并连接打印机，等待驱动安装完成。打印机名称含S/N号后四位。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4e8265dbdd7515dabc3e261c1a39e065c13f48d1a5170778406dcc630159a865.jpg)\n\nd 待界面提示安装成功后，点击完成。此时电脑桌面上将出现华为打印客户端。\n\n![安装成功后点击完成，桌面上出现华为打印客户端，电脑与打印机连接成功，可进行打印或扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/f6d1bf89087401e2e01607e7e8ef774091fbe26488e5808b1520f7b1112a2093.jpg)\n\ne 此时，电脑与打印机完成连接，您可以打印电脑中的文件、或扫描文件至电脑中。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 27,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_27"
+  },
+  {
+    "title": "# 打印机支持的纸张如下：",
+    "content": "# • macOS 系统电脑\n\na 双击文件类型为应用程序的文件，例如华为 PixLab 系列或 HUAWEI PixLabSeries，打开华为打印客户端安装程序。  \nb 在选择连接打印机方式界面中，勾选同意华为打印用户协议，选择通过局域网搜索连接。  \nc 待系统搜索到需要连接的打印机后，选择此打印机后，点击下一步。  \nd 在弹出华为打印机客户端安装器引导窗口中，点击继续。  \ne 在软件许可协议界面，点击继续，在弹窗中点击同意。\n\nf 根据界面指引操作，在安装界面，点击安装，在弹窗中输入用户密码，点击安装软件。  \ng 稍等片刻，界面提示安装成功后，电脑与打印机完成连接。   \nh 此时，您可以打印电脑中的文件，或打开华为打印客户端进行复印。\n\n# 装纸\n\n# 打印机支持的纸张如下：\n\n• 纸张类型：普通纸、厚纸、再生纸。  \n• 纸张尺寸：A4、B5 JIS、A5 (SEF)、B6 JIS (SEF)、A6 (SEF)、Letter（216 × 279 mm）、Executive（184×267 mm）、16 Kai（184×260 mm）。  \n• 纸张厚度：60-105 g/m2。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 28,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_28"
+  },
+  {
+    "title": "# 打印机不支持的纸张如下：",
+    "content": "# 打印机不支持的纸张如下：\n\n喷墨打印机专用的纸张；特殊纸张，如有粘性的纸张、热敏纸、复写纸等；弯曲、扭曲、折叠或有折痕的纸张；潮湿的纸张；很脏或破损的纸张；容易产生静电的过分干燥的纸张；打印过的纸张（有信头图案的纸张除外）；重量超出限制值的纸张；带有窗、洞、孔眼、图案或凹凸的纸张；上面贴有胶纸或原纸的粘胶标签纸；带有回形针或订书钉的纸张；信封等。\n\ni 使用不支持的纸张打印，可能会造成打印机损坏，请使用适合的纸张。\n\n1 用双手扶住纸盒两侧，将纸盒向外完全拉出。\n\n![准备打印纸：取不超过150页的纸，整理平整后扇动齐边，以防卡纸。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/fa5a0eed5c88263f9d9b5b72902d6be0404d1471d34514a5d9d21496c2a57584.jpg)\n\n2 取一叠不超过 150 页的打印纸，将纸张轻微来回弯曲，使纸松动，再扇动纸，然后在桌子上墩齐纸的边缘，这样做有助于防止卡纸。\n\n纸张卷曲可能会卡纸。装纸前，请务必将卷曲的纸张整理平整。\n\n![准备并整理纸张，防止卡纸；调整装纸盒挡板适应纸张大小。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/2ee2fe8c6875ce2d1e135e7b8487177c14b7647a98ab88bf79dae5cb9d8ad65c.jpg)\n\n3 捏住装纸盒的固定手柄，将后端挡板拉出。打印面朝下放入适量处理后的纸，然后滑动纸张长度卡板，使之适应纸张边缘位置。若放入 A4 纸，则刚好被挡板卡住；若放入纸张的大小小于A4 纸，捏住后端和左边挡板调整，以固定纸张。\n\n• 装纸盒最多可装入 150 页（70g/m²）纸，请注意装纸上限。\n\n• 如需放入已打印了单面的纸，拉出纸盒，将打印了单面的纸的空白面朝下，放到剩余纸张的最上面。  \n• 若后端挡板未在纸盒最后端，捏住向后滑动到最后端；若左侧挡板未在纸盒最左侧，捏住向左滑动到最左侧。\n\n![将单面打印纸空白面朝下放入纸盒，调整挡板位置，确保打印机背后留有足够空间以正常装回纸盒。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4f014aeafdc70acca9f3e2e1eacaba8958c479d6456c0af5d2586654a1f3749b.jpg)\n\n4 打印机背后预留出 10 厘米以上的空间，装回纸盒，此时打印机纸盒防尘盖会被顶出。\n\n0 如果打印机背后预留空间不足，装回纸盒后，纸盒防尘盖不能被正常顶出，会造成纸张卷曲、卡纸，无法正常打印。\n\n![打印机背后需预留10厘米空间，否则纸盒防尘盖无法正常顶出，导致打印问题。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/936e485d2e1368c5bf06de97ecd838fd9facd1b345f54994add607e0dd83add7.jpg)\n\n![调整打印机内部挡纸板和挡板，解决纸张卷曲、卡纸问题，准备打印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/3ba70f0f828592820eee47fe2cae52020e7a55123d08e400a9a21de6f64a1595.jpg)\n\n5 向外拉出挡纸板，并将挡纸板上的挡板向外翻转，准备开始打印。\n\n![准备打印：拉出并翻转挡纸板，为打印手机或平板中的文件做准备。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/517313048fd2a3c8fb1a235570be2c10209fab982508dfbcf4a14bc83334f42e.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 29,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_29"
+  },
+  {
+    "title": "# 打印手机/平板中的文件",
+    "content": "# 打印手机/平板中的文件\n\n打印机支持多种方式打印手机/平板中的文件，您可以根据您的使用场景，任选一种方式完成打印。\n\n<table><tr><td>设备</td><td>准备条件</td><td>打印方法</td><td>备注</td></tr><tr><td>1部手机/平板</td><td>已连接打印机</td><td>打开文件,直接打印</td><td>支持 HarmonyOS、Android 手机/平板</td></tr><tr><td>1部手机</td><td>华为智慧生活 App 已添加打印机</td><td>打开文件,一碰打印</td><td>仅支持部分 HarmonyOS 2 及以上、HarmonyOS 5 以下版本且支持 NFC 功能的手机</td></tr><tr><td rowspan=\"2\">1部手机/平板</td><td>华为智慧生活 App 已添加打印机</td><td>在华为智慧生活 App 打开打印机卡片,进行打印</td><td>支持 HarmonyOS/Android/iOS 手机/平板</td></tr><tr><td>华为智慧生活 App 已添加打印机,华为打印小程序中登录同一华为账号</td><td>在华为打印小程序中打开文件打印</td><td>支持 HarmonyOS/Android/iOS 手机/平板</td></tr></table>\n\n打开文件，直接打印（支持 HarmonyOS、Android 手机/平板）\n\n手机/平板连接打印机后，可打开待打印文件，选择打印机，直接打印。\n\n以 HarmonyOS 手机/平板为例：\n\n• 打印图片：打开图库，点击 分享 > ，进入打印预览界面，点击选择打印机，在打印机列表中选择以“HUAWEI”开头的打印机（例如 HUAWEI PixLab B5-xxxx，xxxx 为打印机S/N 号后四位，在打印机背面可查看 S/N 号），设置好打印参数后，点击开始打印。\n\n• 打印文档：在 WPS 中打印待打印文件，点击分享 > 打印 > 华为打印，点击选择打印机，在打印机列表中选择以“HUAWEI”开头的打印机（例如 HUAWEI PixLab B5-xxxx，xxxx 为打印机 S/N 号后四位，在打印机背面可查看 S/N 号），设置好打印参数后，点击开始打印。\n\n0 不同品牌手机/平板打开打印的方式可能不同，若无法找到打印入口，请咨询手机/平板供应商。\n\n• 在打印机列表中，名称带有“远程”或“Cloud”的打印机为远程打印机。\n\n打开文件，一碰打印（仅支持部分 HarmonyOS 2 及以上、HarmonyOS 5 以下版本且支持 NFC功能的手机）\n\n部分带有 NFC 功能的 HarmonyOS 2 及以上、HarmonyOS 5 以下版本的手机，通过华为智慧生活 App 连接打印机后，手机 NFC 区域轻触打印机 Huawei Share 感应区域，即可快速打印手机中的文件。\n\n具体操作：\n\n1 手机开启 NFC。  \n2 打印文稿或图片：在 WPS 中打开文稿，或在图库中打开图片，将手机的 NFC 感应区域轻触打印机的 Huawei Share 感应区域，弹出打印界面，根据界面提示操作，配置好打印参数后，点击开始打印。\n\n0 碰打印支持的应用有：图库、备忘录、华为浏览器、WPS、华为日历、华为音乐等，具体请以实际情况为准。\n\n![介绍i Share感应区打印功能及支持应用，通过华为智慧生活App进行打印设置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/78f1c3c3bfd987133e3872f60e378c61ae9ded9f5f07c6a54478d9714f7a77de.jpg)\n\n在华为智慧生活 App 打开打印机卡片，进行打印（支持 HarmonyOS/Android/iOS 手机/平板）手机/平板端华为智慧生活 App 已添加了打印机，在华为智慧生活 App中打开打印机卡片，可快速打印手机/平板中的文件。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 30,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_30"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 具体操作：\n\n1 手机/平板通过华为智慧生活 App 连接了打印机后，打开 App，在首页点击华为打印机卡片。\n\n0若手机/平板与打印机连接的网络不同，在打印机卡片中，点击右上角 ，选择高级设置或设置，开启远程打印开关，在弹出的界面中点击允许，即可跨网打印（远程打印） 。• 跨网打印（远程打印）时，复印、扫描选项置灰不可用。\n\n![开启远程打印设置，允许跨网打印后，选择文档并设置参数开始打印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e9de20252847a7b5bfd7725b61c3c1257f6730e83f3984ef0d70c345c819920b.jpg)\n\n2 打印文档：点击打印，选择打印文档，在打印预览界面，按界面提示设置好相关参数后，点击开始打印。\n\n![打印文档设置：选择打印，预览并设置份数、单双面等参数后开始打印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/aee25514dea741f44c5b5419c801819633cbdb843489a26d6c4fd9bf138b0d75.jpg)\n\n• 打印文档相关参数如下（打印机插件版本不同，打印参数可能略有不同，请以实际为准）：\n\n• 份数：默认打印 1 份，按后面的 +/- 按钮可以增减份数。  \n• 单双面：默认为单面打印。打印照片或单页文档时，置灰不可选择；打印多页文档时，可以选择单面打印、双面打印（沿长边翻转）、双面打印（沿短边翻转）。  \n• 纸张尺寸：默认为 A4 纸，有 A4、A5、A6 等选项，请根据纸盒中的纸张尺寸进行选择。  \n• 省墨：开启后，将改变打印文件画像浓度，打印出来的文件更浅。  \n• 纸张类型：默认为普通纸，有普通纸、再生纸、厚纸选项，请根据纸盒中的纸张类型进行选择。  \n每张打印页数：默认每张纸打印 1 页。若您想要 N 合一打印，可以点击选择其他页数，例如选择 4，会将 4 页文档缩放到 1 张纸中打印。\n\n• 在打印预览界面，您也可以点击右侧的 / 图标，缩小/放大预览待打印的文件。点击文件下的勾选图标，可以取消打印当前界面。\n\n3 打印图片：点击打印，选择打印图片，在打印预览界面，按界面提示设置好相关参数后，点击开始打印。\n\n![打印预览界面操作说明：调整预览大小、选择文件及设置打印参数如份数等。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a984485a8cca116a578746159e5a0b552e6e5bef9a2247f9b60b44df9ff389db.jpg)\n\n• 打印图片相关参数如下（打印机不同插件版本，打印参数可能略有不同，请以实际界面为准）：\n\n• 份数：默认打印 1 份，按后面的 +/- 按钮可以增减份数。  \n单双面：打印图片时默认置灰，无法选择。  \n• 纸张尺寸：默认为 A4 纸，有 A4、A5、A6 等选项，请根据纸盒中的纸张尺寸进行选择。  \n• 省墨：开启后，将改变打印文件画像浓度，打印出来的文件更浅。\n\n纸张类型：默认为普通纸，有普通纸、再生纸、厚纸选项，请根据纸盒中的纸张类型进行选择。  \n• 在打印预览界面，您也可以点击右侧的编辑，手动放大、缩小待打印的图片（如照片、发票图片）后，点击确定。\n\n在华为打印小程序中，打开文件打印（支持 HarmonyOS/Android/iOS 手机/平板）\n\n手机/平板通过华为智慧生活 App 连接打印机后，在微信/QQ 中使用华为打印小程序，可以本地、远程打印手机图片或文档，快捷方便。\n\n• 使用华为打印微信/QQ 小程序时，需要确保您的打印机处于联网状态。\n\n• 首次使用华为打印小程序，需同意相关许可协议和服务，允许使用打印远程服务。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 31,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_31"
+  },
+  {
+    "title": "# 打印电脑中的文件",
+    "content": "# 具体操作：\n\n1 手机/平板端，打开微信/QQ，在搜索框中输入“华为打印”，点击进入华为打印小程序。  \n2 点击登录华为帐户使用打印机，按界面提示登录与华为智慧生活 App 中相同的华为账号。  \n3 按界面提示操作，登录华为账号后，打印图片或文档。\n\n# 打印电脑中的文件\n\n打印机支持多种方式打印电脑中的文件，请根据电脑连接打印机的方式，选择合适的方式打印。\n\n<table><tr><td>设备</td><td>准备条件</td><td>打印方法</td><td>备注</td></tr><tr><td rowspan=\"3\">1部电脑</td><td>电脑已连接打印机</td><td>打开文件,直接打印</td><td>支持 Windows/macOS/Linux/UOS/KOS/中科方德系统电脑</td></tr><tr><td>华为电脑管家已添加打印机</td><td>在华为电脑管家中打开打印机卡片,进行打印</td><td>仅支持部分华为 Windows系统电脑</td></tr><tr><td>智慧生活已添加打印机</td><td>在智慧生活中打开打印机卡片,进行打印</td><td>仅支持鸿蒙电脑</td></tr></table>",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 32,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_32"
+  },
+  {
+    "title": "# 打开文件，直接打印",
+    "content": "# 打开文件，直接打印\n\n电脑连接打印机后，打开待打印的文档或图片等，选择打印，或者点按 Ctrl + P 键（macOS 系统电脑：Command + P 键），在打印机列表中选择已连接的华为打印机，设置打印参数后(如单面/双面)，进行打印，即可快速打印电脑中的文件。\n\n0 在打印机列表中若存在带有“远程”或“Cloud”的华为远程打印机（例如 HUAWEIPixLab B5 xxxx Cloud，xxxx 为打印机 S/N 号，在打印机背面可以查看），选择此打印机可跨局域网打印。\n\n• 对于 macOS 系统电脑，当系统升级后，若您在设置打印参数界面无法选择双面打印，可尝试进行以下操作后再选择双面打印：\n\n打开系统偏好设置 > 打印机与扫描仪 > 选项与耗材 > 选项 ，勾选双面打印单位后点击好。\n\n• 不同系统的操作界面可能存在差异，请以实际界面为准。\n\n具体操作（以 Windows 电脑打印 Word 文档为例）：\n\n1 在 Word 中打开待打印文件，点击文件 > 打印（或点按 Ctrl+P 键），打开打印设置界面。  \n2 在打印机中选择已连接的华为打印机，按界面提示配置好打印参数后（若要双面打印，请点击单面打印，在下拉框中，选择双面打印，从长边翻转页面或双面打印，从短边翻转页面），点击打印，开始打印。\n\n• 双面打印支持的纸张规格为 A4 、 Letter，其他纸张规格不支持。\n\n• 您可以通过设置纸张尺寸将原稿进行缩放打印：\n\n若原稿（如普通文档）为大尺寸 A4，此时设置纸张尺寸为小尺寸 A5，可将原稿进行缩小打印。  \n• 若原稿（如病例）为小尺寸 A5，此时设置纸张尺寸为大尺寸 A4，可将原稿进行放大打印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 33,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_33"
+  },
+  {
+    "title": "# 在智慧生活中打开打印机卡片，进行打印（仅适用于鸿蒙电脑）",
+    "content": "# 在华为电脑管家中打开打印机卡片，进行打印（仅支持部分华为 Windows 系统电脑）\n\n华为 Windows 系统电脑通过华为电脑管家连接打印机后，在华为电脑管家中打开打印机卡片，可快速打印电脑中的文件。\n\n# 具体操作：\n\n1 打开华为电脑管家，选择 我的设备，点击已连接的打印机卡片。  \n2 点击打印，选择待打印文件，点击开始打印。\n\n![通过华为电脑管家或智慧生活应用，连接并使用打印机快速打印文件的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b2b0bee55f28e58e121a1b0444b67ac4d0a5f5f85b3ce58d3c437538b04b2cb7.jpg)\n\n# 在智慧生活中打开打印机卡片，进行打印（仅适用于鸿蒙电脑）\n\n鸿蒙电脑通过智慧生活连接打印机后，在智慧生活中打开打印机卡片，可快速打印电脑中的文件。\n\n1 打开智慧生活，在家居首页点击打印机卡片。  \n2 点击打印 > 打印文档或打印 > 打印图片，选择待打印文件/图片，设置好打印参数后，点击开始打印。\n\n![通过智慧生活APP打印机卡片，选择文件或图片并设置打印参数（如份数、范围等）后开始打印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/71268ceb0941bf548317a1d8faf684567e84dae14c22b879089972446eb45ed8.jpg)\n\n打印相关参数如下（打印机插件版本不同，打印参数可能略有不同，请以实际界面为准）：",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 34,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_34"
+  },
+  {
+    "title": "# 打印图片",
+    "content": "# 打印文档\n\n份数：默认打印 1 份，可根据需要进行增加。  \n• 范围：可选择打印全部页面，或者自定义选择打印范围。  \n• 省墨模式：根据需要选择是否开启省墨模式。开启后，打印后的文件内容颜色偏浅。  \n每张打印页数：默认每张纸打印 1 页。若您想要 N 合一打印，可以点击选择其他页数，例如选择 2，会将 2 页纸的原稿缩放到 1 张纸中打印。  \n• 纸张尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据纸张的实际尺寸进行选择。\n\n您可以通过设置纸张尺寸将原稿进行缩放打印：\n\n• 若原稿（如普通文档）为大尺寸 A4，此时设置纸张尺寸为小尺寸 A5，可将原稿进行缩小打印。  \n• 若原稿（如病例）为小尺寸 A5，此时设置纸张尺寸为大尺寸 A4，可将原稿进行放大打印。\n\n纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择再生纸或厚纸。  \n• 单双面：默认单面打印，也可根据需要选择双面打印（沿长边翻转）或双面打印（沿短边翻转）。\n\n# 打印图片\n\n• 份数：默认打印 1 份，可根据需要进行增加。  \n• 省墨模式：根据需要选择是否开启开启省墨模式。开启后，打印后的文件内容颜色偏浅。  \n• 纸张尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据纸张的实际尺寸进行选择。  \n纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择再生纸或厚纸。  \n• 单双面：默认单面打印，也可根据需要选择双面打印（沿长边翻转）或双面打印（沿短边翻转）。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 35,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_35"
+  },
+  {
+    "title": "# 将原稿扫描至手机/平板中",
+    "content": "# 3 根据电脑界面提示，完成打印即可。\n\n# 扫描\n\n# 将原稿扫描至手机/平板中\n\n手机/平板与打印机连接后，您可以通过华为智慧生活 App，将原稿扫描至手机/平板中。\n\n操作前，请注意：\n\n手机/平板需连接和打印机相同的路由器 WLAN。\n\n具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![通过华为智慧生活App，将文档扫描至手机/平板的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/96c927203f30f480158ce450857d1ffd3c1496b1873f81c3e648d4a494797962.jpg)\n\n2 打开华为智慧生活 App，在首页点击华为打印机卡片。\n\n![在华为智慧生活App中，点击打印机卡片后选择扫描功能并设置参数开始扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/8493488928204486d67a5f80d61e9e6561bc057cf98d4920a9317b09d6e903c9.jpg)\n\n3 点击扫描，设置好扫描参数后，点击开始扫描。\n\n![设置扫描参数：选择扫描颜色（彩色/黑白/灰度）及调整扫描质量。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/35be8870f2ca070d084699ab129089c536c7293b749d5bb9c0a5f20f711adf82.jpg)\n\n扫描相关参数如下（打印机不同插件版本，扫描参数可能略有不同，请以实际界面为准）：\n\n• 扫描颜色：默认为彩色，您可以设置为彩色、黑白、灰度。  \n扫描质量（分辨率越高，扫描后的文件质量越高，相应的，扫描时间越长）：  \n最佳：扫描分辨率为 1200dpi。  \n标准：扫描分辨率为 600dpi。  \n草稿：扫描分辨率为 300dpi。  \n• 原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。\n\n4 待出现扫描图片时，表示扫描完成。扫描的文件将以 JPG 格式自动保存在手机/平板中。打开手机/平板图库，可以查看扫描后的单个 JPG 文件。  \n5 若有多个文稿需要同时扫描，点击继续扫描，更换原稿后，点击开始扫描。  \n6 全部原稿扫描完成后，长按拖动可以调整扫描文件顺序。勾选已扫描的文件，选择另存为PDF。  \n7 点击 ，选择保存文件路径。设置好扫描文件名称后，点击保存。  \n8 在手机文件管理器中打开对应的保存路径，即可看到已保存的 PDF 文件。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 36,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_36"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 将原稿扫描至电脑中\n\n# 将原稿扫描至鸿蒙电脑中\n\n电脑通过智慧生活连接打印机后，在智慧生活中打开华为打印机卡片，可使用扫描功能，将原稿扫描至电脑中。\n\n# 具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![通过智慧生活应用，使用华为打印机扫描功能将文档扫描至电脑。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/baf2f019e87b5a745946911471b5fc501e928f20a8832c4b1bcfa235858f99d9.jpg)\n\n2 在电脑端打开智慧生活，在首页点击打印机卡片，点击扫描。\n\n![在智慧生活应用中选择打印机并设置扫描参数，如颜色模式等，准备开始扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e5a5abf6453a830be5c10c4b6e6293af88784bd1431c5d27ddd98f5bc57f88d7.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 37,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_37"
+  },
+  {
+    "title": "# 4 待出现扫描图片时，表示扫描完成。若有多个文稿需要同时扫描，请更换原稿后，点击开始扫描。",
+    "content": "# 3 设置好扫描参数后，点击开始扫描。\n\n扫描相关参数如下（打印机不同插件版本，扫描参数可能略有不同，请以实际界面为准）：\n\n• 扫描颜色：默认为彩色扫描，您可以根据需要，选择黑白或灰度。\n\n# 扫描质量：\n\n• 最佳：扫描分辨率为 1200dpi。当待扫描原稿内容较多时，建议选择此选项，但此选项扫描时间较长。  \n• 标准：扫描分辨率为 600dpi。扫描后的文件质量较好。  \n• 草稿：扫描分辨率为 300dpi。当待扫描原稿内容很少时，建议选择此选项，扫描速度较快（iOS 系统不支持此选项）。\n\n原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。\n\n# 4 待出现扫描图片时，表示扫描完成。若有多个文稿需要同时扫描，请更换原稿后，点击开始扫描。\n\n![扫描设置与编辑：选择原稿尺寸，完成扫描后可调整对比度、亮度、旋转方向及文件顺序。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e72f1980c98b24e61a6f821dcba352cfe874c8dfc02805bbf12ea6954ec1ed18.jpg)\n\n5 全部原稿扫描完成后，您可以点击扫描文件右上角的编辑调节对比度、亮度或者旋转方向，编辑完成后，点击 保存。长按扫描文件并拖拽，还可以调整扫描文件排列顺序。  \n6 勾选已扫描文件，点击保存，可选择保存为图片或 PDF，然后根据界面提示选择保存路径。也可点击右上 角 ，将扫描文件以图片或 PDF 的格式分享给其他人。\n\n• 将扫描文件保存为图片时，可能存在部分路径置灰无法选择，请以实际为准。  \n• 如您将扫描文件保存为图片并存储至文件管理路径下，相册中将无法显示扫描图片。\n\n您可在文件管理中打开扫描图片，点击左下角分享 > 保存至图库，即可在相册中显示并查看扫描图片。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 38,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_38"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 将原稿扫描至 Windows/Linux/UOS/KOS/中科方德系统电脑中\n\n电脑通过华为打印客户端或华为电脑管家连接打印机后，打开华为打印客户端或在华为电脑管家中打开华为打印卡片，可使用扫描功能，将原稿扫描至电脑中。\n\n# 具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![使用华为打印客户端或电脑管家，打开扫描功能并正确放置原稿进行扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/dce0fc675c7e76943826aa871a1489fa79b3bebc83c3ac772562212a14cfadff.jpg)\n\n2 打开华为打印客户端（或打开华为电脑管家，选择 我的设备，点击已连接的打印机卡片），点击扫描 。\n\n![通过华为打印客户端或电脑管家选择设备并点击扫描，设置扫描参数如颜色、质量等后开始扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c420eb65b6e758a95bc1f151c81e3ed9a27607913ce8f3fb914ef9e6f471c72b.jpg)\n\n3 设置好扫描参数后，点击开始扫描。\n\n扫描相关参数如下（打印机不同插件版本，扫描参数可能略有不同，请以实际界面为准）：\n\n• 扫描颜色：默认为彩色，您可以设置为彩色、黑白、灰度。  \n扫描质量（分辨率越高，扫描后的文件质量越高，相应的，扫描时间越长）：\n\n最佳：扫描分辨率为 1200dpi。  \n标准：扫描分辨率为 600dpi。\n\n低质量：扫描分辨率为 300dpi。  \n原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。\n\n4 扫描完成后，按界面提示，可以选择打开存储文件夹、继续扫描、另存为 PDF 或直接选择完成。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 39,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_39"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 将原稿扫描至 macOS 系统电脑中\n\nmacOS 系统电脑与打印机连接后，可以使用电脑系统扫描功能，将原稿扫描至 macOS 系统电脑中。\n\n# 具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![macOS系统下使用华为打印机扫描功能的步骤说明，包括放置原稿、打开系统偏好设置选择打印机进行扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4f3a9508dc8b57b9d1297b3425770b31d2d1cc1367285a9fc16e1ef2d4dddf1a.jpg)\n\n2 点击任务栏设置图标，打开系统偏好设置，选择打印机与扫描仪。  \n3 在打印机列表中选择对应的华为打印机，然后点击扫描。\n\n若您是通过局域网连接打印机，在打印机列表中选择了华为打印机，但没有扫描按钮，请点击打印机列表左下角 （或点击添加打印机、扫描仪或传真机），在打印机列表中点击Bonjour 多功能类型的打印机，选择添加，即可出现扫描按钮，再按如下步骤进行扫描。\n\n4 将待扫描文件放入打印机扫描区域中，在扫描仪窗口中，设置好扫描文件的存储路径（左下角文件夹图标）以及纸张大小后，点击扫描，开始扫描。\n\n0 点击显示详细信息，可以进行更多扫描设置，如将打印机扫描文件格式设置为 PDF。若您之前选择了显示详细信息，打开扫描仪后，电脑会自动进行概览扫描，并显示在左侧中，您可以选择扫描区域后，点击扫描，这样可以只扫描文件对应区域。\n\n5 扫描完成后，在存储文件夹中可以查看扫描文件。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 40,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_40"
+  },
+  {
+    "title": "# 单面复印",
+    "content": "# 复印\n\n# 直接在打印机上进行单面复印、双面复印、身份证复印\n\n# 单面复印\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![单面复印步骤：放置原稿、设置复印份数、触按开始键进行复印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/9532d6ff27a547c1b2335908788537e464094bcbbc2fd144c3352628d9e9f217.jpg)\n\n2 在操作面板上触按加键 /减键 ，设置需要复印的份数。触按开始键 开始复印，开始键 白色闪烁，表示正在扫描、复印，开始键 停止闪烁，完成复印。\n\n![设置复印份数并开始复印，或选择双面复印模式进行操作。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/02e0c5f872e688babadea863591d7a8f17c875f3ac3ba778414f556d7655678d.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 41,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_41"
+  },
+  {
+    "title": "# 双面复印",
+    "content": "# 双面复印\n\n1 在操作面板上触按双面复印键 ，双面复印键 白色常亮，进入双面复印模式。\n\n![双面复印模式下，将原稿正面朝下放置于扫描区左上角并合上盖板。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/985d12aaf2b179d407e87054255997cd490999cede5c6883d2027258860b03df.jpg)\n\n2 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![打开扫描盖板，放置原稿并合上，设置复印份数后触按开始键进行扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/08e544350a5c3fe943e1e5bbc72d73c1dce9e177c2dcdc86a1cceab4c87d1245.jpg)\n\n3 在操作面板上触按加键 /减键 ，设置需要复印的份数。触按开始键 进行第一面扫描，开始键 白色闪烁，表示正在扫描中。\n\n![设置复印份数并触按开始键扫描第一面，待开始键停止闪烁后翻面原稿继续扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/de0b082bffd41d2449568c9d79fd43ccebc38fc49630ef314a99a4b1e110a5df.jpg)\n\n4 待开始键 O 停止闪烁，打开盖板，将原稿翻面放置，并合上盖板。\n\n![双面复印操作：翻转原稿后合上盖板，触按开始键进行第二面扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4ecb9109d9cc75534c27514305710032a1803446a09740d7e5653ba868d9ae58.jpg)\n\n5 触按开始键 O 进行第二面扫描，扫描完成后，打印机会自动完成双面复印。\n\n![触按开始键进行第二面扫描，完成后自动双面复印；支持身份证智能排版与复印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/74714f313d646d5879830c96ebb8e5d23062c91ca696621b9e92acd0280ce431.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 42,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_42"
+  },
+  {
+    "title": "# 身份证复印",
+    "content": "# 身份证复印\n\n打印机支持身份证智能排版，自动校正证件位置、角度和正反面顺序。您可以使用打印机快速复印身份证。\n\n1 在操作面板上触按 ID 复印键 ，ID 复印键 白色常亮，进入身份证复印模式。\n\n![身份证复印步骤：触按ID复印键，放置身份证于指定区域并合上盖板。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/d80a1726896f3717dee675c8b8de456d682a1f2e94dac46453d1c3181abbcd3b.jpg)\n\n2 打开扫描盖板，将身份证放置在扫描有效区域内（扫描台左边和上边刻印的 A4 区域内），并合上盖板。\n\n![打开扫描盖板，将身份证置于A4区域内，合上盖板后触按开始键进行扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a4df120b15aa203f0c4e65368cd976f9a8d383bd4f6b36d8d8755342abbce287.jpg)\n\n3 在操作面板上触按开始键 ，开始键 白色闪烁，进行第一面扫描。\n\n![扫描身份证第一面后，等待开始键停止闪烁，再翻面扫描第二面。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/004f92e2bf41eedba8c4a27a0c283d589541e3ba5b410a6182039a03ca8140b9.jpg)\n\n4 待开始键 O 停止闪烁，打开盖板，将身份证翻面并合上盖板。\n\n![身份证第二面扫描步骤：待开始键停止闪烁，翻面放好身份证，合上盖板，触按开始键进行扫描。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/6e91d176c634d6a12d2167ea21d75a4c5188bdc40bf64bba6e4ee387e45f522b.jpg)\n\n5 触按开始键 ，开始键 白色闪烁，进行第二面扫描。扫描结束后，打印机将自动校正身份证位置、角度和正反面顺序，完成身份证复印。\n\n![扫描身份证第二面，打印机自动校正位置和顺序完成复印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/f84a33f654cbf22593be06782cf0f4ad4484db1077aef696c51e1bf27918cbbd.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 43,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_43"
+  },
+  {
+    "title": "# 从手机/平板端进行单面复印、双面复印、N 合一复印",
+    "content": "# 从手机/平板端进行单面复印、双面复印、N 合一复印\n\n手机/平板与打印机连接后，您可以通过华为智慧生活 App，进行单、双面复印和 N 合一复印。\n\n操作前，请注意：\n\n手机/平板需连接和打印机相同的路由器 WLAN。\n\n具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![通过华为智慧生活App操作打印机进行单双面及N合一复印的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/cab186ea8ab796dafc5f7954051ea375a9e79183c6dc72a4e820ac2952675de0.jpg)\n\n2 在手机/平板端打开华为智慧生活 App ，在首页点击打印机卡片。\n\n![通过华为智慧生活App首页的打印机卡片进入，点击复印并设置参数后开始复印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/760399af8a0011facf70cb63263a819d89d8cffc1db6b5eb1c4e58e5068dc3b4.jpg)\n\n3 点击复印，设置好复印参数后，点击开始复印。\n\n![点击复印并设置参数，包括份数和单双面选项，然后开始复印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a2138cb4432d1f49dc144ca0b0209bff786b52f6d756aacd43c639da98a65252.jpg)\n\n复印相关参数如下（打印机不同插件版本，复印参数可能略有不同，请以实际界面为准）：\n\n• 份数：默认复印 1 份，按后面的 +/- 按钮可以增减份数。  \n• 单双面：默认单面复印，您可以设置为单面复印、双面复印，沿长边翻转、双面复印，沿短边翻转。  \n• 复印浓度：默认为标准，您可以设置为浅灰、标准、深黑。  \n复印质量：默认为标准，您可以设置为标准、最佳。  \n原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。  \n• 纸张尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据纸盒中纸张的实际尺寸进行选择。  \n• 纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择普通纸、再生纸、厚纸。\n\n• 每张复印页数：默认每张纸复印 1 页。若您想要 N 合一复印，可以点击选择其他页数，例如选择 2，会将 2 页纸的原稿缩放到 1 张纸中打印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 44,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_44"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 4 根据界面提示操作，完成复印。\n\n# 若您是单面复印：\n\n点击开始复印后，打印机开始键 白色闪烁，华为智慧生活 App 会提示您复印中。开始键 停止闪烁后，完成复印。\n\n# • 若您是双面复印（复印参数中，单双面设置为双面复印，沿长边翻转或双面复印，沿短边翻转）：\n\n点击开始复印后，按界面提示放入原稿，点击下一步，再将原稿进行翻面，点击下一步，最后点击开始打印。待打印机开始键 停止闪烁，双面复印完成。\n\n# • 若您是 N 合一复印（复印参数中，每张复印页数为多页，例如 2）：\n\n点击开始复印后，华为智慧生活 App 会提示您当前正在复印中；待第一页原稿复印完成后，会提示您放入第二页原稿，放入后，请按开始键 开始复印。开始键 停止闪烁后，复印完成。\n\n# 从电脑端进行单面复印、双面复印、N 合一复印\n\n# 鸿蒙电脑端复印\n\n电脑通过智慧生活连接打印机后，在智慧生活中打开华为打印机卡片，您可以进行单面复印、双面复印、N 合一复印，快捷方便。\n\n# 具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![通过智慧生活应用选择复印功能，指导用户放置原稿并进行复印操作。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c2a875af2ee87bb9f0f481301e0d41d84835992ac2005a1c628098b14cd103b5.jpg)\n\n2 在电脑端打开智慧生活，在家居首页点击打印机卡片，选择复印 。\n\n![在智慧生活应用中选择打印机并设置复印参数，如份数和每张复印页数等。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e7b8eca99dc30f5ab6d7c98d5f0398620ac50f69984671e8814036339ae14dbb.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 45,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_45"
+  },
+  {
+    "title": "# 单面复印：",
+    "content": "# 3 设置好复印参数后，点击开始复印。\n\n复印相关参数如下（打印机不同插件版本，复印参数可能略有不同，请以实际界面为准）：\n\n份数：默认复印 1 份，可根据需要进行增加。  \n• 每张复印页数：默认每张纸复印 1 页。若您想要 N 合一复印，可以点击选择其他页数，例如选择 2，会将 2 页纸的原稿缩放到 1 张纸中打印。  \n• 单双面：默认单面复印，也可根据需要选择双面复印（沿长边翻转）或双面复印（沿短边翻转）。  \n原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。  \n• 输出纸张尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据纸盒中纸张的实际尺寸进行选择。  \n纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择再生纸或厚纸。  \n• 复印浓度：默认为标准，您可以根据需要选择浅灰或深黑。  \n复印质量：默认为标准，您可以根据需要选择最佳。\n\n# 4 根据智慧生活界面提示，完成复印。\n\n# 单面复印：\n\n点击开始复印后，打印机开始键 白色闪烁，智慧生活界面会提示您复印中。打印机开始键 停止闪烁后，完成复印。\n\n• 双面复印（复印参数中，单双面设置为双面复印（沿长边翻转）或双面复印（沿短边翻转））：\n\na 点击开始复印，待第一张原稿扫描完成后，打印机开始键 停止闪烁，此时请放入第二张原稿并合上盖板，点击下一步。  \nb 待第二页原稿完成扫描后，点击完成，打印机将自动进行复印，待打印机开始键 停止闪烁，完成双面复印。\n\n• N 合一复印（复印参数中，每张复印页数为多页，例如 2）：\n\n点击开始复印后，智慧生活界面会提示您如何放置原稿。扫描完第一页原稿后，打印机开始键 停止闪烁，此时请放入第二页原稿并合上盖板，按打印机开始键 完成第二面扫描。重复此动作，直至所有原稿扫描完成，打印机将自动开始复印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 46,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_46"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# Windows/macOS/Linux/UOS/KOS/中科方德系统电脑端复印\n\n电脑通过华为打印客户端或华为电脑管家连接打印机后，打开华为打印客户端或在华为电脑管家中打开华为打印机卡片，您可以进行单面复印、双面复印、N 合一复印，快捷方便。\n\n# 具体操作：\n\n1 打开扫描盖板，将原稿正面朝下、对齐扫描区左上角放置，并合上盖板。\n\n![打开扫描盖板放置原稿，通过华为打印客户端或电脑管家选择复印功能。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/1d45b9869902ebad058ba569fab4caa0679dc36e46b10705716076d701ae3882.jpg)\n\n2 打开华为打印客户端（或打开华为电脑管家，选择 我的设备，点击已连接的打印机卡片），点击复印 。\n\n![通过华为打印客户端或电脑管家选择复印功能，并设置复印参数如份数和单双面等。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/a1b33ccae67da99b8accf62b323ee47b0f83066be74b99fb32161e4c9c709fa0.jpg)\n\n3 设置好复印参数后，点击开始复印。\n\n复印相关参数如下（打印机不同插件版本，复印参数可能略有不同，请以实际界面为准）：\n\n份数：默认复印 1 份，您可以在输入框中输入需要的份数。  \n• 单双面：默认单面，您可以设置为单面、双面（长边翻页）、双面（短边翻页）。  \n复印质量：默认为标准，您可以设置为标准、最佳。  \n• 原稿尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据原稿的实际尺寸进行选择。  \n• 纸张尺寸：默认为 A4，有 A4、A5、B5 等选项，请根据纸盒中纸张的实际尺寸进行选择。  \n• 纸张类型：默认为普通纸，您可以根据纸盒中的实际纸张类型，选择普通纸、再生纸、厚纸。  \n• 复印浓度：默认为默认，您可以拖动条形栏，设置为特浅、浅、默认、浓、特浓。  \n• 复印比例：默认为 100%，您可以拖动条形栏，设置其他复印比例。\n\n• 每张复印页数：默认每张纸复印 1 页。若您想要 N 合一复印，可以点击选择其他页数，例如选择 2，会将 2 页纸的原稿缩放到 1 张纸中打印。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 47,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_47"
+  },
+  {
+    "title": "# 开关机",
+    "content": "# 4 根据界面提示操作，完成复印。\n\n# 单面复印：\n\n点击开始复印后，打印机开始键 白色闪烁，客户端会提示您复印中。打印机开始键停止闪烁后，复印完成。\n\n• 双面复印（复印参数中，单双面设置为双面（长边翻页）、双面（短边翻页））：\n\n点击开始复印后，客户端界面会提示您如何放置原稿。扫描完第一页原稿后，打印机开始键停止闪烁，此时请放入第二页原稿并合上盖板，按开始键 开始扫描。待扫描完成后，打印机自动开始复印。\n\n• N 合一复印（复印参数中，每张复印页数为多页，例如 2）：\n\n点击开始复印后，客户端界面会提示您如何放置原稿。扫描完第一页原稿后，打印机开始键停止闪烁，此时请放入第二页原稿并合上盖板，按开始键 完成第二面扫描。重复此动作，直至所有原稿扫描完成，打印机将自动开始复印。\n\n# 开关机与休眠\n\n# 开关机\n\n1 将电源线插入打印机背面的电源接口，另一端插入电源插座内。  \n2 在打印机背面找到电源开关，向上按打开电源开关，打印机操作面板指示灯亮起，表示打印机已开机。稍等片刻，打印机预热完毕，开始键 白色常亮，数字键显示 ，表示打印机就绪。  \n3 向下按关闭电源开关，打印机操作面板所有指示灯熄灭，打印机关机。\n\n![打印机开机与关机指示及休眠状态说明，包括就绪状态和设置休眠时间的方法。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/436311627ac4ddfae574aaa9c951e71ea32867a23d760b32c5aefaf3a7978858.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 48,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_48"
+  },
+  {
+    "title": "# 设置休眠时间：",
+    "content": "# 退出休眠和设置休眠时间\n\n打印机默认持续 5 分钟无操作后自动进入休眠状态，此时，操作面板所有指示灯熄灭。触摸操作面板或收到打印任务时退出休眠。\n\n# 设置休眠时间：\n\n电脑通过华为电脑管家或华为打印客户端连接打印机后，您可在华为电脑管家或华为打印客户端中设置休眠时间。\n\n打印机不支持设置永不休眠。\n\n华为电脑管家：打开华为电脑管家，选择 我的设备，点击已连接的打印机卡片，在打开的华为打印页面，点击右上角 ，选择设备设置 > 设备设置，在休眠时间中，滑动滚动条设置打印机进入休眠的时间，下滑滚动条至页面底部，点击保存。\n\n华为打印客户端：打开华为打印客户端，点击右上角 ，选择设备设置 > 设备设置，在休眠时间中，滑动滑块设置打印机进入休眠的时间，下滑滚动条至页面底部，点击保存。\n\n![设置打印机休眠时间并保存的界面示意图](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/9a8417c2a60682434b20639d2520ec5d9ad34e0e8dae4ca4701341c3b20b388a.jpg)\n\n![点击页面底部的保存按钮以完成设置，随后介绍了打印机进入深度休眠状态的条件。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/8a012e7161a6d8572618a5eaf1ea861ef87aedaa88e7ef588a421517b7340334.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 49,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_49"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 深度休眠\n\n打印机未联网且没有设备连接时，持续 25 分钟无操作后，将进入深度休眠状态。此时，打印机无线功能（WLAN、蓝牙）和接口（LAN 口、USB-B 接口）关闭，无法连接。触摸操作面板退出深度休眠。\n\n# 更多操作\n\n# 更换粉盒\n\n打印机缺墨时，操作面板上缺墨指示灯 会红色亮起、数字键显示 $\\%$ ，请您更换粉盒。\n\ni 建议您前往华为官方渠道购买打印机适配的原装粉盒，若使用非原装粉盒，打印机的打印质量和性能可能达不到原来的设计标准，并无法享受原厂保修服务。\n\n# 具体操作：\n\n1 双手扶住前盖两侧，打开前盖。捏住粉盒手柄向 图标指示方向拨动，解锁后取出旧粉盒。\n\n• 若为打印机出厂自带粉盒，无需解锁直接取出旧粉盒即可。\n\n• 若您的衣物或手不小心沾染了墨粉，请及时用干布擦，并用冷水洗，热水会使墨粉渗进到纤维中。\n\n![解锁并取出旧粉盒，新粉盒摇匀后准备安装。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/308956acd900aae9a3da22837223449d7d85ff6be636a9c81e4e80da5e509a0c.jpg)\n\n2 从包装盒中取出新粉盒，水平摇晃新粉盒 2-3 秒，防止墨粉堆积。\n\n![水平摇晃新粉盒后，将其安装进打印机并锁定，最后关闭前盖。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/6a56fdbcf83f3e5ef80f76388f40ffec9b821f2a49b95f3e63ddb56d91270bf4.jpg)\n\n3 将新粉盒安装进打印机，捏住粉盒手柄向 图标指示方向拨动，锁定粉盒后，关闭前盖。\n\n![安装新粉盒并锁定，然后通过同时按加减键5秒重置粉盒，等待打印机完成墨粉转移。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/3f1b1ae7b7e344003221d576a2af4250cc40b4156d0835c435026c3f95673491.jpg)\n\n4 重置粉盒：同时触按加键 和减键 5 秒，至数字键显示 松开按键，打印机开始转移墨粉，发出“嗡嗡”声，持续约 100 秒后，“嗡嗡”声结束，表示重置成功。\n\n![重置粉盒步骤及更换硒鼓提示：同时按加减键5秒，听“嗡嗡”声100秒完成重置；需更换硒鼓时，数字键显示特定符号且开始键红闪。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/378aee1aa70b9ca6b8838266b23c8110b33839ac937d4019249e97d61dfa7952.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 50,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_50"
+  },
+  {
+    "title": "# 具体操作：",
+    "content": "# 更换硒鼓\n\n当操作面板上数字键显示 ，且开始键 红色闪烁时，表示您需要更换打印机硒鼓。请您前往华为官方渠道，购买华为打印机适配的原装硒鼓和粉盒，并及时更换。\n\n0 更换新的硒鼓时需同时更换新的粉盒，无法保留旧粉盒，请在更换硒鼓时连同粉盒一起进行更换。  \n• 建议您前往华为官方渠道购买打印机适配的原装硒鼓组件，若使用非原装硒鼓组件，打印机的打印质量和性能可能达不到原来的设计标准，并无法享受原厂保修服务。  \n• 打印机内部有发热零部件，为避免烫伤手，建议先将打印机关机，静置半小时，再更换硒鼓。\n\n# 具体操作：\n\n1 按下上盖按钮，打开上盖。\n\n![打开上盖，斜向上拉出旧硒鼓组件进行更换。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/275776c328a17793b25fb7102d003660a0fee071857d9019f108b3dc33245ed7.jpg)\n\n2 握住旧硒鼓的内把手，斜向上拉动，小心提取出旧硒鼓组件。\n\n![更换硒鼓步骤：取出旧硒鼓，安装新粉盒至新硒鼓，并注意墨粉清洁与区分。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/f3174b62931c0ccf11752e8303638c18f3e0c90f0f77084fb0ca3bbbacd60b82.jpg)\n\n3 从包装盒内分别取出新粉盒和新硒鼓，将新粉盒安装到新硒鼓上，并锁定粉盒。\n\n0 若您的衣物或手上不小心沾染了墨粉，请及时用干布擦拭，并用冷水清洗，热水会使墨粉渗进到纤维中。  \n• 请注意区分粉盒和硒鼓，确认粉盒处于锁定状态（参考下图示意）。\n\n![粉盒锁定状态示意图：展示如何正确锁定粉盒于硒鼓上，确保安装到位。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/ac7442ea71492f62316f515e63618a557a29e926b2c0231cbd0b053eda57962d.jpg)\n\n4 轻轻水平摇晃（前后左右）新的硒鼓和粉盒组件 3-4 次，注意不要翻转，如果摇晃过程中有少量墨粉飞散，属正常现象，请使用纸巾擦拭干净即可。\n\n![水平摇晃新硒鼓和粉盒组件后，倾斜向下安装至打印机指定位置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/95c8b9227f43f7f1323ea1d37157451f5539e8d417d0c81fb9d29cff0ce13f39.jpg)\n\n5 倾斜向下安装新的硒鼓和粉盒组件（将硒鼓左右两侧的金属头和塑料头分别对准打印机两侧内壁上两条竖直槽道，向下安装到位），并下压上盖直至盖好。\n\n![安装硒鼓和粉盒组件，并重置硒鼓的步骤说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/46bbf99d9af8954ee892ec78fe16cc6b41eb8fd26a4fb8fe80fb8790ebebb6c1.jpg)\n\n6 重置硒鼓：同时按下加键 和取消键 5 秒，至数字键显示 松开按键，待打印机完成初始化后，表示重置成功。\n\n![重置硒鼓和粉盒步骤：按指定键组合5秒，等待打印机完成初始化及墨粉转移。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/3ba2ab3b6ce505d9029fe911c691da2fd7818b630f897a28e0eec1646c4a324e.jpg)\n\n7 硒鼓重置后，还需要重置粉盒：同时按下加键 和减键 5 秒，至数字键显示 松开按键，打印机开始转移墨粉，发出“嗡嗡”声，持续约 100 秒后，“嗡嗡”声结束，表示重置成功。\n\n![硒鼓与粉盒重置步骤及恢复出厂设置前的准备说明。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/73591e29357298fee21cf20908e07c89a156cc52e4c89c551fb825297a6b0001.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 51,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_51"
+  },
+  {
+    "title": "# 方式一：直接在打印机上操作",
+    "content": "# 恢复出厂设置\n\n连接了无线网络的打印机，在恢复出厂设置后，将删除网络设置，需要重新为打印机配置网络。您可以按以下方式，将打印机恢复出厂设置。\n\n• 将打印机恢复出厂之前，请先打开扫描盖板，取出所有原稿，并合上盖板。\n\n• 连接了无线网络的华为激光打印机，在恢复出厂设置后，将删除网络设置，需要重新为打印机配置网络。  \n• 鸿蒙电脑端不支持将打印机恢复出厂设置，您可以在打印机面板上进行恢复出厂设置的操作。\n\n# 方式一：直接在打印机上操作\n\n1 长按取消键 约 8 秒，数字键显示 ，打印机开始恢复出厂，待数字键显示 ，表示打印机已恢复出厂。\n\n![长按取消键恢复出厂设置，重启打印机并等待自动校准完成。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/1565379a81eb2551f49968c5678c4b0c05402dc42d8026fe54eb9e2dd067be57.jpg)\n\n2 向下按电源开关将打印机关机，稍等片刻，向上按电源开关将打印机开机。请等待约 3 分钟，待数字键显示 ，完成启动（启动过程中将自动进行扫描校准，请勿打开扫描盖板），即可正常使用打印机。\n\n![打印机开关机及启动步骤，以及通过华为电脑管家恢复出厂设置的方法简介。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/013bafff54be4fd310829e91a25980a845899d8819bacbbbb1033230f65ae1ac.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 52,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_52"
+  },
+  {
+    "title": "# 方法三：通过华为打印客户端将打印机恢复出厂设置",
+    "content": "# 方法二：通过华为电脑管家将打印机恢复出厂设置\n\n使用华为电脑管家连接打印机后，可按照如下操作将打印机恢复出厂：\n\n1 打开华为电脑管家，选择我的设备，点击已连接的打印机卡片，进入打印机界面，点击右上角：。，选择设备设置。  \n2 在设备设置界面点击高级设置，找到恢复出厂设置按钮，点击按钮，按界面提示完成恢复出厂。  \n3 打印机恢复出厂后，向下按电源开关将打印机关机，稍等片刻，向上按电源开关将打印机开机。请等待约 3 分钟，待数字键显 示 ，完成启动（启动过程中将自动进行扫描校准，请勿打开扫描盖板），即可正常使用打印机。\n\n# 方法三：通过华为打印客户端将打印机恢复出厂设置\n\n使用华为打印客户端连接打印机后，可按照如下操作将打印机恢复出厂：\n\n1 打开华为打印客户端，点击右上角 ，选择设备设置。  \n2 在设备设置界面点击高级设置，找到恢复出厂设置按钮，点击按钮，按界面提示完成恢复出厂。  \n3 打印机恢复出厂后，向下按电源开关将打印机关机，稍等片刻，向上按电源开关将打印机开机。请等待约 3 分钟，待数字键显 示 ，完成启动（启动过程中将自动进行扫描校准，请勿打开扫描盖板），即可正常使用打印机。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 53,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_53"
+  },
+  {
+    "title": "# • 鸿蒙电脑：",
+    "content": "# 重置网络\n\n打印机开机状态下，长按网络状态键 3 秒以上，直至网络状态键 白色闪烁，表示打印机进入待配网状态，请您重新给打印机配网。\n\n![重置网络与取消打印任务：长按网络状态键配网，长按取消键停止打印。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/c5f0b0497ea6c45f38cb5acb4dd399827114bd526dc7e69bbe7ebf024837a478.jpg)\n\n# 取消打印任务\n\n# 取消当前正在打印任务\n\n若您的打印任务已下发到打印机中，打印文件较大、打印时间较长时，中途需要取消打印任务，可以长按打印机控制面板中的取消键 ，直至听到“滴”的一声，即可取消当前打印任务。\n\n# 取消正在排队、待打印的任务\n\n电脑与打印机连接后，有多个打印任务时，若您需要取消正在排队、待打印的任务，可以在电脑系统打印中直接操作。\n\n手机/平板端不支持多打印任务，只有当前文件打印完成后，才可以下发新的打印任务。\n\n# • 鸿蒙电脑：\n\n点击桌面右下角 > ，可查看打印任务。若要取消打印任务，将光标移至打印任务名称，单击任务右侧的 即可；若要取消所有打印任务，点击取消全部任务。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 54,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_54"
+  },
+  {
+    "title": "# • UOS/KOS/中科方德系统电脑：",
+    "content": "# • Windows 系统电脑：\n\n1 点击任务栏的隐藏图标，双击打印机图标。  \n2 在打印机窗口中，右键点击待取消打印的文件，选择取消，按界面提示操作，即可取消当前任务。  \n3 若需取消所有打印任务，右键点击窗口空白处，选择取消所有文档，按界面提示操作，即可取消所有打印任务。\n\n# • macOS 系统电脑：\n\n1 点击任务栏的设置图标，打开系统偏好设置，选择打印机与扫描仪。  \n2 在打印机列表中选择对应的华为打印机，然后点击打开打印队列，在弹出的窗口中，点击待打印文件后面的取消图标，即可取消待打印文件。\n\n# • Linux 系统电脑：\n\n0 Linux 系统电脑操作以 Ubuntu 系统为例，RedHat 系统界面可能略有不同，请以实际情况为准。\n\n1 点击任务栏的隐藏图标，选择设置，打开设置窗口。  \n2 选择打印机，点击打印机正在处理后面的 x 项任务（x 表示正在进行的打印任务数量），打开活动任务列表：\n\n点击清除图标，即可取消此打印任务。  \n点击全部清除，即可取消所有打印任务。\n\n# • UOS/KOS/中科方德系统电脑：\n\n本操作以 KOS 系统电脑为例，UOS/中科方德系统电脑类似，请以实际界面为准。\n\n1.点击桌面左下角开始菜单图标，选择设置。在设置窗口中点击设备，选择打印机，点击已连接的打印机。  \n2.在打印机窗口，右键点击已连接的打印机，选择查看打印机队列。  \n3.右键点击待打印的任务，选择取消，按界面提示操作，即可取消当前任务。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 55,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_55"
+  },
+  {
+    "title": "# • 自动升级固件：",
+    "content": "# 升级打印机固件\n\n当打印机固件版本更新时，您可以通过手机/平板、华为 Windows 系统电脑或鸿蒙电脑来进行升级。\n\n• 仅支持通过华为智慧生活 App 和华为电脑管家升级打印机固件。\n\n• 在进行固件升级时，请保持打印机为通电状态，切勿断电和关机。\n\n• 升级过程中，打印机面板数字键呈绕圈闪烁 ，待固件升级完成后，打印机会自动重启，重启完成后待数字键显示“01”即可正常使用。\n\n# 手机/平板端：通过华为智慧生活 App 升级打印机固件\n\n手机/平板通过华为智慧生活 App 连接打印机后，点击打印机卡片，可以手动或自动升级固件：\n\n# • 手动升级固件：\n\n• 方式一：在打印机设备界面，若固件升级上显示红点，表示有新的固件版本。点击固件升级，检测到新的固件版本后，点击更新，按界面提示完成更新。  \n• 方式二：在打印机设备界面，点击右上角 ，选择通用设置 > 设备信息，当打印机有新的固件版本时，点击升级。\n\n此方法仅适用于 HarmonyOS 以及安卓系统，iOS 系统不适用。\n\n# • 自动升级固件：\n\n• HarmonyOS /安卓系统\n\n打开华为智慧生活 App，在首页点击打印机卡片，进入打印机设备界面。点击右上角 ，选择通用设置，开启自动升级的开关。固件有新版本且打印机空闲时，打印机自动下载安装并重启设备。\n\n• iOS 系统\n\n打开华为智慧生活 App，在首页点击打印机卡片，进入打印机设备界面。点击右上角 ，选择设备设置，打开自动升级的开关后，固件有新版本且设备空闲时，将自动下载安装固件并重启华为打印机。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 56,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_56"
+  },
+  {
+    "title": "# 华为 Windows 系统电脑：通过华为电脑管家升级打印机固件",
+    "content": "# 鸿蒙电脑：通过智慧生活升级打印机固件\n\n鸿蒙电脑通过智慧生活连接华为打印机后，打开智慧生活，可以手动升级或自动升级打印机固件版本。\n\n# • 手动升级\n\n方法一：点击我的 > 设置 > 固件更新，等待系统检测到新的固件版本后，按界面提示完成升级，升级后打印机将自动重启。\n\n方法二：在家居首页点击打印机卡片，点击固件升级，等待系统检测到新的固件版本后，按界面提示完成升级，升级后打印机将自动重启。\n\n# • 自动升级\n\n电脑端通过智慧生活连接打印机后，默认开启自动升级开关，当系统检测到新的固件版本后，会在闲时进行固件升级。\n\n# 华为 Windows 系统电脑：通过华为电脑管家升级打印机固件\n\n华为 Windows 系统电脑通过华为电脑管家连接打印机，且是通过局域网连接，打开华为电脑管家，点击 我的设备，选择已连接的打印机卡片，可以手动或自动升级固件：\n\n• 手动升级固件：点击固件升级，检测到有新的固件版本时，按界面提示完成升级即可。\n\ni 如果通过 USB 线缆连接打印机，在华为电脑管家打印机卡片中，固件升级置灰，无法进行手动升级。\n\n• 自动升级固件：点击右上角 ，选择设备设置，打开自动升级的开关后，固件有新版本且设备空闲时，将自动下载安装固件并重启华为打印机。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 57,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_57"
+  },
+  {
+    "title": "# 方式二：通过打印机信息页获取",
+    "content": "# 查看打印机 S/N 号\n\nS/N 号，即产品序列号，是产品的身份证号码，又称机器码、认证码、注册申请码等。\n\n您可以按以下任一方式，查看打印机 S/N 号。如您遇到无法获取 S/N 号的情况，您可前往附近的华为客户服务中心获取帮助，商品的纸质及电子发票、电商渠道有效凭证等均可作为保修凭证。\n\n# 方式一：通过打印机铭牌获取\n\n打印机铭牌贴在打印机背后，铭牌上印有打印机 S/N 号，请仔细查阅。\n\n![通过打印机铭牌或信息页获取S/N号的方法说明](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/710af89fc006294e138878664c80472839224db5a09d9528fba73bd831e0e3fa.jpg)\n\n# 方式二：通过打印机信息页获取\n\n长按打印机开始键 3 秒，听到“滴”声松开按键，开始键 白色闪烁，打印机将自动打印信息页，在信息页上可查看序列号。\n\n![打印机信息页示例，展示机器型号与序列号等基本信息。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/afa82d41987c9e76271679af0c08ef568857eb65c6a5826717818fd3695851c4.jpg)\n\n基本信息  \n机器型号  \n打印机序列号  \n![通过华为智慧生活App查看打印机型号和序列号的方法说明](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/2a798b72be2fca86dc1b71835d48637a6543b3ba2235c7356c19eec937f2a9fe.jpg)",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 58,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_58"
+  },
+  {
+    "title": "# 方式四：通过打印机包装盒获取",
+    "content": "# 方式三：通过手机/平板/电脑配置打印机的应用获取\n\n• 手机/平板：通过华为智慧生活 App 连接打印机后，在华为智慧生活 App 中打开打印机设备页，点击右上角 ，选择通用设置 > 设备信息，查看序列号。\n\n• 电脑：\n\n• 鸿蒙电脑：打开智慧生活，在首页点击打印机卡片，点击右上角 ，选择设备设置（或设备设置 > 设备信息），查看序列号。  \n• 其他系统电脑：通过华为电脑管家或华为打印客户端配置打印机后，在华为电脑管家中打开打印机设备页，或在华为打印客户端，点击右上角 ，选择设备设置 > 设备设置，查看打印序列号。\n\n# 方式四：通过打印机包装盒获取\n\n若打印机的原始包装还在，您可以通过打印机包装盒查看 S/N 号。\n\n常见故障代码处理\n\n<table><tr><td>代码</td><td>含义</td><td>解决方法</td></tr><tr><td>7F</td><td>墨粉耗尽。</td><td>请购买华为原装粉盒进行更换。具体请参考《更换粉盒》章节操作。</td></tr><tr><td>CC</td><td>硒鼓寿命耗尽。</td><td>请购买华为原装硒鼓和粉盒进行更换。具体请参考《更换硒鼓》章节操作。</td></tr><tr><td>C1</td><td>上盖、前盖或后盖开启。</td><td>关闭上盖、前盖或后盖。</td></tr><tr><td>C3</td><td>纸盒无纸。</td><td>拉出纸盒,装入纸张。</td></tr><tr><td>6A / 6B / 6C / 6D / 6E / 6F / CO</td><td>卡纸或进纸异常。</td><td>请开关打印机上盖或后盖,将自动排纸。</td></tr></table>\n\n若以上方法无法解决问题，或出现其他提示码，请访问打印机服务官网（https://bsupport.huawei.com/cn/product/pixlab-b5/），查阅常见问题版块。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 59,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_59"
+  },
+  {
+    "title": "# 操作安全与保养",
+    "content": "# 安全信息\n\n【警告】在使用和操作设备前，为确保设备性能最佳，并避免出现危险或非法情况，请查阅并遵循所有的安全信息。\n\n# 操作安全与保养\n\n• 设备产生的无线电波或含有磁铁可能会影响植入式医疗设备或个人医用设备的正常工作，如起搏器、植入耳蜗、助听器等。若您使用了这些医用设备，请向其制造商咨询使用本设备的限制条件。\n\n• 在使用本设备时，请与植入的医疗设备（如起搏器、植入耳蜗等）保持至少 15 厘米的距离。\n\n• 电源插头应连接到易于触及的插座，插座应与接地线连接。\n\n• 当不使用本设备时，请断开电源与设备的连接并从电源插座上拔掉电源插头。\n\n• 雷电天气请断开电源，并拔出连接在设备上的所有线缆，以免设备遭雷击损坏。\n\n• 请在介于 5℃～35℃ 的环境温度中、20%～80%（非凝结）的环境湿度中内使用本产品，并在介于 -25℃～+40℃ 的环境温度中、30%～93% 的环境湿度中存放本产品及其配件。当环境温度过高或过低时，可能会引起设备故障。\n\n• 请勿使用任何物体堵塞设备的开孔，且在设备四周留出 10 厘米以上的散热空间。\n\n• 请将设备或其配件放置在通风、阴凉、无阳光直射的环境中。请勿将设备包裹、密封或在设备上覆盖毛巾及放置其它物品。请勿将设备放置在盒子、箱子等封闭环境中使用，以免散热不良导致设备损坏。\n\n• 打开或关闭设备上盖时，小心手指被夹伤。\n\n• 请勿在打印过程中强行将纸拉出。否则，可能会对打印机造成损坏。\n\n• 换纸或清除卡纸的过程中，请小心操作。纸张边缘比较锋利，可能导致割伤。\n\n• 清除卡纸时，请小心操作，以免夹伤手指。\n\n• 请勿将墨粉、硒鼓、粉盒投入火中。\n\n• 请勿让儿童接触硒鼓、粉盒。\n\n• 请根据当地法律法规来处理使用过的硒鼓和粉盒。\n\n• 如果墨粉沾染到手上或衣服上，请立即擦去或用冷水清洗干净。\n\n• 如果墨粉撒落到地上，应用湿布缓慢清除撒落的墨粉，以免墨粉飘散。\n\n• 如果吸入墨粉或废墨粉，请用大量的水漱口，并进入有新鲜空气的环境中，必要时请就医。\n\n• 如果墨粉进入眼睛，请立即用大量的水冲洗,必要时请就医。\n\n• 请勿将设备靠近热源或裸露的火源，如电暖器、微波炉、烤箱、热水器、炉火、蜡烛或其他可能产生高温的地方。\n\n• 本设备及其配件可能包含一些小零件，请将设备及其配件放置在儿童接触不到的地方。儿童可能在无意之中损坏本设备及其配件，或吞下小零件导致窒息或其他危险。\n\n• 不建议您自行升级部件或更换模块。如有相关服务需求，请联系华为客户服务中心。\n\n• 请保持设备及其配件干燥。请勿使用微波炉或吹风机等外部加热设备对其进行干燥处理。\n\n• 请勿使设备及其配件受到强烈的冲击或震动，以免损坏设备及其配件，导致设备故障。  \n• 清洁和维护前，请停止使用本设备，关闭所有应用，并断开与其他设备的所有连接或线缆。  \n• 请勿使用烈性化学制品、清洗剂或强洗涤剂清洁设备或其配件。请使用清洁、干燥的软布擦拭设备或其配件。  \n• 请勿在设备上放置任何物体（如蜡烛、盛水容器等），若有异物或液体进入设备，请立刻停止使用并断开电源，拔出连接在设备上的所有线缆，并联系华为客户服务中心。  \n• 在换气不畅的房间中长时间使用或打印大量文件时，请适时通风换气。  \n• 如果您所在区域室内外温差较大，打印机从室外低温环境搬到室内时，建议您将新打印机在室内环境静置 2 \\~ 4 小时再使用，避免光学玻璃表面由于温度突变导致结雾影响画像打印质量。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 60,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_60"
+  },
+  {
+    "title": "# 支持微功率短距离无线电发射能力说明（NFC）-1",
+    "content": "# 认证信息\n\nCMIIT ID 型号核准代码信息详见设备铭牌。本设备铭牌在设备背面。\n\n# 支持微功率短距离无线电发射能力说明（NFC）\n\n本产品具备《中华人民共和国无线电管理条例》规定的微功率短距离无线电发射能力，根据“工业和信息化部公告2019年第52号”的要求，现注明如下：\n\n（一）产品符合“微功率短距离无线电发射设备目录和技术要求”第一条通用微功率设备第 3 款 C类设备的规定，内置环形 NFC 天线，通过负载调制方式实现一碰连通信，不具备主动发射场景，用户可根据产品说明书来使用此功能；  \n（二）不得擅自改变使用场景或使用条件、扩大发射频率范围、加大发射功率（包括额外加装射频功率放大器），不得擅自更改发射天线；  \n（三）不得对其他合法的无线电台（站）产生有害干扰，也不得提出免受有害干扰保护；  \n（四）应当承受辐射射频能量的工业、科学及医疗（ISM）应用设备的干扰或其他合法的无线电台（站）干扰；  \n（五）如对其他合法的无线电台（站）产生有害干扰时，应立即停止使用，并采取措施消除干扰后方可继续使用；  \n（六）在航空器内和依据法律法规、国家有关规定、标准划设的射电天文台、气象雷达站、卫星地球站（含测控、测距、接收、导航站）等军民用无线电台（站）、机场等的电磁环境保护区域内使用微功率设备，应当遵守电磁环境保护及相关行业主管部门的规定；  \n（七）禁止在以机场跑道中心点为圆心、半径5000米的区域内使用各类模型遥控器；  \n（八）本产品 NFC 工作电压为 3.3V，工作环境温度为 5℃～35℃。  \n（九）使用微功率短距离无线电发射设备应当符合国家无线电管理有关规定。\n\n![华为PixLab B5使用条件：遥控器适用范围、NFC工作参数及无线电设备规定，限2000米海拔以下使用。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b33611548edaa03f4bd3cab1a1eee53ce53a80a926828492743f35fde82f5141.jpg)\n\n本设备仅适用于海拔 2000m 以下地区安全使用。\n\n![设备使用条件限制：仅适用于海拔2000m以下及非热带气候地区。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/4d5ee10142a4d77a2c46946a7a1ab546f71b16f19cc03384c89f870a4e3c50c4.jpg)\n\n本设备仅适用于非热带气候条件下安全使用。\n\n![热表面警告：设备工作时表面温度高，请勿直接接触以避免烫伤。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/689280c6f8fc897d27df84574624e49c79bc00dc54f5f383e953c5e22d160189.jpg)\n\n【警告】热表面，不要接触。\n\n![【警告】热表面勿触，不当操作可能造成辐射伤害。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/b4cecd113219a4886188be6d2712c4f529a42f9d72058b3cd96d87caed483547.jpg)\n\n如果未按本指南中的规定而擅自使用控制器、进行调节或执行操作可能会使操作员受到辐射。\n\nֶ̗˗దࠏྭ᠏ᄊՐሦԣե᧚ֶ̗˗దࠏྭ᠏ᄊՐሦԣե᧚ ",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 61,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_61"
+  },
+  {
+    "title": "# 支持微功率短距离无线电发射能力说明（NFC）-2",
+    "content": "<table><tr><td rowspan=\"2\">部件名称</td><td colspan=\"10\">有害物质</td></tr><tr><td>铅(Pb)</td><td>汞(Hg)</td><td>镉(Cd)</td><td>六价铬(Cr(VI))</td><td>多溴联苯(PBB)</td><td>多溴二苯醚(PBDE)</td><td>邻苯二甲酸二(2-乙基)己酯(DEHP)</td><td>邻苯二甲酸丁基苄酯(BBP)</td><td>邻苯二甲酸二正丁酯(DBP)</td><td>邻苯二甲酸二异丁酯(DIBP)</td></tr><tr><td>电路板</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>扫描模组</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>打印模组</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>电源组件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td>附件</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr><tr><td colspan=\"11\">本表格依据SJ/T 11364的规定编制。○:表示该有害物质在该部件所有均质材料中的含量均不超出电器电子产品有害物质限制使用国家标准要求。×:表示该有害物质至少在该部件的某一均质材料中含量超出电器电子产品有害物质限制使用国家标准要求,且由于技术性或经济性等因素的局限,法律法规不规定其限量要求或放宽其限量要求的技术应用。因型号不同,产品可能不包括以上部分部件,请以产品实际销售配置为准。</td></tr></table>\n\n![这张图片的内容总结为：关于硒鼓和粉盒的维护与储存指南。适用于Markdown格式的图片标题可以写作：`![硒鼓和粉盒的维护与储存指南](图片链接)`如果需要更具体的描述，但仍然保持在50字以内，可以调](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/e6f3f22be785037ef3ba2487ff6e85a92fbfdffdd546e9545324b4a24f859c99.jpg)\n\nవಖគЯ஝ߚ᛫ᇨֶ̗ᬄ͈ښ൤࣢Ύၹ࿄গʾᄊဗδΎၹరᬍ˞\u0001\u0012\u0011\u0001ࣲǍ\n\n౽̏ᦊ͈˷ԻᑟదဗδΎၹరᬍಖគἻХဗδΎၹరᬍ̿ಖគЯ஝ߚ˞юǍ",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "# 支持微功率短距离无线电发射能力说明（NFC）",
+    "chunk_index": 62,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_62"
+  },
+  {
+    "title": "# 硒鼓和粉盒的更换",
+    "content": "# 维护硒鼓和粉盒\n\n# 硒鼓和粉盒的储存\n\n• 为了使设备发挥最大作用，建议在准备安装硒鼓或粉盒时，再将硒鼓或粉盒从包装中取出。  \n• 粉盒为一次性消耗品，无法再次灌装。  \n• 为了防止损坏硒鼓，不要将它暴露在光线下长达数分钟。\n\n# 硒鼓和粉盒打印量\n\n• 硒鼓打印量是基于国际标准 ISO/IEC 19752 推荐的测试方法得出，实际打印量可 能因打印内容或其他因素而存在差异（具体取决于纸张类型，纸张方向，开机时初 始化操作，使用环境状况等因素）。\n\n• 粉盒打印量是基于国际标准 ISO/IEC 19752：室温环境下(25 摄氏度)，使用 5% 覆盖率标准测试样张，一个全新粉盒打印出来的 A4 单面纸的数量。\n\n# 硒鼓和粉盒的回收\n\n• 请根据当地法规处理使用过的硒鼓和粉盒，并将其与生活垃圾分开。  \n• 请勿将墨粉、硒鼓、粉盒投入火中。墨粉在接触到明火时可能会燃烧。  \n• 如果您有任何问题，请致电当地的废品处理站。务必重新密封硒鼓和粉盒以防内部墨粉溅出。  \n• 建议您将使用过的硒鼓和粉盒放在纸上，以防止墨粉意外溅出弄脏桌面、衣服等。\n\n# 硒鼓和粉盒的更换\n\n• 如果打印内容突然变浅或模糊，请根据打印机错误代码提示或华为打印客户端的提示，及时更换硒鼓或粉盒。  \n• 实际可打印的数量因图像数量和浓度、一次打印的页数、纸张类型和尺寸以及环境条件（如温度和湿度）而异。墨粉质量会随时间下降。  \n• 为了获得良好的打印质量，建议您使用华为原装正品硒鼓和粉盒。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 63,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_63"
+  },
+  {
+    "title": "# 清洁打印机",
+    "content": "# 移动和搬运打印机\n\n• 长距离移动机器时，请使用原始包装材料重新包装机器，将其包装妥当。  \n• 运输之前，请务必将机器关机，并拔下机器上连接的所有线缆。  \n• 本设备是精密设备。移动时，请务必小心操作，将机器保持水平，不要翻倒或倾斜，防止墨粉溅出或机器损毁。  \n• 移动机器时请勿取出硒鼓和粉盒组件。\n\n# 清洁打印机\n\n为了保持良好的打印质量，在每次更换硒鼓和粉盒组件或出现打印质量时，请遵照以下内容，进行清洁：\n\n• 请定期清洁机器，以维持较高的打印质量。  \n• 用柔软的干布擦拭机身表面。如果无法擦拭干净，请使用完全拧干的柔软湿布擦拭。  \n• 如果仍然不能去除污垢污渍，请使用中性清洁剂，为防止变形、变色或破裂，请勿使用挥发性化学物品（例如汽油、稀释剂或喷雾杀虫剂）擦拭机器，用完全拧干的湿布反复擦拭，然后用干布擦拭该区域使其干燥。  \n• 在清洁打印机内部时，小心不要触及转印辊（位于硒鼓和粉盒组件下面），手上的油污会引起打印质量问题。  \n• 如果机器内部有灰尘或污渍，请用清洁的干布擦拭。  \n• 每年必须至少从插座上拔掉插头一次。清除插头和插座上的所有灰尘和污垢，然后再重新连接。积聚的灰尘和污垢可能导致起火危险。  \n• 清洁打印机外部：用清洁的、干的无绒布清洁机器的外部。  \n• 清洁扫描区玻璃板：打开扫描盖板，用软湿布清洁扫描仪玻璃板部件，然后用干布擦拭相同部件，以去除所有剩余的水。\n\n• 清洁打印机内部：在打印过程中，纸、墨粉和灰尘颗粒会堆积在打印机内。时间久了之后，这些堆积物会引起打印质量问题，例如墨粉斑点、污迹和卡纸，清洁打印机内部可消除或减少这些问题：\n\n关闭打印机，然后拔下电源线，等待打印机冷却。  \n• 按下上盖按钮，打开上盖。\n\n• 握住硒鼓的内把手，斜向上拉动，小心取出硒鼓和粉盒组件。（请注意烫手）\n\n• 用干的无绒布擦去硒鼓和粉盒组件区域和放硒鼓和粉盒组件的空间上的灰尘和洒落的墨粉。\n\n• 倾斜向下安装好硒鼓和粉盒组件，并下压上盖直至盖好。插上电源线，接通打印机电源。\n\n![硒鼓和粉盒组件的清洁与安装步骤，注意防尘、避光及正确放置。](http://localhost:9000/knowledge-base-files/upload-images/HUAWEIPixLabB5用户指南-(CV81Z,06,zh-cn)/5235388de54f76f0ac876abe6c74b7c2cdb77e97d2f2cfe4affb1dab8e35ed4e.jpg)\n\n0 为了防止损坏硒鼓，不要将硒鼓暴露在光线下长达数分钟。如需要，用纸将硒鼓盖住。不要触及打印机内部转印辊。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 64,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_64"
+  },
+  {
+    "title": "# 隐私保护",
+    "content": "# 法律声明\n\n版权所有 © 2025 华为终端有限公司。保留一切权利。\n\n# 商标声明\n\nBluetooth?字标及其徽标均为Bluetooth SIG,Inc.的注册商标，华为技术有限公司对此标记的任何使用都受到许可证限制，华为终端有限公司为华为技术有限公司的关联公司。\n\n在本手册以及本手册描述的产品中，出现的其他商标、产品名称、服务名称以及公司名称，由其各自的所有人拥有。\n\n# 其他声明\n\n通过国家十环认证的型号，产品无任何外接输入电源相连时可实现零能耗。请以购买时实际产品型号为准。\n\n产品回收处理相关信息，请访问 https://consumer.huawei.com/cn/support/recycling/\n\n# 隐私保护\n\n为了解我们如何保护您的个人信息，请访问 https://consumer.huawei.com/privacy-policy 阅读我们的隐私政策。\n\n0 本指南仅供参考，不构成任何形式的承诺，产品（包括但不限于颜色、大小、屏幕显示等）请以实物为准。如出现本指南与官网描述不一致的情况，请以官网说明为准，恕不另行通知。\n\n更多信息请访问 https://consumer.huawei.com/cn/。\n\n购买华为终端产品，请访问华为商城 https://www.vmall.com/。",
+    "file_title": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)",
+    "parent_title": "",
+    "chunk_index": 65,
+    "chunk_id": "HUAWEI PixLab B5 用户指南-(CV81Z,06,zh-cn)_65"
+  }
+]

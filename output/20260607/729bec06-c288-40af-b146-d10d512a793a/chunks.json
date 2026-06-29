@@ -1,0 +1,466 @@
+[
+  {
+    "title": "# 更多操作 . . ��",
+    "content": "# CM407/CM408\n\n#\n\n# 联想至像鲸鱼系列彩色喷墨�in�多功能一体机用户手册\n\n# 用户手册\n\n注意：使用本产品时，请您先仔细阅读使用说明书，再正确操作。请妥善保管好本手册，以便日后查询。\n\n版本：��.��\n\n# 目录\n\n# 产品介绍 .\n\n外观 .\n\n常用操作指引 2\n\n灯效指示 ... 2\n\n规格参数... 4\n\n# 首次安装与配网. �\n\n首次安装打印机 �\n\n给打印机配置网络 �\n\n# 更多设备连接. ��\n\n# 打印 .. ��\n\n打印手机中的文件 ��\n\n打印电脑中的文件 ��\n\n取消打印 ... .  ��\n\n# 复印 .. . ��\n\n机身按键复印 ��\n\n移动端智享家App复印 . . ��\n\n电脑端【 Lenovo Page 】软件复印 . ��\n\n取消复印... .. ��\n\n# 扫描 . . ��\n\n将原稿扫描至手机中 ��\n\n将原稿扫描至电脑（ Windows ）中 . ��\n\n取消扫描. . ��\n\n# 更多操作 . . ��\n\n蓝牙配网 .. . ��\n\n查看打印机基本信息（打印帮助信息页） . ��\n\n重置网络... . ��\n\n恢复出厂设置 .. ��\n\n打印机端语言设置 .��\n\n身份证复印纠偏开关 .. ��\n\n打印机固件升级 . ��",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 0,
+    "chunk_id": "联想鲸鱼系列用户手册_0"
+  },
+  {
+    "title": "# 外观-1",
+    "content": "# 机器维护 . ��\n\n保持通电 . ��\n\n校准打印头（初次安装打印头） ��\n\n校准打印头 . ��\n\n清洁打印头 ��\n\n墨水处理注意事项 . ��\n\n清洁打印机 ��\n\n清洁打印机光栅条（光栅条脏污） . ��\n\n更换墨水瓶 . ��\n\n# 故障排除 39\n\n检查本产品的状态 . . ��\n\n常见问题 ��\n\n送纸问题 ��\n\n打印问题 ��\n\n复印问题 . ��\n\n扫描问题 ��\n\n清除卡纸 ��\n\n注意事项 . ��\n\n# 安全信息 47\n\n# 法律声明 . ��\n\n# 外观\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/89bc417f4b89a3f451c72541e5852ac8900af8499de002ce3952e04483e9d035.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/93316442e74a82098efa8bbb21792f7305346e984219ebd65863fd5513e1f295.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b6268c70d95237afa5c1998f9a86e26828776bd625cff0d1c5e9051831f57e77.jpg)\n\n常用操作指引\n\n<table><tr><td>操作</td><td>关键操作步骤</td></tr><tr><td>开机</td><td>将打印机接通电源,按住 ▶ 键1秒以上,屏幕显示先显示“Lenovo”再显示“开机启动中”,当开始/电源指示灯白灯常亮后,打印机开机。</td></tr><tr><td>关机</td><td>按住 ▶ 键3秒以上,屏幕显示“正在关机中”,当开始/电源指示灯熄灭后,打印机关机。⚠ 注意:关机是强制性动作,不要在打印状态下进行,以免造成卡纸。</td></tr><tr><td>休眠唤醒</td><td>短按 ▶ 键,或点击操作面板上任意按键。</td></tr><tr><td>蓝牙配网</td><td>请参考 &gt;&gt; 更多操作中的查看蓝牙配网。</td></tr><tr><td>重置网络</td><td>请参考 &gt;&gt; 更多操作中的重置网络。</td></tr><tr><td>取消当前任务</td><td>点击 ▶ 键。</td></tr><tr><td>普通复印</td><td>按任意键唤醒打印机,在唤醒打印机状态下,点击“&lt;”键或“&gt;”键,设置复印份数,点击 ▶ 键。</td></tr><tr><td>身份证复印</td><td>按任意键唤醒打印机后,在唤醒打印机状态下,按“≡”键进入菜单,按“&lt;”或“&gt;”键切换菜单,选择身份证复印功能,点击 ▶ 键。</td></tr><tr><td>手动双面打印时打印第二面</td><td>将页面翻转后,点击 ▶ 键打印第二面。</td></tr><tr><td>缺纸后继续打印</td><td>放入纸张,点击 ▶ 键继续打印。</td></tr><tr><td>清除卡纸</td><td>请参考 &gt;&gt; 故障排除中的清除卡纸步骤操作。</td></tr><tr><td>帮助信息页</td><td>请参考 &gt;&gt; 更多操作中的查看打印机基本信息。</td></tr><tr><td>恢复出厂设置</td><td>请参考 &gt;&gt; 更多操作中的恢复出厂设置。</td></tr></table>\n\n灯效指示\n\n�）按键操作说明\n\n<table><tr><td>按键</td><td>状态描述</td></tr><tr><td rowspan=\"3\">返回/取消</td><td>打印机正在工作中,短按可取消任务。</td></tr><tr><td>在菜单界面,短按返回上级界面。</td></tr><tr><td>打开前盖,短按一次可使打印头插槽至更换/维护位置。</td></tr><tr><td rowspan=\"2\">&lt; / +</td><td>短按可设置复印份数,长按可快速以10倍数量增减复印份数。</td></tr><tr><td>在菜单界面,短按可左右切换菜单选择功能。</td></tr><tr><td rowspan=\"2\">确认/菜单</td><td>在主页面短按可进入菜单界面。</td></tr><tr><td>其它界面,短按可确认当前选项。</td></tr><tr><td rowspan=\"2\">开始/电源</td><td>短按开始复印</td></tr><tr><td>关机状态,短按开机;就绪状态,长按3秒关机</td></tr></table>\n\n�）指示灯指示状态说明",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 1,
+    "chunk_id": "联想鲸鱼系列用户手册_1"
+  },
+  {
+    "title": "# 外观-2",
+    "content": "<table><tr><td>指示灯</td><td>状态描述</td><td>打印机状态</td></tr><tr><td>◎</td><td>开始/电源键灯不亮</td><td>关机</td></tr><tr><td>◎</td><td>开始/电源键白灯常亮</td><td>开机</td></tr><tr><td>◎</td><td>开始/电源键白灯0.5秒闪烁</td><td>开机中</td></tr><tr><td>◎</td><td>开始/电源键白灯和红灯每0.5秒交替闪烁</td><td>固件升级</td></tr><tr><td>◎</td><td>开始/电源键白灯3秒闪烁</td><td>休眠模式</td></tr><tr><td>◎</td><td>开始/电源键白灯1秒闪烁</td><td>任务进行中、任务取消打印中/复印中/继续复印/扫描/等待复印身份证的背面、恢复出厂设置</td></tr><tr><td>◎</td><td>开始/电源键红灯常亮</td><td>运行故障(前盖打开、卡纸、缺纸、墨水瓶空等)</td></tr></table>\n\n�）屏幕图标指示说明\n\n<table><tr><td>指示灯</td><td>状态说明</td></tr><tr><td></td><td>蓝牙未连接</td></tr><tr><td></td><td>蓝牙连接成功</td></tr><tr><td></td><td>Wi-Fi 网络未连接或断开连接</td></tr><tr><td></td><td>Wi-Fi 网络连接成功</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 外观",
+    "chunk_index": 2,
+    "chunk_id": "联想鲸鱼系列用户手册_2"
+  },
+  {
+    "title": "# 规格参数-1",
+    "content": "# 规格参数\n\n�）常规功能规格\n\n<table><tr><td>内容</td><td>规格参数</td></tr><tr><td>配置</td><td>台式</td></tr><tr><td>使用扫描仪玻璃板扫描的最大尺寸</td><td>216×297 (mm)</td></tr><tr><td>打印的最大纸张尺寸</td><td>210×297 (mm)</td></tr><tr><td>纸张尺寸</td><td>A4、A5、B5 (JIS)、5寸/3R、6寸/4R、7寸/5R、增值税发票专用信封、信封C5、信封DL</td></tr><tr><td rowspan=\"2\">自定义纸张尺寸</td><td>宽度:89-210 (mm)</td></tr><tr><td>长度:127-297 (mm)</td></tr><tr><td rowspan=\"4\">纸张类型</td><td>普通纸(65-100g/m2)</td></tr><tr><td>相片纸(180-300g/m2)</td></tr><tr><td>喷墨纸(108-230g/m2)</td></tr><tr><td>信封(80-120g/m2)</td></tr><tr><td>纸张输入容量</td><td>100张(80g/m2)</td></tr><tr><td>内存</td><td>256MB</td></tr><tr><td>电源要求</td><td>AC 220~240V、5A/6A、50/60Hz</td></tr><tr><td rowspan=\"6\">功耗</td><td>操作模式功率Pom (W):3.9</td></tr><tr><td>待机功率(W):0.5</td></tr><tr><td>预设延迟时间td (min):5</td></tr><tr><td>附加功能功率因子之和(W):3.3</td></tr><tr><td>能效等级:1级</td></tr><tr><td>依据国家标准:GB21521-2014</td></tr><tr><td>机器尺寸(宽度×深度×高度)</td><td>560×380×260 (mm)</td></tr><tr><td>重量(机身、打印头/墨水瓶)</td><td>约7.3kg或更少</td></tr></table>\n\n�）打印功能规格\n\n<table><tr><td>内容</td><td>规格参数</td></tr><tr><td>草稿模式打印速度</td><td>黑白每分钟15页,彩色每分钟10页(A4短边进纸)</td></tr><tr><td>一般模式多页打印速度</td><td>黑白每分钟8.5页,彩色每分钟4页(A4短边进纸)</td></tr><tr><td rowspan=\"2\">分辨率</td><td>彩色(默认):可达600dpi600dpi</td></tr><tr><td>彩色(最佳模式+画质优化):可达4800dpi1200dpi</td></tr><tr><td rowspan=\"2\">接口</td><td>USB2.0</td></tr><tr><td>IEEE 802.11 b/g/n/ac 频宽:2.4GHz/5GHz</td></tr><tr><td>打印机语言</td><td>GDI</td></tr></table>\n\n�）复印功能规格\n\n<table><tr><td>内容</td><td>规格参数</td></tr><tr><td>复印颜色</td><td>彩色、黑白</td></tr><tr><td>一般复印功能</td><td>支持,单次复印份数最高为99份</td></tr><tr><td>最大复印尺寸</td><td>A4</td></tr><tr><td>身份证复印</td><td>支持黑白身份证复印(支持身份证360°纠偏复印),默认自动纠偏,份数:最高1份;</td></tr><tr><td>复印方式</td><td>支持在打印机本体、移动端智享家App、PC端Lenovo Page进行复印</td></tr></table>\n\n�）扫描功能规格",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 规格参数",
+    "chunk_index": 3,
+    "chunk_id": "联想鲸鱼系列用户手册_3"
+  },
+  {
+    "title": "# 规格参数-2",
+    "content": "<table><tr><td>内容</td><td>规格参数</td></tr><tr><td>扫描类型</td><td>平板</td></tr><tr><td>色彩模式</td><td>彩色、黑白</td></tr><tr><td>物理分辨率(最大支持)</td><td>1200×1200 (dpi)</td></tr><tr><td>最大分辨率(插值)</td><td>1200×1200 (dpi)</td></tr><tr><td>色彩位数</td><td>可达24位色深</td></tr><tr><td rowspan=\"2\">最大原稿扫描尺寸</td><td>A4 (210×297mm)</td></tr><tr><td>Letter (215.9×279.4mm)</td></tr></table>\n\n�）纸张尺寸规格\n\n<table><tr><td>纸张类型</td><td>纸张克重</td><td>进纸容量</td><td>纸张尺寸</td><td>具体尺寸</td></tr><tr><td rowspan=\"3\">普通纸</td><td rowspan=\"3\">65~100g/m2</td><td rowspan=\"3\">100页</td><td>A4</td><td>210x297mm</td></tr><tr><td>A5</td><td>148x210mm</td></tr><tr><td>B5 (JIS)</td><td>182x257mm</td></tr><tr><td>喷墨纸</td><td>108~230g/m2</td><td>20页</td><td>A4</td><td>210x297mm</td></tr><tr><td rowspan=\"4\">相片纸</td><td rowspan=\"4\">180~300g/m2</td><td rowspan=\"4\">20页</td><td>A4</td><td>210x297mm</td></tr><tr><td>5寸/3R</td><td>89x127mm</td></tr><tr><td>6寸/4R</td><td>102x152mm</td></tr><tr><td>7寸/5R</td><td>127x178mm</td></tr><tr><td rowspan=\"3\">信封*</td><td rowspan=\"3\">80~120g/m2</td><td rowspan=\"3\">10页</td><td>信封C5</td><td>162x229mm</td></tr><tr><td>信封DL</td><td>110x220mm</td></tr><tr><td>增值税发票专用信封</td><td>160x250mm</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 规格参数",
+    "chunk_index": 4,
+    "chunk_id": "联想鲸鱼系列用户手册_4"
+  },
+  {
+    "title": "# �）从包装箱中取出打印机和所有配件，并清点齐全。",
+    "content": "# 首次安装打印机\n\n# �）从包装箱中取出打印机和所有配件，并清点齐全。\n\n随机物品(拆除包装后):   \n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/69a212b520e82d1b0315828425180d7c00b50c5b712822e6ad00d3b0b470c7db.jpg)  \n黑色打印头\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b4f7ef5a7a7ae1c1de23764d9b93d181df4dd47fccb57b51c7e8530541cc8f01.jpg)  \n彩色打印头\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/bb0220b63056e00d655460a7299be266cec11a7e62ed90269d3da515ad673f8f.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8e31f0471407cfc9095acfbf35461dc8c3b184ef1c5b8c28e65917a8f5ed5fb6.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/fffd550b148260730c5fddde170c3a12bdcd7597cf734289f2ffed7abb5a9389.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/9f59e00fde93b92d20af693570bee23b88110cfca977aa198fe1cab363156a36.jpg)  \n墨水瓶(黑色/黄色/品红色/青色)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/69b6ce58ce8ad475fe2864c187b066f0a6604d968effcb5c1bd8c8aa4981b7c6.jpg)  \n电源线\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/a80e21c840b8d28f77ee91bcb7d7fba5f7a1919afa311320844ac5dd3197c42f.jpg)  \nUSB数据线\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/73768022b4bb4432c3d7acb82deb9efd23c95c7979711e8abc2ffa1637353224.jpg)  \n快速安装指南、保修卡\n\n注意：打印头、墨水瓶拆封后，除质量问题外，不可无理由退换。如果任何部件缺失或损坏，请致电售后服务热线咨询。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 5,
+    "chunk_id": "联想鲸鱼系列用户手册_5"
+  },
+  {
+    "title": "# �）安装打印头",
+    "content": "# �）移除胶带\n\n移除所有包装材料和胶带；从两侧扣手位处，向前打开前盖，移除打印机内部的保护泡棉。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/cd5a68094beb6cd1fdbaa0d8d9da6734513818ba4d258ce7715248f89856bae3.jpg)\n\nQ 注意：出纸托盘处胶带，需要打开前盖取出保护泡棉后移除。\n\n# �）安装打印头\n\n在打印机内部找到打印头插槽，确认蓝色上盖已打开;若未打开，请向上适当用力打开，听到“咔哒”声，上盖打开。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/7706b5e34c1d75f449cbf90f6f0e484ac975420245ba75ffa1a9dde860493d0b.jpg)\n\n③ 沿左侧打印头插槽轨道,将黑色打印头水平向里推到底，,直至推不动,确保打印头安装到位。沿右侧打印头插槽轨道,将彩色打印头水平向里推到底,直至推不动，确保打印头安装到位。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/5efee2cc18ac802ec315f747cca4784d3ff288ff7e66d5538726ee0d6f102cc5.jpg)  \n左侧打印头插槽\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/886e6c329f575af422d76a59d982c4d1eee998f9c088223f3d80376ce219f844.jpg)  \n右侧打印头插槽\n\n手握打印头两侧，移除上面的密封塞与胶带。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/aca79c210c6e3f973de26db8e101ab6f7115d7fd4a3684621a916ffa9d267305.jpg)  \n黑色打印头\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/0f54cbb963271c2082483546278f81e47eba4639782380f68101085f5081e6f4.jpg)  \n彩色打印头\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/ea1fa0aad7a1592f72d0df432264f2e27365c67512e9e9b9777e81c4f88a9529.jpg)  \n0 请勿触摸打印头芯片部位和底部喷孔部位\n\n④ 向下适当用力关闭蓝色上盖,听到\"咔哒\"声，表示蓝色上盖已关闭到位。若关闭不到位，打印机会显示“请检查打印头插槽上盖是否盖好，按返回键”。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8917542325d3fedeec997a2f9a12df77257c4f259cd5645efd677358e1b5114f.jpg)\n\n0 完成安装后，除必要情况外，请勿打开蓝色打印头插槽上盖，以免造成打印机故障。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 6,
+    "chunk_id": "联想鲸鱼系列用户手册_6"
+  },
+  {
+    "title": "# �）安装墨水瓶",
+    "content": "# �）安装墨水瓶\n\n移除四个墨水瓶封口膜。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/4d3218a15cf37550f58288c14bcaa992ecd0af70cd044e9aed2d12b34eb22902.jpg)\n\n向里轻推关闭墨水匣，再关闭前盖。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/4932d39271dd0b8bbcd5db05c5546445091578ebdcc7c5873256dfdc514e8d49.jpg)\n\n0 请注意墨水瓶不能装错，否则会引起打印机故障。\n\n打开墨水匣，墨水瓶口朝下，按照下图顺序将墨水瓶完全插入墨水匣中。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2dd2ec1bf9a3b5d8e090549140a437a8365aa6450885d880909414b90b24151b.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 7,
+    "chunk_id": "联想鲸鱼系列用户手册_7"
+  },
+  {
+    "title": "# �）连接电源与校准打印头",
+    "content": "# �）装入纸张\n\n完全打开进纸托盘、出纸托盘及延长托盘。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/e86871b56534aa039d5eec9a354555b286e731da562dc5610bfbd6632015a2e4.jpg)\n\n0 在使用时，若不打开出纸延长托盘，打印完成后纸张容易掉落。  \n翻开进纸防尘盖，确认蓝色纸张宽度调节器在两侧，放 入纸张，调节纸张宽度调节器，夹紧纸张。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d52e25d1d630e1ebef8d4ca62ef96be852dccf8cc0d48e108f5cfb92a924fdee.jpg)\n\n# �）连接电源与校准打印头\n\n！注意：在打印机首次使用前，为了获得更好的打印效果及体验,请您务必先完成打印头校准。校准必须使用未打印过的普通A4纸。  \n连接电源线，打印机自动开机。根据屏幕提示打印校准页，请稍等片刻。  \n② 打开扫描盖板，将校准页标题朝左，内容面朝下，对齐扫描区左上角箭头处放置,合上盖板。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/163c295f7646575f0cb361d349f0d8f416a2423917d97229fea147c0d2dc6662.jpg)\n\n充分展开堆叠的纸张，避免纸张粘连。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/92483ca7bf7efb5a89b9bd864ff571857cdbbe072d1d31acba22415d4d46cb89.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/761445cbc4062dbb282c5ec0d05d541ac2391a8d3a6c382875f129a23f725ca6.jpg)\n\n按 键 ，屏幕显示正在校准，打印机开始扫描校准页并进行自动校准，耗时约�分钟。屏幕显示“校准已完成，可以开始使用”，表示校准成功。将校准页从扫描台取出后可正常使用打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d41dac99c74326b30a8266eb39e133f24d66c7fe83c09ffeb40062d9982f15e9.jpg)\n\n如果在步骤3屏幕中显示“校准失败”,此时按键重新打印校准页。校准页打出后，重复�、�步骤。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 8,
+    "chunk_id": "联想鲸鱼系列用户手册_8"
+  },
+  {
+    "title": "# 给打印机配置网络（移动端智享家App/电脑端App【LenovoPage】）",
+    "content": "# 给打印机配置网络（移动端智享家App/电脑端App【LenovoPage】）\n\n打印机的程序及软件配置\n\n<table><tr><td>程序&amp;软件</td><td>内容</td></tr><tr><td>手机端(Android/iOS)</td><td>移动端智享家App</td></tr><tr><td>电脑端(Windows)</td><td>Lenovo Page</td></tr><tr><td>驱动程序</td><td>Windows</td></tr><tr><td rowspan=\"3\">在安装打印机驱动程序前确认</td><td>您的计算机上至少应有2GB内存。</td></tr><tr><td>您的计算机硬盘至少有200MB的空余空间。</td></tr><tr><td>您的计算机上已安装了Windows系统。</td></tr><tr><td>提示</td><td>打印机支持2.4G和5G Wi-Fi。</td></tr><tr><td rowspan=\"2\">安装建议</td><td>1.先安装手机App【移动端智享家】,完成打印机的配网与绑定。</td></tr><tr><td>2.电脑端安装时,选择与手机配网时使用的同名网络。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 9,
+    "chunk_id": "联想鲸鱼系列用户手册_9"
+  },
+  {
+    "title": "# 移动端智享家App",
+    "content": "# 移动端智享家App\n\n�）请保持手机连接Wi-Fi，并开启蓝牙。  \n�）扫描下方二维码安装最新版本移动端智享家App。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/c301fb469c8c97abef0568b72a34706b742e22a5517a75080e06bad7467a02de.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/3c21ae7f8aed580c0da87a3046c2f601f6437cd979d2c374d139541d23c9c607.jpg)\n\n�）打开移动端智享家App，登录联想账号，点击“+”号，选择添加设备。\n\n�）待App扫描到打印机后，点击设备卡片进行连接；根据界面指引完成打印机配网。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/a63a645139fe22e392f6a3a5a4715dac01932aaf441caf689f7c451b1588a8cc.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/61888b665036ddfda290fd09adb614906542c20eca2168f2040ba6ed5105794c.jpg)\n\n\\*当未搜索到打印机时，按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”键 进入菜单，按“ ”或“ ”键 切换菜单，找到重置网络，再按“ ”键，根据屏幕提示，确认重置网络，屏幕显示蓝牙图标代表已重置网络并进 入待配网状态。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 10,
+    "chunk_id": "联想鲸鱼系列用户手册_10"
+  },
+  {
+    "title": "# �）Windows系统安装打印驱动程序",
+    "content": "# 电脑端App【Lenovo Page】\n\n# �）Windows系统安装打印驱动程序\n\n下列示意图 以Windows ��系统为例,实际步骤取决于您所使用的操作系统。\n\n➀电脑连接路由器Wi-Fi或有线网络。如打印机已完成配网，请选择配网时使用的同名网络。  \n➁使用随附的USB线连接电脑和打印机，电脑端弹出驱动下载界面。  \n➂点击对应电脑系统的驱动链接，下载打印机驱动，解压后进行安装;\n\n或登录官网：https://www.lenovoimage.com，根据打印机型号下载打印机驱动，解压后进行安装。\n\n如果你使用的是较旧版本的windows 系统，安装时可能会出现windows 安全提示，请点击“始终安装此驱动程序软件”。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/ad5940d5ec5d4898d938859bcb7f3ef57fdcd5cda7b49116758aacd07981da62.jpg)\n\n➃根据界面指引安装驱动，点击【下一步】继续安装。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/28a7244f8e8f0572d8cf04240c603496a436f4e1833d9c1d492f9d136143978e.jpg)\n\n➄勾选“我接受许可证协议中的条款”，点击【下一步】继续安装。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d600605566a360d5eaa329864c9ddc96b10e56a2f3f16cef72668766f9b892d9.jpg)\n\n⑥点击【浏览】选择所需安装目录，点击【安装】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/db955128dbc380dacdfb3671fdcf37f5dd9bf545c6691c01ba25f07b77517989.jpg)\n\n⑦程序自动安装，请耐心等待。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/4959ddace09261431d35464a6072c043e2cdb496f6a65cc7a672e43b60283de4.jpg)\n\n➇打印机驱动程序安装完成，勾选【运行Lenovo Page】，点击【完成】运行驱动程序。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8f314b7a0b1c50ea93801058e63f0e217bba40e420d1d75494c369cc47ccdc1e.jpg)\n\n➈点击【开始添加】添加打印机，并确认打印机连接状态。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/3077fa0fb28c534ae1a0a7619285280f0a0143070c93f164858766a1d8bb8b1b.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 11,
+    "chunk_id": "联想鲸鱼系列用户手册_11"
+  },
+  {
+    "title": "# Wi-Fi打印机添加方法:",
+    "content": "# Wi-Fi打印机添加方法:\n\n➉根据界面指引，按照需求添加Wi-Fi打印机。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/de8bf6727eedd4230a8523c2721daa7e9914c24d7da0a2321abf0a0b66f4ef77.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/4ef7b8f6c3f6daf7c225bcd58df937a4f03cdd8bcae8abdc650c2ab74d739214.jpg)\n\n⑪设备添加成功后，点击【开始使用】，完成设置。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d583c8ee9277299398b561ee1187ba1bb1de9ae9f35589ac8b0ec1d4becfbb18.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 12,
+    "chunk_id": "联想鲸鱼系列用户手册_12"
+  },
+  {
+    "title": "# USB打印机添加方法：",
+    "content": "# USB打印机添加方法：\n\n⑫根据界面指引，按照需求添加打印机或配置打印机Wi-Fi。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8b322efe114b8a7bb4cdf81a3006d40eb417f733421005addbce5e1121847e4b.jpg)\n\n⑬点击【取消】，仅添加USB设备至设备列表。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/7411b3da348842878809430293d8f6bbc26e849f8a77bc8d057c48287ab9be62.jpg)\n\n⑭点击【开始连接】，配置打印机Wi-Fi。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/37e8a59262d776b3c22654d3ce3d2e889e887e871f04a3d737090530fc3403e7.jpg)\n\n⑮选择可用Wi-Fi并配置，点击【设置并添加】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/0995eac1e7dcb3595ea2c322ad5429eaf2fcda60c3143e49d090b186344c3a67.jpg)\n\n①点击【开始使用】完成设置，在首页设备列表会有添加成功的设备显示。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/c3e68b6d67ed6912c3f3c2585fa9900888f38e32a96fb16ef51ca6bb73c3a86f.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 13,
+    "chunk_id": "联想鲸鱼系列用户手册_13"
+  },
+  {
+    "title": "# 打印手机中的文件",
+    "content": "# 更多设备连接\n\n# 更多设备连接\n\n# 配网后，通过智享家App分享设备\n\n打开管理员手机（为打印机配网的设备）中的智享家App，点击“我的”>>“设备分享”下选择要分享的打印机设备，按照界面指引完成操作。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/27a4a6d04ac35c7a0283f05d3d980a1a1150efbba5cde1c709db17a22e898581.jpg)\n\n# 打印\n\n打印\n\n# 打印手机中的文件\n\n打印机支持多种方式打印手机中的文件，您可以根据您的使用场景，任选一种方式完成打印。\n\n<table><tr><td>设备</td><td>方式</td><td>适用场景</td></tr><tr><td rowspan=\"5\">手机</td><td rowspan=\"2\">通过智享家App打印</td><td>支持Android/iOS手机。</td></tr><tr><td>此方式支持远程打印手机中的文件。</td></tr><tr><td rowspan=\"2\">局域网打印</td><td>支持Android/iOS手机。</td></tr><tr><td>打印机通过电脑配网,手机与打印机连接同一个路由器Wi-Fi时,可使用此方式打印手机文件。</td></tr><tr><td>远程打印</td><td>支持Android/iOS手机。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 14,
+    "chunk_id": "联想鲸鱼系列用户手册_14"
+  },
+  {
+    "title": "# �）通过智享家App打印",
+    "content": "# �）通过智享家App打印\n\n\\*注意：打印机不同插件版本，打印参数可能略有不同，请以实际界面为准\n\n➀手机通过智享家App连接了打印机后，打开App，在首页点击打印机卡片。\n\n➁文档打印：在首页点击文档打印，点击不同路径卡片选择需打印文档。在文档打印预览界面，按界面提示设置好相关参数后，点击开始打印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b24c7a582ef72fd5c72b6334e496a2fcbcda8940aaa1ba9c6acb6de8c25f1a86.jpg)\n\n※打印文档相关参数如下：\n\n打印份数：默认打印1份,按\"+/-”符号可以增减份数。\n\n纸张尺寸： A�纸，文档打印支持尺寸为:A�、A�、B�(JIS)，请根据纸盒中的纸张尺寸进行选择。\n\n纸张类型：普通纸、相片纸、喷墨纸。\n\n打印范围： 默认为全部，通过此选项可选择需要打印的范围，请根据需要选择打印。\n\n打印质量： 高、中、低。\n\n打印颜色： 彩色、黑白。\n\n③打印图片;在首页点击照片打印,自动跳转至手机图库/相册，选择需打印照片/图片，在照片打印预览界面，按界面提示设置好相关参数后，点击开始打印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/ec46d5c785e371e5ceb57bb80af013e0b7d53f7f2b51bdcbab96f6eff98902bb.jpg)\n\n※打印图片相关参数如下：\n\n打印份数：默认打印�份，按“+/-”符号可以增减份数。\n\n打印份数:默认打印1份,按\"+/-”符号可以增减份数。\n\n纸张尺寸:默认为相片纸,照片打印支持尺寸:A4、5寸/3R、6寸/4R、7寸/5R,请根据纸盒中的纸张尺寸进行选择。\n\n纸张类型：普通纸、相片纸、喷墨纸。\n\n打印范围:默认为全部,通过此选项可选择需要打印的范围，请根据需要选择打印。\n\n打印质量：高、中、低。\n\n打印颜色:彩色、黑白。\n\n打印方向：横向、纵向。\n\n无边框打印:开启、关闭。\n\n④身份证打印;在首页点击身份证打印,根据界面指引选择证件照片上传,在照片打印预览界面,选择另存为即保存A4纸大小,或点击开始打印。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 15,
+    "chunk_id": "联想鲸鱼系列用户手册_15"
+  },
+  {
+    "title": "# 以IOS手机为例：",
+    "content": "# �）局域网打印\n\n手机连接了和打印机相同的路由器W-Fi,可通过局域网打印,快速打印手机中的文件。在手机中打开待打印文件，选择\"分享”或“发送”,选择“打印”,在可用打印机列表中选择局域网中的联想打印机(名称为打印机宣传名，例如CM407-xxxx.CM408-xxxx,按界面设置好打印参数,开始打印。)\n\n\\*注意：不同品牌手机打开打印的方式可能不同，若无法找到打印入口，请咨询手机供应商。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/6227281395046bb88d0a826968987bd9490559f662b179e60e47e036d6f0ee7d.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/9f3471cbaf3d6550f53927279ab651a2c40154f9163ce996bb2605239fb2459d.jpg)\n\n# 以IOS手机为例：\n\n➀ 打印图片：打开图库，点击 > 打印 进入打印预览界面，点击选择打印机，在可用打印机列表中局域网中的联想打印机（例如Lenovo xxxx），设置好打印参数后，点击打印。  \n②打印文档;打开待打印文件，点击·…>用其他应用打开>打印进入打印预览界面,点击选择打印机,在可用打印机列表中局域网中的联想打印机（例如Lenovo xxxx），设置好打印参数后，点击打印。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 16,
+    "chunk_id": "联想鲸鱼系列用户手册_16"
+  },
+  {
+    "title": "# 打印机驱动程序打印",
+    "content": "# �）远程打印\n\n打印机不在身边，也可以通过智享家App，远程打印手机中的文件，快捷方便。通过智享家App远程打印手机文件具体操作方式：\n\n➀打开智享家App，在首页点击打印机卡片。  \n➁点击打印，选择文档打印或图片打印，在打印预览界面，按界面提示设置好相关参数后，点击开始打印。\n\n\\*注意： 远程打印时，复印、扫描选项置灰不可用。\n\n# 打印电脑中的文件\n\n# 打印机驱动程序打印\n\n本章节介绍打印机驱动程序中的设置内容和步骤。\n\n<table><tr><td>打印机驱动程序打印</td><td colspan=\"2\">设置选项</td></tr><tr><td rowspan=\"12\">Windows中使用驱动程序(含通过网络使用打印机)</td><td rowspan=\"6\">一般设置</td><td>打印颜色</td></tr><tr><td>纸张类型</td></tr><tr><td>无边距</td></tr><tr><td>纸张尺寸</td></tr><tr><td>打印质量</td></tr><tr><td>画质优化</td></tr><tr><td rowspan=\"6\">高级设置</td><td>方向</td></tr><tr><td>手动双面打印</td></tr><tr><td>打印页面顺序</td></tr><tr><td>出纸顺序</td></tr><tr><td>每张打印页数</td></tr><tr><td>份数设置</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 17,
+    "chunk_id": "联想鲸鱼系列用户手册_17"
+  },
+  {
+    "title": "# 打印",
+    "content": "# Windows中使用驱动程序\n\n下面的过程说明基于Windows ��操作系统环境中打印的步骤。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d78279cbbf3b3dade3560876e20bcc4af4df917a8812fdf22873f7d54cd1ca72.jpg)\n\n# 注意\n\n打印文件的准确步骤可能随应用程序的不用而有所不同，关于准确的打印步骤，请参照您的应用软件。\n\n通过网络使用打印机时，请先确认您已经安装网络驱动程序。\n\n下面的过程说明基于Windows ��操作系统环境中打印的步骤。\n\n�）打开您需要打印的文件。  \n�）在【文件】菜单中选择打印。  \n�）点击【属性】。属性对话框允许您访问和改变打印机设置。\n\n# 打印\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/36b0214758582abb78016918c72c2fcb59bb40457d0796a845b5ae9a06e265a9.jpg)\n\n�）在图例左侧窗口确认您的当前设置。  \n�）点击属性，按需选择一般设置和高级设置，确定后可以保存。\n\n➀一般设置  \n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/49b18870d7db8dc94aec4cdbcc99b3575c7735f47920e613115bbb59aa793de9.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 18,
+    "chunk_id": "联想鲸鱼系列用户手册_18"
+  },
+  {
+    "title": "# .i 画质优化",
+    "content": "# 打印颜色\n\n默认彩色，可选择黑白和彩色。\n\n选择彩色模式，打印机会使用黑色和彩色墨水进行全彩打印。\n\n选择黑白模式，打印机仅使用黑色墨水进行黑白打印。\n\n# 纸张类型\n\n默认普通纸，可选择普通纸、相片纸、喷墨纸。\n\n# 无边距\n\n默认有边距打印，仅纸张类型选择相片纸时，方可选择切换无边距。\n\n# 纸张尺寸\n\n可选择 A�、A�、信封 DL、信封 C�、增值税发票专用信封、B�、�x� 英寸、�x� 英寸、�x� 英寸。\n\n自定义纸张，可自己设置纸张名称和大小，包含名称、宽度、长度和单位。\n\n自定义尺寸范围：宽度（W）=[��.�-���.�]mm，长度（H）=[���.�-���.�]mm。\n\n自定义单位：毫米。\n\n# 打印质量\n\n打印质量按照打印分辨率（每英寸点数(DPI)）进行测量。较高的 DPI 会生成更清晰且更精细的印品，但也会降低打印速度，并且可能会使用更多墨水。可选择最佳、一般、草稿。\n\n草稿：通常在墨水量不足或不需要高品质印品时使用的最低 DPI。\n\n一般：适合大多数打印作业。\n\n最佳：比一般分辨率更高的 DPI。适合照片打印。\n\n# .i 画质优化\n\n勾选画质优化可提升打印质量。适用于以下两种场景：\n\nA.选择纸张类型“普通纸”，打印质量：“一般”，画质优化功能可选“关闭”和“开启”。\n\nB.选择纸张类型“相片纸”，打印质量：“最佳”，画质优化功能可选“关闭”和“开启”。\n\n➁高级设置\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/c71fda42dfceca3531875dd9ade1c2fba47c2e51b69ebd2c52f74e357c875157.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 19,
+    "chunk_id": "联想鲸鱼系列用户手册_19"
+  },
+  {
+    "title": "# 方向",
+    "content": "# 方向\n\n用于改变页面方向。可选择纵向、横向。\n\n纵向：进行垂直打印，\n\n横向：进行水平打印。\n\n. 手动双面打印\n\n纸张的一面打印完成后进行手动翻转，以实现纸张的双面打印。通过选择<双面打印>，可使用双面打印功能。可选择无，长边翻转和短边翻转。\n\n长边翻转： 如果希望对纸张进行双面打印时沿纸张的长边进行翻转，则选择此选项。\n\n短边翻转：如果希望对纸张进行双面打印时沿纸张的短边进行翻转,则选择此选项。\n\n打印页面顺序\n\n可以选择从最后一页开始打印或从第一页开始打印。\n\n从最后一页开始打印：输出的页序为 �，�，�……。\n\n从第一页开始打印：输出的页序为 �，�，�……。\n\n. 出纸顺序\n\n逐份打印：文档输出效果为 �,�,�，�,�,�，�,�,�……；\n\n逐页打印：文档输出效果为 �,�,�，�,�,�，�,�,�……。\n\n. 每张打印页数\n\n每张打印页数为1:文书输出效果为\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8d78d8ebe7a7d94c3014a9eb040593476c4d0cb1c84082061e59cc7f2d3e147c.jpg)\n\n每张打印页数为�：文书输出效果为\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/ece92192ea4259c921038e21d79cb5728e668e3e785585a9dfa6e1b8c189e36f.jpg)\n\n每张打印页数为4:文书输出效果为\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/0777920512e55d0f821645b5d880c4b90d6ef13dbe588387a7b5503c921f4b0f.jpg)\n\n每张打印页数为9:文书输出效果为\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/6cc205c828a93b1a78903ead1503c43b172f6bc8c0a96956fd142fa9dbd50b20.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 20,
+    "chunk_id": "联想鲸鱼系列用户手册_20"
+  },
+  {
+    "title": "# 取消打印",
+    "content": "# 取消打印\n\n如果您需要取消打印作业，根据打印状态不同操作不同。\n\n打印开始前取消打印作业\n\n�）在计算机任务栏上双击打印机图标，出现任务框。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/be788cbccc2462482387eb24a85f2c10baf8697583cb497621baa723b504b64e.jpg)\n\n�）选中【打印任务】，之后点击右键，然后单击【取消】。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/3f2ebf1a57e43188c8c5db86fbb4695b88f8f195e211cb85954fb7693fd41e33.jpg)\n\n3)点击【是】,打印任务取消。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/76c99409ff75af222d33d8da20a53003a7bce96eeacfb3cab6b6a86d5f4e5534.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 21,
+    "chunk_id": "联想鲸鱼系列用户手册_21"
+  },
+  {
+    "title": "# 普通复印",
+    "content": "# 打印进行中取消打印作业\n\n�) 点击面板上的“ ”返回/取消键可以取消正在进行的打印作业  \n�) 操作面板上 “ ” 开始/电源键白灯�秒闪烁，屏幕显示“正在取消”\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/c5074b05a67eb1daf48416d6c98d52bc9b7bbdb9736af84003782ba8b55a6165.jpg)\n\n注意\n\n如果取消的打印作业已经在处理中，则会继续打印几页后才会取消。\n\n取消多页打印作业可能需要一段时间。\n\n# 复印\n\n复印\n\n# 机身按键复印\n\n# 普通复印\n\n�）将您要复印的文件或证件放置于扫描仪玻璃板上，需要复印的面朝下。  \n�）就绪状态下，根据复印需求在操作面板屏幕中设置相应的参数，如份数、颜色、质量、复印尺寸等。\n\n※复印相关参数如下：\n\n份数：默认�份，可选择�\\~��份。\n\n颜色：默认彩色，可选择黑白、彩色。\n\n质量：默认标准质量，可选择标准质量、最佳质量。\n\n复印尺寸：默认A�，有A�、A�、B�JIS三种尺寸可选。\n\n�）设置就绪后，按操作面板上的 “ ” 开始/电源键，进行复印。  \n�）操作面板上“ ” 开始/电源键白灯闪烁，屏幕显示“正在复印”，打印机状态为复印中/连续复印中。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8f308599e6527305473bb3db2779f12ff88563745342821c5bf0959afa749625.jpg)\n\n注意\n\n如果打印机处于休眠状态，操作面板上 “ ” 开始/电源键灯不亮，按任意键唤醒打印机，之后使用打印机进行复印任务。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 22,
+    "chunk_id": "联想鲸鱼系列用户手册_22"
+  },
+  {
+    "title": "# 身份证复印",
+    "content": "# 身份证复印\n\n您可以通过使用打印机上按键将身份证的两面复印到纸张的一面上。\n\n�）将身份证放置于扫描仪玻璃板上复印最佳区域内。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2e42d806be11b2d5f1ab85129d2c0b6f277e40ac88a790b780d986d494d63b9d.jpg)\n\n2)根据身份证复印需求在操作面板上选择要复印的份数。\n\n※身份证复印相关参数如下：\n\n份数：默认�份，最高可选择�份。\n\n颜色：默认黑白身份证复印。\n\n质量：默认标准质量。\n\n复印尺寸：默认A�出纸纸张尺寸。\n\n3)在操作面板上的屏幕选择身份证复印功能,按确认/菜单键,进入身份证复印模式。  \n�）进入身份证复印模式后，屏幕显示“扫描正面请按 ”，此时为等待扫描证件第一面。  \n�）请将证件放置在扫描仪玻璃板复印区域内点击操作面板上 “ ” 开始/电源键，开始扫描证件的第一面。  \n�）操作面板上屏幕显示“正在扫描正面”，此时为开始扫描证件的第一面。  \n�）操作面板上屏幕显示“扫描反面请按 ”，此时为等待扫描证件第二面。  \n�）请将证件翻面，放置位置仍保持放置在扫描仪玻璃板复印区域内，按操作面板上的 “ ” 开始/电源键一下，屏幕显示“正在扫描反面”,进入第二面扫描模式。  \n�）打印机会自动打印出您要复印的证件，证件的正反面在同一张纸的一面上。\n\n<table><tr><td rowspan=\"2\">注意</td><td>在复印过程中您也可以按操作面板 返回/取消键退出身份证复印功能。</td></tr><tr><td>如果身份证复印失败,请尝试确认及操作:1.确认玻璃板是否擦拭干净;2.扫描盖板是否有漏光。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 23,
+    "chunk_id": "联想鲸鱼系列用户手册_23"
+  },
+  {
+    "title": "# 普通复印",
+    "content": "# 移动端智享家App复印\n\n# 普通复印\n\n手机与打印机连接后，您可以通过手机中的移动端智享家App，进行单面复印。\n\n�）打开扫描盖板，将原稿正面朝下，按左后角对齐原则，放入扫描区并盖上盖板。  \n�）在移动端智享家App中打开打印机设备页面，点击复印。在复印参数设置界面，设置好复印参数后，点击开始复印。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/52d669925fefa9fdd6f02a796da65d4d51f3bee9668adda4ffc0256c7fee60b0.jpg)\n\n※复印相关参数如下：\n\n复印份数:默认复印1份,按后面的“+/-”符号可以增减份数。\n\n纸张尺寸：默认为A�，有A�、A�、B�JIS请根据纸盒中纸张的实际尺寸进行选择。\n\n复印质量:默认为标准,您可以设置为标准、最佳。\n\n复印颜色：默认为彩色，您可以设置为黑白、彩色。\n\n纸张类型:默认为普通纸。\n\n# 电脑端【Lenovo Page】软件复印\n\n# 普通复印\n\n点击【复印】并设置好复印参数后，点击【开始复印】按钮即可。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b2e198159293446a165681cd296387df5292b5a4a2643f2cb591a918823862b8.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/f618358e0118934eae1e66681fa058f9308b5a89da991a8a0855c2523bc30a8f.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 24,
+    "chunk_id": "联想鲸鱼系列用户手册_24"
+  },
+  {
+    "title": "# 取消复印",
+    "content": "# 身份证复印\n\n如果需要将身份证正反面复印到同一张A4纸上，可按照以下步骤进行操作：点击【身份证复印】并设置好复印参数后，点击【开始复印】按钮即可。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/f57c8f02f2416924a7aadf7f85d0fa757b8a450514a3fd3a3081bba80944658e.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/91a7bd9466ebd13e3b0e635f0adc70c3be9c49fdbe3851b8cc9c43ad4c39f430.jpg)\n\n# 取消复印\n\n�)点击面板上的“ ”返回/取消键可以取消正在进行的复印作业  \n�)操作面板上 “ ” 开始/电源键白灯�秒闪烁，屏幕显示“正在取消”。\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果机器正在扫描原稿时取消复印,则复印会立即取消且没有打印输出复件。</td></tr><tr><td>如果在打印过程中取消复印,则系统将在打印输出当前页面之后取消复印过程。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 25,
+    "chunk_id": "联想鲸鱼系列用户手册_25"
+  },
+  {
+    "title": "# 移动端智享家App扫描",
+    "content": "# 扫描\n\n扫描\n\n# 将原稿扫描至手机中\n\n# 移动端智享家App扫描\n\n手机与打印机连接后，您可以通过手机中的智享家App，将原稿扫描至手机中。\n\n<table><tr><td>注意</td><td>手机需连接和打印机相同的路由器Wi-Fi。</td></tr></table>\n\n�）打开扫描盖板，将原文稿正面朝下，按左后角对齐原则，放入扫描区并盖上盖板。  \n�）打开智享家App，在首页点击打印机卡片。  \n�）点击扫描，设置好扫描参数后，点击开始扫描。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b4c1cb2c56e3da4bf0e05146b937e10e9fc36abfa2f154ae08236e4e9f483fac.jpg)\n\n扫描相关参数如下(打印机不同插件版本，扫描参数可能略有不同，请以实际界面为准)：\n\n扫描颜色：默认为彩色，您可以设置为彩色 、黑白 。\n\n扫描质量：\n\n最佳：扫描分辨率为1200dpi。当待扫描原稿内容较多时，建议选择此选项,但此选项扫描时间较长。\n\n标准：扫描分辨率为600dpi。扫描后的文件质量较好。\n\n原稿尺寸:默认为A4,不支持修改尺寸。\n\n4)待出现扫描图片时，表示扫描完成。扫描的文件将以JPG格式自动保存在手机中。打开手机图库，可以查看扫描后的单个JPG文件。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8d4b826c5dbf6bee03d6cab0900bbdb9a7e2291194be191021e017b036781eb3.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 26,
+    "chunk_id": "联想鲸鱼系列用户手册_26"
+  },
+  {
+    "title": "# 电脑端【Lenovo Page】软件扫描",
+    "content": "# 将原稿扫描至电脑（Windows）中\n\n# 电脑端【Lenovo Page】软件扫描\n\n将需要扫描的物件放入打印机的扫描区域,按照以下流程进行操作：\n\n�）点击【扫描】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/277cc35ab20e70f82fa841f06c8061517b1f75931a2584226ab4374128c2c25c.jpg)\n\n�）设置扫描参数，将扫描文件保存至指定文件夹，点击【开始扫描】；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2846adad4a8eaeaa047b4a8312dc26bc6238159b2e26b91a553c6dcff65cbd04.jpg)\n\n�） 扫描中请耐心等待；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/43f195e8d82cd9804f64af9fd039d1d735c467e145f3162e0812ff9dbbfb628d.jpg)\n\n�） 扫描结束后，可在扫描结果页面查看结果或编辑扫描结果；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/8308fb0371461a955ac7a2c87476062dcbb403793c5ed9c69e27e336e1256f87.jpg)\n\n�） 长按扫描结果，可拖动排序或勾选多个结果，合并另存为其他格式文件。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/181db99b2fe21fbfb9286b5083008a411b72d70572a6a84ad9d5372a9de2989e.jpg)\n\n�） 可在编辑页面中，编辑图片对比度和亮度，以及裁剪和旋转扫描结果。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/1390629810fcd77bb378f8360f725348e498498e0232732d5bba7dbe643497c1.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 27,
+    "chunk_id": "联想鲸鱼系列用户手册_27"
+  },
+  {
+    "title": "# 查看打印机基本信息（打印帮助信息页）",
+    "content": "# 取消扫描\n\n�)点击面板上的“ ”返回/取消键可以取消正在进行的扫描作业  \n�)操作面板上 “ ” 开始/电源键白灯�秒闪烁，屏幕显示“正在取消”。\n\n# 更多操作\n\n更多操作\n\n# 蓝牙配网\n\n➀请保持手机连接�.�G或�G 无线网络，并开启蓝牙。  \n➁打开智享家App，登录联想账号，点击“+”号，选择添加设备。  \n➂待App扫描到打印机后，点击设备卡片进行连接；根据界面指引完成打印机配网。  \n\\*若未发现打印机或连接打印机失败，请重置网络后再次配置。\n\n# 重置网络\n\n按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”键 进入菜单，按“ ”或“ ”键 切换菜单，找到帮助信息页,再按“目”键，根据屏幕提示,确认重置网络,屏幕显示蓝牙图标代表已重置网络并进入待配网状态。\n\n# 打印帮助信息页操作步骤：\n\n按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”键 进入菜单，按“ ”或“ ”键 切换菜单，找到配置报 告打印，再按“ ”键，屏幕提示正在打印，打印机会自动打印帮助信息页。\n\n# 查看打印机基本信息（打印帮助信息页）\n\n您可以通过打印帮助信息页查看您的打印机的基本信息及参数，比如打印机设备信息、设备使用统计信息、耗材信息、网络信息、错误记录、连接指导、按键操作说明等等。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 28,
+    "chunk_id": "联想鲸鱼系列用户手册_28"
+  },
+  {
+    "title": "# 电脑端【Lenovo Page】固件升级",
+    "content": "# 恢复出厂设置\n\n按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”键 进入菜单，按 “ ”或“ ”键切换菜单，找到设置，在设置功能中找到恢复出厂设置功能，再按 “ ”键，根据屏幕提示，确认恢复出厂设置，打印机自动重启完成恢复出厂设置。\n\n# 打印机端语言设置\n\n按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”键 进入菜单，按“ ”或“ ”键 切换菜单，找到设置，在设置功能中找到语言设置功能，再按“ ”键，根据屏幕提示，选择“中文/English”。\n\n打印机默认中文语言。选择English，打印机端屏幕显示为English。\n\n# 身份证复印纠偏开关\n\n按任意键唤醒打印机后,在唤醒打印机状态下,按“国”键进入菜单,按“<”或“>”键切换菜单,找到设置，在设置功能中找到身份证复印纠偏功能，再按“ ”键，根据屏幕提示，选择“开启/关闭”。\n\n打印机默认开启身份证复印纠偏,身份证复印时,身份证正反面可随意放置扫描平板区域。\n\n选择关闭,身份证复印时,身份证正反面需放置在扫描平板左上角横向A5区域。\n\n# 打印机固件升级\n\n# 电脑端【Lenovo Page】固件升级\n\n1)在打印机设置-设备信息-固件升级中点击“检查\"按钮判断是否有新固件版本,如有固件更新会弹出提示“发现新版本固件”此时点击“更新”按钮即可执行固件升级。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/48588c74d5254d6fbc09a8e88e5e19a9c79e51e5c56024bcb74636206d6523db.jpg)\n\n�）固件升级过程中请勿断电，请耐心等待�-��分钟（受用户网络环境影响）。\n\n固件正在升级请勿断电\n\n3)固件更新成功,打印机自动重启至待机状态。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/150eb48dfe9b38eb0118aa9749d40472cbb723607100f41d083ebe73e33d1cec.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/679332fb73d9e6364199cb101330b820e82907a562fbd356aef863c9416d7790.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/5e8636376960ed8f55e81ffd37960a98fa0cc14dc08cc1a1c4d7934e4b8ca9e6.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/96bbf5d8183b82487edc6c65ebc4d2791a200af7367cdbcc169f15caaf71eb0e.jpg)\n\n�）固件更新失败，提示“固件升级失败，按 返回主界面”\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/21c2af44aa7267063b6e984b4bbc7481d304a39f0b1ddd78a745f21f11193f4f.jpg)\n\n�）重复步骡�),再次检查固件版本。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 29,
+    "chunk_id": "联想鲸鱼系列用户手册_29"
+  },
+  {
+    "title": "# 文字重影",
+    "content": "# App内的固件升级\n\n设备首页，点击【固件升级】App自动判断是否有新固件版本；如需更新，设备需在通电状态下等待�-��分钟（受用户网络环境影响），升级成功后设备会自动重启。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d3df055a41c517d729f0019bb1057abc27cd804aaf3b83dbce3ea12d4ad52ac7.jpg)\n\n# 机器维护\n\n机器维护\n\n# 保持通电\n\n打印头需要自动定期维护,维护需要电源,请保持打印机通电。\n\n注意：若打印头插槽未回到右侧维护站时，打印机断电，打印头会快速干掉。\n\n# 校准打印头（初次安装打印头）\n\n初次安装打印头需要强制校准，否则不可进入下一流程；\n\n初次校准失败，建议再次打印校准页进行校准，否则可能会影响打印质量\n\n# 校准打印头\n\n当打印内容出现以下情形时，请选择校准打印头，以改善打印质量：·\n\n# 文字、图像重影\n\n# 文字重影\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/887d93989265e154c441f62d04516337359c9a717458d397159cade851b30377.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 30,
+    "chunk_id": "联想鲸鱼系列用户手册_30"
+  },
+  {
+    "title": "# 校准打印头（打印机端）",
+    "content": "# 线条不直\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/6351cb7e365eb8b1bbacdd6eb671db1252181861976a47c88d844b44860b9c59.jpg)  \n注意：校准前请在进纸托盘中装入未使用过的A� 普通纸\n\n# 校准打印头（打印机端）\n\n在进纸托盘中装入未使用过的 A� 普通纸。\n\n按任意键唤醒打印机后,在唤醒打印机状态下,按“目”确认/菜单键进入菜单,按“<”或“>”键切换菜单,找到校准，再按“ ”键，根据屏幕提示“请放入纸张，按 打印校准页”，打印机打印完校准页后，根据校准页界面提示操作。\n\n1、打开扫描盖板,将打印完成的校准页文字面朝下放下玻璃上,盖上盖板。  \n�、按“ ” 开始/电源键开始校准，屏幕显示“正在校准”。  \n�、屏幕显示“校准已完成，可以开始使用”，可以开始使用打印机。\n\n如果屏幕显示“校准失败”按“ ” 开始/电源键重新打印校准页，重复�、�步骤。\n\n注意：按“ ” 开始/电源键可以关闭显示“校准已完成，可以开始使用”。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 31,
+    "chunk_id": "联想鲸鱼系列用户手册_31"
+  },
+  {
+    "title": "# 校准学",
+    "content": "# 校准打印头（Lenovo Page App）\n\n校准打印头 (初次安装打印头)\n\n初次安装打印头需要强制校准，否则不可进入下一流程；\n\n初次校准失败，建议再次打印校准页进行校准，否则可能会影响打印质量\n\n校准打印头\n\n为什么要打印头校准？\n\n通过校准打印头，提升打印质量\n\n# 校准文字\n\n文字校准前\n\n# 校准学\n\n文字校准后\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/fa925733f54f8d82a8d5d69e6fe0454b3346e9c6886ab5f5b840a0b08f11d361.jpg)  \n图片校准前\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d75deaacf0a5d79905f563d067f7776ec26eacf01e91d281708aaffba833d952.jpg)  \n图片校准后\n\n如何校准打印头\n\n打印机开机，在进纸托盘中装入未使用过的 A� 普通纸；\n\n打印机添加至列表后，点击“去校准”按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/ff979af230913a18b41a34518956fe44afd86079d3f329f3b516f6f90994767f.jpg)\n\n�） 确认已放入空白A�普通纸，点击“开始校准”按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/63db72aba35ae6388ecfe9ed34081be4ca05eb164bf5a44228fe7d9fa9d1870c.jpg)\n\n�） 打印校准页完成后，请按照校准页下方步骤完成校准\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/778295202f676bb58f14d681b7905842f8f449e169c425b163288a65e63f75bb.jpg)\n\n3)提示:将校准页放置在扫描台点击开始校准。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 32,
+    "chunk_id": "联想鲸鱼系列用户手册_32"
+  },
+  {
+    "title": "# 校准打印头（智享家App）",
+    "content": "# 校准打印头（智享家App）\n\n按照以下流程进行操作：\n\n�)点击主界面右上角【打印机设置】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/45cd841112d699eaa8e21c2e5c860e888d3bd9619fc232c035b34615c096cccf.jpg)\n\n�)在设置界面点击【打印头自动校准】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/7a8499b13ffa790ceb2e280afcc2626766063bc49458f1fbb59130befb8fe575.jpg)\n\n�)放入空白A�纸后，勾选“我已放入空白A�纸”，点击【开始打印】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2aca060e62b16ce65f8fef4246c773d8eb2655626d8fcc17f41ebcc8b7242f47.jpg)\n\n�)打印校准页完成后，请按照校准页下方步骤完成校准。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/83932160330c1698958328c7c97c062fae32ea814f23476732121e2228dfbd0e.jpg)\n\n�)提示：将校准页放置在扫描台点击 开始校准。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 33,
+    "chunk_id": "联想鲸鱼系列用户手册_33"
+  },
+  {
+    "title": "# 清洁打印头（打印机端）",
+    "content": "# 清洁打印头\n\n当出现以下情形时，请选择清洁打印头，以改善打印质量\n\n缺失某种色彩\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/38808eb04dc60b3a9667b2a87a57ff4401f50fae7730119650f63f45f8099d6a.jpg)\n\n文字颜色深浅不一\n\n文字颜色深浅不一 文字颜色深浅不一\n\n文字颜色深浅不一 文字颜色深浅不一\n\n文字颜色深浅不一 文字颜色深浅不一\n\n图片上有明显的线条\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/5fb945ff7363e3deec2b2a9c2f66ffa7f31eb4c11ac31a69d23d9dcd721829f4.jpg)\n\n注意：清洁前请在进纸托盘中装入未使用过的A4普通纸。\n\n# 清洁打印头（打印机端）\n\n在进纸托盘中装入未使用过的A4普通纸。\n\n按任意键唤醒打印机后，在唤醒打印机状态下，按“ ”开始/菜单键 进入菜单，按“ ”或“ ”键 切换菜单， 找到清洁，再按“ ”键，打印清洁页。\n\n�、如果清洁页下面�种色块图案任意�个出现颜色缺失，或者不完整现象，请继续清洁，直到清洁页里的图案正常为止。  \n2、如果清洁页下面4种线框任意1个颜色出现3条线框以上缺失,请继续清洁,直到清洁页里的图案正常为止。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 34,
+    "chunk_id": "联想鲸鱼系列用户手册_34"
+  },
+  {
+    "title": "# 缺失某种色彩",
+    "content": "# 清洁打印头（Lenovo Page App）\n\n电脑端【Lenovo Page】软件设置\n\n当出现以下情形时，请选择清洁打印头，以改善打印质量\n\n# 缺失某种色彩\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/417e929cda76b47f688d8dffb626399dd0bfcaea15c48221224c7875354e5e56.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/55b619b3bc9c308ec3482cf6776ace7aabce658e98566c7df707e32d5fefc7da.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/f4f762ee829d7fb1811d745c7cfc4f150825c6b722a2672e55a27877e8c036b3.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/16e0e5e963ac5654e12b0a2d01667489f17d7417fd683b0c52ad03827a3afe71.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 35,
+    "chunk_id": "联想鲸鱼系列用户手册_35"
+  },
+  {
+    "title": "# 文字颜色深浅不一",
+    "content": "# 文字颜色深浅不一\n\n文字颜色深浅不一\n\n文字颜色深浅不一\n\n文字颜色深浅不一\n\n文字颜色深浅不一\n\n文字颜色深浅不一\n\n文字颜色深浅不一\n\n# 文字颜色深浅不一\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2cfbce65132f18c1be3e8e3ffafc7324c940435d880d53d8e6a272f511ec8191.jpg)\n\n按照以下流程进行操作：\n\n�） 点击【打印机设置】按钮\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/913d63b5060465409fd2703998030c420a405b659d9e6d8d5f88727b93befeb5.jpg)\n\n�） 设备维护中，点击【清洁】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/712286c39c8626504612633592e92c82b5edb48fcb2771773a2ef02381112bc2.jpg)\n\n3)放入空白A4纸后，点击【开始清洁】按钮;\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/95ed937d051c5d1aa36676f96576cd614a0ad6269c678a176037d52fece99104.jpg)\n\n开始清洁后，打印机将处于工作中，请等待清洁完成后即可使用；",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 36,
+    "chunk_id": "联想鲸鱼系列用户手册_36"
+  },
+  {
+    "title": "# 清洁打印头（智享家App）",
+    "content": "# 清洁打印头（智享家App）\n\n按照以下流程进行操作：\n\n�）点击主界面右上角【打印机设置】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/812c2cdc130e328396099d4b4914e2b0c7d78f88ac8c500f308af7d35b69739d.jpg)\n\n�）在设置界面点击【打印头清洁】按钮；\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/1473b475ae425b66c43f60453ee0ecd46b55c3c6ee06587e3e4bc6c59bfda494.jpg)\n\n�）放入空白A�纸后，勾选“我已放入空白A�纸”，点击【确定】按钮。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/b176f8a45d66f0b6c559538a393f2d0e60fd1e2213e63f2340c5613c2a47be60.jpg)\n\n开始清洁后，打印机将处于工作中，请等待清洁完成后即可使用。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 37,
+    "chunk_id": "联想鲸鱼系列用户手册_37"
+  },
+  {
+    "title": "# �）清洁注意事项",
+    "content": "# 墨水处理注意事项\n\n# 墨水保管注意事项\n\n在标准室温�°C-��°C内存放墨水，并避免阳光直射。\n\n从较冷的存放点取出墨水后，应在使用之前使其在室温下至少暖化�小时。\n\n墨水一旦打开，最好尽快使用\n\n# 补充墨水时的处理注意事项\n\n使用适用于本产品的正确编号的墨水瓶或墨盒。\n\n本产品需要小心处理墨水，补充墨水时墨水可能会溅出，如果墨水溅到您的衣服或其它东西上，可能不能将其去除。\n\n请勿猛力摇晃或挤压墨水瓶或墨盒。\n\n为了获得更加更佳打印效果，请保持墨水量充足。\n\n# 墨水消耗\n\n要让打印头保持较好的性能，不仅在打印时会消耗墨水，在维护（如打印头清洗）时也会消耗墨水。\n\n因打印的图像、打印设置、打印纸张类型、机器使用的频繁程度和温度的不同,墨水在用户实际使用的打印输出页数会有所不同。\n\n# 清洁打印机\n\n为了保持良好的打印质量，在每次更换打印头/墨水瓶或出现打印质量时，执行下面的清洁程序。\n\n# �）清洁注意事项\n\n请定期清洁机器以维持较高的打印质量。\n\n①用软布干擦机身表面。如果干擦不够,请使用完全拧干的柔软湿布擦拭。  \n② 如果仍然不能去除污垢污渍，请使用中性清洁剂，为防止变形、变色或破裂，请勿使用挥发化学物品（例如汽油、稀释剂或喷雾杀虫剂）擦拭机器，用完全拧干的湿布反复擦拭，然后干擦该区域使其干燥。  \n➂　在清洁打印机内部时，不要接触到光栅条下方金属棒。  \n➃　如果机器内部有灰尘或污渍，请用清洁的干布擦拭。  \n③每年必须至少从墙壁插座上拔掉插头一次。清除插头和插座上的所有灰尘和污垢,然后再重新连接。积聚的灰尘和污垢可能导致起火危险。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 38,
+    "chunk_id": "联想鲸鱼系列用户手册_38"
+  },
+  {
+    "title": "# 更换墨水瓶",
+    "content": "# �）清洁打印机外部\n\n用清洁的、干的无绒布清洁打印机的外部。\n\n# �）清洁扫描仪玻璃板\n\n➀抬起扫描仪盖板。  \n➁用软湿布清洁扫描仪玻璃板部件，然后用干布擦拭相同部件，以去除所有剩余的水。\n\n# 清洁打印机光栅条（光栅条脏污）\n\n①在清洁打印机之前,请按“@”开始/电源键3秒以上关闭打印机,并从电源插座上拔下电源线。  \n②使用干净的纸巾/无尘布蘸取适量的酒精/纯净水，轻轻擦拭图示皮带前方的光栅条来回三次，再使用干纸巾/无尘布轻轻擦拭光栅条来回三次。  \n③擦拭时不要接触到光栅条下方金属棒。  \n④ 使用灯光确认光栅条无明显脏污后,关闭前门,插上电源线后开机,观察是否恢复正常。\n\n# 更换墨水瓶\n\n打印机缺墨时,操作面板“”开始/电源键指示灯红色常亮、屏幕显示“XX色墨水已用完,请立即更换墨水瓶”。建议您前往联想官方渠道购买打印机适配的原装墨水瓶，如使用非原装墨水瓶，打印机的打印质量和性能可能达不到原来的设计标准，并无法享受原厂保修服务。\n\n以下示意图以“更换黑色墨水瓶”为例。\n\n➀　打开前盖。  \n➁　打开墨水匣。  \n➂　取出墨水已用完的墨水瓶。  \n➃　移除新的墨水瓶顶部标贴（请勿拧瓶盖）。  \n➄　将新的墨水瓶瓶口朝下，然后将墨水匣关闭。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/99cb8b456365a2a26d05e326ee6459e1f0bc3874190a791752faf68c73646605.jpg)\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/5ab03037a26ce1a6374e2c5fa83ed2f610b7883eca2488fc6f481a67a91e4fee.jpg)",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 39,
+    "chunk_id": "联想鲸鱼系列用户手册_39"
+  },
+  {
+    "title": "# 检查本产品的状态-1",
+    "content": "# 故障排除\n\n故障排除\n\n# 检查本产品的状态\n\n指示灯和本产品的状态\n\n打印机端操作面板上，在出现错误时，出现错误时， “ ” 开始/电源键指示灯红色常亮，屏幕会显示错误信息。\n\n移动端智享家App，在出现错误时，会显示错误的详细信息，请根据详细解决方案操作。\n\n电脑端【Lenovo Page】，在出现错误时，会显示错误的详细信息，请根据详细解决方案操作。\n\n<table><tr><td>错误信息显示</td><td>解决方案</td></tr><tr><td>纸张尺寸不匹配,请按“⊃”返回/取消键后重新操作</td><td>请检查打印任务选择的纸张尺寸与实际放置的是否一致,确认一致后,按“⊃”返回/取消键,清除错误代码。(若要打印信息页,必须用A4普通纸。)</td></tr><tr><td>打印机卡纸,请清除卡纸后按“⊃”返回/取消键后重新操作</td><td>先拉出纸张,根据操作指导将纸张放入正确位置后,按“⊃”返回/取消键清除故障码当前任务自动取消,需重新发起任务。</td></tr><tr><td>放入纸张或重新放置纸张,按开始或电源键继续打印</td><td>取出进纸托盘纸张,拉开蓝色纸张卡板,根据操作指导将纸张放入正确位置后,夹紧蓝色卡板,按开始或电源键清除故障码当前任务自动取消,需重新发起任务。</td></tr><tr><td>前盖已打开</td><td>检查前盖,关闭前盖。</td></tr><tr><td>黑色打印头不匹配,请重新安装打印头</td><td rowspan=\"6\">打开前门,打印头插槽自动回到更换位置,重新安装打印头;若打印头安装正常,打印机自动检测并清除错误;若依旧显示打印头不匹配,请联系客服。</td></tr><tr><td>彩色打印头不匹配,请重新安装打印头</td></tr><tr><td>未检测到黑色打印头,请重新安装打印头</td></tr><tr><td>未检测到彩色打印头,请重新安装打印头</td></tr><tr><td>黑色打印头识别异常,请重新安装打印头</td></tr><tr><td>彩色打印头识别异常,请重新安装打印头</td></tr></table>\n\n故障排除 ",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 40,
+    "chunk_id": "联想鲸鱼系列用户手册_40"
+  },
+  {
+    "title": "# 检查本产品的状态-2",
+    "content": "<table><tr><td>黑色墨水空,请立即更换墨水瓶</td><td rowspan=\"4\">打开前盖检查,更换新的墨水瓶,或者将墨水瓶拔出后重新安装到墨水匣。更换墨水时,请使用原装联想墨水瓶,否则会影响打印质量和打印性能。</td></tr><tr><td>青色墨水空,请立即更换墨水瓶</td></tr><tr><td>黑色墨水空,请立即更换墨水瓶</td></tr><tr><td>品红色墨水空,请立即更换墨水瓶</td></tr><tr><td>打印机已达到设计使用寿命</td><td>请联系客服,用户可以继续打印,但不再提供保修服务。</td></tr><tr><td>故障#6143,重启或联系客服</td><td rowspan=\"5\">取出进纸托盘纸张,拉开蓝色纸张卡板,根据操作指导将纸张放入正确位置后,夹紧蓝色卡板,按开始或电源键清除故障码当前任务自动取消,需重新发起任务。</td></tr><tr><td>故障#6144,重启或联系客服</td></tr><tr><td>故障#6139,重启或联系客服</td></tr><tr><td>故障#6140,重启或联系客服</td></tr><tr><td>故障#6141,重启或联系客服</td></tr><tr><td>打印机卡纸,请清除卡纸后按“ $\\text{☐}$ ”返回/取消键后重新操作</td><td>先拉出纸张,根据操作指导将纸张放入正确位置后,按“ $\\text{☐}$ ”返回/取消键清除故障码当前任务自动取消,需重新发起任务。</td></tr><tr><td>故障#6121,请断电后擦拭光栅条</td><td>将打印机断电后,擦拭光栅条。擦拭光栅条后错误仍未能解决,请联系客服。</td></tr><tr><td>故障#7200,请断电重启</td><td rowspan=\"5\">用户请将打印机断电后重启,若重启后错误仍未能解决,请联系客服。</td></tr><tr><td>故障#7201,请断电重启</td></tr><tr><td>故障#7202,请断电重启</td></tr><tr><td>故障#7203,请断电重启</td></tr><tr><td>故障#7204,请断电重启</td></tr><tr><td>校准失败,按开始或电源键重新打印机校准页</td><td>校准失败,按开始或电源键重新打印机校准页。</td></tr><tr><td>校准失败,请重试</td><td>请按照软件端界面提示继续完成手动校准。</td></tr><tr><td>请在打印机端选择语言(仅移动端显示、打印机端不显示)</td><td>请按照打印机端界面提示选择语言(中文/English)</td></tr><tr><td>请在打印机端完成校准(移动端+PC端都会显示、固件端不显示)</td><td>请按照打印机端界面提示完成自动校准。</td></tr><tr><td>请在软件端完成手动校准</td><td>请按照软件端界面提示完成手动校准。</td></tr><tr><td>请盖好打印头插槽上盖后,按“ $\\text{☐}$ ”返回/取消键</td><td>长按电源键3s以上关机,打开打印机前盖,保证打印头插槽上盖关闭到位后,关闭前盖,短按电源键开机,打印机恢复正常。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 检查本产品的状态",
+    "chunk_index": 41,
+    "chunk_id": "联想鲸鱼系列用户手册_41"
+  },
+  {
+    "title": "# 送纸问题-1",
+    "content": "# 常见问题\n\n本节介绍如何对操作机器时可能出现的常见问题进行故障排除。\n\n<table><tr><td>问题</td><td>可能的原因</td><td>解决方法</td></tr><tr><td>机器无法开机</td><td>没有正确连接电源线</td><td>1确保电源插头牢牢地插入墙上插座中。2.通过连接其他工作设备,确保墙上插座没有故障。</td></tr><tr><td>无法打印</td><td>USB 线未正确连接</td><td>重新连接 USB 线</td></tr></table>\n\n<table><tr><td rowspan=\"2\">1 注意</td><td>如果取消的打印作业已经在处理中,则会继续打印几页后才会取消。</td></tr><tr><td>取消多页打印作业可能需要一段时间。</td></tr></table>\n\n# 送纸问题\n\n如果机器运行正常，但无法送纸或者频繁卡纸，请检查机器和纸张的情况。\n\n<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>纸张无法顺利送入</td><td>使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸(P5)。正确装入纸张,确保正确调整蓝色纸张导板。请参见 &gt;&gt; 装入纸张(P6)。如果纸张卷曲了,请弄平纸张。从进纸托盘中取出纸张并将其扇开。随后,颠倒纸张顶部和底部,然后放到进纸托盘中。</td></tr><tr><td>经常出现卡纸</td><td>如果纸张和挡纸板之间有缝隙,请调整蓝色纸张导板以消除缝隙。在打印包含大面积纯色的图像(这些图像会消耗大量墨水)时,请避免在纸张的两面上进行打印。使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸(P5)。</td></tr><tr><td>一次送入多张纸</td><td>在装纸前,将纸来回弯曲,使纸松动,再扇动纸。在桌子上墩齐纸的边缘。确保进纸托盘位于正确的位置。使用支持的纸张类型。请参见 &gt;&gt; 纸张尺寸(P5)。检查是否在进纸托盘中还有少量纸的情况下直接添加了新纸,请将打印机进纸托盘。中剩余的纸张拿出来,然后将它们放入新的纸张中,重新扇开墩齐后放回进纸托盘中。</td></tr><tr><td>纸张有褶皱</td><td>纸张潮湿。请使用保存良好的纸张。纸张过薄。请参见 &gt;&gt; 纸张尺寸(P5)。如果纸张和纸张导板之间有缝隙,请调纸张导板以消除缝隙。</td></tr><tr><td>打印的纸张卷曲</td><td>在进纸托盘中颠倒装入纸张。纸张潮湿。请使用保存良好的纸张。</td></tr><tr><td>打印到页面上的图像是斜的</td><td>如果纸张和纸张导板之间有缝隙,请调节纸张导板以消除缝隙。</td></tr></table>\n\n打印问题",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 42,
+    "chunk_id": "联想鲸鱼系列用户手册_42"
+  },
+  {
+    "title": "# 送纸问题-2",
+    "content": "<table><tr><td>类型</td><td>问题</td><td>解决方法</td></tr><tr><td rowspan=\"8\">打印常见问题</td><td>打印出错</td><td>如果打印时出错,请更改计算机和打印机驱动程序设置。检查其他应用程序是否正在运行。关闭其他应用程序,因为它们可能会干扰打印。如果问题没有解决,请另外再关闭不需要的进程。检查是否使用了最新的打印机驱动程序。</td></tr><tr><td>打印启动命令和实际打印之间的时间间隔太长</td><td>处理时间取决于数据量。处理大量数据(例如图形密集型文件)的时间较长。稍等片刻。要加快打印速度,请使用打印机驱动程序来降低打质量。</td></tr><tr><td>整个打印输出模糊不清</td><td>纸张潮湿。请使用保存良好的纸张。请参见 &gt;&gt; 纸张尺寸(P5)。</td></tr><tr><td>使用某个应用程序时,无法正常打印,或者无法正常打印图像数据</td><td rowspan=\"2\">更改打印质量设置。</td></tr><tr><td>打印的某些字符暗淡,或者没有打印某些字符</td></tr><tr><td>打印纸卷曲破损</td><td>使用干爽的纸张;将纸张放置在纸仓后,调节蓝色纸张导板,将纸张轻轻夹住。</td></tr><tr><td>文件转换慢</td><td>与文件页数和网络速度有关,请耐心等待。</td></tr><tr><td>打印任务不能排队,多任务并行</td><td>建议在PC端使用USB连接或局域网下尝试,移动端App不支持。</td></tr><tr><td rowspan=\"5\">打印质量问题</td><td>机器的位置有问题</td><td>确保机器位于水平表面上。将机器放在不会摇动或震动的位置。</td></tr><tr><td>使用了不受支持的纸张类型</td><td>确保机器支持您所使用的纸张。请参见 &gt;&gt; 纸张尺寸(P5)。</td></tr><tr><td>纸张类型设置不正确</td><td>确保打印机驱动程序的纸张类型设置与装入的纸张类型一致。请参见 &gt;&gt; 纸张尺寸(P5)。</td></tr><tr><td>使用的是非原装耗材</td><td>使用的是非原装打印头和墨水瓶。非原装打印头和墨水瓶会降低打印质量,而且会引起故障。请使用原装打印头和墨水瓶。</td></tr><tr><td>使用的是旧的墨水瓶</td><td>墨水瓶应在过期日期之前打开并在打开以后24个月内使用。</td></tr><tr><td></td><td>机器脏了</td><td>根据需要清洁机器。请参见 &gt;&gt; 清洁打印机(P36)。</td></tr><tr><td rowspan=\"2\">打印位置与显示位置不一致</td><td>页面布局设置的配置不正确</td><td>检查应用程序中是否正确配置了页面布局设置。</td></tr><tr><td>纸张尺寸设置与装入的纸张不一致</td><td>检查打印机驱动程序中指定的纸张尺寸是否与装入的纸张尺寸一致。</td></tr></table>\n\n复印问题",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 送纸问题",
+    "chunk_index": 43,
+    "chunk_id": "联想鲸鱼系列用户手册_43"
+  },
+  {
+    "title": "# 送纸问题-3",
+    "content": "<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>复印的纸张为空白</td><td>放置原稿时正反颠倒,按照正确的方向放置原稿。</td></tr><tr><td>复印的页面太深或太淡</td><td>在【Lenovo Page】软件的复印功能中调整复印质量。</td></tr><tr><td>复印的页面看起来与原稿不一样</td><td>在【Lenovo Page】软件的复印功能中根据原稿类型选择正确的扫描模式。</td></tr><tr><td>复印照片印刷材料时,复印件上出现黑点</td><td>由于湿度较高,原稿可能粘到扫描仪玻璃板上了。将原稿放在扫描仪玻璃板上,然后将两张或三张白纸放在它上面。复印时未合上扫描仪盖板。</td></tr><tr><td>复印的图案有波纹</td><td>原稿可能有一些线条或点比较密集的区域。在【Lenovo Page】软件的复印功能中在【照片】和【文字/照片】设置之间切换可能会减少波纹图案。</td></tr><tr><td>复印的纸张很脏</td><td>图像浓度过高。调整图像浓度。打印页表面上的墨水没有干。复印以后,请勿立即触碰打印表面。逐一取走刚刚打印的纸张,注意不要触碰打印区域。扫描仪玻璃板上有脏污,请清洁扫描仪玻璃板。请参见&gt;&gt;清洁扫描仪玻璃板(P38)。将原稿放在扫描仪玻璃板上之前,请确保墨水或修正液是干的。</td></tr><tr><td>从扫描仪玻璃板复印时复印件的打印区域未与原稿对齐</td><td>将原稿复印面朝下放置,确保它与左后角对齐并在扫描仪玻璃板上将它压平。</td></tr><tr><td>纸张尺寸设置与装入的纸张不一致</td><td>检查机器上指定的纸张尺寸是否与装入的纸张尺寸一致。</td></tr><tr><td>身份证复印画像边缘缺失</td><td>身份证原稿放置在扫描仪玻璃板上下左右的距离至少各3mm。尽量放置扫描仪玻璃板中间。</td></tr></table>\n\n扫描问题\n\n<table><tr><td>问题</td><td>解决方法</td></tr><tr><td>扫描的图像脏</td><td>扫描仪玻璃板上有脏污,请清洁扫描仪玻璃板。请参见 &gt;&gt; 清洁扫描仪玻璃板(P37)。将原稿放在扫描仪玻璃板上之前,请确保墨水或修正液是干的。</td></tr><tr><td>扫描的图像变形或错位</td><td>扫描过程中原稿被移动。扫描过程中请勿移动原稿。</td></tr><tr><td>扫描的图像上下颠倒</td><td>放置原稿时正反颠倒放置。按照正确的方向放置原稿。</td></tr><tr><td>扫描图像为空白</td><td>放置原稿时正反颠倒。</td></tr><tr><td>扫描有阴影</td><td>放置原稿时,需压平,尤其有厚度的原稿,否则会透光,致使扫描不清晰,有阴影。</td></tr><tr><td>扫描有轻微色差</td><td>性能限制,可尝试调整扫描质量。</td></tr><tr><td>扫描速度较慢</td><td>高质量扫描规格会影响速度;扫描完成后,需要等待扫描杆归位。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "# 送纸问题",
+    "chunk_index": 44,
+    "chunk_id": "联想鲸鱼系列用户手册_44"
+  },
+  {
+    "title": "# �)要清除进纸托盘中的卡纸",
+    "content": "# 清除卡纸\n\n打印过程中有时会出现卡纸现象。打印介质被卡住时，您会通过【Lenovo Page】软件提供的出错信息和打印机的指示灯状态显示得到通知。\n\n# �)卡纸的原因\n\n进纸托盘里的纸张装得不正确，或装得太多。\n\n纸张不符合要求的规格。请参见 >> 纸张尺寸（P�）。\n\n使用的纸张尺寸超出允许的大小范围。请参见 >> 纸张尺寸（P�）。\n\n<table><tr><td rowspan=\"2\">注意</td><td>如果出现卡纸,操作面板上“◎”开始/电源键红灯常亮。</td></tr><tr><td>如果看不清卡纸的位置,先检查打印机内部。。</td></tr></table>\n\n# �)要清除进纸托盘中的卡纸\n\n➀将纸张从进纸托盘中轻轻拉出。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/2a1d5816763af500e2229031a7b951321f0e1f8ead646ddcd409b1c102d55f34.jpg)\n\n②确保纸张路径中没有外物,然后重新进纸。\n\n注意：进纸托盘挡板可以防止外部碎片掉入纸张路径中,造成严重卡纸。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 45,
+    "chunk_id": "联想鲸鱼系列用户手册_45"
+  },
+  {
+    "title": "# �)避免卡纸的注意事项",
+    "content": "# �)要清除出纸托盘中的卡纸\n\n➀ 打开前盖。。  \n➁ 将纸张从出纸托盘中轻轻拉出。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/3fdbb638fcbfed146792d16208a941f91a8d52bd9c50e2d1628edebf7645f3d7.jpg)\n\n➂ 确保纸张路径中没有外物，然后重新进纸。\n\n注意：打印机发生卡纸，打印任务会自动取消，如需打印，请重新发起任务。\n\n# �)避免卡纸的注意事项\n\n选择正确的纸张类型,可以避免大部分卡纸。如果发生了卡纸,请按照“清除卡纸\"中的步骤操作。\n\n为了获得优异的效果，请勿使进纸托盘内的纸张过满，但要确保至少装入了 � 页纸。  \n打印机不使用时，请取出纸张并关闭进纸托盘，防止打印机落灰和落入碎片。  \n·及时从出纸托盘中取出已打印好的纸张。   \n确保纸张平放在进纸托盘中，并且边缘没有弯曲或撕裂。  \n·不要在进纸托盘中放不同类型和尺寸的纸张;进纸托盘中所有纸张的尺寸和类型都必须完全相同。  \n调整进纸托盘中的纸张调节器，使其紧贴所有纸张。  \n·确保纸张调节器没有将进纸托盘中的纸张压弯。  \n·不要将打印纸硬往进纸托盘里推。  \n打印机正在打印时请勿添加纸张。  \n·如果打印机中的纸张即将用尽,请等待系统显示缺纸消息后再添加纸张。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 46,
+    "chunk_id": "联想鲸鱼系列用户手册_46"
+  },
+  {
+    "title": "# �）移动和搬运机器",
+    "content": "# �）重要信息\n\n卡纸上可能覆盖有墨水。注意不要使其沾到手上或衣服上。  \n·清除卡纸后,如果立即进行打印，则打印上的墨水可能无法充分定影，从而弄脏纸张。打印一些测试页,直到不再出现污迹为止。  \n请勿用力取出卡纸，因为卡纸可能会撕破。残留在机器中的碎片会导致以后卡纸并且可能损坏机器。  \n·卡纸可能导致页面丢失。请检查打印作业是否有丢失的页面,并重新打印没有打印输出的页面。\n\n# 注意事项\n\n# �）耗材的注意事项\n\n如果使用非正品耗材，则无法保证机器正常运行。  \n·根据打印条件，有时候打印机无法打印出规格中说明的纸张数量。  \n·如果打印的图像突然变浅或模糊，请更换墨水瓶。\n\n# �）移动和搬运机器\n\n本节介绍您在长/短距离范围内移动机器时必须注意的事项。\n\n长距离移动机器时，请使用原始包装材料来重新包装机器。  \n为了获得优异的效果，请勿使进纸托盘内的纸张过满，但要确保至少装入了 � 页纸。  \n打印机不使用时，请取出纸张并关闭进纸托盘，防止打印机落灰和落入碎片。  \n及时从出纸托盘中取出已打印好的纸张。  \n确保纸张平放在进纸托盘中，并且边缘没有弯曲或撕裂。  \n不要在进纸托盘中放不同类型和尺寸的纸张；进纸托盘中所有纸张的尺寸和类型都必须完全相同。  \n调整进纸托盘中的纸张调节器，使其紧贴所有纸张。  \n确保纸张调节器没有将进纸托盘中的纸张压弯。  \n不要将打印纸硬往进纸托盘里推。  \n打印机正在打印时请勿添加纸张。  \n如果打印机中的纸张即将用尽，请等待系统显示缺纸消息后再添加纸张。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 47,
+    "chunk_id": "联想鲸鱼系列用户手册_47"
+  },
+  {
+    "title": "# �）不推荐的纸张类型",
+    "content": "# 移动/搬运包装机器步骤\n\n➀ 从两侧扣手位处，向前打开前盖。  \n➁ 按返回/取消键让打印头插槽移动到更换/维护位置。  \n➂ 在打印机内部找到打印头插槽，打开蓝色上盖。  \n注意：请不要取出打印头。  \n④将打印头插槽整体推至最左端,使用硬纸板或其他较硬的物体塞入，将打印头插槽限制在打印机内部最左端。  \n➄ 注意：有新机打印头的保护泡棉，请使用保护泡棉将打印头插槽限制在打印机内部最左端。  \n⑥打开墨水匣,取出墨水瓶。从打印机后部取出灌墨嘴密封帽，将密封帽对准灌墨嘴插入，推回墨水匣,再关闭前盖。  \n⑦若是退货，请将取下来的墨水瓶使用密封塑料袋进行密封包装，放入打印机的包装箱内。若是售后维修，请将墨水瓶进行保留，等待打印机售后维修完成后，可继续使用墨水瓶。  \n➇ 有新机包材按照新机的包材进行捆包，没有新机包材按照快递公司的建议捆包进行。\n\n# �）如何处理本机\n\n有关正确处理本机的信息，请询问您的销售或服务代表。\n\n# �）到何处询问\n\n要了解本手册包含主题的更多信息，或了解本手册未涵盖的其他主题，请咨询您的销售或服务代表。\n\n# �）不推荐的纸张类型\n\n请勿使用以下类型的纸张：\n\n·激光机打印机专用纸张;   \n·弯曲、折叠或有折痕的纸张;   \n卷曲或扭曲的纸张；  \n●起皱的纸张；  \n潮湿的纸张；  \n·很脏或破损的纸张;   \n容易产生静电的过分干燥的纸张；\n\n已经打印过的纸张、除有信头图案的纸张以外；  \n采用非喷墨打印机（例如黑白和彩色复印机、激光打印机等）使用的纸张；  \n打印过的纸张尤其可能造成故障；  \n特殊纸张、如热敏纸和复写纸；  \n纸张重量比限制值更重或更轻；  \n带有窗、洞、孔眼、图案或凹凸的纸张；  \n上面贴有胶纸或原纸的粘胶标签纸；  \n带有回形针或订书钉的纸张；  \n信封\n\n<table><tr><td rowspan=\"2\">注意</td><td>采用保存不当的纸张打印时也会造成卡纸、打印质量下降或出现故障。</td></tr><tr><td>如果使用上述任意一类纸张,则可能会损坏设备。由此造成的损坏不在本公司的保修服务范围内。</td></tr></table>",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 48,
+    "chunk_id": "联想鲸鱼系列用户手册_48"
+  },
+  {
+    "title": "# 设备安放的位置",
+    "content": "# 安全信息\n\n# 安全信息\n\n# 一般安全信息\n\nLenovo保留随时对产品进行更改的权利。\n\n本设备及其附件的塑料包装袋不是玩具，切勿将塑料包装袋存放在儿童容易触及的地方，以防室息危险。对于装有心脏起搏器的用户，如接近本设备时发现心脏起搏器出现异常情况，请立即远离设备并就医。\n\n遵循说明书操作时，如果本设备无法正常使用，请遵照说明书相关提示操作。操作不当可能导致设备损坏或损坏范围扩大。\n\n本手册中的任何内容均不影响本设备的保修条款，也不会追加任何保修条款。\n\n未遵循本手册中的安全说明可能导致产品保修条款失效。\n\n如果在产品购买国家或地区以外的国家或地区使用本设备，可能导致本设备无法正常使用。\n\n切勿移除或损坏本设备表面或设备内的任何警示标签。\n\n设备铭牌在背面内部。\n\n# 设备安放的位置\n\n请将本设备放置在稳固的水平桌子或柜子上。请勿将本设备放置在活动的桌子，柜子或推车等位置，以防设备跌落所造成的设备损坏或人身伤害;尤其对干有儿童活动的使用场合，请务必确保将本设备放置在安全的位置。\n\n请勿将本设备放置在人员往来频繁的位置,尤其是狭窄的通道或类似的位置,以避免设备被意外撞倒,跌落,设备跌落可能造成设备损坏或人身伤害。\n\n如果本设备发生跌落，请立即切断电源并拔下产品电源连接线插头，并将本设备交由Lenovo授权维修站并由专业维修人员进行检查或维修。\n\n请妥善排布连接到本设备的电源线等线缆，确保不会绊倒任何人，否则可能造成人身伤害或设备跌落损伤。\n\n请在温度 $5 ^ { \\circ } C { \\sim } 3 5 ^ { \\circ } C .$ 、湿度在��%\\~��%（非凝结）范围内使用本设备，并在温度- $2 5 ^ { \\circ } \\mathsf { C } \\sim + 4 0 ^ { \\circ } \\mathsf { C }$ 、湿度��%\\~��%范围存放本设备。\n\n切勿将本设备放置在下列任一环境中，否则可能导致设备不能正常工作或设备损坏，甚至导致火灾等。\n\n·阳光直射,温度过高,临近明火或热源,温度骤变;   \n· 水源附近（包括如空调，冰箱，风扇可能产生的冷凝水），潮湿环境；  \n·扬尘,有腐蚀性气体或化学品附近的环境等。\n\n请将本设备放置在室内通风良好的环境中，请保证设备四周预留足够空隙（如右图）。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d95b5bbc682d65ab361dab4263c1f7319b3dc1915ba50ce8e1269bc7389f49b6.jpg)\n\n请确保预留足够的空间以打开机盖和进纸托盘。\n\n请勿将本设备放置在封闭的柜体内，否则可能导致设备过热，甚至可能导致起火。\n\n请勿在本设备上堆叠或放置任何物品，切勿将任何物品塞入本设备机壳的缝隙内。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 49,
+    "chunk_id": "联想鲸鱼系列用户手册_49"
+  },
+  {
+    "title": "# 电气安全",
+    "content": "# 电气安全\n\n请确保本设备连接到符合标签上所表明的额定电压范围内的接地交流电源上。如果无法确定,请联系专业电工或Lenovo专业维修人员。使用不匹配的交流电源可能导致设备损坏、火灾或人身伤害。\n\n请使用随机提供的电源连接线连接墙上的电源插座和本设备电源接口。\n\n请勿使用第三方的电源连接线,否则可能导致火灾或人身伤害。\n\n请确保墙上的电源插座由专业电工安装,接地良好,切勿随意改造电源线插头,否则可能导致设备损坏或火灾。\n\n如需使用电源延长线插座,请务必使用符合最新国家标准的电源延长线插座。\n\n从交流电源插座拔下电源插头之前,请先关闭本设备后部的电源开关。\n\n切勿将本设备连接到自动定时器控制的电源插座上,或与空调、复印机、微波炉、电磁炉等大功率电器共用同一电路,否则可能导致电路过载,甚至导致火灾。\n\n插拔电源连接线时应抓牢插头,而非电源线。\n\n切勿用湿手插拔电源连接线插头,否则可能导致触电。\n\n切勿使电源连接线过度拉伸,切勿踩踏电源连接线,切勿使用破损的电源连接线,否则可能导致火灾。\n\n雷雨天气,请勿使用本设备。\n\n如果发生以下任意一种情况,请立即关闭设备，从交流电源插座拔下交流电源插头,并致电产品服务热线400-6600-���。\n\n·本设备发出异味或不正常的噪音。  \n·交流电源插头或连接线磨损。  \n·电路上的断路器或熔断器等发生跳闸。  \n· 本设备任何部件损坏。  \n· 本设备被水侵入。\n\n如果发生以下情况时，请务必立即拔掉电源连接线插头,并联系Lenovo维修站并交由Lenovo专业维修人员处理。\n\n·本设备遭液体渗漏。  \n·本设备遭雨淋或进水。  \n·本设备异常发烫、冒烟、异响、有异常刺鼻气味。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 50,
+    "chunk_id": "联想鲸鱼系列用户手册_50"
+  },
+  {
+    "title": "# 维修保养",
+    "content": "# 保修\n\n本设备没有任何用户可以自行维修的部件。切勿尝试自行拆解或自行维修本设备，否则可能导致触电等危险。自行拆解或自行维修本设备导致的设备损坏不在保修范围内。\n\n请使用Lenovo原装正品打印头，使用非Lenovo原装正品打印头可能导致设备损坏，使用非Lenovo原装正品打印头导致的设备损坏不在保修范围内。\n\n如本设备发生故障，请致电产品服务热线���-����-���；如有必要，请将本设备交由Lenovo授权维修站并由Lenovo专业维修人员进行维修。\n\n# 打印头·墨水瓶\n\n切勿拆解打印头。\n\n打印头的喷嘴部位属于易碎件，请勿触碰。\n\n将打印头保护膜撕掉或打印头放入字车的过程中，注意保护打印头，防止跌落。如果发生跌落，打印头可能会损坏。请不要让墨水进入眼中或口中。\n\n如发生眼睛接触墨水或墨水不慎进入口中，请用清洗冲洗请立即就医。\n\n请勿剧烈摇晃墨水瓶、墨盒或使其受到强烈冲击，否则可能导致墨水泄露。\n\n将打印头、墨水瓶、墨盒放置到儿童触摸不到的地方。\n\n# 维修保养\n\n进行清洁维护前请务必先拔掉电源连接线插头。\n\n请使用柔软的干布或纸巾清洁本设备外部或内部。\n\n切勿使用任何液体、任何类型的喷雾剂或清洁剂清洁本设备外部或内部，否则可能导致火灾或触电。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 51,
+    "chunk_id": "联想鲸鱼系列用户手册_51"
+  },
+  {
+    "title": "# 无线电干扰",
+    "content": "# 无线电干扰\n\n>本设备符合GB/T9254.1-2021B级标准。\n\n>本设备主要技术参数及指标如下：\n\n使用频率: ����-����MHz ����-����MHz ����-����.�MHz。\n\n发射功率：≤��dBm(EIRP) <��/��dBm(EIRP)(不支持TPC) ≤��dBm(EIRP)。\n\n占用带宽：≤��MHz ≤��MHz ≤��MHz ≤�MHz\n\n频率容限：≤��ppm。\n\n杂散发射限值：≤-��dBm。\n\n调制方式：BPSK/QPSK/��QAM/��QAM/���QAM/DBPSK/DQPSK/CCK/GFSK π/�-DQPSK �DPSK\n\n>注意:为了使本设备可在工业、科学和医疗(ISM)设备附近运行,可能要限制ISM设备的外部辐射或采取特殊的缓解措施。\n\n>不得擅自更改发射频率,加大发射功率(包括额外加装射频功率放大器),不得擅自外接天线或改用其他发射天线。\n\n>使用时不得对各种合法的无线电通信业务产生有害干扰；一旦发现有干扰现象时，应采取措施消除干扰后方可使用。\n\n>使用功率无线电设备，必须忍受各种无线电业务的干扰或工业，科学及医疗应用设备的辐射干扰。\n\n>不得在飞机和机场附近使用。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 52,
+    "chunk_id": "联想鲸鱼系列用户手册_52"
+  },
+  {
+    "title": "# 警告",
+    "content": "# 警告\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/d2f30d5ae8096f7dac3273abd538d4a7bb9737d22fba7ea59852eea4ac476379.jpg)\n\n此符号表明不能将该产品与其它废物一起随意丢弃。更妥善的做法，您应当将废弃设备送到指定集合点，以便回收利用废弃的电气和电子设备。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/351f7f2bc5307411c8f1275c999cf5d6c7e0b40c640c8d79967319ac79b10b7d.jpg)\n\n本产品适合室内使用，不适合室外使用。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/7b60b62cf18a3900f9d8f66022d58eb080c56e343bee5c71b4e1c2e655adff13.jpg)\n\n仅适用于非热带气候条件下安全使用。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/5e5b5e7dda1f5942784b8aa59682f0987ab87155f726b7228a35d1d0ba883006.jpg)\n\n仅适用于海拔����m以下地区安全使用。\n\n![图片描述](http://localhost:9000/knowledge-base-files/upload-images/联想鲸鱼系列用户手册/84bdf3129861e18834be21388387b459f97b63665a987fa815dc7d973f6f8b98.jpg)\n\n本产品完全符合中国电子行业标准SJ/T�����-����的要求。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 53,
+    "chunk_id": "联想鲸鱼系列用户手册_53"
+  },
+  {
+    "title": "# 电子信息产品污染控制的表示",
+    "content": "# 特别声明：\n\n请仔细通读本手册，按照所有安全指示进行操作，确保设备正常运行。\n\n如果不遵守这些指示，制造商将不承担任何责任。\n\n# 电子信息产品污染控制的表示\n\n<table><tr><td rowspan=\"2\">部件名称</td><td colspan=\"6\">有害物质</td></tr><tr><td>(Pb)</td><td>(Hg)</td><td>(Cd)</td><td>(Cr(VI))</td><td>(PBB)</td><td>(PBDE)</td></tr><tr><td>电路板</td><td>×</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr></table>\n\n注1:O:表示该有害物质在该部件所有均质材料中的含量均不超出电器电子产品有害物质限制使用国家标准要求。  \nx:表示该有害物质至少在该部件的某一均质材料中的含量超出电器电子产品有害物质限制使用国家标准要求。  \n注2:以上未列出的部件,表明其有害物质含里均不超出电器电子产品有害物质限制使用国家标准要求。  \n注 �:表中标记“X”的部件,皆因现阶段技术水平限制,业界无法实现有害物质的替代,但符合中国 RoHs 物质限制和适用的豁免要求。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 54,
+    "chunk_id": "联想鲸鱼系列用户手册_54"
+  },
+  {
+    "title": "# 为了创造更加美好的环境",
+    "content": "# 环保使用期限的说明\n\n<table><tr><td><img src=\"images/073428f410582ff5d43ebb748a4268df7ea3d407949158d5a3e54f1105f9d83a.jpg\"/></td><td>依《电器电子产品有害物质限制使用合格评定制度实施安排》、《绿色产品标识使用管理办法》中标识的相关要求,我司针对纳入《达标管理目录》内的产品,使用自我声明方式。</td></tr><tr><td><img src=\"images/f22983525b8840d950165db31aad23e8ed1fbd74efe5b92d16092d53293447a2.jpg\"/></td><td>本标识内数字表示产品在正常使用状态下的环保使用期限为10年。</td></tr></table>\n\n# 为了创造更加美好的环境\n\n首先对您使用Lenovo产品表示衷心的感谢！\n\nLenovo公司致力于关爱地球环境，制定了“从产品开发到废弃，关爱地球环境”的基本方针。当地的公民在环境保护活动中也应该对当地社会、环境两方面尽每个人的微薄之力。因此，希望您能配合这个计划，作为环境保护活动的一环,在平时处理废弃物的时候能多加注意。\n\n�.不用的包装材料，为了能再次回收利用，请交付当地相关回收公司进行处理。  \n�.废弃耗材的处理，应遵守相关的法律和规定。请根据相关法律和规定妥当处理。  \n3.产品保养或修理需要更换零部件时,有不需要的电路板和电子零件,以及产品废弃时，请作为电子废弃物处理。  \n�.关闭本产品的电源开关后，在拔下电源插头的情况下耗电量是零。  \n�.本产品中的部分零部件可以用于同一工厂生产的同系列机型上。  \n注：零部件的更换请联系就近的Lenovo维修站。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 55,
+    "chunk_id": "联想鲸鱼系列用户手册_55"
+  },
+  {
+    "title": "# 声明",
+    "content": "# 中国环境标志的提示\n\n�）建议将噪声大于��dB的设备放置于相对独立的区域。  \n�）建议使用再生纸。  \n�）在换气不畅的房间中长时间使用或打印大量文件时，应适时换气。  \n�）在产品停产后�年内，联想保证提供产品在正常使用范围内可能损坏的部件，并提供产品的消耗材料。\n\n# 声明\n\n欢迎您使用Lenovo产品！\n\n首次安装和使用本产品前，请先仔细阅读随机配送的所有材料,这将有助于您更好地使用本产品。如果您未能按照本用户手册的说明和要求操作本产品,或由于理解错误等原因误操作本产品,至像科技有限公司将不对由此而导致的任何损失承担任何责任，但由于Lenovo专业维修人员安装或操作不当而造成的损失除外。\n\n至像科技有限公司已经对本手册的内容进行了严格、仔细的校勘，但是我们不能保证本手册完全没有错误或是疏漏。\n\n至像科技有限公司致力于不断改进产品功能、提升服务品质,因此保留随时更改本手册所叙述任何产品或软件程序以及本手册内容的权利，恕不另行通知。\n\n本手册旨在帮助您正确地使用本产品,并不包括对本产品的软硬件配置的任何说明。有关产品配置情况,请参阅相关合同（如有）和装箱清单，或者咨询向您出售产品的经销商。本手册中的图片仅供参考，如果有个别图片与产品实物不符，请以产品实物为准。\n\n© ����至像科技有限公司。本手册受版权法律法规的保护。未经至像科技有限公司事先书面授权，不得以任何方式复制或抄录本手册，不得以任何形式在任何有线或无线网络中传送本手册，也不得将本手册翻译成任何语言。\n\n“联想”、“Lenovo”文字及徽标是联想集团所属企业的商标。提及的其他商号、产品或服务名称可能是联想或其他公司的商标并由其各自权利人拥有。@2025联想集团所属企业和/或其许可方，保留所有权利。\n\n如果您在操作过程中发现本产品的实际情况与本手册有不一致之处,或您想获取最新的信息,或您有任何问题或建议，请登录服务网站：https://www.lenovoimage.com",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 56,
+    "chunk_id": "联想鲸鱼系列用户手册_56"
+  },
+  {
+    "title": "# 法律禁止项目",
+    "content": "# 法律禁止项目\n\n纸币；\n\n印花税票；\n\n债券或其他债务证明；\n\n存折；\n\n义务服兵役文件或草拟文件；\n\n股票；\n\n银行汇票；\n\n支票；\n\n护照；\n\n驾驶执照；\n\n福利文件；\n\n移民文件；\n\n政府机构签发的支票或汇票；\n\n身份证明文件；\n\n徽章或勋章；\n\n邮票（作废的或未作废的）；\n\n不可复印受版权保护的作品。一些受版权保护的作品可以被部分复制以进行“合理使用”。多份复制将被视为不正当使用。艺术作品等同于受版权保护的作品。\n\n以上列表仅作参考，并不包括所有内容在内。对于其完整性及准确性，本公司概不承担责任。如果您有与复印或打印某些项目的合法性相关的问题，请咨询法律顾问。",
+    "file_title": "联想鲸鱼系列用户手册",
+    "parent_title": "",
+    "chunk_index": 57,
+    "chunk_id": "联想鲸鱼系列用户手册_57"
+  }
+]
